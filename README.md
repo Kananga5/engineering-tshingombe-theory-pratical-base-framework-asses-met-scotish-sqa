@@ -1,6 +1,4 @@
-# engineering-tshingombe-theory-pratical-base-framework-asses-met-scotish-sqa
-saq mett framework qualification
-SafetyCameraManagers@met.pnn.police.ukIncident logged on 2024/06/23 2:12:06 PM (UTC 02:00) - Africa/Johannesburg; was resolved on 2024/06/25 9:20:59 AM (UTC 02:00) - Africa/Johannesburg
+Incident logged on 2024/06/23 2:12:06 PM (UTC 02:00) - Africa/Johannesburg; was resolved on 2024/06/25 9:20:59 AM (UTC 02:00) - Africa/Johannesburg
 Inbox
  
 csd@treasury.gov.za 
@@ -28209,3 +28207,14984 @@ to me
 Thank you for completing the form, your reference is: MIP-333-24-0100-000.
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Re: Your Internet Archive item has been reviewed
+Inbox
+ 
+TSHINGOMBEKB TSHITADI 
+	Thu, Jun 27, 8:21 PM (6 days ago)
+	
+	
+to The, me, tshingombetshitadi 
+ 
+
+
+On Thu, 27 Jun 2024, 12:22 The Internet Archive, <webmaster@archive.org> wrote:
+
+Dear Archive Patron:
+
+A review was recently written for your item,
+  https://archive.org/details/2-ltter-tshingombe-self-asseme-incident-logged-on-2024
+at the Internet Archive.
+
+We thought you might appreciate knowing this and might want to read it
+by clicking on the link above.
+
+-The Internet Archive team.
+
+Skip to main content 
+ 
+Upload 
+Books Video Audio Software 
+Images 
+•	
+•	My uploads 
+•	My loans 
+•	My favorites 
+•	My lists 
+•	My collections 
+•	My web archives 
+•	Account settings 
+•	Get help 
+•	Log out 
+ Search metadata  Search text contents  Search TV news captions  Search radio transcripts  Search archived web sites Advanced Search 
+•	About 
+•	Blog 
+•	Projects 
+•	Help 
+•	Donate 
+•	
+•	Contact 
+•	Jobs 
+•	Volunteer 
+•	People 
+2 Ltter Tshingombe Self Asseme Incident Logged On 2024 
+Iframe Pdf Item Preview 
+2 Ltter Tshingombe Self Asseme Incident Logged On 2024 
+by
+tshingombe 
+
+editEdit gearManage timeHistory 
+Publication date
+2024-06-25 
+Usage
+Attribution-NonCommercial-ShareAlike 4.0 International    
+Topics
+engineering workbase
+Collection
+opensource 
+Language
+English 
+engineering theoretical pratical framework
+Addeddate
+2024-06-26 09:29:41 
+Enginerrin
+600000 
+Identifier
+2-ltter-tshingombe-self-asseme-incident-logged-on-2024 
+Identifier-ark
+ark:/13960/s2csd05hb9m 
+Ppi
+333 
+Scanner
+Internet Archive HTML5 Uploader 1.7.0 
+plus-circle Add Review
+Reviews 
+Reviewer: Rdferz - favoritefavoritefavoritefavoritefavorite - June 26, 2024 
+Subject: engineering theoretical pratical framework h 
+engineering 
+0 Views 
+1 Review 
+DOWNLOAD OPTIONS 
+download 1 file 
+PDF download 
+download 1 file 
+SINGLE PAGE PROCESSED JP2 ZIP download 
+download 1 file 
+TORRENT download 
+download 4 files 
+WORD DOCUMENT 
+
+download 11 Files 
+download 10 Original
+SHOW ALL 
+
+IN COLLECTIONS
+Community Texts  
+Uploaded by Rdferz on June 26, 2024 
+Terms of Service (last updated 12/31/2014) 
+  Click on any field below to edit it
+Page Title *letter tshigombe self aasemment theoretical pratical base work, met career,sqa 
+Page URL * https://archive.org/details/discord-setup_202407 
+Description * enginering 
+
+Subject Tags * enginering basework 
+Creator tshingombe 
+Date 2024-07-02 
+Collection * Community data 
+Test Item No 
+Language English 
+License Creative Commons Attribution-NonCommercial-ShareAlike
+2.	
+ 
+Add... 
+Kananga5 authored 1 week ago
+ef076dfa 
+Name	Last commit 	Last update
+.gitlab-ci.yml 
+Configure SAST in `.gitlab-ci.yml`, creating this file if it does not already exist 
+1 week ago
+LICENSE 
+Add LICENSEhttps://dev.azure.com/tshingombefiston0153/enginering%20learn%20yheoretical%20pratical%20base%20work%20jobIncident logged on 2024/06/23 2:12:06 PM (UTC 02:00) - Africa/Johannesburg; was resolved on 2024/06/25 9:20:59 AM (UTC 02:00) - Africa/Johannesburg 	1 week ago
+README.md 
+Initial commit 
+1 week ago
+README.md
+engineering theoretical
+Getting started
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? Use the template at the bottom!
+Add your files
+•	 Create or upload files
+•	 Add files using the command line or push an existing Git repository with the following command:
+cd existing_repo
+git remote add origin https://gitlab.com/tshingombe1/engineering-theoretical.git
+git branch -M main
+git push -uf origin main
+Integrate with your tools
+•	 Set up project integrations 
+Collaborate with your team
+•	 Invite team members and collaborators 
+•	 Create a new merge request 
+•	 Automatically close issues from merge requests 
+•	 Enable merge request approvals 
+•	 Set auto-merge 
+Test and Deploy
+Use the built-in continuous integration in GitLab.
+•	 Get started with GitLab CI/CD 
+•	 Analyze your code for known vulnerabilities with Static Application Security Testing (SAST) 
+•	 Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy 
+•	 Use pull-based deployments for improved Kubernetes management 
+•	 Set up protected environments 
+________________________________________
+Editing this README
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to makeareadme.com for this template.
+Suggestions for a good README
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Name
+Choose a self-explaining name for your project.
+Description
+Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Badges
+On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Visuals
+Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Installation
+Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Usage
+Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Support
+Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+Roadmap
+If you have ideas for releases in the future, it is a good idea to list them in the README.
+Contributing
+State if you are open to contributions and what your requirements are for accepting them.
+For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
+License
+For open source projects, say how it is licensed.
+Project status
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project 
+letter tshigombe self aasemment theoretical pratical base work, met career,sqa 
+by
+tshingombe 
+
+editEdit gearManage timeHistory 
+Publication date
+2024-07-02 
+Usage
+Attribution-NonCommercial-ShareAlike 4.0 International    
+Topics
+enginering basework
+Language
+English 
+this item is currently being modified/updated by the task: book_op 
+enginering 
+Addeddate
+2024-07-03 12:35:02 
+Engineertrad
+600000 
+Identifier
+discord-setup_202407 
+Scanner
+Internet Archive HTML5 Uploader 1.7.0 
+plus-circle Add Review
+Reviews 
+There are no reviews yet. Be the first one to write a review. 
+0 Views 
+DOWNLOAD OPTIONS 
+download 4 files 
+HTML 
+
+download 48 files 
+PDF 
+
+download 1 file 
+TORRENT download 
+download 3 files 
+WINDOWS EXECUTABLE 
+
+download 6 files 
+WORD DOCUMENT 
+
+download 69 Files 
+download 69 Original
+SHOW ALL 
+
+IN COLLECTIONS
+Community Data  
+Uploaded by Rdferz on July 3, 2024 
+Skip to main content 
+ 
+Upload 
+Books Video Audio Software 
+Images 
+•	
+•	My uploads 
+•	My loans 
+•	My favorites 
+•	My lists 
+•	My collections 
+•	My web archives 
+•	Account settings 
+•	Get help 
+•	Log out 
+ Search metadata  Search text contents  Search TV news captions  Search radio transcripts  Search archived web sites Advanced Search 
+•	About 
+•	Blog 
+•	Projects 
+•	Help 
+•	Donate 
+•	
+•	Contact 
+•	Jobs 
+•	Volunteer 
+•	People 
+Files for discord-setup_202407
+________________________________________
+      
+Name	Last modified	Size
+Go to parent directory
+	
+2 ltter tshingombe self asseme Incident logged on 2024.docx
+03-Jul-2024 12:34	7.8M
+3formsubmission-request-ip-licence-mip-327-24-0100-000 sale force emet tshingombe.pdf
+03-Jul-2024 12:35	1.1M
+3letter explanation theoretical assessment learne application course topics textbook.docx
+03-Jul-2024 12:35	8.5M
+4formsubmission-request-ip-licence-mip-329-24-0100-000, assessment scotland,,theoretical pratical framework.pdf
+03-Jul-2024 12:35	1.2M
+Acrobat Document.pdf
+03-Jul-2024 12:37	15.1M
+Assignment Cover Page - June 2019 (2).pdf
+03-Jul-2024 12:38	189.6K
+CURRICULUM VITAE FOR KNOWLEDGE QINISO ZIKHALI 2023.pdf
+03-Jul-2024 12:38	420.2K
+CURRICULUM VITAE FOR KNOWLEDGE QINISO ZIKHALI.docx
+03-Jul-2024 12:38	13.2K
+CURRICULUM VITAE FOR QINISO ZIKHALI ( October 2023).pdf
+03-Jul-2024 12:39	229.2K
+CURRICULUM VITAE FOR QINISO ZIKHALI 2023.docx
+03-Jul-2024 12:39	13.2K
+CURRICULUM VITAE FOR QINISO ZIKHALI 2023.pdf
+03-Jul-2024 12:39	411.2K
+Career Mentor - Construction Contractor Level 2
+03-Jul-2024 12:38	2.7K
+CareerInfo
+03-Jul-2024 12:38	4.6K
+CareerInfo‎Khwezi.pdf
+03-Jul-2024 12:38	4.6K
+DiscordSetup.exe
+03-Jul-2024 12:48	94.7M
+Firefox Installer.exe
+03-Jul-2024 12:48	341.9K
+Firefox.lnk
+03-Jul-2024 12:49	1.3K
+Phy-Sc-gr-11-P2-March-2020-1.pdf
+03-Jul-2024 12:49	1.4M
+Physical-Sciences-Grade-11-June-2022-QP-and-Memo.pdf
+03-Jul-2024 12:50	7.1M
+Qiniso`s Documents (1) (1) (2) (5) (1).pdf
+03-Jul-2024 12:50	2.3M
+Request an intellectual property (IP) licence _ Metropolitan Police tshingombe.htm
+03-Jul-2024 12:50	1.0M
+Shared with Me - Tableau Cloud tshingombe.htm
+03-Jul-2024 12:50	580.6K
+Site Status_ Traffic to Views - Tableau Cloud.htm
+03-Jul-2024 12:50	526.1K
+StudyInfo
+03-Jul-2024 12:50	1.7K
+Susan Shiburi-01102019.pdf
+03-Jul-2024 12:50	83.1K
+TRA061-Application-for-In-Service-Training.pdf
+03-Jul-2024 12:50	79.0K
+X844-75-02_N5-Apps-of-Maths_P2_(Calc)_UEB_PCB.pdf
+03-Jul-2024 12:51	212.1K
+academic_transcript20240703-7-9m1civ met tableau record tshingombe.pdf
+03-Jul-2024 12:36	235.8K
+asses bigade tableau 2.pdf
+03-Jul-2024 12:37	1.7M
+asses worsale.pdf
+03-Jul-2024 12:37	281.1K
+assess engi worksale.pdf
+03-Jul-2024 12:37	434.9K
+assess engi worksale.pdf traffic.pdf
+03-Jul-2024 12:37	429.9K
+assess engi worksale.pdf traffic.pdf 3.pdf
+03-Jul-2024 12:37	405.5K
+assess engi worksale.pdf traffic.pdf 3.pdf4.pdf
+03-Jul-2024 12:37	165.0K
+assess engi worksale.pdf traffic.pdf 3.pdf4.pdf5.pdf
+03-Jul-2024 12:37	173.3K
+assess engi worksale.pdf traffic.pdf 3.pdf4.pdf5.pdf6.pdf
+03-Jul-2024 12:37	275.8K
+assess engi worksale.pdf traffic.pdf 3.pdf4.pdf5.pdf6.pdf7.pdf
+03-Jul-2024 12:37	155.6K
+assess engi worksale.pdf traffic.pdf 3.pdf4.pdf5.pdf6.pdf7.pdf8.pdf
+03-Jul-2024 12:37	153.2K
+assess wor sale.pdf
+03-Jul-2024 12:37	286.1K
+assess worsale,.pdf
+03-Jul-2024 12:37	398.4K
+assessm worksale tshing.pdf
+03-Jul-2024 12:38	289.3K
+assessment engineering electrical scoth.pdf
+03-Jul-2024 12:38	172.1K
+assessment tableau tshingombe staus1.pdf
+03-Jul-2024 12:38	1.6M
+assesworsale asses.pdf
+03-Jul-2024 12:38	312.1K
+brigade st peace colle tableuax.pdf
+03-Jul-2024 12:38	367.6K
+digital psira aSSESSMENT ,PRE ASSMENT LEGISLATION CAREER , CCMA ,LABOUR ,,MET.docx
+03-Jul-2024 12:39	95.9K
+discord-setup_202407_archive.torrent
+03-Jul-2024 12:52	20.6K
+discord-setup_202407_files.xml
+03-Jul-2024 12:52	22.2K
+discord-setup_202407_meta.sqlite
+03-Jul-2024 12:52	160.0K
+discord-setup_202407_meta.xml
+03-Jul-2024 12:45	901.0B
+engin lab wor sale tshingombe.pdf
+03-Jul-2024 12:48	342.2K
+engineering theoretical pratical job , (#1) · Issues · tshingombe _ engineering theoretical · GitLab.htm
+03-Jul-2024 12:48	1.3M
+engineering tshingombe..windosws ss.pdf
+03-Jul-2024 12:48	33.9K
+form police.pdf
+03-Jul-2024 12:49	347.4K
+formsubmission-feedback-about-website-ff-973-24-0100-ffc assess tshing met police.pdf
+03-Jul-2024 12:49	27.0K
+formsubmission-request-ip-licence-mip-317-24-0100-000 assessment engiemet police.pdf
+03-Jul-2024 12:49	1,023.5K
+formsubmission-request-ip-licence-mip-318-24-0100-000 assess police , emet.pdf
+03-Jul-2024 12:49	29.1K
+formsubmission-request-ip-licence-mip-319-24-0100-000 assessment police.pdf
+03-Jul-2024 12:49	32.6K
+formsubmission-request-ip-licence-mip-327-24-0100-000 assessment tshingombe.pdf
+03-Jul-2024 12:49	1.1M
+traffic worksale data see.pdf
+03-Jul-2024 12:50	238.3K
+tshingombeassessent.pdf
+03-Jul-2024 12:50	358.8K
+tshingombeassessent.pdf.docx
+03-Jul-2024 12:51	337.1K
+winzip27-p003.exe
+03-Jul-2024 12:51	2.8M
+work sale tshingomb assesmen.pdf
+03-Jul-2024 12:51	497.5K
+work sale tshingomb assesmen.pdf action esse tshingombe.pdf
+03-Jul-2024 12:51	268.6K
+work sale traffic to view assessment tshingombe.pdf
+03-Jul-2024 12:51	362.4K
+worksale assess pipe asstshingombe.pdf
+03-Jul-2024 12:51	429.3K
+worksale data certie assessment,.pdf
+03-Jul-2024 12:51	351.1K
+worsales force , assessment tshingomb.pdf
+03-Jul-2024 12:51	595.5K
+
+      
+•	 Why Tableau 
+•  
+•  
+•  
+•  
+•  
+•  
+•  
+•	•  
+o	
+o	
+o	
+o	
+o	
+•  Products 
+•  
+•  
+•  
+•  
+•  
+•  
+•  
+•  
+•  
+•  
+•	•  
+o	
+•  Solutions 
+•  
+•  
+•  
+•  
+•  
+•	•  
+o	
+•	
+•	
+•  Resources 
+•  
+•  
+•	•  
+•	
+•	
+•	
+•	
+•	
+•  
+•  
+•	•  
+•	
+•	
+•	
+•  
+•	•  
+•	
+•	
+•	
+•	
+•	
+•	
+•  
+•  
+•  
+•  
+•  
+•	•  
+•	
+•	
+•  
+•	•  
+o	
+o	
+•	
+•  Partners 
+•	
+o	
+•	Pricing
+•	Try Now
+•	Search
+•	Home
+•	My Activity
+•	Forums
+•	Ideas
+•	Groups
+•	
+•  •  Get Started
+•  Blogs
+•	•  
+ 
+ 
+tshingombe tshitadi
+Member
+Name
+tshingombe tshitadi
+Location
+Email
+tshingombefiston@gmail.com
+Phone
+Nickname
+tshingombe.tshitadi
+Pronouns
+About Me
+Address
+Tableau Public Profile
+Twitter Handle
+LinkedIn Profile URL
+Website
+Company Name
+Company Website
+Industry
+Company Phone Number
+Title
+Johannesburg
+Company City
+Department
+Company State
+Job Function
+Company Zip Code
+Company Country
+Product
+Expertise
+User Role
+Last Login
+7/4/2024 1:52 AM
+Created By
+ EA Deployment User
+, 7/4/2024 1:52 AM
+Feed Signature Setting
+
+ 
+Enable Feed Signature
+•	
+•  •  •  
+
+
+Bell Notification Settings
+
+ 
+A User you follow asks a Question
+ 
+A User you follow replies to a Question
+ 
+A User you follow posts a Blog
+ 
+A User you follow creates a Product Idea
+Please note, only updates to your Name and Title will be reflected in your Tableau Profile. 
+
+If you experiencing problems updating your profile, please contact support at community@tableau.com
+•	Community Activity
+•	Bookmarks
+•	User Blogs
+•	Post
+Sort by:
+Skip Feed
+ 
+Well tshingombe tshitadi's rather quiet
+Post something, run a poll, or ask a question to get the conversation started.
+End of Feed
+Well tshingombe tshitadi's rather quietPost something, run a poll, or ask a question to get the conversation started.
+ 
+User Stats
+ Data Newbie (1 point) 
+Following
+0	Followers
+0
+Posts
+0	Comments
+0	Likes Received
+0
+
+Recognition Badges
+
+Files
+Drop Files
+Or drop files
+Groups
+Followers
+Following
+Getting Started
+•	First Time Here 
+•	Forum Guidelines 
+•	Code of Conduct 
+•	Advertising Policy 
+Explore ForumsView All Topics
+•	Tableau Desktop & Web Authoring 
+•	Tableau Prep 
+•	Tableau Mobile 
+•	Tableau Public 
+•	Tableau Server 
+•	Tableau Cloud 
+•	Data & Connectivity 
+•	Calculations 
+•	Dates & Times 
+•	Formatting 
+•	Accessibility 
+•	Server Admin 
+•	Security & Permissions 
+•	Authentication 
+•	Backup & Restore 
+•	Installations & Upgrades 
+•	Developers & APIs 
+•	Licensing 
+•	Mapping 
+•	eLearning & Training 
+•	Tableau Certifications 
+•	Find User Group boards 
+•	Blogs 
+•	Leaderboard 
+•	Ideas 
+•	My Activity 
+•	System Status 
+•	Blog 
+•	Developer 
+•	Contact Us 
+•	Legal 
+•	Privacy 
+•	Uninstall 
+•	Cookie Preferences 
+•	Your Privacy Choices 
+•	LinkedIn
+•	Facebook
+•	Twitter
+©2024 Salesforce, Inc. 
+ 
+ 
+•	My Profile 
+•	FAQ 
+•	Sign Out 
+Understanding Variation for Wise Comparisons
+1 of 1 lessons completed (100%) 
+ 
+Curriculum 
+Course Overview 
+________________________________________
+
+Understanding Variation for Wise Comparisons 
+
+Great job! Ready for more? optional 
+
+About this course
+•	© 2024 
+•	Tableau Terms & Conditions
+•	FAQ
+•	Tableau Community Forums
+•	Support
+•	 Your Privacy Choices
+powered by  
+ 
+ 
+•	My Profile 
+•	FAQ 
+•	Sign Out 
+Using Correlation and Regression to Examine Relationships
+1 of 1 lessons completed (100%) 
+ 
+Curriculum 
+Course Overview 
+________________________________________
+
+Using Correlation and Regression to Examine Relationships 
+
+You did it! Time to share your skills! optional 
+
+About this course
+•	© 2024 
+•	Tableau Terms & Conditions
+•	FAQ
+•	Tableau Community Forums
+•	Support
+•	 Your Privacy Choices
+powered by  
+ 
+ 
+•	Sign Out 
+My Profile
+ 
+Done 
+For best results, use a square image 
+tshingombefiston@gmail.com
+ 
+Registrations
+Title	Enrolled	Status	Completed	Certificate completed	Expiration	Certificate expiration	Receive notifications
+Understanding Distributions 
+2024-Jul-04 	Not complete 	-- 	-- 	-- 	-- 	 
+
+Understanding Variation for Wise Comparisons 
+2024-Jul-04 	Completed 	2024-Jul-04 	-- 	-- 	-- 	 
+
+Using Correlation and Regression to Examine Relationships 
+2024-Jul-04 	Completed 	2024-Jul-04 	-- 	-- 	-- 	 
+
+Done 
+•	© 2024 
+•	Tableau Terms & Conditions
+•	FAQ
+•	Tableau Community Forums
+•	Support
+•	 Your Privacy Choices
+powered by  
+Skip to content 
+ 
+Back to Metropolitan Police Service 
+•	Home
+•	Internal Vacancies 
+•	Internal Promotions 
+•	Internal Events 
+•	Help Centre
+•	Your Applications: 
+Applications
+Title	Status	Action
+Volunteer Police Cadet Leader	Application Update	ReviewVolunteer Police Cadet Leader 
+
+Vehicle Replacement Programme Manager - Band D - Counter Terrorism Policing HQ	Application Update	ReviewVehicle Replacement Programme Manager - Band D - Counter Terrorism Policing HQ 
+
+Travel Services – Band C Service Delivery Manager	Application Update	ReviewTravel Services – Band C Service Delivery Manager 
+
+Thamesmead Recruitment Event	Registration Update	ReviewThamesmead Recruitment Event 
+
+Technical Training Manager - Technology CSC - Counter Terrorism Policing HQ	Application Update	ReviewTechnical Training Manager - Technology CSC - Counter Terrorism Policing HQ 
+
+Technical Training Manager - Technology CSC - Counter Terrorism Policing HQ	Application Update	ReviewTechnical Training Manager - Technology CSC - Counter Terrorism Policing HQ 
+
+Technical Support Operative 	Application Update	ReviewTechnical Support Operative 
+
+Substantive Detective Inspector - DPS Specialist investigations	Application Update	ReviewSubstantive Detective Inspector - DPS Specialist investigations 
+
+Student Placement - Programme Support Officer – Real Estate Development, Property Services Department 2024/2025	Application Update	ReviewStudent Placement - Programme Support Officer – Real Estate Development, Property Services Department 2024/2025 
+
+Student Placement - Estate and Asset Management Placement Student – Real Estate Management, Property Services Department 2024/2025	Application Update	ReviewStudent Placement - Estate and Asset Management Placement Student – Real Estate Management, Property Services Department 2024/2025 
+
+Student Placement - Construction and Building Engineering Services - Real Estate Development , Property Services Department 2024/2025	Application Update	ReviewStudent Placement - Construction and Building Engineering Services - Real Estate Development , Property Services Department 2024/2025 
+
+Staff Officer to Director of Intelligence & Covert Policing	Application Update	ReviewStaff Officer to Director of Intelligence & Covert Policing 
+
+Specialist Operations Recovery Manager 	Application Update	ReviewSpecialist Operations Recovery Manager 
+
+Senior Server Engineer - Counter Terrorism Policing HQ	Application Update	ReviewSenior Server Engineer - Counter Terrorism Policing HQ 
+
+Senior Safety Advisor First Aid	Application Update	ReviewSenior Safety Advisor First Aid 
+
+Senior Project Manager 	Application Update	ReviewSenior Project Manager 
+
+Senior Development Operations Engineer - Band M - Counter Terrorism Policing HQ	Application Update	ReviewSenior Development Operations Engineer - Band M - Counter Terrorism Policing HQ 
+
+Senior Design Standards Manager	Application Update	ReviewSenior Design Standards Manager 
+
+Senior Administrative Assistant	Application Update	ReviewSenior Administrative Assistant 
+
+Security Assurance Manager	Application Update	ReviewSecurity Assurance Manager 
+
+Secure: Programme Delivery Senior Manager	Application Update	ReviewSecure: Programme Delivery Senior Manager 
+
+Safety Camera Prosecutions Team Manager	Application Update	ReviewSafety Camera Prosecutions Team Manager 
+
+Safety Academy QUAD Officer 	Application Update	ReviewSafety Academy QUAD Officer 
+
+Royalty and Specialist Protection - Finance Administrator 	Application Update	ReviewRoyalty and Specialist Protection - Finance Administrator 
+
+Royalty and Specialist Protection - Finance Administrator 	Application Update	ReviewRoyalty and Specialist Protection - Finance Administrator 
+
+Research Officer for Intelligence Development Team (East) - Band E Role	Application Update	ReviewResearch Officer for Intelligence Development Team (East) - Band E Role 
+
+Referencing & Vetting Insight and Governance Team Member	Application Update	ReviewReferencing & Vetting Insight and Governance Team Member 
+
+Referencing & Vetting Insight and Governance Team Member	Application Update	ReviewReferencing & Vetting Insight and Governance Team Member 
+
+Project Support Officer	Application Update	ReviewProject Support Officer 
+
+Police Liaison Gateway Team 	Application Update	ReviewPolice Liaison Gateway Team 
+
+PMO Lead - Change - Counter Terrorism Policing HQ	Application Update	ReviewPMO Lead - Change - Counter Terrorism Policing HQ 
+
+Performance and Assurance Team Member 	Application Update	ReviewPerformance and Assurance Team Member 
+
+PC - Covert Human Intelligence Source (CHIS) Handler	Application Update	ReviewPC - Covert Human Intelligence Source (CHIS) Handler 
+
+Operations Inspector 	Application Update	ReviewOperations Inspector 
+
+Online Insight Session	Registration Update	ReviewOnline Insight Session 
+
+NPPF Step Two May 2024 Legal Exam - (Previously OSPRE) – Inspectors	Application Update	ReviewNPPF Step Two May 2024 Legal Exam - (Previously OSPRE) – Inspectors 
+
+NPoCC Planner - Band E	Application Withdrawn	ReviewNPoCC Planner - Band E 
+
+New Scotland Yard Insight Session	Registration Update	ReviewNew Scotland Yard Insight Session 
+
+National Police Chiefs Council - Programme Manager 	Application Update	ReviewNational Police Chiefs Council - Programme Manager 
+
+National Police Chiefs Council - Programme Manager 	Application Update	ReviewNational Police Chiefs Council - Programme Manager 
+
+Motor Vehicle Technician	Application Update	ReviewMotor Vehicle Technician 
+
+Misconduct Hearings Unit - Usher	Application Update	ReviewMisconduct Hearings Unit - Usher 
+
+MetLaw Clerk	Application Update	ReviewMetLaw Clerk 
+
+Leadership Facilitator	Application Withdrawn	ReviewLeadership Facilitator 
+
+Lead Software Developer - Counter Terrorism Policing HQ	Application Update	ReviewLead Software Developer - Counter Terrorism Policing HQ 
+
+Junior Software Developer - Counter Terrorism Policing HQ	Application Update	ReviewJunior Software Developer - Counter Terrorism Policing HQ 
+
+Interest in being promoted to a Sergeant? Register your interest here and we will notify you when the promotion process launches.	Talent Bank	ReviewInterest in being promoted to a Sergeant? Register your interest here and we will notify you when the promotion process launches. 
+
+Interest in being promoted to a Chief Superintendent? Register your interest here and we will notify you when the promotion process launches. 	Talent Bank - Withdrawn	ReviewInterest in being promoted to a Chief Superintendent? Register your interest here and we will notify you when the promotion process launches. 
+
+Inspector to Chief Inspector Promotion Process 2024	Application Update	ReviewInspector to Chief Inspector Promotion Process 2024 
+
+Insight, Data and Evaluation Senior Manager	Application Update	ReviewInsight, Data and Evaluation Senior Manager 
+
+IDD - Junior Business Design Analyst	Application Update	ReviewIDD - Junior Business Design Analyst 
+
+HR Administrator - Counter Terrorism Policing HQ	Application Update	ReviewHR Administrator - Counter Terrorism Policing HQ 
+
+Head of Visits and Events	Application Update	ReviewHead of Visits and Events 
+
+Head of Security Architecture	Application Update	ReviewHead of Security Architecture 
+
+Head of Data Engineering	Application Update	ReviewHead of Data Engineering 
+
+Grievance Assessor	Application Update	ReviewGrievance Assessor 
+
+Forensic Examiner – Forensic Firearms Unit (FFU)	Application Update	ReviewForensic Examiner – Forensic Firearms Unit (FFU) 
+
+Forensic Collision Investigator – Trainee	Application Update	ReviewForensic Collision Investigator – Trainee 
+
+Fleet Contract Lifecycle Support	Application Withdrawn	ReviewFleet Contract Lifecycle Support 
+
+Equip for Service (EFS) Coordinator 	Application Update	ReviewEquip for Service (EFS) Coordinator 
+
+Electronics Development Manager	Application Update	ReviewElectronics Development Manager 
+
+Electronics Development Engineer	Application Update	ReviewElectronics Development Engineer 
+
+Electronics Development Engineer	Application Update	ReviewElectronics Development Engineer 
+
+Edmonton Insight Session	Registration Update	ReviewEdmonton Insight Session 
+
+Digital Strategy Advisor - Digital Forensics	Application Update	ReviewDigital Strategy Advisor - Digital Forensics 
+
+Digital Strategy Advisor - Digital Forensics	Application Update	ReviewDigital Strategy Advisor - Digital Forensics 
+
+Digital Forensic Technician	Application Update	ReviewDigital Forensic Technician 
+
+Development Technician - Software Developer	Application Update	ReviewDevelopment Technician - Software Developer 
+
+Development Operations Engineer - Band N - Counter Terrorism Policing HQ	Application Update	ReviewDevelopment Operations Engineer - Band N - Counter Terrorism Policing HQ 
+
+Development Engineer - Software Developer	Application Update	ReviewDevelopment Engineer - Software Developer 
+
+Development Engineer	Application Update	ReviewDevelopment Engineer 
+
+Development Engineer	Application Update	ReviewDevelopment Engineer 
+
+Detective Sergeant London Region Protected Persons Unit (LRPPU)	Application Update	ReviewDetective Sergeant London Region Protected Persons Unit (LRPPU) 
+
+Detective Inspector - Specialist Investigation Unit - DPS	Application Withdrawn	ReviewDetective Inspector - Specialist Investigation Unit - DPS 
+
+Detective Inspector - Inquiry & Review Support Command (IRSC) 	Application Update	ReviewDetective Inspector - Inquiry & Review Support Command (IRSC) 
+
+Designated Detention Officer	Application Update	ReviewDesignated Detention Officer 
+
+Deputy National Coordinator, Protect & Prepare - Supt - Counter Terrorism Policing HQ	Application Update	ReviewDeputy National Coordinator, Protect & Prepare - Supt - Counter Terrorism Policing HQ 
+
+Data Quality Management Lead	Application Update	ReviewData Quality Management Lead 
+
+Data Management Officer Indexer - Band E - NDMC - Counter Terrorism Policing HQ	Application Update	ReviewData Management Officer Indexer - Band E - NDMC - Counter Terrorism Policing HQ 
+
+Cyber Unit - DI Protect, Prepare and Prevent	Application Update	ReviewCyber Unit - DI Protect, Prepare and Prevent 
+
+Custody Healthcare Practitioner Open Day Event - Hammersmith Police Station - Thursday 27th June 2024 13:00PM	Registration Update	ReviewCustody Healthcare Practitioner Open Day Event - Hammersmith Police Station - Thursday 27th June 2024 13:00PM 
+
+CSC - Offender Management - International Assistance Unit (IAU) Detective Constable	Application Update	ReviewCSC - Offender Management - International Assistance Unit (IAU) Detective Constable 
+
+Crime Academy DC - Interview Team	Application Update	ReviewCrime Academy DC - Interview Team 
+
+Counter Terrorism Security Advisor (CTSA)	Application Update	ReviewCounter Terrorism Security Advisor (CTSA) 
+
+Counter Terrorism Police Liaison Officer - DSU - IOPS - Counter Terrorism Policing SO15	Application Withdrawn	ReviewCounter Terrorism Police Liaison Officer - DSU - IOPS - Counter Terrorism Policing SO15 
+
+Correspondence Manager 	Application Update	ReviewCorrespondence Manager 
+
+CONNECT Support Team- User Support Specialist 	Application Update	ReviewCONNECT Support Team- User Support Specialist 
+
+Commercial Apprentice	Application Update	ReviewCommercial Apprentice 
+
+Centralised Admin - Typing Services	Application Update	ReviewCentralised Admin - Typing Services 
+
+CCTV Investigations Assessment/Review - Band D - NDES S3 - SO15	Application Update	ReviewCCTV Investigations Assessment/Review - Band D - NDES S3 - SO15 
+
+Case Management Administrator	Application Update	ReviewCase Management Administrator 
+
+Business Change Supervisor 	Application Update	ReviewBusiness Change Supervisor 
+
+Business Change Lead - Change - Counter Terrorism Policing HQ	Application Update	ReviewBusiness Change Lead - Change - Counter Terrorism Policing HQ 
+
+Building Manager	Application Update	ReviewBuilding Manager 
+
+Biometric Intelligence Case Officer - Band D - NDES S6 - SO15	Application Update	ReviewBiometric Intelligence Case Officer - Band D - NDES S6 - SO15 
+
+Beckton Recruitment Event	Registration Update	ReviewBeckton Recruitment Event 
+
+Audit and Risk Manager - Strategic Planning & Risk	Application Update	ReviewAudit and Risk Manager - Strategic Planning & Risk 
+
+Apprentice Vehicle Mechanical Electrical Trim (M.E.T.) Technician	Application Update	ReviewApprentice Vehicle Mechanical Electrical Trim (M.E.T.) Technician 
+
+Apprentice Motorcycle Technician 	Application Update	Review Apprentice Motorcycle Technician 
+
+Anti-Corruption and Abuse (ACAC) Intelligence Bureau.	Application Update	ReviewAnti-Corruption and Abuse (ACAC) Intelligence Bureau. 
+
+202307 Transferring Officers - Specialist Team	Application Update	Review202307 Transferring Officers - Specialist Team 
+
+202307 Transferring Officers - Neighbourhood Team	Application Update	Review202307 Transferring Officers - Neighbourhood Team 
+
+202305 - Police Community Support Officer (PCSO)	Application Update	Review202305 - Police Community Support Officer (PCSO) 
+
+202207 - Detective Constable Pathway 	Application Update	Review202207 - Detective Constable Pathway 
+
+042024 - DCEP (Detective Constable Entry Programme)	Application Update	Review042024 - DCEP (Detective Constable Entry Programme) 
+
+View cookie policy 
+© Mayor's Office for Policing and Crime 2016
+
+Conversation opened. 63 messages. 2 messages unread.
+
+Skip to content
+Using Gmail with screen readers
+  
+1 of 6,622
+Technical and vocational education and training (TVET) services Enquiry
+Inbox
+ 
+SQA <noreply@sqa.org.uk> 
+Unsubscribe
+	Jul 1, 2024, 3:14 PM (3 days ago)
+	
+	
+to me 
+ 
+
+  
+ 
+  
+
+  
+
+ 
+Hello tshingombe, 
+
+Thank you for submitting an enquiry following your interest in Technical and vocational education and training (TVET). The following details have been sent: 
+
+Name: tshingombe tshitadi
+Business name: tshingombe
+Email: tshingombefiston@gmail.com
+Phone: 0725298946
+Service Required: Technical and vocational education and training (TVET)
+Country: South Africa
+Identifier: 8069641
+This email message was auto-generated. Please do not respond.
+
+ 
+
+
+
+Terms & conditions 
+
+
+	| 
+
+	Privacy 
+
+
+	| 
+
+	Cookies 
+
+
+	| 
+
+	About us 
+
+
+	| 
+
+	Unsubscribe 
+
+
+
+
+© 2024 Scottish Qualifications Authority 
+ 	 	 	 
+
+This email was sent to tshingombefiston@gmail.com. If you no longer wish to receive these emails you may unsubscribe at any time. 
+ 
+tshingombe fiston		 Jul 1, 2024, 3:26 PM (3 days ago)
+
+On Mon, Jul 1, 2024 at 3:14 PM SQA <noreply@sqa.org.uk> wrote: Hello tshingombe, Thank you for submitting an enquiry following your interest in Technical and vo
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:28 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. The response from the remote server was: 
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:29 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston		 Jul 1, 2024, 3:46 PM (3 days ago)
+
+On Mon, Jul 1, 2024 at 3:26 PM tshingombe fiston <tshingombefiston@gmail.com> wrote: On Mon, Jul 1, 2024 at 3:14 PM SQA <noreply@sqa.org.uk> wrote: Hello tshing
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:47 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:47 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:48 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:48 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston		Jul 1, 2024, 3:56 PM (3 days ago)
+
+- Home - SQA Advanced Certificates and Diplomas > Subjects > Engineering, Electronics, Maritime and Nautical > SQA Advanced Certificate/Diploma Electrical Engin
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:56 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:56 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 1, 2024, 3:57 PM (3 days ago)
+
+Skip to content Skip to main navigation Skip to sub navigation Skip to Accessibility Page SQA Site Search Main Menu - Qualifications - Deliver qualifications - 
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:57 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 3:57 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. The response from the remote serve
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Mon, Jul 1, 3:59 PM (3 days ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+Group Award Specification for:
+SQA Advanced Certificate in Electrical
+Engineering
+Group Award code: GP6D 47
+and
+SQA Advanced Diploma in Electrical
+Engineering
+Group Award code: GP6C 48
+Publication date: April 2019
+Version: 01
+© Scottish Qualifications Authority 2019
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering
+Contents
+1 Introduction 1
+2 Rationale for the revisions of the awards 1
+2.1 Electrical Engineering 1
+2.2 SQA Advanced Engineering Frameworks 1
+2.3 History and market research to support the SQA Advanced Certificate and
+Diploma in Electrical Engineering 5
+2.4 Candidates 6
+3 Aims of the qualification(s) 7
+3.1 General Aims of the qualification(s) 7
+3.2 Specific Aims of the qualification(s) 7
+3.3 General Aims of the SQA Advanced Diploma in Electrical Engineering 8
+3.4 Specific Aims of the SQA Advanced Diploma in Electrical Engineering 8
+3.5 How the General Aims are met in the SQA Advanced Certificate and
+SQA Advanced Diploma Award Structures and Content 10
+3.6 How the Specific Aims are met in the SQA Advanced Certificate and
+SQA Advanced Diploma Award Structures and Content 12
+4 Recommended entry to the qualification(s) 13
+4.1 Access requirements 13
+4.2 Alternative access arrangements 13
+5 Structure of the qualifications 14
+5.1 SQA Advanced Certificate in Electrical Engineering Structure 14
+5.2 SQA Advanced Diploma in Electrical Engineering Structure 16
+5.3 Graded Units 18
+5.4 Core Skills 20
+5.5 Conditions of the Award 28
+5.6 SCQF levels 28
+6 Approaches to delivery and assessment 30
+6.1 Content and context 30
+6.2 Delivery 31
+6.3 Assessment 32
+6.4 Re-assessment 34
+7 General information for centres 36
+7.1 Equality and inclusion 36
+7.2 Internal and external verification 36
+7.3 Assessment moderation 36
+7.4 Open and Distance Learning 36
+7.5 General information for candidates 37
+7.6 Relationship to other awards 39
+7.7 Articulation arrangements 39
+8 Glossary of terms 39
+9 History of changes 41
+Acknowledgements 41
+Further information 41
+Appendix 1: SQA Advanced Certificate and SQA Advanced Diploma Timetables 42
+Appendix 2: Assessment Loading Grid 45
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 1
+1 Introduction
+This document was previously known as the Arrangements Document. The purpose of this
+document is to:
+• assist centres to implement, deliver, and manage the qualification
+• provide a guide for new staff involved in offering the qualification
+• inform course managers, teaching staff, assessors, learners, employers, and Higher
+Education institutions of the aims and purpose of the qualification
+• provide details of the range of learners that the qualification is suitable for and the
+progression opportunities
+This document has been written in order to assist centres in preparing for approval of the new
+SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering awards and
+maintaining the awards thereafter. These two awards were developed under the new SQA
+Design Principles, were validated in March 2005, and replace the existing SQA Advanced
+Certificate in Engineering: Electrical and the SQA Advanced Diploma in Engineering: Electrical.
+This document includes details on the background to the development of the new awards, their
+aims (both general and specific), recommended access requirements, information about the
+structure of the awards, recommendations on delivery and assessment and other guidance for
+centres.
+2 Rationale for the revisions of the awards
+2.1 Electrical Engineering
+The term Electrical Engineering in the context of this document covers the range of subjects
+traditionally included in SQA Advanced Qualifications in Electrical Engineering, namely power,
+plant and electrical installation. The title Electrical Engineering is intended to provide
+candidates, lecturers, Higher Education, employers and professional bodies with a clear,
+unambiguous title.
+Electronics has not been included in the SQA Advanced Certificate and SQA Advanced
+Diploma in Electrical Engineering titles as only sufficient electronics has been included in both
+awards to underpin studies in the various branches of electrical engineering.
+2.2 SQA Advanced Engineering Frameworks
+In 1996 the SQA validated nationally a large number of new SQA Advanced Engineering
+awards including two awards entitled SQA Advanced Certificate in Engineering: Electrical and
+SQA Advanced Diploma in Engineering: Electrical. A major difference between these and
+previous awards were that they all sat within an SQA Advanced Engineering Framework which
+in general terms consisted, for both SQA Advanced Certificates and SQA Advanced Diplomas,
+of a common core of units (units common to all SQA Advanced Certificate and SQA Advanced
+Diploma in Engineering awards), a principles/technology and optional sections. The benefits of
+this Framework structure were seen to include the following:
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 2
+• provide a wide range of SQA Advanced Engineering qualifications to meet the needs of
+different engineering sectors
+• improve the credibility and esteem of individual SQA Advanced Engineering awards
+• clarify those competencies that were general to all incorporated engineers and those that
+were specific to particular engineering disciplines
+• provide opportunities for the efficient delivery of SQA Advanced Engineering units by, for
+example, incorporating units that were common to a number of different SQA Advanced
+awards
+• facilitate better progression between SQA Advanced Certificate, SQA Advanced Diploma
+and degree engineering awards
+Prior to the development of any SQA Advanced Engineering awards a major consultation
+exercise was undertaken on the overarching SQA Advanced Engineering Framework to test the
+validity of the Framework. This consultation comprised of the following five strands:
+• a questionnaire survey with stakeholders of SQA Advanced Engineering awards
+• a series of meetings with various interested stakeholders of SQA Advanced Engineering
+awards
+• desk based research
+• discussions (followed by endorsement) of a proposed SQA Advanced Engineering
+Framework at an SQA Advanced Engineering Steering Group meeting
+• a major consultation event with FE colleges on 24 May 2002 which included a
+questionnaire survey
+The consultation revealed continuing strong support for an overarching SQA Advanced
+Engineering Framework but with the following modifications:
+• a reduction in the number of common core units
+• a strengthening of the Principles/Technology section with an even stronger emphasis on
+the teaching of core engineering principles and technologies
+Optional sections are retained in all SQA Advanced Certificate and SQA Advanced Diploma
+Engineering awards.
+The revised SQA Advanced Certificate and SQA Advanced Diploma in Engineering
+Frameworks are shown in block diagram form in Figures 2.1 and 2.2. It should be noted that the
+PDAs shown in both diagrams may be developed as more SQA Advanced units come on
+stream; currently none of these PDAs exist.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 3
+SQA Advanced Certificate in Engineering Framework
+Communication: Practical Skills
+1 credit mandatory unit
+SQA Advanced Certificate
+8 Principles/Technology credits
+2 optional credits
+Strong emphasis on core
+principles/technologies
+A limited degree of specialisation
+within the engineering specialist area
+Corresponding SQA Advanced
+Diploma award in the same
+engineering discipline area
+Graded
+Unit
+Examination
+1 credit
+PDA
+Specialist
+Engineering
+Areas
+Team
+Working &
+Leadership
+Supervisory
+Skills
+Information
+Technology
+Figure 2.1
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 4
+SQA Advanced Diploma in Engineering Framework
+Figure 2.2
+Communication: Practical Skills
+Information Technology: Applications
+Software 1
+Business Awareness & CPD
+3 credits of mandatory units
+Corresponding SQA Advanced
+Certificate in Engineering award in
+the same Engineering discipline
+area embedded as the first year of
+the SQA Advanced Diploma
+SQA Advanced Diploma
+17* Principles/Technology credits
+7 optional credits
+More advanced engineering principles
+High level of specialisation in
+engineering specific subject areas(s)
+*Includes the 8
+Principles/Technology credits in
+the SQA Advanced Certificate
+SQA
+Advanced
+Certificate
+Graded
+Unit
+Examination
+1 credit
+PDA
+Specialist
+Engineering
+Areas
+Team
+Working &
+Leadership
+Supervisory
+Skills
+Information
+Technology
+2 Graded Units
+SQA Advanced
+Diploma in
+Engineering
+Project
+2 credits
+SQA Advanced
+Certificate in
+Engineering
+Examination
+1 credit
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 5
+2.3 History and market research to support the SQA Advanced
+Certificate and Diploma in Electrical Engineering
+2.3.1 History of the SQA Advanced Certificate and SQA Advanced Diploma in
+Electrical Engineering awards
+The introduction of the SCOTVEC Advanced Courses Development Programme lead
+to the replacement of the 132 SQA Advanced Diploma in Electrical and Electronic
+Engineering award by a competence based SQA Advanced Diploma in Electronic and
+Electrical Engineering in 1989. Shortly after an SQA Advanced Certificate in Electronic
+and Electrical Engineering was introduced as part of a national development and
+replaced the 101 SQA Advanced Certificate in Electrical and Electronic Engineering.
+However, there continued to be little commonality between the new SQA Advanced
+Certificate and SQA Advanced Diploma awards. The first attempt to harmonise the two
+awards took place as part of a consortium development in the early nineties. In 1995
+and 1996 the two awards were totally harmonised (eg the SQA Advanced Certificate in
+Electrical Engineering becoming effectively the first year of the SQA Advanced
+Diploma) as part of a major SCOTVEC national development which saw the
+introduction of an overarching SQA Advanced Engineering Framework. The two new
+awards represent a further development of SQA Advanced Engineering awards taking
+full account the new SQA Advanced Design Principles and providing an opportunity to
+update the awards in light of technological and educational developments.
+2.3.2 Market research
+The development of the new SQA Advanced Certificate and SQA Advanced Diploma
+in Electrical Engineering awards included extensive market research which is
+summarised below in Table 2.3.
+Table 2.3
+Stakeholder Method
+All Major desk based research gathering and analysing
+data from various sources (eg SEMTA, FutureSkills
+Scotland, etc).
+Delivery Centres Initial postal survey of all delivery centres followed by
+two National seminars.
+Draft units, assessment exemplars and outlines of
+graded units were made available to centres.
+Employers Surveys of employers were carried out at the
+commencement of the development of the two
+awards and when the two award structures and units
+were nearing finalisation. Information obtained from
+employers helped to inform both structure and unit
+development.
+Higher Education Letters of support for articulation between the new
+SQA Advanced Certificate and SQA Advanced
+Diploma in Electrical Engineering and degree awards
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 6
+were received from seven Higher Education
+institutions.
+Professional Bodies The Chair of the Institute of Incorporated Engineers
+was a member of the Validation Panel and provided a
+broad measure of support for the two new
+developments at the Validation Event which was later
+confirmed in writing.
+Health and Safety
+Executive
+A representative from the Health and Safety
+Executive provided some invaluable input into the
+development of the Electrical Safety Unit and other
+units with significant safety content.
+Students While not consulted directly the student experience of
+the current SQA Advanced Certificate and SQA
+Advanced Diploma in Engineering: Electrical was
+taken fully into account in the new developments.
+2.4 Candidates
+2.4.1 SQA Advanced Certificate Candidates
+Candidates at SQA Advanced Certificate level may already be in employment and will
+attend centres on a day-release or other part-time basis. The SQA Advanced
+Certificate framework structure is flexible enough to allow centres to deliver the SQA
+Advanced Certificate award by various modes of delivery for example, two-year day-
+release, evening attendance etc.
+The options chosen by employed candidates may reflect the branch of industry in
+which they are employed or may be used to gain knowledge of other areas within
+electrical engineering in order to improve their career opportunities in the employment
+market. Part-time candidates may also use the SQA Advanced Certificate award to
+gain entry to degree level studies.
+Full-time SQA Advanced Certificate candidates may be school leavers intending to
+articulate to a university degree course, or candidates who wish to progress from an
+appropriate National Certificate qualification. Full-time candidates may also be more
+mature persons who are seeking a change of employment.
+Since the SQA Advanced Certificate award forms an integral part of the SQA
+Advanced Diploma award, full-time candidates will complete 15 unit credits in the first
+year of the course, 12 of these meeting the SQA Advanced Certificate requirements.
+In addition to university entrance, successful full-time SQA Advanced Certificate
+candidates have enhanced their prospects of gaining employment in the Electrical
+Engineering industry.
+2.4.2 SQA Advanced Diploma Candidates
+The SQA Advanced Diploma award programme will normally be delivered on a two-
+year full-time basis, although this does not preclude other delivery patterns. This being
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 7
+the case, SQA Advanced Diploma candidates may be school leavers who have an
+interest in some aspect of electrical engineering and wish to include this in their career
+path. This may be candidates who wish to progress from an appropriate National
+Certificate qualification or candidates who have previously completed the SQA
+Advanced Certificate award and wish to progress to the SQA Advanced Diploma. The
+typical SQA Advanced Diploma candidate will therefore be a young person intending to
+articulate to a university degree course. The units of the SQA Advanced
+Certificate/Diploma framework have been designed to introduce candidates to
+electrical engineering and to take topics to a more advanced level than is possible in
+the SQA Advanced Certificate.
+Mature candidates may also embark on the SQA Advanced Diploma programme. The
+SQA Advanced Electrical Development Team and unit writers were aware that such
+candidates may not have studied for some time and will require additional support in
+developing their learning skills. The SQA Advanced Electrical units have been
+designed as far as possible to provide candidates with opportunities to develop critical
+knowledge and understanding of theory and practical hands-on skills required by
+practising electrical incorporated engineers.
+3 Aims of the qualification(s)
+3.1 General Aims of the qualification(s)
+The general aims of this award are to:
+3.1.1 enhance candidates’ employment prospects
+3.1.2 support candidates’ Continuing Professional Development and career development
+3.1.3 enable progression within the SCQF (Scottish Credit and Qualifications Framework)
+3.1.4 develop candidates’ ability to apply analysis and synthesis skills to the solution of
+electrical engineering problems
+3.1.5 develop learning and transferable skills (including Core Skills)
+3.2 Specific Aims of the qualification(s)
+The specific aims of this award are to:
+3.2.1 provide an award that will allow candidates to work now, or in the future, as electrical
+technicians or incorporated electrical engineers
+3.2.2 provide an award that creates a route towards meeting the academic requirements for
+Incorporated Engineer status
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 8
+3.2.3 develop an award that on successful completion will allow candidates to progress to SQA
+Advanced Diploma Electrical Engineering and/or a degree in Electrical Engineering or
+related subject discipline area
+The development of this new SQA Advanced Certificate award will also allow candidates
+to:
+3.2.4 develop a range of Communication knowledge and skills relevant to the needs of
+electrical incorporated engineers
+3.2.5 develop knowledge, understanding and skills in a range of core electrical principles,
+electrical power systems, electrical machine principles and electrical safety at SQA
+Advanced level (these studies in core electrical principles and technologies are
+underpinned by a mandatory unit in Mathematics)
+3.2.6 develop knowledge and skills in the use of electrical and electronic instruments
+3.2.7 achieve a degree of specialisation within the following areas: Electrical Principles,
+Information Technology, Three Phase Induction Motors, Power Electronics, Inspection
+and Testing of Low Voltage Electrical Installations, Programmable Logic Controllers,
+Electrical Systems in Hazardous Environments, Control Systems, further Mathematical
+studies, Electrical Installation Skills and Engineering Quality
+3.2.8 on successful completion of the award, achieve the Core Skill Communication at Higher
+level and the component Using Number of the Core Skill Numeracy at Higher level. The
+candidate will also be provided with opportunities to develop the following Core Skills:
+Information Technology at Higher level, the component Using Graphical Information of the
+Core Skill Numeracy at Higher level, Problem Solving at Higher level and Working with
+Others at Intermediate 1 level
+3.3 General Aims of the SQA Advanced Diploma in Electrical
+Engineering
+The same as for the SQA Advanced Certificate in Electrical Engineering award but with
+the addition of the following:
+3.3.1 develop candidates’ knowledge and skills in planning and project management
+3.3.2 develop investigation skills
+3.4 Specific Aims of the SQA Advanced Diploma in Electrical
+Engineering
+The same as for the SQA Advanced Certificate in Electrical Engineering award but with
+the addition of the following:
+3.4.1 develop an award that on successful completion will allow candidates’ to progress to a
+degree in Electrical Engineering or related subject discipline area
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 9
+The development of this new SQA Advanced Diploma award will also allow candidates to:
+3.4.2 develop knowledge and understanding of the external and internal factors that influence
+the performance of modern companies
+3.4.3 recognise the important role continuing professional development plays in career
+development
+3.4.4 expand on the range of knowledge, understanding and skills in core electrical principles,
+electrical machines and systems and electrical installation
+3.4.5 allow for further specialisation within the following subject areas:
+Inspection and Testing of Low Voltage Installations, Programmable Logic Controllers,
+Electrical Systems in Hazardous Environments, Analogue and Digital Electronics, Quality
+Management, Electrical Installation Skills, Industrial Plant Maintenance, Synchronous
+Machines, Electrical Motor Drive Systems, Three Phase Induction Motors, High Level
+Engineering Software, additional Control Systems studies, Power Supply Circuits,
+Switchgear and Protection, Standby Systems, Electrical Installation Design: Computer
+Aided, advanced Mathematical studies and Employment Experience
+3.4.6 on successful completion of the award, achieve the Core Skills in Communication at
+Higher level, Information Technology at Higher level, Problem Solving at Higher level and
+the Using Number component of the Core Skill Numeracy at Higher level. Candidates will
+be provided with opportunities to develop the Core Skill Using Graphical Information
+component of the Numeracy Core Skill at Higher level and the Working with Others Core
+Skills at Intermediate 1 level
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 10
+3.5 How the General Aims are met in the SQA Advanced Certificate and SQA Advanced Diploma Award
+Structures and Content
+Aim no. How it is met in SQA Advanced Certificate and SQA Advanced Diploma
+3.1.1 For many years, SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering qualifications have equipped
+candidates to seek employment in a wide range of manufacturing, service and public sector organisations. Market research indicates
+that SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering Electrical Engineering awards are still regarded
+as the minimum qualifications required by many organisations to work at electrical technician or incorporated engineer level.
+3.1.2 There has been a long tradition of candidates in employment taking SQA Advanced Certificate in Electrical and Electronic awards on
+a part-time basis to increase their knowledge of Electrical and Electronic Engineering and enhance their career development. In
+recent years, with increased commonality between SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+awards and greater flexibility in the way these awards are delivered, candidates in employment have increasingly taken SQA
+Advanced Diplomas on a part-time basis to expand their knowledge and skills in Electrical and Electronic Engineering and improve
+their career prospects. The two new awards contain a balance of core principles and up-to-date knowledge and skills in Electrical
+Engineering which lends themselves to the Continuous Professional Development and career development of candidates working at
+electrical technician and incorporated engineer levels. Furthermore, the award structures have been designed to allow for easy
+progression between SQA Advanced Certificate and SQA Advanced Diploma awards.
+3.1.3 All units within the new SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering awards have been levelled
+at SCQF levels 6, 7 or 8. The two new awards also conform to the SQA levelling requirements for SQA Advanced Certificate and
+SQA Advanced Diploma awards. Thus, successful completion of one or both awards will allow progression within the SCQF.
+3.1.4 The nature of Electrical Engineering as a discipline lends itself to both the analysis and synthesis of problems. For example, when a
+complex electrical and electronic system is analysed (using, say, a block diagram approach) by breaking it down into separate
+functional parts or alternatively the synthesis of a complex system from simpler electrical and electronic systems. The two new
+awards allow these important skills to be developed further both in the technical subjects and in the core Communication, Information
+Technology and Business Awareness and Continuing Professional Development units.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 11
+Aim no. How it is met in SQA Advanced Certificate and SQA Advanced Diploma
+3.1.5 The new SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering awards provide centres with an
+opportunity to enhance learning skills not least by creating opportunities for candidates to combine theory and practice to achieve
+a real understanding of a subject. For example, some units recommend significant use of practical work and/or computer
+simulation to reinforce learning. It is also anticipated that centres will use innovative delivery approaches that may make use of
+sophisticated electrical and electronic laboratory equipment and/or online delivery and/or Virtual Learning Environments to
+enhance candidate learning.
+By their very nature Engineering courses require the transfer of technical knowledge and skills form one area to another. For
+example, a significant level of Electrical Principles and Mathematics has been included in both SQA Advanced Certificate and
+SQA Advanced Diploma in Electrical Engineering awards because these subjects provide underpinning knowledge,
+understanding and skills which are used elsewhere in both awards. Candidates will also have an opportunity to use the
+Communication and Information Technology knowledge and skills developed in the mandatory core units in other parts of the
+awards to support such activities as report writing, presentation and the application of specialist software packages. Core Skills in
+general, and problem solving in particular, have been regarded as very important by the SQA Advanced Electrical Development
+Team since it is recognised that a good level of competence in these is essential in the work of an incorporated electrical
+technician.
+3.3.1 The double credit (16 SCQF points) Engineering Project Graded Unit in the SQA Advanced Diploma in Electrical Engineering
+award provides opportunities for candidates to develop both their planning and project management knowledge and skills.
+3.3.2 The Business Awareness and Continuing Professional Development Unit provides candidates with the opportunities to develop
+their investigative skills by exploring the external and internal factors that affect the performance of a modern company and the
+different ways that people learn. The Engineering Project also requires candidates to undertake some investigations into the
+background to and a range of solutions for their engineering project.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 12
+3.6 How the Specific Aims are met in the SQA Advanced Certificate and SQA Advanced Diploma Award
+Structures and Content
+Aim no. How it is met in SQA Advanced Certificate and SQA Advanced Diploma
+3.2.1 An SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering award has been recognised for many years
+by employers and other stakeholders of these awards as appropriate qualifications for persons wishing to work at electrical
+technician or senior technician levels. Market research indicates that there is a growing demand for people with technician level
+skills in electrical and electronic engineering especially as companies automate a lot more of their processes. Thus, it is
+confidently anticipated that those achieving the SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+awards will find employment as electrical technicians and incorporated electrical engineers in a wide range of small, medium and
+large companies.
+3.2.2
+&
+3.2.3
+An SQA Advanced Certificate and SQA Advanced Diploma in no longer satisfies fully the academic requirements for Incorporated
+Engineer status although these qualifications continue to completely satisfy Engineering Technician requirements. The minimum
+qualification for Incorporated Engineer is an ordinary degree.
+Given the clear progression routes that have been established between existing SQA Advanced Certificate and SQA Advanced
+Diploma in Electrical Engineering awards and degree courses by many FE colleges and universities, it is strongly anticipated that
+similar progression routes will also be developed between the new SQA Advanced Certificate and SQA Advanced Diploma in
+Electrical Engineering awards and degree courses. Thus, SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering awards will continue to form very important ‘stepping stones’ towards candidates achieving degrees (and, thus,
+satisfy fully the academic requirements for Incorporated Engineer status). Progression arrangements between SQA Advanced
+Certificates, SQA Advanced Diplomas and degrees can only be strengthened with the full implementation of the SCQF. Seven
+letters have been received from Scottish Universities confirming articulation arrangements between the new SQA Advanced
+Certificate and SQA Advanced Diploma in Electrical Engineering awards and degree programmes.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 13
+4 Recommended entry to the qualification(s)
+4.1 Access requirements
+Entry to this qualification is at the discretion of the centre. The following information on
+prior knowledge, skills, experience, or qualifications that provide suitable preparation
+for this qualification has been provided by the Qualification Design Team as guidance
+only.
+Learners would benefit from having attained the skills, knowledge, and understanding
+required by one or more of the following or equivalent qualifications and/or experience:
+• One Higher from Physics, Technological Studies or Higher Mathematics and at
+least three Standard Grades 1-2/ Intermediate 2 passes including Mathematics,
+Physics/Technological Studies and English.
+• National Certificate Group Award in Electrical Engineering or Electronic
+Engineering.
+• Qualification comparable to the above, gained through other awarding bodies
+such as GSCE, City & Guilds, Edexcel etc.
+• At the discretion of the Principal of the presenting centre for applicants with a
+different experiential background who could benefit from taking the award(s) or
+units within the award(s), eg adult returners, overseas students with relevant work
+and/or work experience.
+4.2 Alternative access arrangements
+The presenting centre may operate alternative access arrangements in cases where
+the candidate is convinced that she/he already has the required competences in a
+given area. These arrangements are as follows:
+• assessment on demand
+• credit transfer
+• accreditation of prior learning
+• relevant work experience
+Individual presenting centres will require to outline their systems for each of these as
+a part of any approval procedure.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 14
+5 Structure of the qualifications
+This qualification was designed to meet a specific purpose and what follows are details
+on how that purpose has been met through mapping of the units to the aims of the
+qualification. Through meeting the aims, additional value has been achieved by linking
+the unit standards with those defined in National Occupational Standards and/or
+trade/professional body requirements. In addition, significant opportunities exist for
+learners to develop more generic skills, known as Core Skills, through this qualification.
+5.1 SQA Advanced Certificate in Electrical Engineering Structure:
+GP6D 47 — 12 unit credits
+Mandatory units (9.0 credits required)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HP4A 47* Communication: Practical Skills 1 7
+HP48 46* Engineering Mathematics 1 1 6
+HT7K 47 Three Phase Systems 1 7
+HV3L 47 Electricity Power Systems 1 7
+HT83 47 Electrical Machine Principles 2 7
+HV3A 47 Electrical Safety 1 7
+HP46 47 DC and AC Principles 1 7
+HV2H 46 Application of Electrical and Electronic
+Instruments
+1 6
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 15
+Optional units (2.0 credits required)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HP3J 47 Electrical Networks and Resonance 1 7
+HP6L 47 Information Technology: Applications Software 1 1 7
+HT1W 47 Power Electronics 1 7
+HV2L 47 Inspection and Testing of Low Voltage Electrical
+Installations
+1 7
+HT1K 47 Applications of Programmable Logic Controllers 1 7
+HV3K 47 Electrical Systems in Potentially Explosive and
+Gas Hazardous Environments
+1 7
+HT1R 47 Fundamentals of Control Systems and
+Transducers
+1 7
+HP49 47* Engineering Mathematics 2 1 7
+HV3M 47 Electrical Installation Skills 1 7
+HV3G 48 Three Phase Induction Motors 1 8
+HT7A 47 Quality Management: An Introduction 1 7
+HP6M 47 Personal Development Planning 1 7
+HR1C 46* Workplace Communication in English 1 6
+J1PL 47 Promoting Energy Efficiency in the Workplace 1 7
+HV2W 47 Electrical Design Systems: An Introduction 1 7
+HV2X 47 Electrical Installation Design (Computer Aided):
+An Introduction
+1 7
+HT1Y 47* Energy Overview 1 7
+J1CH 47* Computer Programming 1 7
+J1S1 47* Data Security 1 7
+*Refer to History of Changes for revision changes.
+Graded Unit (1.0 credit)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HV4C 47 Electrical Engineering: Graded Unit 1
+(Examination)
+1 7
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 16
+5.2 SQA Advanced Diploma in Electrical Engineering Structure:
+GP6C 48 — 30 unit credits
+Mandatory units (20.0 credits required)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HP4A 47* Communication: Practical Skills 1 7
+HP6L 47 Information Technology: Applications Software 1 1 7
+HP3H 48 Business Awareness and Continuing
+Professional Development
+1 8
+HP48 46* Engineering Mathematics 1 1 6
+HP46 47 DC and AC Principles 1 7
+HT7K 47 Three Phase Systems 1 7
+HV3L 47 Electricity Power Systems 1 7
+HT83 47 Electrical Machine Principles 2 7
+HV3A 47 Electrical Safety 1 7
+HV2H 46 Application of Electrical and Electronic
+Instruments
+1 6
+HP3J 47 Electrical Networks and Resonance 1 7
+HT1W 47 Power Electronics 1 7
+HT1R 47 Fundamentals of Control Systems and
+Transducers
+1 7
+HP49 47* Engineering Mathematics 2 1 7
+HT1H 48 Transmission Lines and Complex Waves 1 8
+HV5X 48 Electrical Installation Design 1 8
+HT7M 48 Electrical Motor Drive Systems 1 8
+HV4X 48 Transformers 1 8
+HV4Y 48 Utilisation of Electrical Energy in Buildings 1 8
+*Refer to History of Changes for revision changes.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 17
+Optional units (7.0 credits required)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HV2L 47 Inspection and Testing of Low Voltage Electrical Installations 1 7
+HT1K 47 Applications of Programmable Logic Controllers 1 7
+HV3K 47 Electrical Systems in Potentially Explosive and Gas Hazardous
+Environments
+1 7
+HT7J 46 Analogue Electronics: An Introduction 1 6
+HT7L 47 Digital Electronics 1 7
+HT7A 47 Quality Management: An Introduction 1 7
+HV3M 47 Electrical Installation Skills 1 7
+HV2K 47 Industrial Plant Maintenance 1 7
+HP41 47 High Level Engineering Software 1 7
+HV51 48 Control Systems Behaviour 1 8
+HT1E 48 Mathematics for Engineering 3 2 8
+HP3T 48 Power Supply Circuits 1 8
+HV4V 48 Switchgear and Protection of High Voltage Systems 1 8
+HV50 48 Applications of Power Electronics in Electrical Motor Drive
+Systems
+1 8
+HV3G 48 Three Phase Induction Motors 1 8
+HV4W 48 Synchronous Machines 1 8
+HV53 48 Electrical Standby Systems 1 8
+HV52 48 Electrical Installation Design: Computer Aided 1 8
+HP6M 47 Personal Development Planning 1 8
+HR1C 46* Workplace Communication in English 1 6
+J1PL 47 Promoting Energy Efficiency in the Workplace 1 7
+HV2W 47 Electrical Design Systems – An Introduction 1 7
+HV2X 47 Electrical Installation Design (Computer Aided):
+An Introduction
+1 7
+HT7H 47* Project Management: An Introduction 1 7
+HT1M 47* Engineering Mathematics 3 1 7
+HT03 48* Engineering Mathematics 4 1 8
+HT1N 48* Engineering Mathematics 5 1 8
+HR0M 47 Work Role Effectiveness
+OR
+3 7
+HR0P 48 Work Role Effectiveness 3 8
+HP47 47 Analogue Electronic Principles 2 7
+HP3G 47 Combinational Logic 1 7
+HP3Y 47 Sequential Logic 1 7
+HP42 47 MCU/MPU Assembly Language Programming 1 7
+HT1Y 47* Energy Overview 1 7
+HT1L 48* Energy Technologies 1 8
+J1CH 47* Computer Programming 1 7
+J1S1 47* Data Security 1 7
+*Refer to History of Changes for revision changes.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 18
+Graded unit (3.0 credits required)
+Unit no. Unit title Credit
+value
+SCQF
+level
+HV4C 47 Electrical Engineering: Graded Unit 1
+(Examination)
+1 7
+J1RC 48 Electrical Engineering: Graded Unit 2 (Project) 2 8
+5.3 Graded Units
+The purpose of the Graded Unit for both the SQA Advanced Certificate and SQA
+Advanced Diploma awards is to assess the candidate’s ability to apply and integrate
+knowledge and/or skills gained within individual units. By this means candidates will
+demonstrate that they have achieved the specific aims of the awards as detailed in
+Sections 3.2 and 3.4. The Graded Units also provide the means by which a candidate’s
+achievement can be graded.
+SQA Advanced Certificate in Electrical Engineering candidates will undertake a one
+Credit Graded Unit at level 7. This will be in the form of a 3-hour written examination.
+SQA Advanced Diploma in Electrical Engineering candidates will also do the SQA
+Advanced Certificate Graded Unit but, in addition, will undertake a two Credit Graded
+Unit at level 8. This will take the form of a practical assignment/project.
+5.3.1 Types of Graded Units
+SQA Advanced Certificate in Electrical Engineering: Graded Unit 1 — Examination
+It will be noted that the Graded Unit draws on Outcomes in the mandatory section of the
+award which are studied by all SQA Advanced Certificate in Electrical Engineering
+candidates.
+The assessment for the Electrical Engineering: Graded Unit 1 consists of an examination
+paper which should last three hours.
+It is recommended that candidates do not sit the Graded Unit examination until the end
+of the SQA Advanced Certificate (1st Year of the SQA Advanced Diploma), given the
+range of units that it draws from.
+SQA Advanced Diploma Electrical Engineering: Graded Unit 2 — Project
+The nature of the project activity is such that it is likely that centres will wish their
+candidates to embark on it from the start of the second year of the SQA Advanced
+Diploma in Electrical Engineering programme. As it is anticipated that centres will deliver
+the SQA Advanced Certificate in Electrical Engineering as part of the first year of the
+SQA Advanced Diploma, it is recommended that candidates have completed all SQA
+Advanced Certificate in Electrical Engineering units, including the SQA Advanced
+Certificate Graded Unit, before commencing the project.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 19
+In principle, the project can draw on any units in the SQA Advanced Diploma in Electrical
+Engineering framework although the majority of units should be at SCQF level 8. The
+project can be taken from one Electrical Engineering area (eg Electrical Machines) or it
+can span more than one technical area. However, its principal purpose is not to integrate
+technical content (this is covered in Electrical Engineering: Graded Unit 1) but rather to
+combine such knowledge and skills as planning, construction, testing, evaluating and
+reporting.
+5.3.2 Rationale for the Graded Units Assessment
+The assessment methods ie an examination for Graded Unit 1 and a project for Graded
+Unit 2 were decided through consultation with industry and delivering centres during
+initial consultation on the overarching SQA Advanced Engineering Framework (see SQA
+Advanced Certificate and SQA Advanced Diploma in Electronics Validation Document
+for more details).
+The consultation indicated that an ‘examination’ provided a more accurate way of
+assessing candidates’ abilities to apply and integrate knowledge and understanding from
+various technical and related areas, such as Communication. Furthermore, it was
+considered that during their SQA Advanced Certificate studies candidates will not
+normally develop fully the necessary knowledge and skills to complete a project.
+A project was preferred at the SQA Advanced Diploma level because a project-based
+assignment provides candidates with opportunities to demonstrate not only their
+knowledge and skills in a technical area(s) but also in areas such as planning,
+construction, testing, evaluating and reporting which are important aims within the SQA
+Advanced Diploma in Electrical Engineering award.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 20
+5.4 Core Skills
+The SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+awards have been designed using the new SQA Advanced Design Principles and
+therefore the importance of Core Skills has been recognised and been incorporated,
+where appropriate, throughout the awards.
+5.4.1 SQA Advanced Certificate in Electrical Engineering
+Core Skills Exit Profile
+A candidate who successfully achieves an SQA Advanced Certificate in Electrical
+Engineering will automatically obtain the following Core Skills exit profile:
+• Communication Higher (fully embedded in the unit Communication: Practical
+Skills)
+• Numeracy Using Number component of Numeracy Core Skill at Higher
+(embedded in the unit Mathematics for Engineering 1:
+Electronics and Electrical)
+Core Skills Entry Profile
+Given the information on Core Skills provided in the previous section the following
+candidate Core Skills entry profile is recommended:
+• Communication Intermediate 2
+• Information Technology Intermediate 2
+• Numeracy Intermediate 2
+• Problem Solving Intermediate 2
+• Working with Others Intermediate 1
+Unit writers have also identified in individual units opportunities to develop Core Skills.
+These development opportunities are summarised in Figure 5.4.1.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 21
+Figure 5.4.2 SQA Advanced Electrical Units — Core Skills Development Opportunities
+Note 1: Units that were originally developed as part of the new SQA Advanced Certificate/Diploma in Electronics awards are not shown in this table.
+Refer to the new SQA Advanced Certificate/Diploma in Electronics Arrangements Document and the individual unit specifications for the Core
+Skills development opportunities.
+Note 2: CT = Critical Thinking: P&O = Planning & Organisation and R and E = Reviewing & Evaluating
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Three Phase
+Systems (HT7K 47)
+Higher Higher Higher
+Electricity Power
+Systems (HV3L 47)
+Higher Higher Higher Higher Higher Higher
+Electrical Machine
+Principles (HT83 47)
+Higher Higher Higher Intermediate 1
+Working co-
+operatively with
+others in a group
+when analysing
+constructional
+features of machines
+and when
+undertaking
+laboratory work
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 22
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with Others
+Electrical Safety
+(HV3A 47)
+Higher
+Reading
+complex
+Health &
+Safety
+docum-
+entation
+Int 1
+Com-
+pleting
+work
+permit
+Higher Intermediate 2
+Work with others in a
+role play scenario: eg
+issuing a Permit to
+Work, identifying risk
+factors
+Application of
+Electrical and
+Electronic
+Instruments
+(HV2H 46)
+Higher Int 2 Int 2
+Searching for
+manufacturers’
+data on
+instruments on the
+Internet
+Int 2 Int 2
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 23
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with Others
+Power Electronics
+(HT1W 47)
+Higher Higher Higher Higher Int 2
+Simulation of
+circuits plus search
+of manufacturers’
+data on power
+electronic devices
+Higher Int 2
+Fundamentals of
+Control Systems
+and Transducers
+(HT1R 47)
+Higher Higher Higher Higher Int 1
+Opportunities to work
+in groups for
+laboratory
+investigations
+Electrical
+Installation
+Design
+(HV5X 48)
+Higher Higher Higher Int 2 Higher Higher Int 2
+Scope for Working
+with Others within
+Installation Learning
+Design Exercises (eg
+planning and
+organising role)
+Electrical Motor
+Drive Systems
+(HT7M 48)
+Higher Higher Higher Higher Higher
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 24
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Transformers
+(HV4X 48)
+Higher Higher Higher Higher
+Utilisation of
+Electrical
+Energy in
+Buildings (HV4Y
+48)
+Higher Higher Higher Higher Higher Highe
+r
+Higher
+Inspection and
+Testing of Low
+Voltage
+Electrical
+Installations
+(HV2L 47)
+Higher Int 2 Higher Int 2 Int 2
+Electrical
+Systems in
+Potentially
+Explosive and
+Gas Hazardous
+Environments
+(HV3K 47)
+Higher Int 2
+Searching on the
+Internet for
+manufacturers’
+data on apparatus
+to provide
+explosion
+protection or
+intrinsically safe
+equipment
+Higher
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 25
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Analogue
+Electronics: An
+Introduction
+(HT7J 46)
+Int 2 Int 2 Int 2 Int 2
+Simulation of
+circuits plus search
+of manufacturers’
+data on electronic
+devices
+Int 2 Int 1
+Opportunities to
+work in groups for
+laboratory
+investigations
+Digital
+Electronics
+(HT7L 47)
+Int 2 Int 1 Int 2 Int 2
+Simulation of
+circuits plus search
+of manufacturers’
+data on electronic
+devices
+Int 2 Int 1
+Opportunities to
+work in groups for
+laboratory
+investigations
+Quality
+Management:
+An Introduction
+(HT7A 47)
+Int 2 Int 2 Higher
+Control Systems
+Behaviour
+(HV51 48)
+Higher Higher Higher Higher Higher Higher Higher
+Switchgear and
+Protection of
+High Voltage
+Systems
+(HV4V 48)
+Higher Higher Higher Higher Higher
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 26
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Applications of
+Power
+Electronics in
+Electrical Motor
+Drive Systems
+(HV50 48)
+Higher Higher Higher Higher Int 2
+Opportunities to
+search on the
+Internet for
+manufacturers’
+information
+Higher Highe
+r
+Higher
+Three Phase
+Induction Motors
+(HV3G 48)
+Higher Higher Higher Higher Higher Highe
+r
+Higher
+Synchronous
+Machines
+(HV4W 48)
+Higher Higher Higher Int 2
+Use of software
+packages to
+simulate
+synchronous
+machine operation
+Higher Higher
+Industrial Plant
+Maintenance
+(HV2K 47)
+Higher Higher Int 2 Int 2
+Use of CMSS
+software
+Higher Highe
+r
+Higher Int 1
+Opportunities to
+work in groups to
+develop
+maintenance
+strategies for
+different scenarios
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 27
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Electrical
+Standby
+Systems
+(HV53 48)
+Higher Higher Int 2 Higher Int 2
+Opportunities to
+search on the
+Internet for
+manufacturers’
+information
+Higher Higher
+Electrical
+Installation Skills
+(HV3M 47)
+Int 1 Int 2
+Electrical
+Installation
+Design:
+Computer Aided
+(HV52 48)
+Higher Higher Higher Higher Higher Highe
+r
+Int 1
+Working in small
+groups for learning
+how to use the
+software
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 28
+5.5 Conditions of the Award
+The conditions of award for SQA Advanced Certificate and SQA Advanced Diploma in
+Electrical Engineering qualifications are as follows:
+5.5.1 SQA Advanced Certificate in Electrical Engineering
+A candidate will be awarded SQA Advanced Certificate in Electrical Engineering on
+successful completion of 11 unit credits plus 1 Graded Unit based on the SQA Advanced
+Certificate in Electrical Engineering award structure shown in Section 5.1. More specifically
+this award structure requires that a candidate achieves the following:
+• the 1 unit credit Communication: Practical Skills within the mandatory section
+• the remaining eight unit credits from the mandatory section
+• two unit credits from the optional section
+• Electrical Engineering: Graded Unit 1 Examination
+5.5.2 SQA Advanced Diploma in Electrical Engineering
+A candidate will be awarded SQA Advanced Diploma in Electrical Engineering on
+successful completion of 27 unit credits plus 3 Graded Unit Assessment credits based on
+the SQA Advanced Diploma in Electrical Engineering award structure shown in Section 5.2.
+More specifically this award structure requires that candidates achieve the following:
+• the 3 unit credits Communication: Practical Skills, Information Technology:
+Applications Software 1 and Business Awareness and Continuing Professional
+Development within the mandatory section
+• remaining 17 unit credits from the mandatory section
+• seven unit credits from the optional section
+• Electrical Engineering: Graded Unit 1 and Electrical Engineering: Graded Unit
+5.6 SCQF levels
+Figures 5.6.1 and 5.6.2 show the distribution of SCQF levels in the SQA Advanced
+Certificate and SQA Advanced Diploma in Electrical Engineering awards respectively in
+the mandatory sections. It can be seen from Figure 5.6.1 that all units in the SQA
+Advanced Certificate Electrical Engineering mandatory section are at level 7 except for
+two, the Mathematics for Engineering 1: Electronic and Electrical Unit and the Application
+of Electrical and Electronic Instruments Unit, which are both at level 6. The Table shows
+that the number of SCQF level 7 units substantially exceeds the minimum of 48 SCQF
+credit points required to be in an SQA Advanced Certificate to satisfy the new SQA
+Advanced Design Principles.
+From the outset of developments, the SQA Advanced Electrical Development Team
+recognised that the level of Mathematics achieved by the average candidate entering the
+current SQA Advanced Certificate in Engineering: Electrical award was around
+Intermediate 2 (Standard Grade Credit level) and there was a need to include a SCQF
+level 6 Mathematics Unit in the SQA Advanced Certificate] (and the first year of the SQA
+Advanced Diploma in Electrical Engineering) which consolidated candidates’ existing
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 29
+knowledge and understanding of Mathematics particularly in the areas of transposing and
+solving equations and trigonometry, skills that are so important in the field of Electrical
+Engineering.
+The Application of Electrical and Electronic Instruments Unit was originally levelled at
+SCQF level 7, but was relevelled at SCQF level 6 as a result of the validation process.
+As noted above, the SQA Advanced Electrical Development Team has levelled the
+remaining units in the mandatory section of the SQA Advanced Certificate in Electrical
+Engineering at SCQF level 7. The SQA Advanced Electrical Development Team used as
+their benchmarks for levelling, the Highers in Electrical and Electronic Engineering and
+various NQ Electronic and Electrical Engineering units and their knowledge of the content
+of existing degree courses in Electronic and Electrical Engineering.
+It can be seen from Figure 5.6.2 that the minimum number of SCQF level 8 units a
+candidate has to take in the SQA Advanced Diploma in Electrical Engineering is 64 SCQF
+credit points which meets the minimum requirement of 64 SCQF credit points as stated in
+the SQA Advanced Design Principles. However, it is anticipated that most candidates will
+undertake some optional units at level 8 which will mean that they will comfortably exceed
+this minimum requirement. The case for the two level 6 units in the SQA Advanced
+Diploma in Electrical Engineering has already been presented above. A number of the
+SCQF level 8 units in the SQA Advanced Diploma follow on from corresponding level 7
+units and are, therefore, appropriately levelled at SCQF level 8. The SQA Advanced
+Electrical Development Team also used their knowledge of existing second year degree
+courses to level units in the SQA Advanced Diploma in Electrical Engineering award.
+Figure 5.6.1
+Distribution of SCQF levels in the SQA Advanced Certificate in Electrical
+Engineering
+Level 6 Level 7 Level 8 Totals
+SQA
+Minimum
+Requirements
+for level 7
+units
+16 SCQF c.p. 64 SCQF c.p. 0 SCQF c.p. 80 48 SCQF c.p.
+c.p. = credit points
+Figure 5.6.2
+Distribution of SCQF levels in the SQA Advanced Diploma in Electrical Engineering
+Level 6 Level 7 Level 8 Totals
+SQA
+Minimum
+Requirements
+for level 7
+units
+16 SCQF c.p. 104 SCQF
+c.p.
+64 SCQF c.p. 184 64 SCQF c.p.
+c.p. = credit points
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 30
+6 Approaches to delivery and assessment
+6.1 Content and context
+Throughout the design and development of the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards the SQA Advanced Electrical
+Development Team has placed a high priority on producing awards that allow candidates
+to develop appropriate technical and practical skills. As indicated earlier, it is not possible
+to quantify such technical and practice skills in exact detail. However, the Development
+Team has taken the view that the best way to prepare candidates to meet the changing
+technical and practical requirements of the modern Electrical industry is to ensure
+candidates have a solid foundation of theory and practice upon which they can build new
+knowledge, understanding and skills. Thus, the mandatory section of the SQA Advanced
+Certificate in Electrical Engineering contains fundamental studies in Electrical Principles,
+Electrical Machines, Power Systems, Electrical Safety and Application of Instruments.
+The SQA Advanced Diploma in Electrical mandatory section builds on and extends these
+studies. The studies in Electrical Engineering are underpinned by the inclusion of a core
+Mathematics Unit in the SQA Advanced Certificate and two core Mathematics units in the
+SQA Advanced Diploma. The SQA Advanced in Electrical Development Team believes
+that a good grasp of mathematics is essential to the understanding of Electrical
+Engineering.
+The optional sections of both the SQA Advanced Certificate and SQA Advanced Diploma
+in Electrical Engineering provide candidates with the opportunity to specialise in technical
+and/or non-technical subjects. In line with normal good practice centres are encouraged
+to advise candidates to choose those options that best meet their future career and
+educational aspirations.
+The SQA Advanced Electrical Development Team has also ensured that the two new
+awards contain opportunities for candidates to develop a range of related skills which
+would make the holder of the awards better prepared for employment and/or degree
+studies. For example, the Communication: Practical Skills Unit has been included within
+the mandatory sections of both SQA Advanced Certificate and SQA Advanced Diploma
+awards to provide candidates with the opportunity to develop their written and group
+discussion skills about complex vocational issues.
+While a discrete Information Technology unit is no longer included within the SQA
+Advanced Certificate mandatory section centres will still have the opportunity to access
+such a unit via the optional section of the SQA Advanced Certificate (Information
+Technology: Applications Software 1). Even where centres choose not to select this unit
+from the optional section there are a number of opportunities to develop Information
+Technology knowledge and skills within individual units. The Information Technology:
+Applications Software 1 unit has been included within the core of the SQA Advanced
+Diploma to allow centres to concentrate on business applications, such as word
+processing, spreadsheets, databases, or engineering specific applications or a
+combination of the two.
+A new type of Business Studies unit, entitled Business Awareness and Continuing
+Professional Development, has been included within the mandatory section of the SQA
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 31
+Advanced Diploma in Electrical Engineering. This unit focuses on two areas which the
+SQA Advanced Electrical Development Team considered important to working in the
+modern electrical industry: namely the external and internal factors that affect business
+performance and the need for continuing learning and development if candidates are to
+have sustainable and rewarding employment in the future.
+6.2 Delivery
+The new SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering awards can be delivered on a full-time, block-release, part-time day or part-
+time evening basis.
+In timetabling the two new awards, centre staff should take account of information
+contained in the recommended prior knowledge and skills statement in unit specifications
+in sequencing the delivery of units. For example, the Single Phase AC Circuits unit would
+normally be delivered before the Electrical Networks and Resonance. Examples of a full-
+time SQA Advanced Certificate in Electrical Engineering and 2nd Year SQA Advanced
+Diploma in Electrical Engineering timetables are shown in Appendix 1.
+One of the key reasons the SQA Advanced Electrical Development Team has sought to
+reduce the time candidates have to spend on summative unit assessment is to provide
+lecturers with more time to deliver units. Lecturers are encouraged, in particular, to use
+this additional time to reinforce learning in core electrical principles and technologies and
+enhance the development of candidates’ practical electrical skills.
+Lecturers may use a variety of teaching and learning approaches in delivering the units in
+the SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+awards. These may include lecturing, group work, laboratory and practical work,
+computer simulation (using appropriate software packages), project work and case
+studies. The use of open and distance learning and online materials may help to
+supplement and support the learning that takes place in the classroom, laboratory or
+workshop.
+Industrial visits are encouraged wherever possible to provide ‘real life’ industrial
+examples of the application of the theory and practice learned in the classroom,
+laboratory or workshop.
+The SQA Advanced Electrical Development Team recognises the very important role
+computer simulation, such as electrical installation software, plays in the modern
+electrical industry. The Team would actively encourage the use of computer simulation
+wherever appropriate but not at the expense of candidates doing practical work. The
+Team believe it is very important that candidates get as much exposure as possible to
+practical electrical hand skills, the use of electrical and electronic test equipment and
+other practical electrical activities if they are to be suitably prepared to work in industry.
+Lecturers should also seek opportunities to integrate Core Skills within their teaching and
+learning programmes. Such opportunities may include the following:
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 32
+Communication
+• Providing candidates opportunities to develop their oral skills by allowing them to
+give full answers to questions asked by the lecturer and by giving an oral
+presentation in the SQA Advanced Diploma in Electrical Engineering Graded Unit
+project
+• Develop complex, vocationally specific reading skills (eg Electrical Safety, Industrial
+Plant Maintenance etc)
+• Develop report writing skills in a number of units (eg Electrical Power Systems,
+Three Phase Induction Motors etc)
+• Allowing candidates to develop their Communication skills in group work activities
+(eg Communication: Practical Skills, Electrical Safety)
+Numeracy
+• Reinforcing Numeracy and Mathematical skills when teaching electrical
+engineering topics (eg Electrical Machine Principles, Electrical Networks and
+Resonance, Synchronous Machines etc)
+• Reinforcing Using Graphical information skills by use of a range of graphical
+representations (eg Power Electronics, Fundamentals of Control Systems and
+Transducers etc)
+Information Technology
+• Develop Information Technology skills through the application of IT within an
+Electrical Engineering context (eg Control Systems Behaviour, Electrical
+Installation Design: Computer Aided etc)
+Problem Solving Skills
+• Develop Critical Thinking Skills through the application of electrical engineering
+principles and technologies to solve electrical engineering problems
+• Develop Planning and Organisational skills (eg Utilisation of Electrical Energy in
+Buildings, Industrial Plant Maintenance etc)
+• Develop reviewing and evaluation skills through, for example, the review and
+evaluation of the Outcomes of assignments and project work (eg Applications of
+Power Electronics in Electrical Motor Drive Systems, Electrical Standby Systems
+etc)
+Working with Others
+• Develop Working with Others skills through group discussion on the solution to
+electrical engineering problems (eg Electrical Safety — role play scenario: eg
+issuing a Permit to Work, identifying risk factors) and laboratory and project work
+(eg Analogue Electronics: An Introduction, Digital Electronics etc)
+6.3 Assessment
+From the outset of developments the SQA Advanced Electrical Development Team
+recognised the need to have an appropriate assessment strategy in place for the
+SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+awards. Such a strategy was developed and is shown below:
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 33
+Aims
+To ensure that:
+(1) consistent, rigorous and efficient approaches are adopted to the development
+and administration of SQA Advanced Electrical Engineering assessment
+instruments at both Unit and Graded Unit levels, which satisfy nationally
+agreed standards
+(2) the assessment load on candidates and staff is sensible and that assessment
+does not unduly detract from teaching and learning
+(3) as far as possible reliable and rigorous moderation processes are put in
+place in order to ensure that consistent national standards are achieved for
+all SQA Advanced Electrical Engineering assessments
+Objectives
+Listed below are the measures that have been put in place to meet the aims:
+(1) Develop nationally at least one assessment exemplar pack for each
+mandatory unit, which clearly sets out the standards of assessment expected
+in the unit.
+(2) Adopt a holistic approach to unit assessment. The implications of this are as
+follows:
+(i) Assessment instruments will normally be designed only to sample
+knowledge and skills in a unit (this is consistent with the new SQA
+Advanced Unit format).
+(ii) A unit assessment strategy will be adopted, where possible, to produce a
+single assessment instrument for the whole unit. Where this is not
+possible the assessment strategy will seek to ensure that the minimum
+number of assessment instruments required are consistent with
+maintaining agreed national standards.
+(3) While not seeking to be entirely prescriptive with regard to the time spent on
+assessment in each SQA Advanced Unit, over assessment should be
+avoided. Assessment times are clearly stated in the individual unit
+specifications.
+(4) Produce assessment exemplar packs for the two Graded Units. For the
+Graded Unit examination produce at least one sample exam paper to show
+the standards expected in such a paper. Likewise, for the 2 Credit Graded
+Unit Electrical Engineering Project produce a set of materials which clearly
+set out the standards of candidate response required to achieve a Grade A
+and a Grade C.
+(5) Actively encourage centres to work in partnership in producing Graded Unit
+assessment materials, which meet nationally agreed standards reducing, in
+turn, the workload on staff in individual colleges.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 34
+(6) Ensure that consistent and rigorous internal and external moderation
+procedures operate through both SQA Advanced Unit level and Integrative
+Assessment processes. This places a clear responsibility on both centres
+and the SQA.
+As far as has been practical the above objectives have been adhered to when
+developing assessment exemplar and Graded Unit materials.
+Assessment Loading Grid
+An Assessment Loading Grid showing the type and duration of assessment in each
+unit is shown in Appendix 2. It is hoped that course planners will find this grid
+helpful in timetabling the two awards.
+Assessment Exemplar Materials
+Assessment exemplar packs are in the process of being produced for all
+mandatory units, and the Graded Units in the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards.
+Graded Unit Assessment Exemplars
+It is recommended that candidates do not sit the Graded Unit examination until the
+end of the SQA Advanced Certificate (1st Year of the SQA Advanced Diploma)
+given the range of units that it draws from. It is recommended that, given the size
+and complexity of the project, that the Graded Unit project is started at the
+beginning of the second year of the SQA Advanced Diploma.
+Formative Assessment
+Formative assessment should be used throughout the delivery of units to reinforce
+learning, build candidates’ confidence and prepare candidates for summative
+assessment.
+6.4 Re-assessment
+The way in which centres reassess candidates is integral to the way they manage
+the award assessment process as a whole. Re-assessment should be subject to
+rigorous internal moderation in exactly the same way as assessment is.
+Candidates may require to be reassessed on only a part of an assessment where
+their evidence has been generated over a period of time and/or a discrete part of
+the unit, such as an Outcome, has been assessed originally. On other occasions in
+may not be possible to reassess candidates on parts of their performance which
+are unsatisfactory. Situations where candidates may have to re-do a whole
+assessment include:
+• assessments which test knowledge and understanding and where it may not be
+possible to extract some of the items for re-assessment purposes
+• where parts of several Outcomes are involved
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 35
+• where a project has been designed as an integral assessment and where there
+is requirement to complete the project as a single complex task
+Re-assessment Opportunities
+Re-assessment should operate in accordance with a centre’s assessment policy
+and the professional judgement of the assessor. SQA advises that there should
+normally be one, or in exceptional circumstances two, re-assessment opportunities.
+Please refer to SQA’s Guide to Assessment and Quality Assurance for Colleges of
+Further Education, August 2003 revisions.
+Developing Alternative Assessments
+The design of original assessments should inform the re-assessment process to a
+large extent, as the original determines the type of assessment instruments used
+and the purpose of the assessment. It is normal practice for centres to build up a
+bank of assessments which can be used in whole or in part for re-assessment
+purposes.
+Assessment writers should always refer to the unit specification when developing
+an alternative assessment to ensure that it is of equal demand to the original
+assessment and that it covers all the necessary criteria. Where candidates have
+not provided satisfactory evidence for knowledge and/or skills items which have
+been sampled, they should be reassessed on a different sample.
+Re-assessing SQA Advanced Graded Units
+Re-assessment of the Electrical Engineering: Graded Unit 1 should be based on an
+alternative examination paper. Re-assessment of Electrical Engineering: Graded
+Unit 2 should normally entail a candidate undertaking a completely new project.
+Where a candidate marginally fails the Electrical Engineering: Graded Unit 2 the
+centre may wish to reassess her/him on that part(s) of the performance which was
+unsatisfactory. Such re-assessment would be at the discretion of the centre and
+should be subject to rigorous internal moderation.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 36
+7 General information for centres
+7.1 Equality and inclusion
+The unit specifications making up this group award have been designed to ensure
+that there are no unnecessary barriers to learning or assessment. The individual
+needs of learners will be taken into account when planning learning experiences,
+selecting assessment methods or considering alternative evidence.
+Further advice can be found on our website
+www.sqa.org.uk/assessmentarrangements.
+7.2 Internal and external verification
+All instruments of assessment used within these group awards should be internally
+verified using the appropriate policy within the centre and the guidelines set by SQA.
+External verification will be carried out by SQA to ensure that internal assessment is
+within the national guidelines for these qualifications.
+Further information on internal and external verification can be found in SQA’s Guide to
+Assessment (www.sqa.org.uk).
+7.3 Assessment moderation
+All assessment instruments used within the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards should be internally moderated,
+including assessment exemplar materials, using appropriate policies within the centre
+and guidelines provided by SQA. This will ensure the validity and reliability of the
+instruments of assessment used within the centre.
+External moderation will be carried out by SQA to ensure that internal assessment is
+within the national guidelines for these qualifications.
+For further information on internal and external moderation refer to the SQA Guide to
+Assessment and Quality Assurance for Colleges of Further Education, August 2003
+revision.
+7.4 Open and Distance Learning
+Advice on the use of open and distance learning is given in individual unit
+specifications. However, where it is used with regard to assessment, planning would
+be required by the centre concerned to ensure the sufficiency and authenticity of
+candidate evidence. Arrangement would be required to be put in place to ensure that
+the assessment or assessments were conducted under the conditions specified in the
+unit specification. For example, in the case of a unit which involved a unit end test a
+centre would have to make arrangements for the test to be conducted under
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 37
+controlled, supervised conditions. Likewise, where a unit involves a practical based
+assessment, a centre would have to make arrangements for candidates to come into
+the centre to undertake the assessment under the conditions specified in the unit
+specification.
+It should be noted that the same requirements as specified in the previous paragraph
+apply where part or all of a unit is delivered online.
+7.5 General information for candidates
+The new SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering awards have been designed by an expert team of educators and
+industrialists with a view to allowing you to meet the educational requirements to work
+as an electrical incorporated engineer. The two new qualifications contain up-to-date
+and relevant electrical subject content and skills and have also been designed to
+satisfy the new SQA Higher National Design Principles.
+The SQA Advanced Electrical Development Team has designed the two new awards
+so that you will have opportunities to learn and understand the core principles and
+technologies that underpin Electrical Engineering. Learning these will be essential in
+providing you with a platform for tackling many electrical tasks and in allowing you to
+develop a more in-depth knowledge of Electrical Engineering. At the same time
+studying the new SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering awards will provide you with opportunities to develop sound practical
+electrical investigation, construction, testing and project skills which are critical to
+being a good electrical technician and/or incorporated engineer.
+As well as studying Electrical subjects you will also take Communication with an
+option to do Information Technology as part of the SQA Advanced Certificate. Good
+Communication skills are essential to understanding technical material, and when
+communicating with others whether on an individual basis or when working as part of
+a team. Information Technology underpins much of the work in Electrical Engineering
+whether this is through computer simulation of electrical and electronic circuits or
+systems or in preparing a written report on the work you have been involved in.
+Opportunities to develop Information Technology knowledge and skills are available in
+a number of units in the SQA Advanced Certificate, but an optional unit on Information
+Technology Applications is also available if you wish to consolidate your skills in this
+area.
+The Communication and Information Technology units are mandatory within the SQA
+Advanced Diploma in Electrical Engineering award although you will not need to study
+these units if you have already done so as part of the SQA Advanced Certificate.
+There is an additional mandatory core unit in the SQA Advanced Diploma in Electrical
+Engineering award entitled Business Awareness and Continuing Professional
+Development. This unit will provide you with an awareness of the business pressures
+on modern electrical companies and what strategies they are adopting to meet these
+pressures. The unit will also provide you with the opportunity to develop your own
+career and education action plan for the next five years or so.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 38
+As already mentioned Electrical Engineering is very much about learning and
+understanding core principles and technologies while also doing practical work such
+as constructing and testing circuits and project work. Thus, while taking the SQA
+Advanced Certificate and SQA Advanced Diploma in Electrical Engineering awards
+you can anticipate that the teaching and learning approaches adopted by your
+lecturers will include the following: lecturing, group work, practical electrical and
+electronics work, inspection and testing, computer simulation of circuits and
+installations and project work.
+The Electrical Development Team has ensured that assessments in the two awards
+meet national standards. The two awards have been designed to optimise
+assessment so that sufficient time is available for you to learn the electrical principles
+and technologies and the practical skills that are essential to being a good electrical
+technician and incorporated engineer.
+You can expect to do assessment at individual unit level and at qualification level. At
+unit level, assessment will consist of some form of written end test, or a combination
+of short written test and practical exercise or a purely practical exercise. Your lecturer
+should tell you at the start of the unit what form the unit assessment will take. In
+additional, to unit tests there will also be a 3-hour examination at SQA Advanced
+Certificate level and a 2-credit project at SQA Advanced Diploma level. Both these
+assessments have been designed to allow you to demonstrate your ability to integrate
+knowledge, understanding and skills learned in the two awards as a whole.
+The SQA Advanced Electrical Development Team does not wish to place any artificial
+barriers in the way of potential candidates wanting to study the two awards. However,
+it would be unfair to enrol a candidate into the SQA Advanced Certificate and SQA
+Advanced Diploma who did not have a realistic chance of successfully achieving
+either or both awards. The SQA Advanced Electrical Development Team would
+therefore recommend that a candidate had one of the following qualifications before
+entering the SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering:
+(1) One Higher from Physics, Technological Studies or Higher Mathematics and
+at least three Standard Grades 1-2/Intermediate 2 passes including
+Mathematics, Physics/Technological Studies and English.
+(2) A National Certificate in Electrical Engineering or Electronic Engineering.
+(3) Equivalent qualifications or experience to those shown in (1) and (2).
+An SQA Advanced Certificate and SQA Advanced Diploma in Electrical Engineering
+award no longer satisfies the full academic requirements to become an incorporated
+engineer (a degree is now required). However, the new SQA Advanced Certificate
+and SQA Advanced Diploma in Electrical Engineering awards provide a very solid
+platform for candidates to proceed to the advanced stages of a degree programme in
+Electrical Engineering. Ask your lecturer about progression arrangements your college
+has with any universities.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 39
+7.6 Relationship to other awards
+An SQA Advanced Certificate and SQA Advanced Diploma in Electronics were
+validated in 2004. Since a number of units are common between SQA Advanced
+Certificate and SQA Advanced Diploma in Electrical Engineering and Electronics
+awards candidates will have opportunities to transfer a significant number of units
+between the various awards. More limited opportunities will exist for candidates to
+transfer units between the SQA Advanced Certificate and SQA Advanced Diploma in
+Electrical Engineering awards and awards in Mechanical Engineering, Manufacturing
+Systems, Mechatronics, General Engineering and Fabrication and Welding and vice
+versa.
+7.7 Articulation arrangements
+All the universities in Scotland were contacted regarding possible articulation routes
+between the SQA Advanced Certificate and SQA Advanced Diploma in Electrical
+Engineering awards and degree courses offered by the universities. In general terms,
+universities indicated that they will allow candidates with an SQA Advanced Certificate
+to enter the first year of their electrical engineering (or related engineering) degree
+programmes. Candidates with an SQA Advanced Diploma will normally be allowed to
+enter the second year of a degree programme provided they have the unit,
+Mathematics for Engineering 3.
+8 Glossary of terms
+Embedded Core Skills: The assessment evidence for the unit also includes full
+evidence for complete Core Skill or Core Skill components. A learner successfully
+completing the unit will be automatically certificated for the Core Skill. (This depends
+on the unit having been successfully audited and validated for Core Skills
+certification.)
+Finish date: The end of a group award’s lapsing period is known as the finish date.
+After the finish date, the group award will no longer be live and the following applies:
+• Candidates may not be entered for the group award.
+• The group award will continue to exist only as an archive record on the Awards
+Processing System (APS).
+Graded unit: Graded units assess learners’ ability to integrate what they have learned
+while working towards the units of the group award. Their purpose is to add value to
+the group award, making it more than the sum of its parts, and to encourage learners
+to retain and adapt their skills and knowledge. (Note to writer: delete if not applicable
+to product type).
+Lapsing date: When a group award is entered into its lapsing period, the following will
+apply:
+• The group award will be deleted from the relevant catalogue.
+• The group award specification will remain until the qualification reaches its finish
+date, at which point it will be removed from SQA's website and archived.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 40
+• No new centres may be approved to offer the group award.
+• Centres should only enter candidates whom they expect to complete the group
+award during the defined lapsing period.
+SQA credit value: The credit value allocated to a unit gives an indication of the
+contribution the unit makes to an SQA group award. An SQA credit value of 1 given to
+an SQA unit represents approximately 40 hours of programmed learning, teaching,
+and assessment.
+SCQF: The Scottish Credit and Qualification Framework (SCQF) provides the national
+common framework for describing all relevant programmes of learning and
+qualifications in Scotland. SCQF terminology is used throughout this guide to refer to
+credits and levels. For further information on the SCQF, visit the SCQF website at
+www.scqf.org.uk.
+SCQF credit points: SCQF credit points provide a means of describing and
+comparing the amount of learning that is required to complete a qualification at a
+given level of the framework. One National Unit credit is equivalent to 6 SCQF credit
+points. One National Unit credit at Advanced Higher and one SQA Advanced Unit
+credit (irrespective of level) is equivalent to 8 SCQF credit points.
+SCQF levels: The level a qualification assigned within the framework is an indication
+of how hard it is to achieve. The SCQF covers 12 levels of learning. SQA Advanced
+Certificates and SQA Advanced Diplomas are available at SCQF levels 7 and 8,
+respectively. SQA Advanced units will normally be at levels 6–9 and graded units will
+be at level 7 and 8. National Qualification Group Awards are available at SCQF levels
+2–6 and will normally be made up of National Units which are available from SCQF
+levels 2–7.
+Subject unit: These contain vocational/subject content and are designed to test a
+specific set of knowledge and skills.
+Signposted Core Skills: These refer to opportunities to develop Core Skills in
+learning and teaching, but are not automatically certificated.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 41
+9 History of changes
+It is anticipated that changes will take place during the life of the qualification, and this section
+will record these changes. This document is the latest version and incorporates the changes
+summarised below. Centres are advised to check SQA Connect to confirm that they are using
+the most up-to-date qualification structure.
+NOTE: Where a unit is revised by another unit:
+• No new centres may be approved to offer the unit which has been revised.
+• Centres should only enter candidates for the unit which has been revised where they
+are expected to complete the unit before its finish date.
+Version
+number
+Description Date
+Acknowledgements
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+Further information
+Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or 0345 279 1000. Alternatively,
+complete our Centre Feedback Form
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 42
+Appendix 1: SQA Advanced Certificate and SQA
+Advanced Diploma Timetables
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 43
+SQA Advanced Certificate: Guidelines for the delivery of mandatory units
+(Also Year 1 of the SQA Advanced Diploma Award)
+Centre Year Block 1 Block 2 Block 3 Block 4
+Unit Title
+Communication: Practical Skills
+Single Phase AC Circuits
+OR
+DC and AC Principles
+Three Phase Systems
+Electricity Power Systems
+Electrical Machine Principles
+Electrical Safety
+Mathematics for Engineering 1:
+Electronics and Electrical
+Application of Electrical and
+Electronic Instruments
+Electronic Instruments
+Electrical Engineering: Graded Unit
+1
+Option 1
+Option 2
+It is recognised that timetabling in a four block system is not done by every centre. The above grid is therefore only a guide indicating the order of
+delivery of units.
+The SQA Advanced Certificate units will normally make up the first year of the SQA Advanced Diploma timetable.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 44
+SQA Advanced Certificate: Guidelines for the delivery of mandatory units
+(Year 2 of the SQA Advanced Diploma Award)
+Centre Year Block 1 Block 2 Block 3 Block 4
+Unit Title
+IT: Applications Software
+Business Awareness and CPD
+Electrical Networks and Resonance
+Power Electronics
+Fundamentals of Control Systems
+and Transducers
+Mathematics for Engineering 2
+Transmission Lines and Complex
+Waves
+Electrical Installation Design
+Electrical Motor Drive Systems
+Transformers
+Utilisation of Electrical Energy in
+Buildings
+As with the previous SQA Advanced Certificate grid, it is recognised that timetabling in a four block system is not done by every centre. The above grid
+is therefore only a guide indicating the order of delivery of units.
+Centres may wish to spread the delivery of units over more than one block which would allow more units to be delivered in parallel.
+Whichever delivery arrangement is used, it is important to complete the delivery of ALL the SQA Advanced Diploma units over the two years of a full-
+time programme.
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 45
+Appendix 2: Assessment Loading Grid
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 46
+SQA Advanced Certificate/SQA Advanced Diploma in Electrical Engineering Group Award
+Summary Assessment Loading: SQA Advanced Certificate in Electrical Engineering mandatory units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+HP4A 47 Communication: Practical Skills Summary/Evalu
+ation
+Assignment
+--- Business
+Document
+Assignment
+--- Spoken
+Communication
+Assignment
+---
+HP48 46 Mathematics for Engineering 1: Electronics and
+Electrical
+Written
+Question Paper
+1 hour 40 mins
+HP46 47 DC and AC Principles Written
+Question Paper
+1 hour 30 mins
+HT7K 47 Three Phase Systems Written
+Question Paper
+2 hours
+HV3L 47 Electricity Power Systems Industrial
+Assignment
+--- Written Question
+Paper
+1 hour 30
+mins
+HT83 47 Electrical Machine Principles Written
+Question Paper
+2 hours Written Question
+Paper
+2 hours
+HV3A 47 Electrical Safety Written
+Question Paper
+1 hour 30 mins Permit to work
+Assignment
+---
+HV2H 46 Application of Electrical and Electronic
+Instruments
+Written
+Question Paper
+1 hour Practical
+Assignment &
+Report
+6 hours
+HV4C 47 Electrical Engineering:
+Graded Unit 1
+Examination
+(1 credit)
+3 hours
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 47
+Mandatory Section Assessment Summary:
+Eight Written Question Papers (Total assessment time = 13 hours 10 mins) + Graded Unit 1 (Total assessment time = 3 hours) + six
+assignments: SQA Advanced Certificate in Electrical Engineering optional units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+HP3J 47 Electrical Networks and Resonance Written Question Paper 1 hour 30 mins
+HP6L 47 Information Technology: Applications
+Software 1
+Project/Case Study
+Assignment
+HT1W 47 Power Electronics Written Question Paper 1 hour 30 mins Laboratory
+exercise
+1 hour 30
+mins
+HV2L 47 Inspection and Testing of Low Voltage
+Electrical Installations
+Written Question Paper 1 hour 30 mins Practical Testing
+and Certification
+Assignment
+---
+HT1K 47 Application of Programmable Logic
+Controllers
+Written Question Paper 1 hour 30 mins PLC Simulated
+Assignment
+---
+HV3K 47 Electrical Systems in Potentially Explosive
+and Gas Hazardous Environments
+Written Question Paper 1 hour Written
+Question Paper
+1 hour
+HT1R 47 Fundamentals of Control Systems and
+Transducers
+Written Question Paper 2 hours Laboratory
+exercise
+2 hours
+HP49 47 Mathematics for Engineering 2 Written Question Paper 1 hour 30 mins
+HV3M 47 Electrical Installation Skills Identification/
+Application Assignment
+--- Practical
+Assignment
+--- Practical
+Assignment
+---
+HT7A 47 Quality Management: An Introduction Written Question Paper 1 hour Case Study
+Assignment
+--- Case Study
+Assignment
+1 hour
+HV3G 48 Three Phase Induction Motors Written Question Paper 2 hours Assignment
+Report
+---
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 48
+SQA Advanced Diploma in Electrical Engineering mandatory units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+HP4A 47 Communication: Practical Skills Summary/Evaluation
+Assignment
+--- Business
+Document
+Assignment
+--- Spoken
+Communication
+Assignment
+---
+HP6L 47 Information Technology: Applications
+Software 1
+Project/Case Study
+Assignment
+---
+HP3H 48 Business Awareness and Continuing
+Professional Development
+Case Study Assignment --- CPD Action Plan
+Assignment
+---
+HP48 46 Mathematics for Engineering 1: Electronics
+and Electrical
+Written Question Paper 1 hour 40 mins
+HP46 47 DC and AC Principles Written Question Paper 1 hour 30 mins
+HT7K 47 Three Phase Systems Written Question Paper 2 hours
+HV3L 47 Electricity Power Systems Industrial Assignment --- Written Question
+Paper
+1 hour 30
+mins
+HT83 47 Electrical Machine Principles Written Question Paper 2 hours Written Question
+Paper
+2 hours
+HV3A 47 Electrical Safety Written Question Paper 1 hour 30mins Permit to work
+Assignment
+---
+HV2H 46 Application of Electrical and Electronic
+Instruments
+Written Question Paper 1 hour Practical
+Assignment and
+Report
+6 hours
+HP3J 47 Electrical Networks and Resonance Written Question Paper 1 hour 30 mins
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 49
+SQA Advanced Diploma in Electrical Engineering mandatory units (continued)
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+HT1W 47 Power Electronics Written Question Paper 1 hour 30 mins Laboratory
+exercise
+1 hour 30
+mins
+HT1R 47 Fundamentals of Control Systems and
+Transducers
+Written Question Paper 2 hours Laboratory
+Exercise
+2 hours
+HP49 47 Mathematics for Engineering 2 Written Question Paper 1 hour 30 mins
+HT1H 48 Transmission Lines and Complex Waves Written Question
+Paper
+2 hours
+HV5X 48 Electrical Installation Design Written Question Paper 2 hours Project-based
+Assignment
+---
+HT7M 48 Electrical Motor Drive Systems Written Question Paper 2 hours Investigation
+Assignment
+---
+HV4X 48 Transformers Written Question Paper 2 hours Laboratory/Case
+Study
+Investigation
+Assignment
+1 hour
+HV4Y 48 Utilisation of Electrical Energy in Buildings Design Scheme
+Assignment
+--- Design Scheme
+Assignment
+--- Design Scheme
+Assignment
+---
+HV4C 47 Electrical Engineering:
+Graded Unit 1
+Examination
+(1 credit)
+3 hours
+J1RC 48 Electrical Engineering: Graded Unit 2 Project (2 credits) --- --- --- --- ---
+Mandatory Section Assessment Summary:
+16 Written Question Papers (Total assessment time = 27 hours 40 mins)
++ Graded Unit 1 (Total assessment time 3 hours)
++ 17 Assignments
++ Graded Unit 2 (2 credit project)
+SQA Advanced Certificate and Diploma in Electrical Engineering
+Group Award Specification: SQA Advanced Certificate (GP6C 48) and Diploma (GP6D 47) in Electrical Engineering 50
+SQA Advanced Diploma in Electrical Engineering optional units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+HV2L 47 Inspection and Testing of Low Voltage
+Electrical Installations
+Written Question
+Paper
+1 hour 30 mins Practical Testing
+and Certification
+Assignment
+---
+HT1K 47 Application of Programmable Logic
+Controllers
+Written Question
+Paper
+1 hour 30mins PLC Simulated
+Assignment
+---
+HV3K 47 Electrical Systems in Potentially Explosive
+and Gas Hazardous Environments
+Written Question
+Paper
+1 hour Written Question
+Paper
+1 hour
+HT7J 46 Analogue Electronics: An Introduction Written Question
+Paper
+1 hour 30 mins Practical
+As
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 4:00 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 4:00 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 1, 2024, 4:02 PM (3 days ago)
+
+Skip to content Skip to main navigation Skip to sub navigation Skip to Accessibility Page SQA Site Search Main Menu - Qualifications - Deliver qualifications - 
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 4:02 PM (3 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 1, 2024, 4:02 PM (3 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:27 PM (2 days ago)
+
+- Advanced Mathematical studies Use the tabs below to open each section individually. Alternatively you can hide all the sections. Qualification structure Group
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:27 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:27 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:30 PM (2 days ago)
+
+SQA Advanced Unit (HT7L 47): Digital Electronics 1 SQA Advanced Unit specification General information for centres Unit title: Digital Electronics Unit code: HT
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:30 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:30 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:33 PM (2 days ago)
+
+HV5X 48, Electrical Installation Design (SCQF level 8) 1 SQA Advanced Unit Specification: general information for centres Unit code: HV5X 48 Superclass: TH This
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:33 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:33 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:34 PM (2 days ago)
+
+SQA Advanced Unit (HT7M 48): Electrical Motor Drive Systems 1 Unit title: Electrical Motor Drive Systems Unit code: HT7M 48 Unit purpose: This Unit has been des
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:34 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:34 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. The response from the remote serve
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:37 PM (2 days ago)
+
+HV3A 47, Electrical Safety (SCQF level 7) 1 SQA Advanced Unit Specification: general information Unit title: Electrical Safety Unit code: HV3A 47 Superclass: XJ
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:38 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:38 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Jul 2, 2024, 3:41 PM (2 days ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+SQA Advanced Unit Specification
+General information
+Unit title: Energy Technologies
+Unit code: HT1L 48
+Superclass: QB
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+The Unit is designed to enable learners to develop knowledge and understanding in a range
+of technologies related to energy production on an industrial scale. Traditional, renewable
+and emerging and/or less common technologies will be considered in relation to key
+components, principles of operation, operational aspects and environmental and
+sustainability factors as appropriate.
+The Unit is optional for learners in Engineering-related SQA Advanced Awards. It could also
+be used as a stand-alone Unit where appropriate.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Analyse the technologies and factors associated with traditional methods of energy
+production.
+2 Analyse the technologies and factors associated with renewable methods of energy
+production.
+3 Describe the technologies and factors associated with emerging and/or less common
+sustainable methods of energy production.
+Credit points and level
+1 SQA Credit at SCQF level 8: (8 SCQF credit points at SCQF level 8).
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 2
+Recommended entry to the Unit
+While entry is at the discretion of the centre, learners would normally be expected to have
+attained the entry requirements specific to the SQA Advanced Certificate/Diploma award.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes for this
+Unit specification.
+There is no automatic certification of Core Skills or Core Skill components in this Unit.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+Equality and inclusion
+This Unit specification has been designed to ensure that there are no unnecessary barriers
+to learning or assessment. The individual needs of learners should be taken into account
+when planning learning experiences, selecting assessment methods or considering
+alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 3
+SQA Advanced Unit Specification: Statement of standards
+Unit title: Energy Technologies
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Analyse the technologies and factors associated with traditional methods of energy
+production.
+Knowledge and/or Skills
+• Components, principles of operation, operational aspects, energy produced and
+environmental and sustainability factors associated with:
+— coal based technologies
+— gas based technologies
+— oil based technologies
+— nuclear based technologies
+Outcome 2
+Analyse the technologies and factors associated with renewable methods of energy
+production.
+Knowledge and/or Skills
+• Components, principles of operation, operational aspects, energy produced and
+environmental and sustainability factors associated with:
+— onshore wind turbines
+— offshore wind turbines
+— catchment based hydroelectric schemes
+— pumped storage based hydroelectric schemes
+— solar photovoltaic based technologies
+— solar thermal based technologies
+— biomass based technologies
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 4
+Outcome 3
+Describe the technologies and factors associated with emerging and/or less common
+sustainable methods of energy production.
+Knowledge and/or Skills
+• Components, principles of operation, operational aspects and environmental and
+sustainability factors associated with:
+— tidal based schemes
+— wave based schemes
+— geothermal based schemes
+— waste based technologies
+Evidence Requirements for this Unit
+Outcome 1
+Evidence for the Knowledge and/or Skills in this Outcome will be generated through
+sampling. Each learner will need to provide evidence to demonstrate they can analyse two of
+the four technologies and factors associated with traditional methods of energy production.
+The evidence should be responses to specific questions.
+To ensure that learners will not be able to foresee all the items they will be questioned about,
+a different sample should be used on successive assessment occasions. The new sample
+may contain a maximum of one of the Knowledge and/or Skills used in the previous
+assessment occasion.
+A learner’s response can be judged to be satisfactory where the evidence shows that the
+learner can:
+• Describe the key components of the chosen technology.
+• Explain the principles of operation of the chosen technology.
+• Explain the operational aspects of the chosen technology.
+• Describe the environmental and sustainability factors of the chosen technology.
+• Determine the energy produced using supplied data for the chosen technology.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+Outcome 2
+Evidence for the Knowledge and/or Skills in this Outcome will be generated through
+sampling. Each learner will need to provide evidence to demonstrate they can analyse three
+of the seven technologies and factors associated with renewable methods of energy
+production. Each sample should consist of one wind and one hydro technology plus one from
+either solar or biomass. The evidence should be responses to specific questions.
+To ensure that learners will not be able to foresee all the items they will be questioned about,
+successive assessment occasions should contain a different sample. As before, the
+requirement for one wind and one hydro to be included is valid although the choice of which
+wind (onshore or offshore) and which hydro (catchment or pumped storage) may be
+changed. The same solar technology cannot be used on the next assessment occasion. If
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 5
+biomass technology was used in the assessment occasion then one of the solar technologies
+must be used on the next assessment occasion
+A learner’s response can be judged to be satisfactory where the evidence shows that the
+learner can:
+• Describe the key components of the chosen technology.
+• Explain the principles of operation of the chosen technology.
+• Explain the operational aspects of the chosen technology.
+• Describe the environmental and sustainability factors of the chosen technology.
+• Determine the energy produced using supplied data for the chosen technology.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+Outcome 3
+Evidence for the Knowledge and/or Skills in this Outcome will be generated through
+sampling. Each learner will need to provide evidence to demonstrate they can describe two
+of the four technologies and factors associated with emerging and/or less common
+sustainable methods of energy production. The evidence should be responses to specific
+questions.
+To ensure that learners will not be able to foresee all the items they will be questioned about,
+a different sample of technologies should be used on successive assessment occasions. The
+new sample may contain a maximum of one of the technologies used in the previous
+assessment occasion.
+A learner’s response can be judged to be satisfactory where the evidence shows that the
+learner can:
+• Describe the key components of the chosen technology.
+• Explain the principles of operation of the chosen technology.
+• Explain the operational aspects of the chosen technology.
+• Describe the environmental and sustainability factors of the chosen technology.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 6
+SQA Advanced Unit Specification:Support notes
+Unit title: Energy Technologies
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit is designed to introduce some of the current and emerging or less common
+technologies used in energy production. Traditional methods (coal, oil, gas and nuclear) and
+renewable methods (wind, solar, hydro and biomass) will be described in terms of principle of
+operation, system components, operational aspects and environmental and sustainability
+factors. Emerging and less common technologies (tidal, wave, geothermal and waste) will be
+described in terms of principle of operation, system components, operational aspects and
+environmental and sustainability factors.
+Outcome 1
+It is suggested that the following technologies be used in the delivery of this Outcome:
+Coal: Pulverised coal combustion (PCC)
+Gas: Combined cycle gas turbine (CCGT)
+Oil: Crude oil combined cycle
+Nuclear: Pressurised water reactors (PWR)
+For each of the four technologies, diagrams should be used showing the key components in
+the energy conversion process from input through to output. Each stage in the process
+should be explained in terms of its function/operation. Operational aspects should include
+typical overall plant efficiencies, start-up time, utilisation for base or peak loads, reliability of
+supply and CO2 emissions per Unit of energy generated (gCO2/kWh). Environmental and
+sustainability factors and the significance of each will vary depending on the technology but
+would typically include several of the following:
+• Use of finite fossil fuels
+• CO2 released into atmosphere
+• Visual amenity and noise impacts
+• Air, land and water pollution
+• Impact on wildlife and ecological systems
+• Health and safety
+• Waste products
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 7
+Outcome 2
+For each of the technologies, diagrams should be used showing the key components in the
+energy conversion process from input through to output. Each stage in the process should be
+explained in terms of its function/operation. Operational aspects should include typical overall
+plant (or Unit) efficiency, weather constraints, logistics (for offshore wind), reliability of supply
+and CO2 emissions per Unit of energy generated (gCO2/kWh). Environmental and
+sustainability factors and the significance of each will vary depending on the technology but
+would typically include several of the following:
+• Use of renewable resources
+• CO2 released into atmosphere
+• Visual amenity and noise impacts
+• Air, land and water pollution
+• Land-loss (large hydro schemes in particular)
+• Impact on wildlife, marine life and ecological systems
+• Waste products
+Outcome 3
+Marine (wave and tidal) technologies are expected to contribute to the future energy ‘mix’. At
+present, worldwide there are only a few operational marine power plants. Technologies to
+harness energy from the tide include tidal barrage and tidal stream. The European Marine
+Energy Centre (EMEC) in Orkney is one of the world’s leading marine technology research
+and testing centres and a useful source of information. Currently, there are several types of
+wave energy technologies at various stages of development. In the UK, examples include the
+‘Pelamis’ attenuator system, the ‘Limpet’ oscillating water column system and the ‘Oyster’
+oscillating wave surge convertor system. Energy production from geothermal sources utilises
+three main technologies and currently the US is the largest producer of geothermal energy.
+Historically, energy from waste has been via incineration however more recent technologies
+such as gasification and pyrolysis are now being commissioned. It is suggested that the
+following technologies be used in the delivery of this Outcome:
+Tidal: Tidal barrage and Tidal stream
+Wave: Attenuator systems, Oscillating water column systems and Oscillating wave
+surge convertor systems
+Geothermal: Dry steam, Flash steam and Binary cycle
+Waste: Incineration and Advanced Thermal Treatments (Gasification and Pyrolysis)
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 8
+For each of the technologies, diagrams should be used showing the key components in the
+energy conversion process from input through to output. Each stage in the process should be
+explained in terms of its function/operation. Operational aspects should include typical overall
+plant (or Unit) efficiency (where data is available), logistics (for waste), reliability of supply
+and CO2 emissions per Unit of energy generated (gCO2/kWh). Environmental and
+sustainability factors and the significance of each will vary depending on the technology but
+would typically include several of the following:
+• Use of renewable/sustainable resources
+• CO2 released into atmosphere
+• Visual amenity and noise impacts
+• Air, land and water pollution
+• Impact on wildlife, marine life and ecological systems (tidal barrage in particular)
+• Waste products
+Guidance on approaches to delivery of this Unit
+This Unit should be delivered in year 2 of an SQA Advanced Diploma programme. It would
+be beneficial if learners had previously completed the level 7 Unit Energy Overview. It is
+unlikely that it could be delivered through integration with other Units.
+It would be beneficial if learners had classroom internet access. It is suggested that an equal
+amount of time be allocated to each Outcome.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment. The following are
+suggestions only. There may be other methods that would be more suitable to learners.
+All Outcomes should be assessed on a sample basis.
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+The Unit may be assessed on an Outcome by Outcome basis or through a combination of
+Outcomes.
+Outcome 1
+This Outcome may be assessed individually or in combination with Outcomes 2 and/or 3.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+Outcome 2
+This Outcome may be assessed individually or in combination with Outcomes 1 and/or 3.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 9
+Outcome 3
+This Outcome may be assessed individually or in combination with Outcomes 1 and/or 2.
+Evidence should be generated through a closed-book assessment under supervised
+conditions.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+Some Core Skills may be developed through the delivery of this Unit.
+Information and Communications Technology (ICT) may be developed in all Unit Outcomes
+and in particular, the use of the internet to search for flowcharts, block diagrams and
+animations associated with each of the technologies.
+Numeracy may be developed in Outcomes 1 and 2 in relation to the determination of energy
+output.
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 10
+History of changes to Unit
+Version Description of change Date
+© Scottish Qualifications Authority 2013, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HT1L 48, Energy Technologies (SCQF level 8) 11
+General information for learners
+Unit title: Energy Technologies
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+The Unit is designed to introduce a range of technologies associated with energy production.
+The technologies will be classified as traditional, renewable, and emerging and less common
+sustainable methods, for the purposes of this Unit. Traditional (existing) methods are based
+upon fossil fuel technologies and nuclear. Renewable methods are based upon the utilisation
+of non-fossil fuel based technologies. Emerging and less common sustainable methods are
+based upon technologies that are currently at various stages of development, implementation
+or operation together with technologies that are operational but are, overall, small energy
+producers relative to traditional and renewable methods.
+The Unit is optional for learners on related SQA Advanced Engineering Awards. It could also
+be used as a stand-alone Unit where appropriate. No prior knowledge is required although it
+would be beneficial if learners have previously completed the level 7 Unit Energy Overview
+and were familiar with using the internet for research purposes.
+Outcome 1 has been designed to introduce traditional methods of energy production using
+coal, gas, oil and nuclear fuel sources. Typical power plant operation and processes will be
+explained detailing energy input through to energy output. Operational aspects,
+environmental and sustainability issues and numerical calculations pertaining to each
+technology will also be considered.
+Outcome 2 has been designed to introduce renewable methods of energy production using
+wind, hydro, solar and biomass technologies. Typical power plant or device operation and
+processes will be explained detailing energy input through to energy output. Operational
+aspects, environmental and sustainability issues and numerical calculations pertaining to
+each technology will also be considered.
+Outcome 3 has been designed to introduce emerging and/or less common sustainable
+methods of energy production. Tidal, wave, geothermal and waste technologies will be
+considered. Typical power plant or device operation and processes will be explained
+detailing energy input through to energy output. Operational aspects and environmental and
+sustainability issues pertaining to each technology will also be considered.
+In order to achieve this Unit, all Outcomes must be achieved. This Unit will be assessed by
+responses to structured questions under closed-book conditions.
+There is no automatic certification of Core Skills or Core Skill components in this Unit.
+The Unit has been designed to support articulation routes to degree programmes and also to
+support employment opportunities in the energy sector.SQA Advanced Unit Specification
+General information for centres
+Unit title: Engineering Mathematics 1 (SCQF level 6)
+Unit code: HP48 46
+Superclass: RB
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit is designed to develop or consolidate a basic level of mathematical skills required
+of learners across a range of Engineering disciplines. The Unit provides learners with
+opportunities to develop knowledge, understanding and skills to solve mathematical
+problems including polynomial, trigonometrical, exponential and logarithmic functions.
+Learners will also be introduced to 3-dimensional vectors and complex numbers.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Solve problems involving functions and trigonometric equations.
+2 Solve problems involving exponential and logarithmic equations.
+3 Apply mathematical techniques involving vectors and complex numbers.
+Credit points and level
+1 SQA Credit at SCQF level 6: (8 SCQF credit points at SCQF level 6)
+Recommended entry to the Unit
+Entry requirements are at the discretion of the centre. However, it would be advantageous if
+learners had good algebraic skills together with an ability to transpose engineering formulae
+and solve simple trigonometric equations. This knowledge and understanding may be
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 2
+evidenced by possession of the NQ Unit Mathematics: Technician 1 or a pass at National 5
+in Mathematics.
+Core Skills
+Achievement OF this Unit gives automatic certification of the following Core Skills
+component:
+Complete Core Skill None
+Core Skill component Using Number at SCQF level 6
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+Support Notes for this Unit specification.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+The Assessment Support Pack (ASP) for this Unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard. A list of existing ASPs is available to download
+from SQA’s website (http://www.sqa.org.uk/sqa/46233.2769.html).
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 3
+Unit specification: statement of standards
+Unit title: Engineering Mathematics 1 (SCQF level 6)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Solve problems involving functions and trigonometric equations.
+Knowledge and/or Skills
+• Properties of functions
+• Inverse functions
+• Composite Functions
+• Trigonometric equations
+Outcome 2
+Solve problems involving exponential and logarithmic equations.
+Knowledge and/or Skills
+• Evaluation of logarithmic and exponential expressions
+• Transposition from logarithmic to exponential form and vice versa
+• Laws of logarithms
+• Graphics of logarithmic and exponential functions
+Outcome 3
+Apply mathematical techniques involving vectors and complex numbers.
+Knowledge and/or Skills
+• Collinearity
+• Addition, subtraction and scalar multiplication of vectors
+• Scalar product
+• Conversion of complex numbers between rectangular and polar form
+• Addition and subtraction of complex numbers
+• Multiplication and division of complex numbers
+• Representation of complex numbers on an Argand Diagram
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 4
+Evidence Requirements for this Unit
+A sampling approach will be used in the assessment of the Knowledge and/or Skills in this
+Unit. Learners will need to provide written and/or recorded oral evidence to demonstrate their
+Knowledge and/or Skills across all Outcomes by showing they can:
+Outcome 1
+Provide evidence of the following Knowledge and/or Skills each time this Outcome is
+assessed:
+• Solve two problems (one in degrees and one in radians) involving expressions of the
+formsin( )A nx a b  orcos( )A nx a b 
+Provide evidence of two out of three Knowledge and/or Skills remaining in this Outcome.
+The following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Identify the domain, range and asymptotes of a given function
+• Solve one problem involving an inverse function
+• Solve one problem involving a composite function
+Outcome 2
+Provide evidence of the following Knowledge and/or Skills each time this Outcome is
+assessed.
+Solve three problems to cover the Knowledge and/or Skills as follows, combining them where
+appropriate:
+• Evaluate formulae; one must include exponentials and one must include logarithms
+• Transpose expressions from exponential form to logarithmic form and vice versa
+• Use two out of the three laws of logarithms:
+—log log logx y xy 
+—log log log x
+x y y
+ 
+—log log p
+p x x
+• Sketch or identify a graph of either a logarithmic function (of the formy A In x or10logy A x
+) or an exponential function (of the formx
+Ae or.10x
+A )
+Fractional and negative coefficients and indices should be included.
+Outcome 3
+Provide evidence of five out of seven Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Verify that three, 3-dimensional coordinates (A,B,C) are collinear and determine the ratio
+of AB to BC
+• Solve two vector problems involving a combination of at least two of the following:
+addition of vectors; subtraction of vectors and multiplication of a vector by a scalar
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 5
+• Calculate the angle between two 3-dimensional vectors using the scalar product
+• Convert one vector (2-dimensional cases) or complex number in Cartesian form to polar
+form and one vector or complex number in polar form to Cartesian form showing clearly
+all working
+• Solve one problem involving the addition and subtract of complex numbers (in
+rectangular form)
+• Solve one problem involving the multiplication of two complex numbers (in rectangular
+form) and one problem involving the division of two complex numbers (in polar form)
+• Represent accurately complex numbers in all four quadrants of an Argand Diagram
+It is recommended that the assessment for all three Outcomes takes places at a single end
+of Unit assessment event. Outcomes may also be assessed individually. All re-assessments
+should be based on a different assessment instrument. This should re-assess all three
+Outcomes or a full individual Outcome reflecting the format of the original assessment.
+All re-assessments should be based on a different sample of Knowledge and/or Skills.
+All assessments should be unseen, closed-book and carried out under supervised, controlled
+conditions.
+Computer algebra must not be used in the assessment of this Unit.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 6
+Unit specification: support notes
+Unit title: Engineering Mathematics 1 (SCQF level 6)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit is one of a suite of five Units in Mathematics developed for SQA Advanced
+Qualifications across a range of engineering disciplines. The five Units are:
+Engineering Mathematics 1
+Engineering Mathematics 2
+Engineering Mathematics 3
+Engineering Mathematics 4
+Engineering Mathematics 5
+In the development of this Unit a list of topics expected to be covered by lecturers has been
+identified. Recommendations have also been made on how much time lecturers should
+spend on each Outcome. The use of this list of topics is strongly recommended to ensure
+continuity of teaching and learning and adequate preparation for the assessment of the Unit.
+Consideration of this list of topics alongside the Assessment Support Pack developed for this
+Unit will provide clear indication of the standard expected in this Unit.
+Outcome 1 (10 hours)
+Solve problems involving functions and trigonometric equations
+• Introduce the concept of the function (this may be done in terms of set theory and, in
+particular, a function or mapping as a rule which relates each element in one set to one
+and only one element in another set)
+• List typical functions that occur in Engineering
+• Introduce typical mathematical notation used with functions (eg( )f x ,єx R , (or, , ,N W Z Q
+etc.)
+• Explain what is meant by an independent and dependent variable
+• Define the terms domain and range of a function
+• Introduce the concept of a pole (s) in a function and explain the impact of a pole (s) on
+the domain of a function which has one or more poles
+• Demonstrate the way in which to determine the range and domains of functions
+• Define the term asymptotes
+• Demonstrate the way in which to determine the asymptotes to functions
+• Introduce the idea of an inverse function1 ( )f x
+• Determine the inverse functions of a range of functions
+• Graph functions and their inverse functions
+• Introduce composite functions (again this may be done in terms of set theory)
+• Derive and evaluate a number of composite functions
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 7
+• Introduce the concept of the radian
+Convert degrees to radians and vice versa (egrad π
+180
+
+  )
+• Determine the solutions of equations of the formsin( )A nx B
+   orcos( )A nx B
+  
+Outcome 2 (8 hours)
+Transpose and solve exponential and logarithmic equations
+• Introduce the exponential functionx
+y a
+• Plot graphs of this function for different values ofa
+• Plot a graph ofx
+y a
+ to demonstrate that this produces the image ofx
+y a
+• Explain thatlogax  y is the inverse function ofx
+y a
+• Examine10x
+y  and10logx y as an important example of exponential and
+logarithmic functions
+• Plot10x
+y  and10logx y for a specified domain
+• Examinex
+y e andlogex y as a further important example of exponential and
+logarithmic functions especially in the context of Engineering
+• Plotx
+y e andlogex y for a specified domain
+• Evaluate expressions that include1010 ,log ,x x
+y e and10log y
+• Introduce the three laws of logarithms
+• Solve problems involving the three laws of logarithms
+• Transpose and evaluate expressions from Engineering which include the termkt
+Ae orkt
+Ae
+• Solve exponential equations3 5
+(5 95, 0 1)x x 
+  
+• Solve logarithmic equations (eg10 10log ( 2) log ( 4) 0 5x x     ;log ( 3) log ( 3) log 6e e et t   
+)
+Outcome 3 (14 hours)
+Apply mathematical techniques to vectors and complex numbers
+2-d and 3-d Vectors
+• Introduce the concept of a vector and scalar and give examples of each form from
+Engineering
+• Outline notation commonly used with vectors
+• Demonstrate the way in which to add and subtract 2-dimensional vectors graphically
+• Introduce 2-dimensional vectors in component form
+• Add and subtract vectors using their component form
+• Multiply 2-dimensional vectors by a scalar
+• Calculate the magnitude of 2-dimensional vectors using the equation2
+12
+2
+12 )()( yyxxd 
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 8
+• Introduce 3-dimension coordinates and the representation of 3-dimensional vectors in
+component form
+• Calculate the magnitude of 3-dimensional vectors using the equation2
+12
+2
+12
+2
+12 )()()( zzyyxxd 
+• Apply the concept of collinearity to 2- and 3- dimensional vectors
+• Introduce the scalar product for 2-d and 3-d vectors
+• Identify the properties of the scalar product (eg. .a b b a ,.( ) . .a b c a b a c   etc)
+• Demonstrate the way in which the scalar product can be used to find the angle between
+two vectors
+Complex Numbers
+• Introduce complex numbers (different approaches may be taken to this, for example
+what happens when the determinant2 4 0b ac  , or1i   etc.)
+• Identify normal notation used with complex numbers (engineers tend to usej while
+mathematicians usei )
+• Introduce the Argand Diagram
+• Demonstrate the representation of complex numbers in Cartesian and polar form (noting
+the domain of principal argument,arg( )z )
+• Demonstrate the way in which to convert between Cartesian and polar form and vice
+versa
+• Add and subtract complex numbers
+• Multiply complex numbers in both Cartesian and polar form
+• Introduce the complex conjugate
+• Divide complex numbers in both Cartesian and polar form
+• Represent complex numbers in all four quadrants of an Argand Diagram
+Guidance on approaches to delivery of this Unit
+This Unit provides core mathematical principles and processes which underpin much of the
+studies undertaken in a number of SQA Advanced Qualifications across a range of
+engineering disciplines. It is recommended that the Unit be delivered towards the beginning
+of these awards.
+Centres may deliver the Outcomes in any order they wish, it is recommended that Outcome
+1 is delivered first followed by Outcomes 2 and then Outcome 3.
+It is recommended that Unit delivery is principally undertaken using a didactic approach. All
+teaching input should be supplemented by a significant level of formative assessment in
+which learners are provided with opportunities to develop their knowledge, understanding
+and skills of the mathematical topics covered in the Unit. Computer software and computer
+algebra may be used to support learning (eg to confirm the solutions of mathematical
+problems), but it is strongly recommended that such learning resources are only used in a
+supportive capacity and not as the principal means of delivering Unit content.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 9
+A recommended approach is the use of an examination question paper. The question paper
+should be composed of an appropriate balance of short answer, restricted response and
+structured questions.
+All assessment papers should be unseen by learners prior to the assessment event and at all
+times, the security, integrity and confidentiality of assessment papers must be ensured.
+Assessment should be conducted under closed-book, controlled and invigilated conditions.
+The questions in the examination should not be grouped by Outcome or be labelled in terms
+of the Outcomes they relate to when a single end-of-Unit examination is used.
+The summative assessment of all three Outcomes — whether individually or at a single
+assessment event — should not exceed two hours. When assessing a learner’s responses to
+summative assessment lecturers should concentrate principally on the candidate’s ability to
+apply the correct mathematical technique and processes when solving problems. Candidates
+should not be penalised for making simple numerical errors. An appropriate threshold score
+may be set for the assessment of this Unit. A threshold score should be used for each
+assessment if Outcome level assessment is used.
+Learners should be provided with a formulae sheet appropriate to the content of this Unit
+when undertaking their assessment. Computer algebra should not be used in the
+assessment of this Unit.
+It is the learner’s responsibility to ensure that any calculator they use during assessment are
+not designed or adapted to offer any of the following facilities:
+• language translators
+• symbolic algebra manipulation
+• complex number manipulation
+• communication with other machines or the internet.
+In addition, any calculator used by learners should have no retrievable information stored in
+them. This includes:
+• data banks
+• dictionaries
+• mathematical formulae
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at www.sqa.org.uk/e-
+assessment.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 10
+Opportunities for developing Core and other essential skills
+This Unit has the Using Number component of Numeracy embedded in it. This means that
+when candidates achieve the Unit, their Core Skills profile will also be updated to show that
+they have achieved Using Number at SCQF level 6.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 11
+Administrative information
+Version Description of change Date
+© Scottish Qualifications Authority 2014, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HP48 46 Engineering Mathematics 1 (SCQF level 6) 12
+General information for candidates
+Unit title: Engineering Mathematics 1 (SCQF level 6)
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+The Engineering Mathematics 1 Unit is one of a suite of five Units in Mathematics developed
+for SQA Advanced Certificates and Diplomas across a range of Engineering disciplines. The
+five Units help develop the mathematical skills required for workplace roles and for more
+advanced studies in Engineering, for example, articulation to degree study at university.
+The Unit is mandatory in a number of SQA Advanced Certificates in Engineering.
+This Unit is designed to develop or consolidate a basic level of mathematical skills required
+of learners across a range of Engineering disciplines. You will learn about the properties of
+some mathematical functions commonly used in Engineering including linear,
+trigonometrical, exponential and logarithmic functions. You will also learn how to solve
+trigonometrical, exponential and logarithmic equations. You will also study 2 and 3-
+dimensional vectors and complex numbers which are widely used in mechanical and
+electrical Engineering.
+It is likely that Unit delivery will comprise of a significant teaching input from your lecturer.
+This will be supplemented by tutorial exercises which will allow you to develop the
+knowledge, understanding and skills to apSQA Advanced Unit Specification
+General information for centres
+Unit title: Engineering Mathematics 2 (SCQF level 7)
+Unit code: HP49 47
+Superclass: RB
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit is designed to develop the necessary mathematical skills required of learners
+seeking to use an SQA Advanced Diploma in Engineering as an exit qualification for an
+Engineering workplace role or as a pathway to further studies in mathematics at an
+advanced level. The Unit provides learners with opportunities to develop knowledge,
+understanding and skills to solve problems involving trigonometric and hyperbolic functions
+and identities; to differentiate and integrate a wide range of functions and use differentiation
+and integration techniques to solve Engineering problems.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Solve trigonometric and hyperbolic function problems.
+2 Use differentiation techniques to solve Engineering problems.
+3 Use integration techniques to solve Engineering problems.
+Credit points and level
+1 SQA Unit credit at SCQF level 7: (8 SCQF credit points at SCQF level 7)
+Recommended entry to the Unit
+Entry requirements are at the discretion of the centre. However, it would be advantageous if
+learners had a knowledge and understanding of functions including trigonometrical, log and
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 2
+exponential functions together with sound algebraic skills. This knowledge and
+understanding may be evidenced by possession of the SQA Advanced Unit Engineering
+Mathematics 1 or Higher Mathematics.
+Core Skills
+Achievement OF this Unit gives automatic certification of the following Core Skills
+component:
+Complete Core Skill None
+Core Skill component Using Number at SCQF level 6
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+Support Notes for this Unit specification.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+The Assessment Support Pack (ASP) for this Unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard. A list of existing ASPs is available to download
+from SQA’s website (http://www.sqa.org.uk/sqa/46233.2769.html).
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 3
+Unit specification: statement of standards
+Unit title: Engineering Mathematics 2 (SCQF level 7)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Solve trigonometric and hyperbolic function problems.
+Knowledge and/or Skills
+• Inverse trigonometric ratios
+• Compound angle formulae
+• Basic trigonometric identities
+• Hyperbolic functions
+• Basic hyperbolic identities
+Outcome 2
+Use differentiation techniques to solve Engineering problems.
+Knowledge and/or Skills
+• Differentiation of standards functions
+• Chain Rule
+• Second derivatives
+• Rates of change
+• Optimisation
+Outcome 3
+Use integration techniques to solve Engineering problems.
+Knowledge and/or Skills
+• Indefinite and definite integrals
+• Integration of standard functions
+• Applications of integration
+Evidence Requirements for this Unit
+A sampling approach will be used in the assessment of the Knowledge and/or Skills in this
+Unit. Learners will need to provide written and/or recorded oral evidence to demonstrate their
+Knowledge and/or Skills across all Outcomes by showing that they can:
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 4
+Outcome 1
+Provide evidence of three out of the five Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Evaluate any two of the following trigonometric functions:sec cosec cot
+  , , or for a
+given value (s) of
+• Solve one problem using one of the following compound angle formulaesin( )x
+ orcos( )x
+
+• Solve one problem using one or more of the following trigonometric identitiescos cos –
+cos cos – sin
+sin cos
+sin sin cos
+ 
+  
+
+
+
+ 
+ 
+
+
+
+2
+2 2
+2 2
+2 2 1
+2
+2 2
+1
+• Evaluate any two of the following hyperbolic functions:sinh cosh tanh
+ 
+, or for a
+given value (s) of
+• Solve one problem involving hyperbolic identities
+Outcome 2
+Provide evidence of three out of the five Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Use standard derivatives to solve two problems involving differentiation (standard
+derivatives to include( )n n
+ax ax b, , trigonometric, hyperbolic,ln( )ax b and( )
+e ax b )
+• Differentiate a function which requires the use of the chain rule
+• Apply first and second derivatives to determine the position and nature of a turning point
+on a curve
+• Use differentiation to determine the rate of change of a variable in an Engineering
+problem
+• Apply differentiation techniques to find the optimum solution to a problem
+Outcome 3
+Provide evidence of two out of the three Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Solve one indefinite and one definite integral
+• Solve two integrals using integrals of standard functions (standard functions to include( )n n
+ax ax b,
+, trigonometric, hyperbolic,ln( )ax b and( )
+e ax b )
+• Apply integration techniques to the solution of an Engineering problem
+It is recommended that the assessment for all three Outcomes takes places at a single end
+of Unit assessment event. Outcomes may also be assessed individually. All re-assessments
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 5
+should be based on a different assessment instrument. This should re-assess all three
+Outcomes or a full individual Outcome reflecting the format of the original assessment. All
+re-assessments should be based on a different sample of Knowledge and/or Skills.
+All assessments should be unseen, closed-book and carried out under supervised, controlled
+conditions.
+Computer algebra must not be used in the assessment of this Unit.
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 6
+Unit specification: support notes
+Unit title: Engineering Mathematics 2 (SCQF level 7)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit is one of a suite of five Units in Mathematics developed for SQA Advanced
+Qualifications across a range of Engineering disciplines. The five Units are:
+Engineering Mathematics 1
+Engineering Mathematics 2
+Engineering Mathematics 3
+Engineering Mathematics 4
+Engineering Mathematics 5
+In the development of this Unit a list of topics expected to be covered by lecturers has been
+identified. Recommendations have also been made on how much time lecturers should
+spend on each Outcome. The use of this list of topics is strongly recommended to ensure
+continuity of teaching and learning and adequate preparation for the assessment of the Unit.
+Consideration of this list of topics alongside the Assessment Support Pack developed for this
+Unit will provide clear indication of the standard expected in this Unit.
+Outcome 1 (12 hours)
+Solve trigonometric and hyperbolic function problems
+• Definitions of secant, cosecant and cotangent ratios
+• Evaluation of secant, cosecant and cotangent ratios for given angles
+• Distinguish between secant, cosecant and cotangent andcos sin tan  1 1 1
+, and
+• State compound angle formulae (egsin( ) sin cos sin cos
+        and cos cos cos sin sin
+      
+• Apply compound angle formulae to trigonometrical problems (eg sin sin
+
+  180
+• Statesin cos sin s cos cos –
+sin cos cos –
+in cos
+sin
+
+ 
+
+
+
+
+
+
+
+
+   
+ 
+2
+2 2 2
+2 2 2 2 1 or
+1
+1
+2
+2 2 and
+2 ,
+,
+• Use trigonometrical equations in previous bullet point to simplify trigonometrical identities
+and solve trigonometrical equations
+• Define sinh x, cosh x, tanh x, cosech x, sech x and coth x
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 7
+• Use the following hyperbolic identities to prove identities and modify equations
+containingex ande x : 
+2 2
+e cosh sinh
+e cosh sinh
+cosh – sinh
+sinh sinh cosh cosh sinh
+cosh cosh cosh sinh sinh
+sinh sin
+( )
+h cosh
+cosh cosh sinh
+x
+x
+x x
+x x
+x
+x y x y x y
+x y x y x y
+x x
+x
+x
+x
+x x
+
+ 
+ 
+
+  
+  
+
+ 2 2
+1
+2 2
+2
+Outcome 2 (10 hours)
+Use differentiation techniques to solve Engineering problems
+• Revise indices including negative and fractional indices
+• Introduce the concept of differentiation from first principles (not assessable)
+• Introduce standard derivatives to include( )n n
+ax ax b, , trigonometric, hyperbolic,ln( )ax b
+and( )
+e ax b
+• Use standard derivatives to find the derivatives of functions containing one or more of
+the terms in the previous bullet point
+• State the chain rule, egdy dy du
+dx du dx
+ 
+• Apply the chain rule to functions such as (3x4 + 7)3; sin (t2 + 1); 5esinu etc.
+• Define higher derivatives (ie second, third, etc)
+• Use the first and second derivatives to find the maximum and minimum of a function
+• Use differentiation to evaluate rates of change problems in Engineering
+• Apply differentiation to optimise a parameter or parameters of a problem (eg the
+condition under which the maximum electrical power will be transferred from a voltage
+source to load)
+Outcome 3 (8 hours)
+Use integration techniques to solve Engineering problems
+• Define what is meant by integration (eg as anti-differentiation, as the area bounded by
+curves, etc
+• Define indefinite and definite integrals
+• Solve indefinite and definite integrals using standard integrals (standard integrals to
+include( )n n
+ax ax b, , trigonometric, hyperbolic,ln( )ax b and( )
+e ax b )
+• Apply integration to solve problems in Engineering (area under a velocity time curve
+giving distance travelled, work done by an expanding gas, first and second moments of
+area, centroids, mean values, root mean square values, etc)
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 8
+Guidance on approaches to delivery of this Unit
+This Unit provides core mathematical principles and processes which underpin much of the
+studies undertaken in a number of SQA Advanced Qualifications across a range of
+Engineering disciplines. It is recommended that the Unit be delivered towards the beginning
+of these awards.
+Centres may deliver the Outcomes in any order they wish, it is recommended that Outcome
+1 is delivered first followed by Outcomes 2 and then Outcome 3.
+It is recommended that Unit delivery is principally undertaken using a didactic approach. All
+teaching input should be supplemented by a significant level of formative assessment in
+which learners are provided with opportunities to develop their knowledge, understanding
+and skills of the mathematical topics covered in the Unit. Computer software and computer
+algebra may be used to support learning (egto confirm the solutions of mathematical
+problems), but it is strongly recommended that such learning resources are only used in a
+supportive capacity and not as the principal means of delivering Unit content.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment.
+A recommended approach is the use of an examination question paper. The question paper
+should be composed of an appropriate balance of short answer, restricted response and
+structured questions.
+All assessment papers should be unseen by learners prior to the assessment event and at all
+times, the security, integrity and confidentiality of assessment papers must be ensured.
+Assessment should be conducted under closed-book, controlled and invigilated conditions.
+The questions in the examination should not be grouped by Outcome or be labelled in terms
+of the Outcomes they relate to when a single end-of-Unit examination is used.
+The summative assessment of all three Outcomes — whether individually or at a single
+assessment event - should not exceed two hours. When assessing a learner’s responses to
+summative assessment lecturers should concentrate principally on the learner’s ability to
+apply the correct mathematical technique and processes when solving problems. Learners
+should not be penalised for making simple numerical errors. An appropriate threshold score
+may be set for the assessment of this Unit. A threshold score should be used for each
+assessment if Outcome level assessment is used.
+Learners should be provided with a formulae sheet appropriate to the content of this Unit
+when undertaking their assessment. Computer algebra should not be used in the
+assessment of this Unit.
+It is the learners’ responsibility to ensure that any calculator they use during assessment are
+not designed or adapted to offer any of the following facilities:
+• language translators
+• symbolic algebra manipulation
+• symbolic differentiation or integration
+• communication with other machines or the internet
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 9
+In addition, any calculator used by learners should have no retrievable information stored in
+them. This includes:
+• databanks
+• dictionaries
+• mathematic formulae
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+This Unit has the Using Number component of Numeracy embedded in it. This means that
+when candidates achieve the Unit, their Core Skills profile will also be updated to show that
+they have achieved Using Number at SCQF level 6.
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 10
+Administrative information
+Version Description of change Date
+© Scottish Qualifications Authority 2014, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HP49 47 Engineering Mathematics 2 (SCQF level 7) 11
+General information for candidates
+Unit title: Engineering Mathematics 2 (SCQF level 7)
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+The Engineering Mathematics 2 Unit is one of a suite of five Units in Mathematics developed
+for SQA Advanced Certificates and Diplomas across a range of Engineering disciplines. The
+five Units help develop the mathematical skills required for workplace roles and for more
+advanced studies in Engineering, for example, articulation to degree study at university.
+The Unit is mandatory in a number of SQA Advanced Diplomas in Engineering.
+This Unit is designed to develop the necessary mathematical skills required of learners
+seeking to use an SQA Advanced Diploma in Engineering as an exit qualification for an
+Engineering workplace role or as a pathway to further studies in mathematics at an
+advanced level. You will be introduced to differential calculus which is used widely to solve
+Engineering problems. This will include differentiating functions using standard derivatives,
+determining rates of change and finding optimum solutions to Engineering problems. You will
+also be introduced to integral calculus which is in many ways the reverse process of
+differentiation. You will learn to solve indefinite and definite integrals using standard integrals
+and use integration to solve Engineering problems.
+It is likely that Unit delivery will comprise of a significant teaching input from your lecturer.
+This will be supplemented by tutorial exercises which will allow you to develop the
+knowledge, understanding and skills to apply the mathematic principles and processes
+covered in the Unit to a range of Engineering problems.
+Depending on which centre you attend, formal assessment may be conducted on an
+Outcome by Outcome basis or by one holistic assessment. Assessment will be conducted
+under closed-book, controlled and invigilated conditions.
+Learners considering taking this Unit will normally be expected to have passed the
+Engineering Mathematics 1 SQA Advanced Unit or equivalent.ply the mathematic principles and processes
+covered in the Unit to a range of Engineering problems.
+Depending on which centre you attend, formal assessment may be conducted on an
+Outcome by Outcome basis or by one single assessment. Assessment will be conducted
+under closed-book, controlled and invigilated conditions.
+Learners considering taking this Unit will normally be expected to have passed the NQ Unit
+Mathematics: Technician 1, or National 5 in Mathematics or National 5 in Mathematics or
+equivalent.
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:41 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:41 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Jul 2, 2024, 3:47 PM (2 days ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+SQA Advanced Unit Specification
+General information
+Unit title: Engineering Mathematics 4 (SCQF level 8)
+Unit code: HT03 48
+Superclass: RB
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 02, February 2020
+Unit purpose
+This Unit is designed to develop the mathematical skills required by learners who wish to use
+their SQA Advanced Diploma in Engineering to articulate to university degree study. The Unit
+will provide learners with the opportunities to develop the knowledge, understanding and
+skills to solve problems involving the use of complex algebra, matrices and mathematical
+series. Learners will also learn techniques to solve first order differential equations.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Solve problems involving complex algebra.
+2 Solve problems involving the manipulation of matrices.
+3 Solve problems requiring the use of series representation of functions.
+4 Solve first order differential equations.
+Credit points and level
+1 SQA Credit at SCQF level 8: (8 SCQF credit points at SCQF level 8)
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 2
+Recommended entry to the Unit
+Entry requirements are at the discretion of the centre. However, it would be advantageous if
+learners had a good knowledge and understanding of differential and integral calculus
+together with sound numerical and algebraic skills. This knowledge and understanding may
+be evidenced by possession of the SQA Advanced Units Engineering Mathematics 2 and
+Mathematics 3.
+Core Skills
+Achievement OF this Unit gives automatic certification of the following Core Skills
+component:
+Complete Core Skill None
+Core Skill component Using Number at SCQF level 6
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+Support Notes for this Unit specification.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+The Assessment Support Pack (ASP) for this Unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard. A list of existing ASPs is available to download
+from SQA’s website (http://www.sqa.org.uk/sqa/46233.2769.html).
+Equality and inclusion
+This Unit specification has been designed to ensure that there are no unnecessary barriers
+to learning or assessment. The individual needs of learners should be taken into account
+when planning learning experiences, selecting assessment methods or considering
+alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 3
+SQA Advanced Unit Specification: Statement of standards
+Unit title: Engineering Mathematics 4 (SCQF level 8)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Solve problems involving complex algebra.
+Knowledge and/or Skills
+• Complex algebra and Argand Diagrams
+• Euler’s Relation
+• DeMoivre’s theorem
+Outcome 2
+Solve problems involving the manipulation of matrices.
+Knowledge and/or Skills
+• Definitions
+• Matrix’s operations
+• Determinants
+• Inverse Matrices
+• Gaussian Elimination
+Outcome 3
+Solve problems requiring the use of series representation of functions.
+Knowledge and/or Skills
+• MacLaurin Series
+• Taylor Series
+• Expansion of products of functions using series forms
+• Linear approximations of polynomial and non-linear functions
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 4
+Outcome 4
+Solve first order differential equations.
+Knowledge and/or Skills
+• Separation of variables
+• Substitution
+• Integrating Factor Method
+• Initial value problems using the above methods
+Evidence Requirements for this Unit
+A sampling approach will be used in the assessment of the Knowledge and/or Skills in this
+Unit. Learners will need to provide written and/or recorded oral evidence to demonstrate their
+Knowledge and/or Skills across all Outcomes by showing they can:
+Outcome 1
+Provide evidence of two out of three Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Evaluate one problem involving the multiplication of two complex numbers and one
+problem involving the division of two complex numbers and represent the results on an
+Argand Diagram
+• Solve one problem involving the use of Euler Relation (eg converting a complex
+number/expression into exponential form or vice versa, representing a trigonometrical
+function in exponential form, etc)
+• Solve one problem using De Moivre’s theorem (eg raising a complex number to the nth
+power, proving a trigonometrical identity, etc)
+Outcome 2
+Provide evidence of three out of five Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Define the meaning of the term matrix in the context of Mathematics (this may include
+specials cases: square, identity, transpose, etc)
+• Solve one problem involving the scalar multiplication, addition or subtraction of two
+matrices and one problem involving the multiplication of two matrices
+• Find the determinant of a 3 × 3 matrix
+• Find the inverse of a 3 × 3 matrix
+• Apply Gaussian Elimination to solve a system of linear equations containing three
+variables
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 5
+Outcome 3
+Provide evidence of two out of four Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Derive the Taylor series of a given function
+• Derive the MacLaurin series of a given function
+• Expand the product of two functions using series forms
+• Develop a linear approximation of one polynomial or one non-linear function
+Outcome 4
+Provide evidence of two out of four Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Solve a first order differential equation using the method of separation of variables
+• Solve a first order differential equation by substitution
+• Solve a first order differential equation using the integrating factor method
+• Solve a first order differential equation with an initial value using one of the three
+methods shown above
+The assessment of all four Outcomes should take place at a single end of Unit assessment
+event. All re-assessments should be based on a different assessment instrument. This
+should re-assess all four Outcomes. All re-assessments should be based on a different
+sample of Knowledge and/or Skills.
+All assessments should be unseen, closed-book and carried out under supervised, controlled
+conditions.
+Computer algebra must not be used in the assessment of this Unit.
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 6
+SQA Advanced Unit Specification:Support notes
+Unit title: Engineering Mathematics 4 (SCQF level 8)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit is one of a suite of five Units in Mathematics developed for SQA Advanced
+Qualifications across a range of Engineering disciplines. The five Units are:
+Engineering Mathematics 1
+Engineering Mathematics 2
+Engineering Mathematics 3
+Engineering Mathematics 4
+Engineering Mathematics 5
+In the development of this Unit a list of topics expected to be covered by lecturers has been
+identified. Recommendations have also been made on how much time lecturers should
+spend on each Outcome. The use of this list of topics is strongly recommended to ensure
+continuity of teaching and learning and adequate preparation for the assessment of the Unit.
+Consideration of this list of topics alongside the Assessment Support Pack developed for this
+Unit will provide clear indication of the standard expected in this Unit.
+Outcome 1 (5 hours)
+Solve problems involving complex algebra
+• Introduce j in terms of j = –2 1 , j  1
+• Complex and polar forms
+• Representation of complex numbers on an Argand Diagram (comment on the domain of
+the principal argument, arg(z))
+• Addition and subtraction of complex numbers
+• Multiplication of complex numbers in rectangular and polar forms
+• Complex conjugate
+• Division of complex numbers in rectangular and polar form
+• Introduce Euler’s relation j
+e cos jsin
+ 
+  or –j
+e cos – jsin
+ 
+
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 7
+•   j
+cos jsinz r re
+
+    and   j
+cos – jsinz r re
+
+  
+ 
+• Solve problems involving the use of Euler’s relation (eg express the following in
+exponential form: –10, (– 2 + j5), (1 – j)(1 + 3j): given that jπ/
+ez  6
+1 6 and jπ/
+ez 
+ 3
+2 9
+determine z1z2 and z1/z2 etc)
+• Introduce De Moivre’s theorem as  cos jsin cos jsin
+n
+n n
+ 
+
+  
+• n n
+z r n
+ 
+• Solve problems involving De Moivre’s theorem (eg express (√2 + j) 5 in the form
+a + jb, use De Moivre’s theorem to express sin 3θ as powers of sin θ etc)
+• Solve complex equations (eg , , –z z z z z     3 2 3
+7 0 2 2 0 8 0 etc)
+Outcome 2 (10 hours)
+Solve problems involving the manipulation of matrices
+• Define what is meant by the term matrix in the context of Mathematics
+• Identify some special matrices (eg square, identity, transpose, augmented)
+• Multiply a matrix by a scalar
+• Add and subtract matrices
+• State the conditions for multiplying matrices
+• Multiply matrices
+• Explain the technique for calculating the determinant of a 2 × 2 matrix
+• Explain what is meant by the minor and the cofactor of an element
+• Explain the technique for calculating the determinant of a 3 × 3 matrix
+• Calculate the determinants of 3 × 3 matrices
+• Explain the technique for calculating the determinant of a 4 × 4 matrix to demonstrate
+the extension of the method to higher order matrices (if time permits)
+• Calculate the determinants of simple 4 × 4 matrices (if time permits)
+• Explain the way in which to find the inverse of a 2 × 2 matrix using determinant and
+cofactor method
+• Determine the inverses of 2 × 2 matrices using the determinant and cofactor method
+• Explain the determinant and cofactor method for finding the inverse of a 3 × 3 matrix
+• Determine the inverses of 3 × 3 matrices using the determinant and cofactor method
+• Explain the Gaussian elimination technique for finding the inverse of any matrix and
+apply it to examples up to and including echelon form
+• Use Gaussian elimination techniques to solve Engineering related problems
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 8
+Outcome 3 (5 hours)
+Solve problems requiring the use of series representation of functions.
+• Distinguish between a sequence and a series
+• Brief treatment of arithmetic and geometrical sequences
+• Introduce Taylor’s series as
+                 
+! !
+n
+nf x f x
+f x f x x x f x x x x x n
+
+        
+2 0 0
+0 0 0 0 0
+2  
+• Determine the series representation of functions using Taylor’s series around a variety of
+x0 values.
+• Introduce the series representation of functions using MacLaurin’s series
+           
+! !
+n
+nf f
+f x f xf x x n
+
+     2 0 0
+0 0 2  
+• Expand the product of two functions using series forms (eg   ,e ln e tanx x
+x x1 etc.)
+(learners could be provided with a table showing the series expansion of standard
+functions such as  , , ,e sin cos nx x x x1 etc)
+• Develop a linear approximation of one polynomial or one non-linear function
+(eg , ,sin cos e x
+x x  etc)
+Outcome 4 (12 hours)
+Solve first order differential equations
+• Introduction to differential equations — explain the meaning of dependent and
+independent variables, order of a differential equation, linearity, initial conditions, etc.
+• Solve first order differential equations by direct integration
+• Introduce the separation of variables method as applying to equations of the following
+form
+( ) ( )
+dy f x g y
+dx 
+• Apply the method of separation of variables to solve first order differential equations
+(including first order differential equations that arise in Engineering)
+• Introduce the method of solving differential equations by substitution (eg using
+y vx y ax by c   or
+• Apply the method of substitution to the solution of first order differential equations
+• Introduce the integrating factor method as applying to first order differential equations of
+the following form:
+   
+dy p x y q x
+dx  
+where the integrating factor  
+e p x dx
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 9
+• Apply the integrating factor method to the solution of first order differential equations
+• Illustrate how some first order differential equations may be solved by more than one
+method
+• Solve first order differential equations taken from Engineering with an initial value using
+one of the methods shown above
+Guidance on approaches to delivery of this Unit
+This Unit provides many of the core mathematical principles and processes required when
+studying Engineering at a more advanced level. Given the nature of the subject matter in the
+Unit it is advisable that the Unit is not delivered until learners have studied Engineering
+Mathematics 3.
+Centres may deliver the Outcomes in any order they wish.
+The Unit may be delivery using a didactic approach. All teaching input should be
+supplemented by a significant level of formative assessment in which learners are provided
+with opportunities to develop their knowledge, understanding and skills of the mathematical
+topics covered in the Unit. Alternatively, as learners taking this Unit may be preparing to
+enter an degree course at university (possibly at an advanced level) the Unit could be
+delivered as a series of lectures supported by tutorial sessions to help learners prepare
+better for future university studies.
+Computer software and computer algebra may be used to support learning (eg to confirm the
+solutions of mathematical problems), but it is strongly recommended that such learning
+resources are only used in a supportive capacity and not as the principal means of delivering
+Unit content.
+Guidance on approaches to assessment of this Unit
+The recommended approach is the use of an examination question paper. The question
+paper should be composed of an appropriate balance of short answer, restricted response
+and structured questions. The questions in the examination should not be grouped by
+Outcome or be labelled in terms of the Outcomes they relate to.
+All assessment papers should be unseen by the learners prior to the assessment event and
+at all times, the security, integrity and confidentiality of assessment papers must be ensured.
+Assessment should be conducted under closed-book, controlled and invigilated conditions.
+The summative assessment of all four Outcomes should not exceed two hours. When
+assessing a learner’s responses to summative assessment lecturers should concentrate
+principally on the learner’s ability to apply the correct mathematical technique and processes
+when solving problems. Learners should not be penalised for making simple numerical
+errors. An appropriate threshold score may be set for the assessment of this Unit.
+Learners should be provided with a formulae sheet appropriate to the content of this Unit
+when undertaking their assessment. Computer algebra should not be used in the
+assessment of this Unit.
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 10
+SQA Advanced Unit Specification: Support notes
+Unit title: Engineering Mathematics 4 (SCQF level 8)
+It is the learners’ responsibility to ensure that any calculator they use during assessment are
+not designed or adapted to offer any of the following facilities:
+• language translators
+• symbolic algebra manipulation
+• symbolic differentiation or integration
+• communication with other machines or the internet
+In addition, any calculator used by learners should have no retrievable information stored in
+them. This includes:
+• databanks
+• dictionaries
+• mathematic formulae
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+This Unit has the Using Number component of Numeracy embedded in it. This means that
+when candidates achieve the Unit, their Core Skills profile will also be updated to show that
+they have achieved Using Number at SCQF level 6.
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 11
+History of changes to Unit
+Version Description of change Date
+02 Outcome 2 – Evidence requirements 2 – amended. 06/02/2020
+© Scottish Qualifications Authority 2014, 2017, 2020
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HT0348, Engineering Mathematics 4 (SCQF level 8) 12
+General information for learners
+Unit title: Engineering Mathematics 4 (SCQF level 8)
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+The Engineering Mathematics 4 Unit is one of a suite of five Units in Mathematics developed
+for SQA Advanced Certificates and Diplomas across a range of Engineering disciplines. The
+five Units help develop the mathematical skills required for workplace roles and for more
+advanced studies in Engineering, for example, articulation to degree study at university.
+The Unit is optional in a number of SQA Advanced Diplomas in Engineering.
+This Unit is designed to develop the mathematical skills required by learners who wish to use
+their SQA Advanced Diploma in Engineering to articulate to university degree study. You will
+learn about complex numbers (otherwise known as imaginary numbers) and the algebra that
+underpins the use of these numbers. Complex numbers arise in many branches of
+Engineering (eg ac electrical circuits). You will also learn to apply matrix techniques which
+are particularly useful when, for example, solving systems of linear equations containing
+several variables. You will develop the knowledge, understanding and skills to use Taylor’s
+and MacLaurin’s series to represent functions, and finally you will be introduced to a range of
+techniques for solving an important class of equations known as first order differential
+equations which arise extensively in many areas of Engineering.
+Unit delivery may comprise of a significant teaching input from your lecturer supplemented by
+tutorial exercises which will allow you to develop the knowledge, understanding and skills to
+apply the mathematic principles and processes covered in the Unit to a range of Engineering
+problems. Alternatively, in order to prepare you for studies at university the centre where you
+are taking this Unit may choose to deliver it as a series of lectures supported by tutorials.
+Formal assessment will be through an examination. Assessment will be conducted under
+closed-book, controlled and invigilated conditions.
+Learners considering taking this Unit will normally be expected to have pasSQA Advanced Unit specification
+General information
+Unit title: Engineering Mathematics 5 (SCQF level 8)
+Unit code: HT1N 48
+Superclass: RB
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit is designed to develop the mathematical skills required by learners who wish to use
+their SQA Advanced Diploma in Engineering to articulate to university degree study. The Unit
+will provide learners with the opportunities to develop knowledge, understanding and skills to
+solve second order, constant coefficient differential equations; use partial differentiation and
+double integration techniques to solve a range of mathematical problems, solve first and
+second order differential equations using Laplace Transforms and use eigenvalues and
+eigenvectors to solve linear system equations.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Solve second order, constant coefficient differential equations.
+2 Solve mathematical problems using partial differentiation.
+3 Solve mathematical problems using double integration techniques.
+4 Solve differential equations using Laplace Transforms.
+5 Use eigenvalues and eigenvectors to solve linear system equations.
+Credit points and level
+1 SQA Credit at SCQF level 8: (8 SCQF credit points at SCQF level 8)
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 2
+Recommended entry to the Unit
+Entry requirements are at the discretion of the centre. However, it would be advantageous if
+learners had a good knowledge and understanding of differential and integral calculus which
+included techniques for solving first order differential equations; a sound knowledge and
+understanding of basic matrix techniques together with strong numerical and algebraic skills.
+This knowledge and understanding may be evidenced by possession of the SQA Advanced
+Units Engineering Mathematics 3 and Engineering Mathematics 4.
+Core Skills
+Achievement OF this Unit gives automatic certification of the following Core Skills
+component:
+Complete Core Skill None
+Core Skill component Using Number at SCQF level 6
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+Support Notes for this Unit specification.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+The Assessment Support Pack (ASP) for this Unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard. A list of existing ASPs is available to download
+from SQA’s website (http://www.sqa.org.uk/sqa/46233.2769.html).
+Equality and inclusion
+This Unit specification has been designed to ensure that there are no unnecessary barriers
+to learning or assessment. The individual needs of learners should be taken into account
+when planning learning experiences, selecting assessment methods or considering
+alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 3
+SQA Advanced Unit Specification: Statement of standards
+Unit title: Engineering Mathematics 5 (SCQF level 8)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Solve second order, constant coefficient differential equations.
+Knowledge and/or Skills
+• Homogenous
+• Non-Homogenous
+• General solution of second order differential equations
+• Linear Approximation Techniques
+Outcome 2
+Solve mathematical problems using partial differentiation.
+Knowledge and/or Skills
+• Partial Differentiation
+• Chain/ Product/Quotient Rules
+• Higher Order Partial Derivatives
+• Stationary points
+Outcome 3
+Solve mathematical problems using double integration techniques.
+Knowledge and/or Skills
+• Rectangular Domain
+• Polar Domain
+• Change order of integration in double integrals
+• Volumes or surface areas
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 4
+Outcome 4
+Solve differential equations using Laplace Transforms.
+Knowledge and/or Skills
+• Laplace Transforms
+• Inverse Laplace Transforms
+• Shift theorems
+• Dirac Delta Function
+• First and Second Order Differential Equations
+Outcome 5
+Use eigenvalues and eigenvectors to solve linear system equations.
+Knowledge and/or Skills
+• Eigenvalues and Eigenvectors
+• Eigenvalue related problems
+Evidence Requirements for this Unit
+A sampling approach will be used in the assessment of the Knowledge and/or Skills in this
+Unit. Learners will need to provide written and/or recorded oral evidence to demonstrate their
+Knowledge and/or Skills across all Outcomes by showing they can:
+Outcome 1
+Provide evidence of three out of four Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Determine the complimentary function of one second order differential equation
+• Determine the particular integral of one second order differential equation
+• Determine the particular solution of one second order, constant coefficient differential
+equation given initial conditions
+• Use a Taylor linear approximation and solve the resulting second order non-linear
+differential equation
+Outcome 2
+Provide evidence of three out of four Knowledge and/or Skills in this Outcome. The
+following evidence should be provided for the particular Knowledge and/or Skill items
+sampled:
+• Solve one mathematical problem involving first order partial derivatives
+• Solve one partial differentiation problem involving the use of the chain, product or
+quotient rules
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 5
+• Solve one problem involving higher order partial differentiation
+• Solve one problem which involves finding the location and nature of a stationary point (s)
+for a function of the form( , )f x y
+Outcome 3
+Provide evidence of three out of five Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Define the domain and limits of integration
+• Solve a double integral in the rectangular domain
+• Solve a double integral after transforming the integrand to the polar domain
+• Solve a double integral by changing the order in the double integration
+• Use double integration to determine the volume or surface area of a shape or length of a
+curve
+Outcome 4
+Provide evidence of three out of five Knowledge and/or Skills in this Outcome. The following
+evidence should be provided for the particular Knowledge and/or Skill items sampled:
+• Determine the Laplace Transform of a function( )f t from a table of Laplace Transforms
+• Determine the inverse Laplace Transform of a function( )f s using the completing the
+square or partial fraction methods
+• Solve one problem which involves the use of the first or second shift theorems
+• Solve one problem which involves the use of the Dirac Delta function
+• Solve a first or second order differential equation with initial conditions using Laplace
+Transforms
+Outcome 5
+Provide evidence of the following Knowledge and/or Skills each time this Outcome is
+assessed:
+• Determine eigenvalue and eigenvector for one 3 × 3 matrix
+• Determine a diagonalisation transform to solve a problem of An
+The assessment of all five Outcomes should take place at a single end of Unit assessment
+event. All re-assessments should be based on a different assessment instrument. This
+should re-assess all five Outcomes. All re-assessments should be based on a different
+sample of Knowledge and/or Skills.
+All assessments should be unseen, closed-book and carried out under supervised, controlled
+conditions.
+Computer algebra must not be used in the assessment of this Unit.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 6
+SQA Advanced Unit Specification:Support notes
+Unit title: Engineering Mathematics 5 (SCQF level 8)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit is one of a suite of five Units in Mathematics developed for SQA Advanced
+Qualifications across a range of engineering disciplines. The five Units are:
+Engineering Mathematics 1
+Engineering Mathematics 2
+Engineering Mathematics 3
+Engineering Mathematics 4
+Engineering Mathematics 5
+In the development of this Unit a list of topics expected to be covered by lecturers has been
+identified. Recommendations have also been made on how much time lecturers should
+spend on each Outcome. The use of this list of topics is strongly recommended to ensure
+continuity of teaching and learning and adequate preparation for the assessment of the Unit.
+Consideration of this list of topics alongside the Assessment Support Pack developed for this
+Unit will provide clear indication of the standard expected in this Unit.
+Outcome 1 (6 hours)
+Solve second order, constant coefficient differential equations.
+• Introduce the general form of a constant coefficient, second order linear differential
+equation as follows:( )
+2
+2
+d y dy
+a b cy f x
+dx dx
+  
+where a, b, c are constants
+• Provide examples of second order differential equations from engineering
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 7
+• Explain that solving a second order linear differential equation involves the following
+three stages:
+— Finding the complementary function, ycf
+— Finding a particular integral, ypi
+— Determining the general solution by adding together the complementary function
+and the particular integral (y = ycf + ypi) and applying initial conditions where known
+• Explain the difference between homogeneous and non-homogenous in the context of
+second order differential equations
+• Introduce the auxiliary equation (characteristic equation) and explain that when finding
+roots of the auxiliary equation there are three cases we need to consider
+• Explain that to find the complementary function one is finding the solution to the equation2
+2 0
+d y dy
+a b cy
+dx dx
+  
+• Find the complementary functions of second order differential equations using solutions
+of the form y=ekx
+• Explore the various forms a complementary function can take
+• Explain that the particular integral is any function which satisfies the following equation( )
+2
+2
+d y dy
+a b cy f x
+dx dx
+  
+• Explain that for special classes of( )f x we can use the Method of Undetermined
+Coefficients to find the particular integral
+• Find the general solution of second order differential equations including applying initial
+conditions
+Outcome 2 (5 hours)
+Solve mathematical problems using partial differentiation.
+• Introduce partial differentiation as the process of differentiating functions of two or more
+variables
+• Identify the notation used in partial differentiation
+• For any function( , )f x y differentiate with respect to x treating all terms in y as constant
+• For any function( , )f x y differentiate with respect to y treating all terms in x as constant
+• Undertake partial differentiation involving the use of the chain, product or quotient rules
+• Introduce higher order partial derivatives
+• Demonstrate the way in which to determine higher order derivatives
+• Introduce examples of partial differential equations (solutions not required) which occur
+in engineering
+• Explain and demonstrate the way in which to find the location and nature of a stationary
+point for a function of the form( , )z f x y
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 8
+Outcome 3 (5 hours)
+Solve mathematical problems using double integration techniques.
+• Explain that double integration involves integrating a function( , )f x y as follows: ,
+R
+dyf y dxx
+where R is the region of integration in the x – y plane
+• Explain that the process of double integration normally comprises the following three
+stages:
+— Work out the limits of integration if these are not known
+— Determine the inner integral assuming terms in x are constant
+— Determine the outer integral
+• Perform double integration where the limits are known and where they have to be
+determined
+• Demonstrate that changing the order of integration can sometimes make double
+integration easier or possible to perform
+• Demonstrate the way in which double integration may be performed by transforming
+variables from the rectangular domain to the polar domain
+• Use double integration to determine the volume or surface areas of objects or the length
+of a curve
+Outcome 4 (6 hours)
+Solve differential equations using Laplace Transforms.
+• Explain that the Laplace transform method is an integral transform method in which a
+linear constant coefficient differential equations is transformed into an algebraic
+equation. The corresponding algebraic equation is then solved and the transform
+reversed to find the solution of the differential equation.
+• Introduce the Laplace Transform of( )f t as:( ) e ( )
+0
+st
+F s f t dt
+
+
+ 
+(non-assessable)
+• Determine one or two simple Laplace Transforms using the above equation
+• Direct learners to tables of Laplace Transforms and Inverse Laplace Transforms
+• Demonstrate techniques for finding the inverse of functions of( )F s using completing the
+square and partial fractions
+• Introduce the first and second shift theorems
+• Demonstrate the application of the two theorems
+• Introduce the Dirac Delta function (simple treatment only) — provide engineering
+analogies (eg a power supply spike or a hammer striking an object)
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 9
+• State the Laplace transform of the Dirac Delta function as( ( )) e as
+L t a
+ 
+ 
+• Solve differential equations involving the use of the Dirac Delta function
+• Solve first and second order differential equations with initial conditions using Laplace
+Transforms
+• Solve systems of linear differential equations using Laplace Transforms if time permits
+Outcome 5 (6 hours)
+Use eigenvalues and eigenvectors to solve linear system equations
+• Introduce the idea of a trivial and non-trivial solution in the context of matrix theory
+• Define the concept of an eigenvalue (in terms of, for example, the characteristic equation0A
+ 
+)
+• Determine eigenvalues for 2 × 2 and 3 × 3 matrices
+• Introduce the concept of eigenvectors as the non-trivial solutions X of the equationAX X
+
+• Find the eigenvectors for 2 × 2 and 3 × 3 matrices
+• Solve eigenvalue/eigenvector problems (eg diagonalisation matrices/transformation
+matrices)
+Guidance on approaches to delivery of this Unit
+This Unit provides many of the core mathematical principles and processes required when
+studying engineering at a more advanced level. Given the nature of the subject matter in the
+Unit it is advisable that the Unit is not delivered until learners have studied Engineering
+Mathematics 4.
+Centres may deliver the Outcomes in any order they wish.
+The Unit may be delivery using a didactic approach. All teaching input should be
+supplemented by a significant level of formative assessment in which learners are provided
+with opportunities to develop their knowledge, understanding and skills of the mathematical
+topics covered in the Unit. Alternatively, as learners taking this Unit may be preparing to
+enter an degree course at university (possibly at an advanced level) the Unit could be
+delivered as a series of lectures supported by tutorial sessions to help learners prepare
+better for future university studies.
+Computer software and computer algebra may be used to support learning (eg to confirm the
+solutions of mathematical problems), but it is strongly recommended that such learning
+resources are only used in a supportive capacity and not as the principal means of delivering
+Unit content.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 10
+Guidance on approaches to assessment of this Unit
+The recommended approach is the use of an examination question paper. The question
+paper should be composed of an appropriate balance of short answer, restricted response
+and structured questions. The questions in the examination should not be grouped by
+Outcome or be labelled in terms of the Outcomes they relate to.
+All assessment papers should be unseen by the learners prior to the assessment event and
+at all times, the security, integrity and confidentiality of assessment papers must be ensured.
+Assessment should be conducted under closed-book, controlled and invigilated conditions.
+The summative assessment of all four Outcomes should not exceed two hours and thirty
+minutes. When assessing a learner’s responses to summative assessment lecturers should
+concentrate principally on the learner’s ability to apply the correct mathematical technique
+and processes when solving problems. Learners should not be penalised for making simple
+numerical errors. An appropriate threshold score may be set for the assessment of this Unit.
+Learners should be provided with a formulae sheet appropriate to the content of this Unit
+when undertaking their assessment. Computer algebra should not be used in the
+assessment of this Unit.
+It is the learners’ responsibility to ensure that any calculator they use during assessment are
+not designed or adapted to offer any of the following facilities:
+• language translators
+• symbolic algebra manipulation
+• symbolic differentiation or integration
+• communication with other machines or the internet
+In addition, any calculator used by learners should have no retrievable information stored in
+them. This includes:
+• databanks
+• dictionaries
+• mathematic formulae
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 11
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence.
+The most up-to-date guidance on the use of e-assessment to support SQA’s qualifications is
+available at www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+This Unit has the Using Number component of Numeracy embedded in it. This means that
+when candidates achieve the Unit, their Core Skills profile will also be updated to show that
+they have achieved Using Number at SCQF level 6.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 12
+History of changes to Unit
+Version Description of change Date
+© Scottish Qualifications Authority 2014, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HT1N 48, Engineering Mathematics 5 (SCQF level 8) 13
+General information for learners
+Unit title: Engineering Mathematics 5 (SCQF level 8)
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+The Engineering Mathematics 5 Unit is one of a suite of five Units in Mathematics developed
+for SQA Advanced Certificates and Diplomas across a range of Engineering disciplines. The
+five Units help develop the mathematical skills required for workplace roles and for more
+advanced studies in Engineering, for example, articulation to degree study at university.
+The Unit is optional in a number of SQA Advanced Diplomas in Engineering.
+This Unit is designed to develop the mathematical skills required by learners who wish to use
+their SQA Advanced Diploma in Engineering to articulate to university degree study.
+You will learn a range of techniques for solving second order differential equations. These
+equations arise frequently in many areas of engineering. You will develop the knowledge,
+understanding and skills to perform partial differentiation and double integration. You will also
+learn about the very powerful Laplace Transforms method for solving a wide range of
+differential equations. You will also be introduced to eigenvalues and eigenvectors which are
+used in the solution of linear system equations.
+Unit delivery may comprise of a significant teaching input from your lecturer supplemented by
+tutorial exercises which will allow you to develop the knowledge, understanding and skills to
+apply the mathematic principles and processes covered in the Unit to a range of engineering
+problems. Alternatively, in order to prepare you for studies at university the centre where you
+are taking the Engineering Mathematics 4 Unit may choose to deliver it as a series of
+lectures supported by tutorials.
+Formal assessment will be through an examination. Assessment will be conducted under
+closed-book, controlled and invigilated conditions.
+Learners considering taking this Unit will normally be expected to have passed the
+Engineering Mathematics 3 SQA Advanced Unit or equivalent. It also recommended that you
+have passed the Engineering Mathematics 4 SQA Advanced Unit.sed theHT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 1
+SQA Advanced Unit specification
+General information
+Unit title: Fundamentals of Control Systems and Transducers
+(SCQF level 7)
+Unit code: HT1R 47
+Superclass: VE
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit is designed to provide learners with a fundamental knowledge of control systems
+and their components. It allows learners to study the structure and general behaviour of
+different types of control systems including open and closed loop types. This Unit also
+enables learners to develop the knowledge and skills to allow them to understand the
+operation and application of a range of transducer devices. Learners are provided with the
+opportunity to construct circuits and systems that incorporate transducers. This Unit acts as a
+good foundation Unit for more in depth studies in the specialist area of control systems
+behaviour.
+Outcomes
+On successful completion of the Unit the learner will be able to:
+1 Explain control system elements and signals.
+2 Explain the operation and application of a range of transducers used in control systems.
+3 Describe the structure and behaviour of control systems.
+4 Demonstrate the application of transducers in control systems.
+Credit points and level
+1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7)
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 2
+Recommended entry to the Unit
+Learners should have a general knowledge and understanding of electrical and electronic
+concepts. This may be evidenced by possession of the SQA Advanced Units: HP46 47 DC
+and AC Principles, HT7J 46 Analogue Electronics: An Introduction and HT7L 47 Digital
+Electronics. However, entry requirements are at the discretion of the centre.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes for this
+Unit specification.
+There is no automatic certification of Core Skills or Core Skill components in this Unit.
+Context for delivery
+This Unit has been developed for the SQA Advanced Certificate and SQA Advanced
+Diploma in Electrical Engineering. If this Unit is delivered as part of a Group Award, it is
+recommended that it should be taught and assessed within the subject area of the Group
+Award to which it contributes.
+The Assessment Support Pack (ASP) for this Unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard. A list of existing ASPs is available to download
+from SQA’s website (http://www.sqa.org.uk/sqa/46233.2769.html).
+Equality and inclusion
+This Unit specification has been designed to ensure that there are no unnecessary barriers
+to learning or assessment. The individual needs of learners should be taken into account
+when planning learning experiences, selecting assessment methods or considering
+alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 3
+Unit specification: Statement of standards
+Unit title: Fundamentals of Control Systems and Transducers
+(SCQF level 7)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set
+out in this part of the Unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Explain control system elements and signals.
+Knowledge and/or skills
+• Functions of control system elements and signals
+• Characteristics of analogue and digital signals
+• Transmission of analogue signals
+• Transmission of digital signals
+• Functions of signal conditioning devices
+Outcome 2
+Explain the operation and application of a range of transducers used in control systems.
+Knowledge and/or Skills
+• Operation and application of a range of transducers suitable for measuring the following
+variables: temperature, flow, displacement, velocity, pressure, strain, position, level and
+light
+• Properties of transducers
+• Identification of suitable transducers for various control systems
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 4
+Outcome 3
+Describe the structure and behaviour of control systems.
+Knowledge and/or Skills
+• Sequence control systems
+• On-off control systems
+• Block diagram representation of open and closed loop systems
+• Transient and steady state behaviour of open loop systems in response to the
+application of a Unit step input
+• Transient and steady state behaviour of closed loop systems in response to the
+application of a Unit step input
+• The use of controllers to modify open loop system responses
+• The use of controllers to modify closed loop system responses
+Outcome 4
+Demonstrate the application of transducers in control systems.
+Knowledge and/or Skills
+• Construct and demonstrate circuits and systems that incorporate transducers
+• Operation of circuits and systems that incorporate transducers
+• Measurement of transducer transfer characteristics
+Evidence Requirements for Outcomes 13
+Written and/or Oral recorded evidence is required for outcomes 13 which will be provided
+on a sample basis. In any assessment of the Outcomes three out of five Knowledge and/or
+Skills items should be sampled from Outcome 1, two out of three Knowledge and/or Skills
+items from Outcome 2, and four out of seven Knowledge and/or Skills items from
+Outcome 3.
+In order to ensure that learners will not be able to foresee what items they will be questioned
+on, a different sample of three out of five Knowledge and/or Skills items from Outcome 1, two
+out of three Knowledge and/or Skills items from Outcome 2, and four out of seven
+Knowledge and/or Skills items from Outcome 3 is required each time the Unit is assessed.
+Learners must provide a satisfactory response to all items.
+Evidence should be generated through assessment undertaken in controlled, supervised
+conditions. Assessment should be conducted under closed-book conditions and as such
+learners must not be allowed to bring any textbooks, handouts, manuals or notes to the
+assessment.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 5
+Where sampling takes place, a learner’s response can be judged to be satisfactory where
+the evidence shows the learner can:
+Outcome 1
+• Describe the function of five of the following: controller, error detector, regulator,
+actuator, transducer, manipulated variable, controlled variable, set point, external output
+• Describe the characteristics of analogue and digital signals, and compare the
+advantages/disadvantages of each
+• Describe the effects of a transmission path on an analogue signal, and describe the
+desirable properties of a suitable cable used for transmitting analogue signals in a
+control system
+• Explain the difference between serial and parallel data transmission, state at least three
+interface standards and, for each standard, state an appropriate application
+• Explain the function of three signal conditioning devices
+Outcome 2
+• Explain the operation and application of transducers suitable for measuring two variables
+from the following list: temperature, flow, displacement, velocity, pressure, strain,
+position, level and light
+• Explain four of the following properties of a transducer: range, accuracy, repeatability,
+sensitivity, resolution, linearity, hysteresis
+• State a suitable transducer for a given control system
+Outcome 3
+• State an example of a sequence control system and describe the component parts
+• Describe the behaviour of an on-off type of control system and give an example of an
+application
+• Draw a block diagram of a specified closed loop control system consisting of a controller,
+external input (set point), error detector, error signal, actuator, regulator, manipulated
+variable, process, controlled variable, feedback loop, transducer and any appropriate
+signal conditioning devices
+• Draw a voltage/time graph showing the transient and steady state response of an open
+loop system in response to a Unit step input. The graph should be labelled with final
+value, steady state error, and time to settle
+• Draw a voltage/time graph showing the transient and steady state response of a closed
+loop system in response to a Unit step input. The graph should be labelled with steady
+state error, time to peak, time to settle, overshoot and final value
+• Draw labelled graphs showing the effect of increasing and decreasing gain in an open
+loop system
+• Draw labelled graphs showing over damped, under damped, and critically damped
+behaviour in a closed loop system
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 6
+Evidence Requirements for Outcome 4
+This is a practically based Outcome and all of the Knowledge and/or Skills items should be
+assessed. The evidence should be presented in response to a practical, laboratory
+assignment in which each learner is set the task of constructing and demonstrating the
+operation of a circuit or system that incorporates a transducer.
+A learner’s response can be judged to be satisfactory where evidence provided is sufficient
+to meet the requirements for each item by showing that the learner is able to:
+• Construct and demonstrate correct operation of a circuit or system that incorporates a
+transducer
+• Describe the operation of the circuit or system that has been constructed
+• Measure and plot on a graph, the transducer’s output in response to changes at its input
+Evidence of the practical aspects of this assignment should be recorded by centres in the
+form of a checklist for each learner. Each learner is required to construct a circuit or system
+independently, and then demonstrate to the Assessor its correct operation. If the learner’s
+circuit or system does not operate properly, then the learner should be allowed to correct the
+faults and retest the operation at the same assessment event.
+On completion of the practical laboratory exercise, learners are required to submit a written
+laboratory report. This report should include the following sections of information:
+• purpose of the circuit or system, and relevant circuit or system diagram
+• brief description of method of construction
+• description of operation of the circuit or system
+• record of measured input and output values for the transducer
+• graph of transducer’s transfer characteristic (o/p versus i/p values)
+• record of observations of the operation of the circuit or system
+• analysis of recorded values, graph and observations
+• conclusion conveying the success of the operation of the circuit or system
+Centres should provide learners with details of the required report format. Although it should
+be encouraged, it is not a requirement that learners use software packages to produce
+documentation for their reports. Centres should make every reasonable effort to ensure that
+each report is the learner’s own work.
+The circuit or system that the learner is required to construct and demonstrate can be built
+using discrete components, pre-constructed modules or a combination of both. Learners
+should be issued with the circuit or system diagram along with a brief description of its
+purpose. The circuit or system should be constructed in the laboratory under controlled,
+supervised conditions, and the written report can be completed outwith the laboratory in the
+learner’s own study time.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 7
+Unit Support Notes
+Unit title: Fundamentals of Control Systems and Transducers
+(SCQF level 7)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written to in order to allow learners to develop knowledge, understanding
+and skills in the following areas:
+1 Explain control system elements and signals.
+2 Explain the operation and application of a range of transducers used in control systems.
+3 Describe the structure and behaviour of control systems.
+4 Demonstrate the application of transducers in control systems.
+This Unit is at SCQF level 7 and is included within the SQA Advanced Certificate in
+Electronics and SQA Advanced Diploma in Electronics. However this does not preclude the
+use of this Unit in other awards where award designers feel this to be appropriate.
+In designing this Unit, the Unit writer has identified the range of topics expected to be
+covered by lecturers. The writer has also given recommendations as to how much time
+should be spent on each Outcome. This has been done to help lecturers decide what depth
+of treatment should be given to the topics attached to each of the Outcomes. Whilst it is not
+mandatory for centres to use this list of topics, it is recommended that they do so since the
+assessment exemplar pack for this Unit is based on the Knowledge and/or Skills and list of
+topics in each of the Outcomes.
+A list of topics for each Outcome is given below. Lecturers are advised to study this list in
+conjunction with the assessment exemplar pack so that they can get a clear indication of the
+standard of achievement expected of learners in this Unit.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 8
+1 Explain control system elements and signals (10.5 hours)
+The following topics could be covered whilst referring to a variety of specific control system
+examples:
+• Purpose of a control system
+• Practical examples of the requirement for a control system
+• Element parts of a control system – controller, error detector, actuator, regulator,
+process, feedback loop and transducer
+• Signals in a control system – external inputs and outputs, set point, error signal,
+manipulated variable, controlled variable, and disturbance variables
+• Characteristics of analogue and digital signals
+• Comparative advantages/disadvantages of analogue and digital signals
+• Transmission of analogue and digital signals over short and long distances, and in
+industrial environments
+• Serial and Parallel methods of digital signal transmission
+• Serial and Parallel Standards (eg RS 232, RS 423, RS 422, RS 485, IEEE 488 and IEEE
+1284) and their applications
+• Need for, and functions of signal conditioning devices eg amplifier, filter, A/D and D/A,
+linearisation circuit, V/I and I/V conversion
+2 Explain the operation and application of a range of transducers used in control
+systems (8 hours)
+Basic construction, operation and application of a range of transducers suitable for
+measuring variables such as temperature, flow, displacement, velocity, pressure, strain,
+position, level and light.
+Examples of devices that could be covered are potentiometers, capacitive displacement
+transducers, tacho-generators, strain gauges, flow meters, manometers, bourdon tubes,
+bellows, resistance thermometers, thermocouples, shaft encoders, linear variable differential
+transformers, photo diodes, light dependant resistors, piezo-electric transducers.
+Transducer properties including range, accuracy, repeatability, sensitivity, resolution, linearity
+and hysteresis
+Selection of transducers suitable for specific example control systems.
+This Outcome should be taught through practical demonstrations and ‘hands on’ experience
+of the practical use of transducers in model control systems. This Outcome could be
+delivered in conjunction with Outcome 4.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 9
+3 Describe the structure and behaviour of control systems (12 hours)
+• Operation of and examples of sequence control systems eg plc control of industrial
+processes
+• Behaviour and example applications of on-off control systems
+• Behaviour and examples of open loop systems
+• Behaviour and examples of closed loop systems
+• Representation in block diagram format of open and closed loop systems
+• Transient and steady state behaviour of open loop systems in response to the
+application of a Unit step input:
+— Draw a voltage/time graph showing the transient and steady state response of an
+open loop system in response to a Unit step input. The graph should be labelled
+with final value, steady state error, and time to settle
+— The use of controllers to modify open loop system responses
+— Draw labelled graphs showing the effect of increasing gain in an open loop system
+• Transient and steady state behaviour of closed loop systems in response to the
+application of a Unit step input:
+— Draw a voltage/time graph showing the transient and steady state response of a
+closed loop system in response to a Unit step input. The graph should be labelled
+with steady state error, time to peak, time to settle, overshoot and final value
+• The use of controllers to modify closed loop system responses:
+— Draw labelled graphs showing over damped, under damped, and critically damped
+behaviour in a closed loop system
+— Show that controllers can be used to obtain any desired closed loop performance
+(with respect to peak, overshoot, settling time, steady state error etc.)
+• Throughout this Outcome, practical illustrative examples of control systems should be
+available in the laboratory to allow learners the opportunity to observe their operation
+and obtain some ‘hands on’ experience. These could be actual or model control systems
+that allow the learners to observe and analyse the effects of gain changes, input
+condition changes etc.
+4 Demonstrate the application of transducers in control systems (6 hours)
+This is a practically based Outcome. Laboratory exercises are required to allow learners to:
+• Construct and then investigate the operation of simple control circuits and systems that
+incorporate transducers
+• Measure the output of transducers in response to changes in the input quantity
+• Plot the transfer characteristics for transducers (graphs of output values versus input
+values)
+• From the graphs identify any non-linear characteristics and hysteresis
+The circuits and systems can be built using discrete components, pre-constructed modules,
+or a combination of both.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 10
+Unit Assessment:
+Written Paper 2 hours
+Practical Laboratory Assignment 2 hours
+Guidance on approaches to delivery of this Unit
+Throughout the delivery of this Unit, reference should be made to practical examples of
+control systems. A range of transducers should be available for learners to view. Practical
+demonstrations and/or laboratory exercises showing the operation of transducers and model
+control systems should be provided throughout the Unit.
+This Unit has been developed as part of the SQA Advanced Certificate and SQA Advanced
+Diploma in Electrical Engineering awards. Where this Unit is incorporated into other Group
+Awards it is recommended that it be delivered in the context of the specific occupational
+area(s) that the award is designed to cover.
+Details on approaches to assessment are given under Evidence Requirements and
+Assessment guidelines under each Outcome in the SQA Advanced Unit specification:
+statement of standards section. It is recommended that these sections be read carefully
+before proceeding with assessment of learners.
+The written assessment paper should take place after delivery of the Unit is complete.
+The practical laboratory assignment can be carried out during the delivery of the Unit.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment. The following are
+suggestions only. There may be other methods that would be more suitable to learners.
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+The assessment for all Outcomes 1, 2 and 3 in this Unit should be combined together into
+one written assessment paper. This paper should be taken by learners at one single
+assessment event that should last two hours. The assessment paper should be composed of
+a suitable balance of short answer, restricted response and structured questions. This
+assessment should be carried out at the end of the delivery of the Unit and be conducted
+under controlled, supervised conditions.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 11
+Outcome 4 should be assessed by a practical, laboratory assignment in which each learner
+is set the task of constructing and demonstrating the operation of a circuit or system that
+incorporates a transducer. On successful completion of the practical aspects of this
+assignment, learners should be required to submit a written laboratory report. The time that
+should be allocated in the laboratory for this assignment is 2 hours. However, learners
+should be allowed to complete the written report outwith the laboratory in their own study
+time. The assessment for Outcome 4 should be carried out at a suitable time during the
+delivery of the Unit.
+Assessment Guidelines
+Outcomes 13
+The assessment for Outcomes 1, 2 and 3 should be combined together to form one
+assessment paper. This single assessment paper should be taken at a single assessment
+event lasting two hours and be carried out under supervised, controlled conditions. Such a
+paper should be composed of an appropriate balance of short answer, restricted response
+and structured questions. This assessment should be taken at the end of the Unit.
+Outcome 4
+The assessment of this Outcome should take the form of a practical, laboratory assignment
+which can be carried out at a suitable time during the delivery of the Unit. The time that
+should be allocated in the laboratory for this assignment is 2 hours. However, learners
+should be allowed to complete the written report outwith the laboratory in their own study
+time. It is recommended that centres develop checklists to support the assessment
+requirements for each of the Knowledge and/or Skills items.
+It is essential that centres ensure that evidence generated is the learner’s own work. Centres
+can choose to issue each learner with the same circuit or system to be constructed, or a
+different circuit or system to be constructed. If different circuits or systems are issued then
+each one must possess the same degree of difficulty.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 12
+Opportunities for developing Core and other essential skills
+There may be opportunities to gather evidence towards the following Core Skills or Core
+Skills components in this Unit, although there is no automatic certification of Core Skills or
+Core Skills components:
+• Written Communication (Reading) at SCQF level 6
+• Written Communication (Writing) at SCQF level 6
+• Using Graphical Information at SCQF level 6
+• Critical Thinking at SCQF level 6
+• Working with Others at SCQF level 4
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 13
+History of changes to Unit
+Version Description of change Date
+ Copyright SQA 2005, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 14
+General information for learners
+Unit title: Fundamentals of Control Systems and Transducers
+(SCQF level 7)
+This section will help you decide whether this is the Unit for you by explaining what the Unit
+is about, what you should know or be able to do before you start, what you will need to do
+during the Unit and opportunities for further learning and employment.
+A control system consists of a number of components (which can be electrical, mechanical,
+thermal or hydraulic) that act together to maintain a desired output in a process. Control
+systems are used extensively in industries such as oil refining, electrical generation,
+chemical processing, and manufacturing and production. Our homes and offices also use
+control systems to regulate temperature and air conditioning. This Unit has been designed to
+enable you to develop the necessary knowledge and skills so you to understand the structure
+and general behaviour of different types of control systems.
+The Unit takes a non-mathematical approach to control systems. You will learn how to
+explain control system concepts, use block diagrams to model systems, and use graphical
+methods to describe their behaviour.
+You will begin the Unit by learning about the types of component parts that make up control
+systems. You will also learn how information is transferred between the component parts by
+means of analogue and digital signals. You will discover that the operation of a control
+system is heavily influenced by its environment, and that the choice of equipment and signal
+types depends on the location of the system. The need for signal conditioning devices such
+as filters and amplifiers will be covered.
+As you progress through the Unit, you will learn about different methods of controlling the
+output of a process. Basic methods such as open loop control will be covered. However,
+these have limitations and disadvantages. Therefore, you will learn about the need for closed
+loop control systems which have the facility to measure the output variable being controlled,
+so as to sense changes and enable corrective action to be taken to ensure that the output of
+the system is maintained at the desired value. Such control systems include temperature
+control and flow control of liquids. You will also develop knowledge and skills to enable you
+to understand how controllers can be used to modify the way open and closed loop control
+systems respond (with respect to speed of response, damping, and transient and steady
+state response).
+Closed loop control systems incorporate devices called transducers. These accept energy in
+one form eg heat and produce output energy in some other form such as an electrical signal.
+You will study the operation and application of a range of transducers suitable for measuring
+variables such as temperature, flow, displacement, velocity, pressure, strain, position, level
+and light. In addition, you will have the opportunity to construct circuits and systems that
+incorporate transducers. You will measure the characteristics of transducers, and study the
+overall operation of the circuits and systems that you build.
+By the end of this Unit you should possess the knowledge and skills to enable you to: explain
+control system elements and signals; explain the operation and application of a range of
+transducers; describe the structure and behaviour of control systems; and demonstrate the
+application of transducers in control systems.
+SQA Advanced Unit Specification
+HT1R 47, Fundamentals of Control Systems and Transducers (SCQF level 7) 15
+The formal assessment for the Unit will consist of a both a written assessment paper lasting
+two hours and a laboratory assignment lasting two hours.
+The written assessment paper will be conducted under closed-book conditions and you will
+not be allowed to take notes, textbooks etc into the assessment. You will sit this assessment
+paper at the end of the delivery of the Unit.
+The laboratory assignment will require you to construct and demonstrate the operation of a
+circuit or system that incorporates a transducer. This will be carried out during a two hour
+laboratory session at a suitable time during the delivery of the Unit. On successful completion
+of the practical aspects of this assignment, you will be required to submit a written laboratory
+report.
+Engineering Mathematics 3 SQA Advanced Unit or equivalent.
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:48 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:48 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston		Jul 2, 2024, 3:48 PM (2 days ago)
+
+Unit title: High Level Engineering Software Unit code: HP41 47 Unit purpose: This Unit is designed to give candidates knowledge and understanding and apply basi
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:48 PM (2 days ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:48 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	 Jul 2, 2024, 3:51 PM (2 days ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+Skip to content Skip to main navigation Skip to sub navigation Skip to Accessibility Page 
+SQA 
+Site Search  
+Main Menu
+•	Qualifications 
+•	Deliver qualifications 
+•	Past Papers
+•	About SQA
+•	Contact us
+•	Home
+•	SQA Advanced Certificates and Diplomas > Subjects > Engineering, Electronics, Maritime and Nautical > SQA Advanced Certificate/Diploma Electrical Engineering
+SQA Advanced Certificate/Diploma Electrical Engineering
+
+SQA Advanced Certificate and SQA Advanced Diploma qualifications provide practical skills and theoretical knowledge that meet the needs of employers.
+The SQA Advanced Certificate in Electrical Engineering at SCQF 7 covers areas such as:
+•	Electrical Principles
+•	Information Technology
+•	Three Phase Induction Motors
+•	Power Electronics
+•	Inspection and Testing of Low Voltage Electrical Installations
+•	Programmable Logic Controllers
+•	Electrical Systems in Hazardous Environments
+•	Control Systems
+•	Further Mathematical studies
+•	Electrical Installation Skills
+•	Engineering Quality
+The SQA Advanced Diploma in Electrical Engineering at SCQF 8 builds on the knowledge and skills of the SQA Advanced Certificate and covers areas such as:
+•	Inspection and Testing of Low Voltage Installations
+•	Programmable Logic Controllers
+•	Electrical Systems in Hazardous Environments
+•	Analogue and Digital Electronics
+•	Quality Management
+•	Electrical Installation Skills
+•	Industrial Plant Maintenance
+•	Synchronous Machines
+•	Electrical Motor Drive Systems
+•	Three Phase Induction Motors
+•	High Level Engineering Software
+•	Additional Control Systems studies
+•	Power Supply Circuits
+•	Switchgear and Protection
+•	Standby Systems
+•	Electrical Installation Design: Computer Aided
+•	Advanced Mathematical studies
+Qualification structure
+SQA Advanced Certificate in Electrical Engineering
+Group award code: GP6D 47 (96 SCQF credit points)
+SQA Advanced Certificate in Electrical Engineering at SCQF level 7 consists of 9 mandatory units.
+SQA Advanced Diploma in Electrical Engineering
+Group award code: GP6C 48 (240 SCQF credit points)
+SQA Advanced Qualifications
+•	Notification of changes 
+•	Assessment support materials 
+•	Past papers
+•	Replacement Certificates
+•	SQA careers
+•	Media Enquiries
+•	MyAlerts
+•	Contact us
+•	SQA Accreditation  
+•	SQA Blogs  
+•	MySQA  
+•	SWQR  
+•	Understanding Standards  
+•	Ushare  
+Cookies Privacy Statement Accessibility Gàidhlig Terms & Conditions Procurement Modern Slavery Act 
+    
+
+On Tue, Jul 2, 2024 at 3:47 PM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+SQA Advanced Unit Specification
+General information
+...
+
+[Message clipped]  View entire message
+One attachment • Scanned by Gmail
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:52 PM (2 days ago)
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		Jul 2, 2024, 3:52 PM (2 days ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Jul 3, 2024, 1:46 PM (23 hours ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+SQA Advanced Unit Specification
+General information for centres
+Unit title: High Level Engineering Software
+Unit code: HP41 47
+Unit purpose: This Unit is designed to give candidates knowledge and understanding and apply
+basic software engineering concepts to solving electrical and electronic engineering problems that
+require a software solution. The emphasis in this Unit is on writing and testing and documenting I/O
+programs using the basic structures available in most high level languages.
+This Unit provides the candidates with the opportunity to develop skills in system design (top-down
+design), detailed design (using flow charts or program design language), implementation in the design
+in a high level language and verification of the design. This Unit also allows the candidates to develop
+their communication skills by generating the documentation for the designed solution.
+On completion of the Unit the candidate should be able to:
+1 Write, test and document linear programs using I/O statements.
+2 Write, test and document I/O programs using conditional statements.
+3 Write, test and document I/O programs using iterative loop statements.
+4 Write, test and document an I/O program, incorporating subroutines.
+Credit value: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should have a basic knowledge
+of electronics, logic operations and number systems. This may be evidenced by possession of a
+Higher in Electronics or the following National Qualification Units D134 11 Combinational Logic or
+E9LG 11 Computing in Engineering 1 or D980 11 Programmable Systems.
+Core Skills: There may be opportunities to gather evidence towards Core Skills in this Unit,
+although there is no automatic certification of Core Skills or Core Skills components.
+Context for delivery: This Unit was developed for the SQA Advanced Certificate/Diploma in
+Electronics award. If the Unit is used in another Group Award(s) it is recommended that it should be
+taught and assessed within the context of the particular Group Award(s) to which it contributes. The
+platform for this Unit may be a micro-controller system or a standard personal computer with access
+to I/O ports.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 2
+Assessment: It is recommended that this Unit be assessed via a logbook or portfolio and
+programming projects or assignments that cover the knowledge and skill presented in each Outcome.
+Centres should take every reasonable effort to ensure that reports are the candidates’ own work. It
+may be possible to issue each candidate with a slightly different specification of equal complexity, or
+alternatively where there is a suspicion of copying or plagiarism, an appropriate response may be to
+interview candidates. A checklist should be used to record oral evidence of the candidates’
+understanding.
+Centres are recommended to develop appropriate checklists to support the assessment requirements
+for each of the knowledge and skills items. Centres are also recommended to produce a marking
+schedule based on the Evidence Requirements listed indicating clearly the required content of the
+report. Candidates who do not meet the standard should be obliged to correct and resubmit their work.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 3
+Unit specification: statement of standards
+Unit title: High Level Engineering Software
+Unit code: HP41 47
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and Evidence Requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+Knowledge and/or Skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+each assessment occasion.
+Outcome 1
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 4
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+Write, test and document ONE non-linear I/O program involving:
+• conditional statements with logic operators
+• multi-way selection statement
+Outcome 3
+Write, test and document I/O programs using iterative loop statements
+Knowledge and/or Skills
+• Flowcharts/pseudo code: FOR...DO, REPEAT…UNTIL, WHILE… loops
+• Statements: FOR...DO, REPEAT…UNTIL, WHILE…
+• Loops to manipulate data arrays:
+— output array data to a port
+— read port data into an array
+• Testing of iterative loops
+• Test plan and actual results
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+Write, test and document ONE non-linear program involving an iterative loop
+• the program must include a conditional statement inside the iterative loop OR and iterative loop
+must be a part of the conditional statement
+Outcome 4
+Write, test and document an I/O program, incorporating subroutines
+Knowledge and/or Skills
+• Procedures/functions
+• Bit-wise logical operations: AND, OR and EOR
+• Identifying port signals and their functions
+• Test plan and actual results
+• Documentation
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 5
+Write, test and document a basic input/output ports program, which includes:
+• procedures/functions
+• bit-wise logical operation.
+• a conditional statement
+• an iterative loop
+the documentation to include:
+• statement of the problem
+• flowchart/algorithm
+• program coding with comments
+• testing and actual results
+• conclusion
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 6
+Administrative information
+Unit code: HP41 47
+Unit title: High Level Engineering Software
+Superclass category: CB
+Original date of publication: August 2017
+Version: 01
+History of changes:
+Version Description of change Date
+Source: SQA
+© Scottish Qualifications Authority 2004, 2009, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500
+5030 or 0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 7
+Unit specification: support notes
+Unit title: High Level Engineering Software
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop the knowledge, understanding and
+skills in the area of Software Engineering by writing and testing I/O programs. The following
+processes illustrate Software Engineering:
+• user requirements
+• problem specification
+• system design (partitioning into manageable tasks)
+• detailed design (design of individual modules)
+• implementation (coding into chosen programming language)
+• program verification (software testing)
+• program maintenance (extending the program for the future)
+With validation and documentation taking place at all the stages.
+This Unit was designed to permit the candidates to apply the software engineering techniques to
+formulate the solutions to engineering tasks involving input and output ports. Software may be
+developed for a PC or single board computer or a micro-controller in conjunction with an applications
+board. Candidates may be provided with subprograms to configure and read/write input/output ports.
+This Unit was developed as one of four SQA Advanced Certificate/Diploma in Engineering
+Programming options and is at SCQF level 7. This Unit should be completed before tackling the level
+8 Unit, High Level Language: External I/O Transfer.
+The Unit has identified the topics that are expected to be covered by lecturers. The Unit also gives
+recommendations as to how much time should be spent on each Outcome. This has been done to help
+lecturers to decide what depth of treatment should be given to the topics attached to each of the
+Outcomes. Whilst it is not mandatory for a centre to use this list of topics it is strongly recommended
+that they do so to ensure continuity of teaching and learning across the Engineering Computing Units
+and because the assessment exemplar pack for this Unit is based on the Knowledge and/or Skills and
+list of topics in each of the Outcomes.
+A list of topics is given below. Lecturers are advised to study this list in conjunction with the
+assessment exemplar pack for this Unit so they can get a clear indication of the standard of
+achievement expected of candidates taking the Unit.
+1 Write, test and document linear programs using I/O statements (10 hours)
+User Requirements and analysis
+Problem Specification
+Top-down design
+Hardware
+SQA Advanced Unit Specification
+SQA Advanced Unit Specification
+Guidance on the delivery and assessment of this Unit
+This is the first engineering programming Unit on the SQA Advanced Certificate/Diploma Electronics
+and for many candidates this may be their first encounter with programming. In this respect it may be
+advisable to deliver this Unit on a free-standing basis.
+Each candidate should have access to a computer loaded with appropriate OS and High Level
+Language software. Additionally workstations should be available on which candidates are able to test
+I/O based programs.
+Delivery of all the Outcomes may be carried out using an LCD projector so that the candidates can
+view the actual code of the sample programs and see their execution with prepared test data in real
+terms.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 10
+This introductory Unit should be used to develop the candidate’s confidence in the basic
+programming concepts and as such should be taken before considering assembly language
+programming.
+It is suggested that the Unit assessment take the form of a logbook or portfolio covering the four
+Outcomes.
+For example, assuming a two-hour class per week, then over a 20-week period the assessment
+schedule may be:
+Weeks 1 to 5 Linear programming
+Outcome 1 assignments completed (2hours)
+Weeks 6 to 10 Non-linear programming for I/O ports using selection statements
+Outcome 2 assignments completed (2hours)
+Weeks 11 to 15 Non-linear I/O programming using iterative loops
+Outcome 3 assignments completed (2hours)
+Weeks 16 to 20 I/O programming using bit-wise operations
+Outcome 4 assignments completed (4hours)
+Open learning
+This Unit is more suitable for laboratory delivery however it could be delivered by distance learning
+provided the candidate has the appropriate hardware. This may require some degree of on-line
+support. However, with regard to assessment, planning would be required by the centre concerned to
+ensure the sufficiency and authenticity of candidate evidence. Arrangements would be required to be
+put in place to ensure that assessment whether done at a single or at multiple events was conducted
+under controlled, supervised conditions.
+To keep administrative arrangements to a minimum, it is recommended that a single assessment paper
+(taken by candidates at a single assessment event) be used for distance learning candidates.
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 11
+General information for candidates
+Unit (HV2K 47): Industrial Plant Maintenance 1
+SQA Advanced Unit Specification
+General information for centres
+Unit title: Industrial Plant Maintenance
+Unit code: HV2K 47
+Unit purpose: This Unit is designed to introduce candidates to the planning and organisation of
+maintenance programmes for industrial plant. The Unit allows candidates to develop the knowledge
+and skills necessary to select an appropriate style of maintenance program suitable for a particular
+industrial setting, whilst implementing the necessary health and safety procedures.
+On completion of the Unit the candidate should be able to:
+1. Explain standard techniques involved in plant maintenance.
+2. Explain typical health and safety regulations pertaining to plant maintenance systems.
+3. Develop a maintenance strategy for a given simple industrial scenario.
+Credit points and level: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level
+7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should have a basic knowledge
+of either mechanical or electrical principles and technology. However, entry requirements are at the
+discretion of the centre.
+Core Skills: There may be opportunities to gather evidence towards the following Core Skills or
+Core Skills components in this Unit, although there is no automatic certification of Core Skills or
+Core Skills components:
+• Written Communication (reading) at SCQF level 6
+• Written Communication (writing) at SCQF level 6
+• Using Graphical Information at SCQF level 5
+• Using Information Technology at SCQF level 5
+• Problem Solving at SCQF level 6
+• Working with Others at SCQF level 4
+Context for delivery: This Unit was developed for the SQA Advanced Diploma in Electrical
+Engineering award. If the Unit is to be used in another group award it is recommended that it should
+be taught and assessed within the subject area of the group award to which it contributes.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 2
+Assessment: The assessment for this Unit will consist of two parts. An assessment paper is used
+to cover Outcomes 1 and 2 and an assignment/report to assess Outcome 3. Candidates will sit the
+assessment paper at one single assessment event lasting one and a half hours. The assessment paper
+should be composed of a suitable balance of short answer, restricted response and structured
+questions. This assessment should be conducted under controlled, supervised conditions. For
+Outcome 3, candidates will devise a maintenance plan for a given industrial scenario, and write a
+short report justifying the plan. The assessment paper should be carried out after the delivery of
+Outcome 2 and the assignment should be submitted after the completion of the Unit.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Industrial Plant Maintenance
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and evidence requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+knowledge and/or skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+Outcome 1
+Explain standard techniques involved in plant maintenance.
+Knowledge and/or skills
+• Reactive Maintenance (RM)
+• Planned Preventative Maintenance (PPM)
+• Total Productive Maintenance (TPM)
+• Reliability Centred Maintenance (RCM)
+• Condition Monitoring (CM)
+Outcome 2
+Explain typical health and safety regulations pertaining to plant maintenance systems.
+Knowledge and/or skills
+• Basic understanding of the typical health and safety issues arising as a result of plant
+maintenance procedures.
+• Awareness of the need to comply with all statutory health and safety requirements.
+• Basic understanding of Risk Assessment
+• Basic understanding of COSHH, noise related health and safety regulations, PPE
+• Understanding of Permit to Work procedures.
+Evidence Requirements
+Evidence for the knowledge and/or skills in Outcomes 1 and 2 will be provided on a sample basis.
+The evidence may be presented in response to specific questions. Each candidate will need to
+demonstrate that she/he can answer correctly, questions based on a sample of the items shown under
+the knowledge and skills shown above. In any assessment of this Outcome three out of five
+knowledge and/or skills items should be sampled for Outcome 1 and three out of five knowledge
+and/or skills items should be sampled for Outcome 2.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 4
+In order to ensure that candidates will not be able to foresee what items they will be questioned on, a
+different sample of three out of five knowledge and/or skills items from Outcome 1 and three out of
+five knowledge and/or skills items from Outcome 2 are required each time the Unit is assessed.
+Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidate's response can be judged to be satisfactory where evidence
+provided is sufficient to meet the requirements for each item by showing that the candidate is able to:
+Outcome 1
+• Describe Reactive Maintenance, discuss the advantages and disadvantages of RM.
+• Explain Planned Preventative Maintenance, giving examples of industrial scenarios where PPM
+is valid.
+• Explain Total Productive Maintenance (TPM)
+• Explain the basic principles of Reliability Centred Maintenance (RCM).
+• Describe the application of Condition Monitoring in industrial plant maintenance.
+Outcome 2
+• Explain the typical health and safety issues arising as a result of plant maintenance procedures.
+• Explain the duties of employees and employers with regard to complying with relevant health and
+safety legislation.
+• Explain the basic procedure involved in Risk Assessment
+• Explain specific legislation relating to health and safety, such as, COSHH, noise, PPE.
+• Explain typical permit to work systems.
+Evidence should be generated through assessment undertaken in controlled, supervised conditions.
+Assessment should be conducted under closed book conditions and as such candidates should not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be permitted to
+use scientific calculators during the assessment.
+Assessment guidelines
+The assessment for Outcomes 1 and 2 should be combined together to form one assessment paper.
+This single assessment paper should be taken at a single assessment event lasting one and a half hours
+and carried out under supervised, controlled conditions. Such a paper should be composed of an
+appropriate balance of short answer, restricted response and structured questions.
+Outcome 3
+Develop a maintenance strategy for a given simple industrial scenario.
+Knowledge and/or skills
+• Requirements of a Maintenance Policy.
+• Role of Plant records and history.
+• Use of bar charts for planning maintenance work.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 5
+• Basic understanding of how CMMS (Computerised Maintenance Management system) software
+can contribute to setting up and running of plant maintenance systems.
+• The various factors affecting cost effectiveness.
+• Appreciate importance of skills and qualifications of workforce.
+• Understand the need to prioritise tasks based on critical path analysis.
+Evidence Requirements
+All knowledge and /or skills items in Outcome 3 should be assessed. Evidence for Outcome 3 will be
+provided by means of an assignment. The candidate will compile a maintenance program suitable for
+a given simple industrial scenario. This should be an electrical/mechanical plant setting appropriate
+to the candidate’s own industrial experience or area of study. The candidate’s response will include
+the necessary documentation such as, maintenance schedules, standard operating procedures and
+relevant health and safety considerations. CMMS software, if available, can be employed in
+completing the assignment. A report of not less than 800 words plus diagrams, appendices etc.
+justifying the chosen strategy should be submitted as part of the assignment. The report should also
+include an explanation of how CMMS software, where used, is employed in the maintenance
+program, or alternatively where the software is not used, how it would be employed if available. The
+industrial scenario will be of sufficient complexity, that the response, along with the report, will
+cover the knowledge and skills items listed for Outcome 3.
+Outcome 3
+• Demonstrate awareness of typical organisational requirements of a Maintenance Policy.
+• Demonstrate awareness of the role of plant records and history.
+• Demonstrate the use of bar charts/graphs etc in the planning of maintenance work.
+• Explain/demonstrate how CMMS software can contribute to the running of plant maintenance
+systems.
+• Explain the various factors affecting cost effectiveness of a maintenance policy.
+• Explain the importance of skills and qualifications of the workforce.
+• Explain the necessity to prioritise tasks based on critical path analysis.
+Assessment Guidelines
+Evidence for this Outcome should be gathered by means of the candidate preparing a maintenance
+program and a report, related to a given industrial scenario. This should cover all the knowledge and
+skills items for this Outcome. Centres may wish to issue candidates with guidance notes relating to
+both the assignment itself and the report.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 6
+Administrative Information
+Unit code: HV2K 47
+Unit title: Industrial Plant Maintenance
+Superclass category: VG
+Date of publication: November 2017
+Version: 01
+Source: SQA
+ Copyright SQA 2005, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500
+5030 or 0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 7
+SQA Advanced Unit Specification: support notes
+Unit title: Industrial Plant Maintenance
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop their knowledge and competence
+in the following areas:
+1. Standard techniques involved in plant maintenance.
+2. Typical health and safety regulations pertaining to plant maintenance systems.
+3. Organisational requirements of successful plant maintenance systems and the role of CMMS
+software.
+Guidance on the delivery and assessment of this Unit
+Delivery of this Unit should relate to Current Codes of Practice and legislation eg
+• Health and Safety at Work Act, 1974 (HSW Act)
+• Electricity at Work Regulations 1989
+• The Management of Health and Safety at Work Regulations 1999
+• IEE Wiring Regulations (current edition) BS7671
+1. Explain standard techniques involved in plant maintenance. (14 hours)
+• RM: advantages/disadvantages, where applicable.
+• PPM: highlight where PPM is applicable. Discuss advantages such as: more even spread of
+maintenance work, better budgetary control, fewer emergency breakdowns, extension of working
+life of plant, scheduling of maintenance at organisationally convenient or economically beneficial
+time.
+• TPM: advantages. Highlight the importance of staff training/cooperation. Discuss overall
+equipment effectiveness (OEE).
+• RCM: explain how this stresses the maintenance of items critical to the continued reliable
+operation of plant. Attempts to maximise reliability. Seeks to eliminate unnecessary preventative
+maintenance.
+• Condition Monitoring: explain CM, Monitoring vibration, temperature, thermal imaging, allows
+recording of trends and comparisons with initial base line measurements. Allows remedial
+measures to be taken before breakdown. Give examples such as monitoring of high voltage
+cables, steam turbines and generators. Explain that conditions are monitored according to the
+most likely failure modes expected. CM Software allows viewing of history in graphs, charts etc
+and publishing of reports.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 8
+2. Explain typical health and safety regulations pertaining to plant maintenance systems. (11
+hours)
+• Highlight the necessity of being informed of, and complying with, all statutory health and safety
+requirements.
+• Responsibilities for personnel under Health and Safety at Work Act 1974, Management of Health
+and Safety at Work Regulations 1999. Explain Hazard and risk and give typical examples.
+Explain the rudiments of sensible risk assessment procedure.
+• Explain provisions of COSHH regulations. The need to protect personnel from potentially
+dangerous substances either through removal of substance or provision of appropriate PPE.
+Explain noise hazards. Noise related health and safety regulations.
+• Explain the purpose of the permit to work procedure and the need to identify all potentially
+hazardous work activities to be carried out and the measures required to minimise any risks.
+Highlight the need for an operational plan involving safe isolation and locking off.
+• Give examples of typical health and safety issues, which arise as a result of plant maintenance
+procedures pertinent to the industry, within which the candidate is involved.
+3. Develop a maintenance strategy for a given simple industrial scenario. (14 hours)
+This Outcome should provide the candidate with an opportunity to apply the principles of plant
+maintenance learned, to a given industrial scenario.
+• Organisational requirements of a maintenance Policy, administrative structures, analysis of
+particular industrial scenarios so that appropriate maintenance strategies, including safe systems
+of work, are employed.
+• Recording of information and updating plant records, spares inventories and standard operating
+procedures for plant.
+• Value of using charts and graphs in analysing the history of particular systems and planning of
+plant maintenance.
+• Importance of employing cost effective strategies for maintenance.
+• Importance of ensuring skills and qualifications of workforce are adequate, diagnostic skills,
+fitting skills, electrical engineers, plant servicing skills, etc. Vocational qualifications and
+experience.
+• Value of critical path network analysis techniques.
+• Contribution of CMMS software in the management of plant maintenance systems.
+Assessment :
+The assessment for this Unit will be composed of two parts. A single assessment paper lasting one
+and a half hours carried out under supervised controlled conditions and an assignment. It is
+recommended that the assignment is presented to the candidates toward the conclusion of Outcome 2
+and should be completed before the end of the delivery of the Unit.
+Open learning
+This Unit could be delivered on an open learning basis. The centre would have to ensure that the
+written assessment was carried out under controlled and supervised conditions.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 9
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to learning
+or assessment. The individual needs of learners should be taken into account when planning learning
+experiences, selecting assessment methods or considering alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 10
+General information for candidates
+Unit title: Industrial Plant Maintenance
+This Unit has been designed to allow you to develop the knowledge and skills involved in setting up a
+plant maintenance policy. The initial part of the course involves an introduction to current standard
+techniques employed in plant maintenance. In the maintenance of industrial plant there are often
+many issues relating to health and safety, therefore Outcome 2 focuses on the typical health and
+safety regulations pertaining to plant maintenance systems. Permit to work, risk assessment and
+responsibilities of employers and employees under the health and safety at work act are all examined.
+During the delivery of the concluding Outcome you will have the opportunity to develop an
+understanding of computerised maintenance management system software. Also you will able to
+apply what you are learning, by way of an assignment and report. In this, you will develop a program
+of maintenance for an industrial scenario and a report justifying your program. The particular
+industrial setting will be drawn as closely as possible from your own industrial experience or area of
+study.
+Formal assessment will be composed of two parts:
+1. A written test lasting one and a half hours based on what you have learned in the first two
+Outcomes in the Unit.
+2. A combined assignment and report.
+SQA Advanced Unit Specification
+General information
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Unit code: HP6L 47
+Superclass: CY
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This unit is designed to enable students to use Information Technology (IT) systems and
+applications independently to support a range of information processing activities. The unit is
+designed to develop a broad knowledge of the theoretical concepts, principles, boundaries
+and scope of IT applications. These activities will be centred on using software applications
+packages to meet complex information requirements while paying attention to security and
+the needs of other users.
+Outcomes
+On successful completion of the unit the learner will be able to:
+1 Operate a range of IT equipment independently, giving attention to security and to other
+users.
+2 Use a range of software application packages to meet complex information
+requirements.
+Credit points and level
+1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7)
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 2
+Recommended entry to the Unit
+Access to this unit will be at the discretion of the Centre, however it is recommended that
+learners should have sound keyboard and mouse skills and a thorough familiarity with
+computers and software packages. These skills may be evidenced by the achievement of
+appropriate National Units or Courses but they may also have been acquired in an informal
+or work environment.
+For Core Skills it would be beneficial if learners had some IT skills. This could be
+demonstrated by the achievement of the Core Skill Using Information Technology at SCQF
+level 5 or equivalent.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes for this
+unit specification.
+This unit gives automatic certification of the core skill: Using Information Technology at
+SCQF level 6.
+Context for delivery
+This unit is included in the framework of a number of SQA Advanced Group Awards. It is
+recommended that it should be taught and assessed within the particular Group Award to
+which it contributes.
+The Assessment Support Pack (ASP) for this unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard.
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 3
+Unit specification: statement of standards
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Acceptable performance in this unit will be the satisfactory achievement of the standards set
+out in this part of the unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Operate a range of IT equipment independently, giving attention to security and to other
+users.
+Knowledge and/or Skills
+• The different components of a computer system and how to use them, (ie mouse or
+other pointing device, keyboard, monitor, disk drive, processor, printer, scanner, etc)
+• The functions of tools such as file managers, print managers, control panels and how to
+use these
+• The ways in which data can be kept secure, (eg encryption, passwords, back ups, virus
+protection) and how security procedures can be used to meet the needs of all users of a
+computer system
+• The causes of some common software and hardware problems, (eg cable connections,
+device settings, software option settings) and what action to take to resolve these
+Outcome 2
+Use a range of software application packages to meet complex information requirements.
+Knowledge and/or Skills
+• Methods for assessing information requirements and designing solutions using IT
+• How to use straightforward and complex features of a range of software application
+packages (these can be word processing, spreadsheet, database, simulation, graphics,
+communications, (ie internet, intranet, email, etc), audio/music, animation, video,
+multimedia, desktop publishing, data logging and retrieval, control or other packages)
+• How to integrate data types within a software application package
+• How to integrate information from more than one software application package
+• The content and search facilities of a range of computer data sources
+• Factors to consider when working out a search strategy when using a computer data
+source
+• How to extract information from a local and a remote computer data source
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 4
+Evidence Requirements for this Unit
+Learners will need to provide evidence to demonstrate their Knowledge and/or Skills across
+all Outcomes by showing that they can:
+Outcome 1
+• Use five hardware devices, (eg mouse, keyboard, printer, monitor, disk drive, scanner)
+• Start up and close down the operating system
+• Open and close software packages
+• Locate data and applications
+• Use a filing system, (eg to organise folders and sub-directories applying naming
+conventions)
+• Use two tools within the operating system, (eg file managers, print managers and control
+panels)
+• Implement security measures responsibly and with consideration for the needs of other
+users, (eg passwords, backups, virus protection)
+• Resolve one hardware and one software problem, (eg printer off-line, sound not working,
+too many open programs, system freeze, software option settings, etc)
+Outcome 2
+• Identify the information requirements of users and how these requirements can be met
+• Select software applications packages which are appropriate to meet the identified
+information requirements
+• Use four or more software applications packages to process the identified information
+requirements and which output two or more different data types, (eg text, number,
+graphics, audio, video) in the form of documents, designs, compositions, models or
+presentations
+• Carry out three searches to extract and present relevant information from suitable local
+and remote computer data sources. A minimum of two searches must be from remote
+computer data sources. To do this the learner will be required to:
+— Plan how to find the information and make decisions about searches taking account
+of efficiency in terms of time, cost, effective filtering and Outcome
+— Extract information, (eg text, number, graphics, audio, video) which matches several
+search criteria, (eg keywords, fields, file names, screen grabber, digital camera or
+scanner). Searches must be different from each other, eg searching two different
+sources, or searching the same source for two different forms of information
+• Integrate two or more different data types, (eg text, number, graphics, audio, video) from
+more than two software applications packages into a single product. The product may be
+in the form of a document, design, composition, model or presentation
+• Format the product so that the final output meets the identified information requirements
+and is clear and helpful to users
+The evidence for this Outcome should be in the form of a document, design, composition,
+model or presentation covering all the Evidence Requirements shown above.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 5
+Unit support notes
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This unit provides a solid basis on which further IT skills can be built. It will enable learners to
+use IT systems with minimal support, paying due regard to security. Electronic data sources
+are to be used, learners are expected to achieve effective results when using IT software in
+an unfamiliar context by using on-line help facilities and suppliers’ handbooks. Basic
+configuration and fault-finding skills are to be taught. Files should be provided for learners as
+appropriate to negate the need for them to enter large amounts of text or data.
+This unit is very much aimed at enabling learners to obtain and use data and software
+applications packages associated with the internet and email, ie electronic communications.
+Therefore, there should be considerable emphasis placed upon providing access to
+appropriate data and software associated with electronic communications. Candidates
+should then be encouraged to learn for themselves the benefits of being able to integrate
+information from diverse sources and produce documents, designs, compositions, models or
+presentations of a complex nature.
+The unit can be approached from the standpoint of using information technology to support a
+range of information processing activities. The learner should be able to plan for, develop
+and produce the relevant information requirements of users.
+Candidates should achieve the level of competence required of a regular user of IT
+applications software in a commercial or professional situation. Candidates will require
+individual access to a personal computer/workstation. It is suggested that, wherever
+possible, commercially available current versions of industry standard software be used. The
+component parts of an integrated software package along with its operating environment can
+be used to achieve all Outcomes. This should not be prohibitive in the case of the centres,
+but may be an issue if being undertaken in the workplace.
+It is generally assumed that the environment for this unit will be, for example, Microsoft
+Windows and Office 97/2000 or Lotus, or other vendor equivalents, however, this is not
+specified and the Outcome requirements are deliberately generic in nature.
+Outcome 1 looks at the components of hardware, the functions of operating system tools and
+how these are used. Data security measures, resolving common hardware and software
+problems are also pre-eminent. All of the elements should be taught in the context of giving
+attention to the needs of other users of a computer system.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 6
+Outcome 2 looks at using a range of software packages to meet complex information
+requirements. Centres can choose four or more packages (a minimum of four different
+packages must be used) from the whole range of applications packages available. The
+software application packages chosen must be relevant to the vocational area of the Group
+Award undertaken by the learner. The emphasis in this Outcome should be on producing
+complex information in a context that is unfamiliar to the learner. Candidates should be able
+to integrate data types, (eg text, number, graphics, audio, video) into a single product and to
+format the product so that the final output is clear and helpful to users. Candidates should
+show that they can plan for the information requirements; select and use software packages
+appropriate to information requirements; select suitable computer data sources for
+information and extract suitable information from these computer data sources to meet
+relevant requirements.
+An indication of the range of activities that learners are expected to be able to carry out when
+using a variety of software applications packages during the course of this unit is given below
+for some of the ‘standard’ applications that centres may use. This should not be taken to be a
+‘prescriptive’, or indeed, an exhaustive list of requirements but should help to serve as a
+guide to the level of skills required.
+1 Selection and use of appropriate software applications packages and electronic data
+sources from both local and remote computers.
+2 Selection and use of document layout, page layout and format facilities, eg: views, use
+of toolbars, rulers, guides, zoom, fonts, bullets and numbering, borders and shading,
+tabs, case, dropped capitals, columns, themes, backgrounds, styles, frames, colours
+and lines, alignment, templates, auto-format.
+3 Use of on-line help and tutorial support facilities.
+4 File Handling, eg properties, naming conventions, saving, saving for use with web and
+other applications, retrieving, retrieving from web and other applications, copying,
+renaming, importing, exporting, emailing, attachments, routing, and faxing.
+5 Editing, eg undo, repeat, cut, copy, paste, paste special, select all, fill, clear, find,
+replace, go to, rename, links, and objects.
+6 Selection and use of insertions, eg headers and footers, page breaks, comments,
+footnotes, captions, numbering, symbols, date and time, index and tables, bookmarks,
+pictures, objects, hyperlinks, graphics, movies, sounds, tables, queries, forms and
+reports, functions, charts, comments, fields, records and files.
+7 Use of ‘tools’, eg spelling and grammar checker; thesaurus; search and replace; auto-
+correction; sort; merge; customisation; options; security; protection; macros (simple); on-
+line facilities; send and receive; address books, synchronisation, message rules,
+messenger services, newsgroups and accounts.
+8 Printing, eg printer selection; printer properties; printer set up, eg paper size, paper type,
+scaling, orientation, etc; print preview; use of print preview facilities, eg zoom, multiple
+pages, ruler, scaling, etc.
+9 Searching should involve several criteria, eg key terms or fields, and requires decisions
+to be made about an effective strategy for their application, eg with due regard for time,
+cost, effective filtering and result.
+10 Extracting and presenting relevant information - relevant data may be records in a
+database, a photographic image, a video or audio clip. Selection/importation may involve
+tools such as screen grabbers, digital or video cameras and scanners.
+This unit is designed to enable students to use IT systems and applications independently to
+support a range of information processing activities. The unit is designed to develop a
+knowledge of the theoretical concepts, principles, boundaries and scope of IT applications.
+These activities will be centred on using several software application packages to meet
+complex information requirements.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 7
+Instrument of assessment
+There are two Outcomes, both largely of a practical nature.
+Outcome 1: Prove Knowledge and/or Skills of: the different components of a computer
+system, the function of tools such as file manager, print manager and control panel, the ways
+in which data can be kept secure and the causes of common software and hardware
+problems and how to resolve them.
+Outcome 2: Uses a range of software application packages, (at least four) to meet complex
+information requirements. The learners will be given a comprehensive checklist of all
+evidence required to successfully complete this Outcome. They will then have to create a
+technical manual and player guide indicating on the checklist exactly where each
+requirement has been met. Given the complexity of the technical manuals and user guides
+shipped with today’s games, this should make for a demanding, but hopefully enjoyable
+experience.
+Guidance on approaches to delivery of this Unit
+This unit is designed to enable learners to use IT systems independently to support a range
+of information processing activities. Early inclusion of this unit in the Group Award is
+preferable as students should then be able to present work for other Units using the skills
+learned in this unit.
+During the course of the unit learners should have several opportunities to develop their
+practical skills and should then be assessed appropriately.
+Assessment should be by one project or case study. Candidates should have access to on-
+line help, tutorial support and/or suppliers’ manuals as required.
+Individual centres will need to plan Outcome 2 to ensure that such resources as the internet
+service provider, compact discs, available telephone lines, modems, software application
+packages and operating systems updates are available prior to commencement of the unit.
+If this unit is being delivered as part of a Professional Development Award which receives
+endorsement from a vendor such as Microsoft, it must be delivered and evidence generated
+as detailed in the document ‘Approval to certification’ which is associated with that particular
+vendor and the Professional Development Award.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment. The following are
+suggestions only. There may be other methods that would be more suitable to learners.
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+Outcome 2
+The emphasis in this Outcome should be on producing complex information in a context
+which is unfamiliar to the learner. Centres may wish to complete an observation checklist to
+keep track of the learner’s development in the use of the four chosen software applications
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 8
+packages. The software application packages chosen must be relevant to the vocational
+area of the Group Award undertaken by the learner.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+This unit gives automatic certification of the core skill: Using Information Technology at
+SCQF level 6.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 9
+Administrative information
+History of changes to Unit
+Version Description of change Date
+© Scottish Qualifications Authority 2001, 2007, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 10
+General information for learners
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+This section will help you decide whether this is the unit for you by explaining what the unit is
+about, what you should know or be able to do before you start, what you will need to do
+during the unit and opportunities for further learning and employment.
+This unit is designed to enable you to use IT systems and applications independently to
+support a range of information processing activities. You should develop a broad knowledge
+of the theoretical concepts, principles, boundaries and scope of IT applications. By the end of
+the unit you should have learned how to plan for, develop and produce the relevant
+information requirements of users.
+To meet the requirements of users you will be required to use and develop a broad range of
+skills in a range of software applications packages, (a minimum of four), such as, word
+processor, spreadsheet, database, simulation, graphics, communications, (ie internet,
+intranet, email, etc), audio/music, animation, video, multimedia, desktop publishing, data
+logging and retrieval, control or other packages.
+On successful completion of the unit you will be able to:
+1 Operate a range of IT equipment independently, giving attention to security and to other
+users.
+2 Use a range of software packages to meet complex information requirements.
+In Outcome 1 you will learn about the components of hardware, the functions of operating
+system tools and how these are used. You will also learn about data security measures and
+resolving common hardware and software problems. You will learn about all of the elements
+above in the context of meeting the needs of all users of a computer system.
+In Outcome 2 you will learn about how to use a range of software packages to meet complex
+information requirements. You will learn about a minimum of four different software packages
+from the whole range of applications packages available. The emphasis in this Outcome will
+be on producing complex information in a context that is unfamiliar to you. You will learn how
+to integrate data types, (eg text, number, graphics, audio, video) into a single product and to
+format the product so that the final output is clear and helpful to users. You will find out how
+to: plan to meet users’ information requirements; select software packages appropriate to
+information requirements; select suitable computer data sources for information and extract
+suitable information from these computer data sources to meet relevant user requirements.
+To complete this unit successfully, you must demonstrate a satisfactory level of performance
+in a number of tasks covering the Outcomes listed above. You must provide evidence of the
+work you carry out for each assessment task in the form of a set of printed documents with a
+front cover: each print having details of your name, the date and the task. You will be
+encouraged to access on-line help facilities, tutorial support and/or suppliers’ manuals as
+required.
+More detailed guidance on the content, amount, style and quality required of your work will
+be made available to you during your progress through the unit. Your assessor will observe
+you carrying out the assessment tasks, and will complete an observation checklist to certify
+that each of your prints is your own work and whether or not it has reached the required
+standard.Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 1
+SQA Advanced Unit Specification
+General information for centres
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Unit code: HV2L 47
+Unit purpose: The purpose of this Unit is to enable candidates to demonstrate knowledge,
+understanding and competence in testing and inspection of electrical installations.
+On completion of the Unit the candidate should be able to:
+1. Explain the general requirements for the inspection and testing of an electrical installation
+during its normal life-cycle.
+2. Explain the recommended tests to verify the integrity of an electrical installation.
+3. Explain the requirements and precautions for testing electrical installations.
+4. Carry out appropriate testing procedures which conform to British Standard requirements.
+Credit points and level: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level
+7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should possess a general
+knowledge and understanding of electrical principles and electrical installation. This may be
+evidenced by the possession of the SQA Advanced Unit, HP46 47 DC and AC Principles. A
+knowledge of the requirements of the current edition of the IEE Wiring Regulations (BS7671) would
+be beneficial. However, entry requirements are at the discretion of the centre.
+Core skills: There may be opportunities to gather evidence towards the following listed Core
+Skills or Core Skills components in this Unit, although there is no automatic certification of Core
+Skills or Core Skills components:
+• Written Communication (reading) at SCQF level 6
+• Written Communication (writing) at SCQF level 5
+• Critical Thinking at SCQF level 6
+• Planning and Organising at SCQF level 5
+• Reviewing and Evaluating at SCQF level 5
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 2
+Context for delivery:. This Unit was developed for the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards. If this Unit is delivered as part of another
+group award, it is recommended that it should be taught and assessed within the subject area of the
+group awards to which it contributes.
+Assessment: The assessment for Outcomes 1, 2 and 3 of this Unit should be combined together
+into one written assessment paper. This paper should be taken by candidates at one single assessment
+event that should last one and a half hours. The assessment paper should be composed of a suitable
+balance of short answer, restricted response and structured questions. This assessment should be
+conducted under controlled, supervised conditions
+Outcome 4 will be assessed by practical exercises, the evidence being recorded using an observation
+checklist, the production of a short report and the completion of standard test result sheets and an
+inspection report during the testing procedures. The completion of documentation is extremely
+important in this Unit and all assessments should be based on the IEE Certificates for Inspection,
+Testing and Certification of Electrical Systems. These practical exercises should incorporate both a
+visual inspection of an electrical installation, lasting 30 minutes and a series of installation tests along
+with the completion of the required certification. The testing and certification section of the exercise
+should last 60 minutes.
+NOTE: the electrical installation should contain a minimum of two faults which must be found during
+the testing exercise.
+The first assessment (Outcomes 1, 2 and 3) should be carried out after delivery of Outcome 3 and the
+second assessment (Outcome 4) should be carried out at the end of the delivery of this Unit.
+It should be noted that candidates must achieve all the minimum evidence specified for each Outcome
+in order to successfully achieve the Unit.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Unit code: HV2L 47
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and evidence requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+knowledge and/or skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+each assessment occasion.
+Outcome 1
+Explain the general requirements for the inspection and testing of an electrical installation during its
+normal life-cycle.
+Knowledge and/or skills
+• Methods of initial inspection
+• Recommended sequence of initial tests to be carried out
+• Reason for periodic inspection and testing
+• Procedures to be adopted for alterations and additions to an installation
+Outcome 2
+Explain the recommended tests to verify the integrity of an electrical installation.
+Knowledge and/or skills
+• Procedures for testing electrical installations
+• The need to measure the maximum prospective fault current and external earth fault loop
+impedance at the point of origin of the installation.
+Outcome 3
+Explain the requirements and precautions for testing electrical installations.
+Knowledge and/or skills
+• The reasons for permit-to-work and sanction-for-test documents being required in certain work
+environments.
+• The reasons for intrinsically safe test instruments being required in potentially explosive
+environments.
+• The use of test instruments and precautions.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 4
+Evidence requirements
+Evidence for the knowledge and /or skills in Outcomes 1 to 3 will be provided on a sample basis. The
+evidence may be presented in responses to specific questions. Each candidate will need to
+demonstrate that she/he can answer correctly questions based on a sample of the items shown under
+the knowledge and skills items in all three Outcomes. In any assessment of the Outcomes three out
+of four knowledge and/or skills items should be sampled from Outcome 1, two out of two
+knowledge and skills items from Outcome 2 and two out of three knowledge and skills items for
+Outcome 3.
+In order to ensure that candidates will not be able to foresee what items they will be questioned on, a
+different sample of three out of four knowledge and/or skills items from Outcome 1, and two out of
+three knowledge and skills items from Outcome 3 are required each time the Unit is assessed.
+Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidate's response can be judged to be satisfactory where evidence
+provided is sufficient to meet the requirements for each item by showing that the candidate is able to:
+Outcome 1
+• Explain the methods of initial inspection
+• List the recommended sequence of initial tests to be carried out
+• Describe the reason for periodic inspection and testing
+• Explain the procedures to be adopted for alterations and additions to an installation
+Outcome 2
+• Describe the procedures for testing electrical installations
+• Explain the need to measure the maximum prospective fault current and external earth fault loop
+impedance at the point of origin of the installation.
+Outcome 3
+• Explain why in certain work environments permit-to-work and sanction-for-test documents are
+required.
+• Explain why in potentially explosive environments intrinsically safe test instruments are required.
+• Explain the use of test instruments and precautions.
+Evidence should be generated through assessment undertaken in controlled, supervised conditions.
+Assessment should be conducted under closed book conditions and as such candidates should not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be provided
+with current codes of practice, BS7671 or other relevant legislative documentation for use during the
+assessment.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 5
+Assessment guidelines
+The assessment for Outcomes 1 to 3 should be combined together to form one assessment paper. This
+single assessment paper should be taken at a single assessment event lasting one and a half hours and
+carried out under supervised, controlled conditions. Such a paper should be composed of an
+appropriate balance of short answer, restricted response and structured questions. This assessment
+should be taken after delivery of Outcome 3.
+Outcome 4
+Carry out appropriate testing procedures which conform to British Standard.
+Knowledge and/or skills
+• Technical data requirements to enable testing and inspection to take place correctly.
+• Safe isolation procedure on a simulated electrical installation
+• Visual inspection of an electrical installation
+• Testing of an electrical installation
+• Schedules of testing results and a periodic inspection report
+Evidence requirements
+Evidence for the knowledge and/or skills in Outcome 4 will be provided by the candidate carrying out
+a visual inspection and a series of tests on a simulated electrical installation and completing the
+required documentation.
+This exercise is intended to be undertaken on a simulated installation operating at a safe level of
+working voltage.
+The simulated installation rig(s) should be supplied from a three-phase isolator and feed a single-
+phase distribution board from which lighting circuits and power circuits are supplied. A three phase
+motor circuit should be provided for. A residual current device or devices should be included in the
+design. The design of the rig(s) is not critical but must be such that all the tests can be performed
+effectively. Different rigs can be used to cover the complete range of tests.
+Candidates will be required to carryout the following tests in the sequence prescribed in BS 7671
+Part 7:
+• Continuity of protective conductors including main and supplementary equipotential bonding
+• Continuity of ring final circuit conductors
+• Insulation resistance
+• Polarity
+• Earth electrode resistance
+• Earth fault loop impedance
+• Prospective fault current
+• Residual Current Device (RCD) testing
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 6
+A total of TWO fault conditions will be built into the test circuits to verify the candidate’s ability to
+interpret the test results obtained. The candidate will be expected to identify the fault results and
+highlight these in his/her inspection report.
+Observation checklists should be used to record the candidate’s performance for the inspection and
+each of the testing procedures.
+The candidate should be given the necessary work instructions to carry out the inspection and testing.
+A selection of the necessary hand tools and a range of test instruments should be provided.
+During the tests, the candidate will be expected to record all relevant information and tests results for
+all circuits on a standard test results sheet and to complete a periodic inspection report.
+Safe working practice must be observed throughout the inspection and testing procedure.
+Written evidence should be produced to show the candidate’s ability to explain the technical data
+requirements to enable testing and inspection to take place and to outline the safe isolation procedure
+which will be implemented prior to the testing procedures taking place.
+A candidate’s response can be judged to be satisfactory where evidence provided is sufficient to meet
+the requirements for each item by showing that the candidate is able to:
+• Explain the technical data requirements to enable testing and inspection to take place correctly.
+• Demonstrate a safe isolation procedure on a simulated electrical installation.
+• Perform an inspection of the simulated electrical installation
+• Perform the listed tests on a simulated electrical installation
+• Complete the schedules of testing results and a periodic inspection report
+Evidence should be generated through assessment under controlled, supervised conditions.
+Assessment should be conducted under closed-book conditions and, as such, candidates must not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be provided
+with current codes of practice, BS7671 or other relevant legislative documentation for use during the
+assessment.
+Assessment guidelines
+Outcome 4 should be assessed by practical testing exercises on a simulated electrical installation
+rig(s).
+Evidence of the candidate’s ability to carry out the inspection and testing procedures should be
+recorded using observation checklists.
+The candidate will also be required to complete the standard test result sheet and an inspection report
+which should include identification of the two fault condition results.
+A report, of approximately 400 words plus diagrams, charts etc, along with completion of a ‘Periodic
+Inspection Report for and Electrical Installation’
+(Appendix 6, BS7671), should be produced by the candidate to show his/her ability to explain the
+technical data requirements to enable testing and inspection to take place and to outline the safe
+isolation procedure which will be implemented prior to the testing procedures taking place.
+The assessment of the Outcome 4 should be undertaken at the end of the Unit.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 7
+Administrative Information
+Unit code: HV2L 47
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Superclass category: TH
+Date of publication: November 2017
+Version: 01
+Source: SQA
+ Copyright SQA 2005, 2017
+This publication may be reproduced in whole or in part for educational purposes provided that no
+profit is derived from reproduction and that, if reproduced in part, the source is acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the development
+of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 8
+SQA Advanced Unit Specification: support notes
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop their knowledge and competence
+in the following areas:
+1. General requirements for the inspection and testing of an electrical installation
+during its normal life-cycle.
+2. Recommended tests to verify the integrity of an electrical installation.
+3. Requirements and precautions for testing electrical installations
+4. Testing procedures which conform to British Standard requirements
+In designing this Unit, the unit writer has identified the range of topics expected to be covered by
+lecturers. The writer has also given recommendations as to how much time should be spent on each
+Outcome. This has been done to help lecturers decide what depth of treatment should be given to the
+topics attached to each of the Outcomes. Whilst it is not mandatory for centres to use this list of
+topics, it is recommended that they do so since the assessment exemplar pack for this Unit is based on
+the knowledge and/or skills and list of topics in each of the Outcomes.
+A list of topics for each Outcome is given below. Lecturers are advised to study this list in
+conjunction with the assessment exemplar pack so that they can get a clear indication of the standard
+of achievement expected of candidates in this Unit
+1 Explain the general requirements for the inspection and testing of an electrical
+installation during its normal life-cycle. (10 hrs)
+This Outcome should provide candidate with an understanding of the general requirements for
+inspection and testing of an electrical installation when it is newly installed, the periodicity of re-
+inspecting and testing and the action that should be taken if alterations or additions are made. The
+requirements of part seven of BS7671 provided the technical foundation for developing the subject
+and the IEE guidance notes on Inspection and Testing (ISBN 0-85296-991-0) develop the regulations.
+• Safety
+• Required competence
+• The Client
+• Record keeping
+• Purpose of initial verification
+• Frequency of subsequent installations
+• Initial inspection
+Consideration should also be given to the following:
+Electrical installation: TN-S; TN-C-S; TT. Nominal voltage 230V and 400V; rating of over current
+protective devices at the origin of the installation not to exceed 100A; work environment is domestic;
+commercial and light industrial.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 9
+Initial Inspection: connection and identification of conductors; cable routing; current carrying
+capacity; voltage drop; connection of control devices; connection of accessories; equipment; fire
+barriers; methods of protection against electric shock; labelling, presence of notices; erection
+methods; presence of under-voltage protection; adequate access to switchgear and equipment;
+protection methods for direct and indirect contact; adequate earthing arrangements; selection of
+equipment and protective measures appropriate to external influences; position of devices for
+isolation and switching location.
+Reasons for periodic testing and inspection; legislative requirements; verification of continued
+compliance with BS7671; change of ownership or tenancy of premises; alterations or additions to
+existing installation to change electrical loading.
+2 Explain the recommended tests to verify the integrity of an electrical installation (10 hrs)
+This Outcome should provide the candidate with an understanding of why the tests are being carried
+out; the requirements that have to be met to satisfy part seven of BS7671 and the methods of tests that
+are to be performed.
+The Outcome should provide candidates with an understanding of why it is necessary to know the
+value of the prospective short circuit current and the external earth loop impedance and also provide
+an explanation of how to approach the measurement of these.
+• Purpose of periodic inspection and testing
+• Necessity for periodic inspection and testing
+• Initial testing
+Electrical installation: TN-S; TN-C-S; T.T. Systems
+Tests: Continuity of protective conductors main and supplementary bonding, continuity of ring final
+circuit conductors; insulation resistance; polarity tests; earth electrode resistance; earth fault loop
+impedance; operation of residual current devices; measurement of characteristics of supply at the
+origin of the circuit.
+3 Explain the requirements and precautions for testing electrical installations (10 hrs)
+This Outcome should provide the candidate with an understanding of why safety documentation is
+essential before work is carried out in organisations that specify permits-to-work and sanction-to-test
+documents as part of their safety policy. The responsibility of the electrical contractor to comply
+with safety procedures and the delegation of authorised signatories by the company to the contractor,
+for safety documents, should be discussed. The need to recognise that intrinsically safe instruments
+are required in installations designated as hazardous should be emphasised. Reference only is
+required to the zoning of areas and the types of environment where more specialist testing
+consideration is necessary.
+Relevant requirements of the Health and Safety at Work Act and the Electricity at Work Regulations
+in an industrial environment, where additional hazards may be present, permits-to-work and
+sanctions-for-test.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 10
+Requirements: instrument accuracy; field and instrument errors; routine calibration and checking of
+low resistance ohmmeter; insulation resistance ohmmeter; applied voltage tester; earth fault loop
+impedance testers; earth electrode, test sets; RCD Testers.
+4 Carry out appropriate testing procedures which conform to British Standard
+requirements (10 hrs)
+This Outcome should provide the candidate with the opportunity to prepare for inspection and testing
+and carry out inspection and testing.
+The centre will require a simulated test rig(s) to enable the tests specified in the range statement to be
+carried out effectively. It is recommended that the rig(s) should be supplied from a three-phase
+isolator and feed a single-phase distribution board from which lighting circuits and power circuits are
+supplied. A three phase motor circuit should be provided for. A residual current device or devices
+should be included in the design. The design of the rig or rigs is not critical providing all the tests
+can be performed effectively. Different rigs can be used to cover the complete range of tests.
+Observation checklists are required for each of the tests. The candidate should be given the
+necessary work instructions to carry out the testing. A selection of the necessary hand tools and a
+range of test instruments should be provided. During the test the candidate will be expected to record
+all relevant information and tests results for all circuits on an appropriate results sheets; safe working
+practice must be observed throughout the inspection and testing procedure.
+Technical data: available diagrams; charts; previous test results for inspection; test
+certificates; general characteristics of installation; access to design data (new installation).
+Isolation procedure: isolate; lock off; issue permit-to-work; complete permit documentation; test for
+dead.
+Test of external earth loop impedance and prospective short circuit current (PSCC); protective
+conductors continuity: continuity of ring final circuit conductors; insulation resistance; polarity;
+Earth fault loop impedance; earth electrode resistance; operation of residual current devices
+A candidate-centred learning approach is recommended. Underpinning theory should be reinforced
+by use of short testing exercises where a hands-on-approach should be encouraged. Throughout the
+Unit the importance of accurate documentation should be stressed. Safety procedures and practices
+should be observed at every stage of the unit.
+Guidance on the delivery and assessment of this Unit
+The purpose of this Unit is to enable candidates to demonstrate knowledge, understanding and
+competence in the testing and inspection of electrical installations.
+The Unit is aimed at those with previous electrical installation knowledge and some knowledge of
+BS7671.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 11
+This Unit was developed within the Options section of the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards. It should be seen as being complementary to
+the SQA Advanced Units Electricity Power Systems, Electrical Safety, Electrical Installation Skills
+and Electrical Installation Design.
+Details on approaches to assessment are given under Evidence requirements and Assessment
+guidelines under each Outcome in the SQA Advanced Unit Specification: statement of standards
+section. It is recommended that these sections be read carefully before proceeding with assessment of
+candidates.
+Open learning
+This Unit may be delivered by distance learning however, due to the practical nature of Outcome 4, a
+considerable degree of centre support will be required. With regard to assessment, planning would be
+required by the centre to ensure the sufficiency and authenticity of candidate evidence. Arrangements
+would be required to be put in place to ensure that the assessments were conducted under controlled,
+supervised conditions.
+For information on normal open learning arrangements, please refer to the SQA guide
+Assessment and Quality Assurance of Open and Distance Learning (SQA 2000)
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to learning
+or assessment. The individual needs of learners should be taken into account when planning learning
+experiences, selecting assessment methods or considering alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 12
+General information for candidates
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+This Unit has been designed to allow you to gain knowledge of the requirements of the16th Edition
+Wiring regulations (BS7671) inspection and testing techniques and of the test instruments required to
+carry out these tests. You will gain the opportunity to practice using these instruments and evaluating
+the test readings taken. In addition, you will be instructed on the mandatory and general requirements
+for inspection and testing of electrical installations.
+You will be supported in developing an understanding of the following topics:
+• General requirements for inspection and testing of an electrical installation.
+• Periodicity of re-inspection and testing
+• Actions to be taken when alterations or additions are made to an electrical installation
+• Reason for testing
+• How to perform tests as detailed in BS7671
+• Test to be performed
+• Continuity of protective conductors
+• Continuity of ring circuit conductors
+• Polarity
+• Insulation resistance
+• Earth loop impedance
+• Prospective fault current
+• RCD Test
+• Safety documentation (permits-to-work)
+• Why use calibrated instruments
+• Use of standard test certificates as per Appendix 6 of BS 7671
+This Unit is predominantly practical with a strong emphasis on understanding why and how to
+inspect and test low voltage electrical installations.HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 1
+SQA Advanced Unit Specification: general information
+Unit title: Electrical Design Systems: An Introduction
+Unit code: HV2W 47
+Superclass: XJ
+Publication date: November 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit has been designed to allow candidates to develop their knowledge, understanding
+and skills of a range of services provided by the distribution of power and network
+communication cabling throughout an electrical installation. More specifically candidates will
+study earthing systems and how protection from touch voltages is achieved. This Unit also
+introduces candidates to the design procedures involved in selecting conductors to supply
+single and three-phase equipment located in small modern electrical distribution systems.
+On completion of the Unit the candidate should be able to:
+1 Examine the principles of protective earthing systems.
+2 Apply electrical design procedures when selecting current carrying conductors.
+3 Investigate structured distribution data cable systems for communication networks.
+Recommended prior knowledge and skills
+Entry to this Unit is at the discretion of the centre, however candidates should have a basic
+knowledge and understanding of electrical systems, equipment and protective devices, or
+have technical experience of electrical systems within building services. This may be
+evidenced by possession of Electrical Installation Units from the National Certificate(s) in
+Electrical Engineering.
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 2
+Credit points and level
+1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and
+Qualifications Framework (SCQF). Each qualification in the Framework is allocated a number of
+SCQF credit points at an SCQF level. There are 12 SCQF levels, ranging from National 1 to
+Doctorates.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes of this
+Unit specification.
+There is no automatic certification of Core Skills or Core Skill components in this Unit.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+Assessment
+The assessment for this Unit is in two parts.
+An assessment lasting one and a half hours, which should be conducted under controlled
+supervised conditions and should follow after the delivery of Outcomes 1 and 2.
+An investigation should be completed for the design specification of standard network
+cabling for voice and data communication systems for a small modern building. Candidates
+will be expected to produce a report of between 1,000–1,200 words or equivalent that
+includes diagrams and appendices on the specification for the network system.
+Teaching and learning and assessments do not have to be presented to the candidates in
+any specific order.
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Electrical Design Systems: An Introduction
+Unit code: HV2W 47
+The sections of the Unit stating the Outcomes, Knowledge and/or Skills, and Evidence
+Requirements are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content
+listed in the Knowledge and/or Skills section must be taught and available for assessment.
+Candidates should not know in advance the items on which they will be assessed and
+different items should be sampled on each assessment occasion.
+Outcome 1
+Outcomes are assessed. Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidates response can be judged to be satisfactory where
+evidence provided is sufficient to meet the requirements for each item by showing that the
+candidate is able to:
+Outcome 1
+Evidence Requirements for Outcome 3
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		Jul 3, 2024, 1:46 PM (23 hours ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 3, 2024, 1:46 PM (23 hours ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston		 Jul 3, 2024, 3:56 PM (21 hours ago)
+
+On Wed, Jul 3, 2024 at 1:46 PM tshingombe fiston <tshingombefiston@gmail.com> wrote: SQA Advanced Unit Specification General information for centres Unit title:
+
+ 
+Mail Delivery Subsystem		Jul 3, 2024, 3:57 PM (21 hours ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		Jul 3, 2024, 3:57 PM (21 hours ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	1:09 PM (20 minutes ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+Arrangements for:
+HNC Electrical Engineering
+Group Award Code: G7TA 15
+HND Electrical Engineering
+Group Award Code: G7TC 16
+Validation date: (March 2005)
+Version: 15 (May 2024)
+Acknowledgement
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of Higher National qualifications.
+History of changes
+It is anticipated that changes will take place during the life of the qualification and this section
+will record these changes. This document is the latest version and incorporates the changes
+summarised below. Centres are advised to check SQA’s APS Navigator to confirm they are
+using the up to date qualification structure.
+NOTE: Where a Unit is revised by another Unit:
+• No new centres may be approved to offer the Unit which has been revised.
+• Centres should only enter candidates for the Unit which has been revised where they are
+expected to complete the Unit before its finish date.
+Version
+number Description Date
+15 Addition of Unit: FY7L 35 Electrical Installation Design added
+to the optional section of the HNC framework
+01/05/24
+14 Addition of Units: J0HA 34 Computer Programming and J0H9
+34 Data Security added as Optional units to HNC and HND
+frameworks
+29/03/19
+13 Revision of Unit: DE1K 33 Workplace Communication in English
+has been revised by H8T2 33 and finishes on 31/07/2016.
+08/05/15
+12 Removal of finish date from unit DG4P 35 Mathematics for
+Engineering 3. Addition of Credit Transfer Table see Pages 39 and
+40.
+15/01/15
+11 Revision of Units: D77G 34 Communication: Practical Skills revised
+by H7MB 34. DG4H 33 Mathematics for Engineering 1: Electronics
+and Electrical revised by H7K0 33 Engineering Mathematics 1.
+DG4L 34 Mathematics for Engineering 2 revised by H7K1 34
+Engineering Mathematics 2 on HNC and HND frameworks finishing
+31/07/2016.
+21/10/14
+10 Engineering Mathematics 3 (H7K2 34), Engineering Mathematics 4
+(H7K3 35) and Engineering Mathematics 5 (H7K4 35) added as
+optional Units to HND framework.
+19/08/14
+09 Project Management: An Introduction (A6AX 34) added as an
+optional Unit to HND framework.
+15/08/14
+08 Addition of optional Units: Energy Overview (H4J5 34) and Energy
+Technologies (H4J6 35).
+09/08/13
+07 Due to the HN Review the following Units have been amended and
+recoded: DN4F 35, DN48 33, DN4L 34, DN4J 34, DN42 34, DG2X
+34 and DG54 34.
+26/04/12
+06 Optional section of framework on page 17 updated to include three
+missed Units.
+18/10/11
+05 Credit transfer amended on Communication Unit from full to partial. January
+2011
+04 Units added to HND within optional area of the framework to give
+direct articulation in to year 3 of Robert Gordon’s University BEng
+Course.
+December
+2009
+03 Broadening and other Units added to HNC and HND. November
+2007
+Contents
+1 Introduction ................................................................................................................ 1
+2 Rationale for the Revisions of the Awards ................................................................... 1
+2.1 Electrical Engineering ................................................................................................. 1
+2.2 HN Engineering Frameworks ...................................................................................... 1
+2.3 History and Market Research to support the HNC and HND Electrical Engineering ..... 5
+2.3.1 History of the HNC and HND Electrical Engineering awards....................................... 5
+2.3.2 Market Research ......................................................................................................... 5
+2.4 Candidates .................................................................................................................. 6
+2.4.1 HNC Candidates ......................................................................................................... 6
+2.4.2 HND Candidates ......................................................................................................... 6
+3 Aims of the Awards..................................................................................................... 7
+3.1 General Aims of the HNC Electrical Engineering ........................................................ 7
+3.2 Specific Aims of the HNC Electrical Engineering ........................................................ 7
+3.3 General Aims of the HND Electrical Engineering ........................................................ 8
+3.4 Specific Aims of the HND Electrical Engineering ....................................................... 8
+3.5 How the General Aims are met in the HNC and HND Award Structures and Content ....
+10
+3.6 How the Specific Aims are met in the HNC and HND Award Structures and Content 12
+4 Recommended access ................................................................................................ 16
+4.1 Access requirements .................................................................................................. 16
+4.2 Alternative Access Arrangements .............................................................................. 16
+5 Structure of the qualifications .................................................................................... 17
+5.1 HNC Electrical Engineering Structure: G7TA 15 12 Unit credits ............................... 17
+5.2 HND Electrical Engineering Structure: G7TC 16 30 Unit credits ............................... 19
+5.3 Graded Units ............................................................................................................. 21
+5.3.1 Types of Graded Units .............................................................................................. 21
+5.3.2 Rationale for the Graded Units Assessment ............................................................... 22
+5.5 Conditions of the Award............................................................................................ 31
+5.5.1 HNC Electrical Engineering ...................................................................................... 31
+5.5.2 HND Electrical Engineering ...................................................................................... 31
+5.6 SCQF levels .............................................................................................................. 31
+6 Approaches to delivery and assessment ..................................................................... 33
+6.1 Content and context................................................................................................... 33
+6.2 Delivery .................................................................................................................... 34
+6.3 Assessment ............................................................................................................... 35
+6.4 Re-assessment ........................................................................................................... 37
+7 Guidance for centres.................................................................................................. 38
+7.1 Disabled candidates and/or those with additional support needs ................................. 38
+7.2 Internal and external verification ............................................................................... 38
+7.3 Assessment moderation ............................................................................................. 38
+7.4 Open and Distance Learning...................................................................................... 39
+7.5 Special needs ............................................................................................................ 39
+7.6 Credit transfer Arrangements ..................................................................................... 39
+7.7 General information for candidates ............................................................................ 43
+7.8 Relationship to other awards...................................................................................... 45
+7.9 Articulation Arrangements ........................................................................................ 45
+Appendix 1: HNC and HND Timetables.............................................................................. 46
+Appendix 2: Assessment Loading Grid................................................................................ 49
+Appendix 3: Credit Transfer Document ............................................................................... 56
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 1
+1 Introduction
+This Arrangements Document has been written in order to assist centres in
+preparing for approval of the new HNC and HND Electrical Engineering awards
+and maintaining the awards thereafter. These two awards were developed under the
+new SQA Design Principles, were validated in March2005, and replace the existing
+HNC Engineering: Electrical and the HND Engineering: Electrical.
+This Document includes details on the background to the development of the new
+awards, their aims (both general and specific), recommended access requirements,
+information about the structure of the awards, recommendations on delivery and
+assessment and other guidance for centres.
+2 Rationale for the Revisions of the Awards
+2.1 Electrical Engineering
+The term Electrical Engineering in the context of this document covers the range of
+subjects traditionally included in SQA Higher Nationals in Electrical Engineering,
+namely power, plant and electrical installation. The title Electrical Engineering is
+intended to provide candidates, lecturers, Higher Education, employers and
+professional bodies with a clear, unambiguous title.
+Electronics has not been included in the HNC and HND Electrical Engineering titles
+as only sufficient electronics has been included in both awards to underpin studies in
+the various branches of electrical engineering.
+2.2 HN Engineering Frameworks
+In 1996 the SQA validated nationally a large number of new HN Engineering
+awards including two awards entitled HNC Engineering: Electrical and HND
+Engineering: Electrical. A major difference between these and previous awards were
+that they all sat within an HN Engineering Framework which in general terms
+consisted, for both HNCs and HNDs, of a common core of Units (Units common to
+all HNC and HND Engineering awards), a principles/technology and optional
+sections. The benefits of this Framework structure were seen to include the
+following:
+• provide a wide range of HN Engineering qualifications to meet the needs of
+different engineering sectors
+• improve the credibility and esteem of individual HN Engineering awards
+• clarify those competencies that were general to all incorporated engineers and
+those that were specific to particular engineering disciplines
+• provide opportunities for the efficient delivery of HN Engineering Units by, for
+example, incorporating Units that were common to a number of different HN
+awards
+• facilitate better progression between HNC, HND and Degree engineering
+awards
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 2
+Prior to the development of any HN Engineering awards a major consultation
+exercise was undertaken on the overarching HN Engineering Framework to test the
+validity of the Framework. This consultation comprised of the following five
+strands:
+• a questionnaire survey with stakeholders of HN Engineering awards
+• a series of meetings with various interested stakeholders of HN Engineering
+awards
+• desk based research
+• discussions (followed by endorsement) of a proposed HN Engineering
+Framework at a HN Engineering Steering Group meeting
+• a major consultation event with FE colleges on 24 May 2002 which included a
+questionnaire survey
+The consultation revealed continuing strong support for an overarching HN
+Engineering Framework but with the following modifications:
+• a reduction in the number of common core Units
+• a strengthening of the Principles/Technology section with an even stronger
+emphasis on the teaching of core engineering principles and technologies
+Optional sections are retained in all HNC and HND Engineering awards.
+The revised HNC and HND Engineering Frameworks are shown in block diagram
+form in Figures 2.1 and 2.2. It should be noted that the PDAs shown in both
+diagrams may be developed as more HN Units come on stream; currently none of
+these PDAs exist.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 3
+HNC Engineering Framework
+Figure 2.1
+Communication: Practical Skills
+1 credit Mandatory Unit
+HNC
+8 Principles/Technology credits
+2 optional credits
+Strong emphasis on core
+principles/technologies
+A limited degree of specialisation within
+the engineering specialist area
+Corresponding HND award in the
+same engineering discipline area
+Graded
+Unit
+Examination
+1 credit
+PDA
+Specialist
+Engineering
+Areas
+Team
+Working &
+Leadership
+Supervisory
+Skills
+Information
+Technology
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 4
+HND Engineering Framework
+Figure 2.2
+Communication: Practical Skills
+Information Technology: Applications Software 1
+Business Awareness & CPD
+3 credits of Mandatory Units
+Corresponding HNC Engineering
+award in the same Engineering
+discipline area embedded as the first
+year of the HND
+HND
+17* Principles/Technology credits
+7 optional credits
+More advanced engineering principles
+High level of specialisation in engineering
+specific subject areas(s)
+*Includes the 8 Principles/Technology
+credits in the HNC
+HNC
+Graded
+Unit
+Examination
+1 credit
+PDA
+Specialist
+Engineering
+Areas
+Team
+Working &
+Leadership
+Supervisory
+Skills
+Information
+Technology
+2 Graded Units
+HND
+Engineering
+Project
+2 credits
+HNC
+Engineering
+Examination
+1 credit
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 5
+2.3 History and Market Research to support the HNC and HND
+Electrical Engineering
+2.3.1 History of the HNC and HND Electrical Engineering awards
+The introduction of the SCOTVEC Advanced Courses Development Programme
+lead to the replacement of the 132 HND in Electrical and Electronic Engineering
+award by a competence based HND in Electronic and Electrical Engineering in
+1989. Shortly after an HNC in Electronic and Electrical Engineering was introduced
+as part of a national development and replaced the 101 HNC in Electrical and
+Electronic Engineering. However, there continued to be little commonality between
+the new HNC and HND awards. The first attempt to harmonise the two awards took
+place as part of a consortium development in the early nineties. In 1995 and 1996
+the two awards were totally harmonised (eg the HNC Electrical becoming
+effectively the first year of the HND) as part of a major SCOTVEC national
+development which saw the introduction of an overarching HN Engineering
+Framework. The two new awards represent a further development of Higher
+National Engineering awards taking full account the new HN Design Principles and
+providing an opportunity to update the awards in light of technological and
+educational developments.
+2.3.2 Market Research
+The development of the new HNC and HND Electrical Engineering awards included
+extensive market research which is summarised below in Table 2.3.
+Stakeholder Method
+All Major desk based research gathering and analysing data
+from various sources (eg SEMTA, FutureSkills Scotland
+etc.)
+Delivery Centres Initial postal survey of all delivery centres followed by
+two National seminars.
+Draft Units, assessment exemplars and outlines of
+graded Units were made available to centres.
+Employers Surveys of employers were carried out at the
+commencement of the development of the two awards
+and when the two award structures and Units were
+nearing finalisation. Information obtained from
+employers helped to inform both structure and Unit
+development
+Higher Education Letters of support for articulation between the new HNC
+and HND Electrical Engineering and Degree awards
+were received from seven Higher Education institutions.
+Professional Bodies The Chair of the Institute of Incorporated Engineers was
+a member of the Validation Panel and provided a broad
+measure of support for the two new developments at the
+Validation Event which was later confirmed in writing.
+Table 2.3
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 6
+Stakeholder Method
+Health and Safety
+Executive
+A representative from the Health and Safety Executive
+provided some invaluable input into the development
+of the Electrical Safety Unit and other Units with
+significant safety content.
+Students Whilst not consulted directly the student experience of
+the current HNC and HND Engineering: Electrical
+was taken fully into account in the new developments.
+Table 2.3 (continued)
+2.4 Candidates
+2.4.1 HNC Candidates
+Candidates at HNC level may already be in employment and will attend centres on a
+day-release or other part-time basis. The HNC framework structure is flexible
+enough to allow centres to deliver the HNC award by various modes of delivery for
+example, two-year day-release, evening attendance etc.
+The options chosen by employed candidates may reflect the branch of industry in
+which they are employed or may be used to gain knowledge of other areas within
+electrical engineering in order to improve their career opportunities in the
+employment market. Part-time candidates may also use the HNC award to gain
+entry to Degree level studies.
+Full-time HNC candidates may be school leavers intending to articulate to a
+University Degree Course, or candidates who wish to progress from an appropriate
+National Certificate qualification. Full-time candidates may also be more mature
+persons who are seeking a change of employment.
+Since the HNC award forms an integral part of the HND award, full-time candidates
+will complete 15 Unit credits in the first year of the course, 12 of these meeting the
+HNC requirements. Full-time candidates will therefore have completed the first year
+of the HND programme and may, if they wish, continue to the second year of the
+HND award.
+In addition to University entrance, successful full-time HNC candidates have
+enhanced their prospects of gaining employment in the Electrical Engineering
+industry.
+2.4.2 HND Candidates
+The HND award programme will normally be delivered on a two-year full-time
+basis, although this does not preclude other delivery patterns. This being the case,
+HND candidates may be school leavers who have an interest in some aspect of
+electrical engineering and wish to include this in their career path. This may be
+candidates who wish to progress from an appropriate National Certificate
+qualification or candidates who have previously completed the HNC award and
+wish to progress to the HND. The typical HND candidate will therefore be a young
+person intending to articulate to a University Degree Course. The Units of the
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 7
+HNC/D framework have been designed to introduce candidates to electrical
+engineering and to take topics to a more advanced level than is possible in the HNC.
+Mature candidates may also embark on the HND programme. The HN Electrical
+Development Team and Unit writers were aware that such candidates may not
+have studied for some time and will require additional support in developing
+their learning skills. The HN Electrical Units have been designed as far as
+possible to provide candidates with opportunities to develop critical knowledge
+and understanding of theory and practical hands-on skills required by practising
+electrical incorporated engineers.
+3 Aims of the Awards
+3.1 General Aims of the HNC Electrical Engineering
+The general aims of this award are to:
+3.1.1 enhance candidates’ employment prospects
+3.1.2 support candidates’ Continuing Professional Development and career
+development
+3.1.3 enable progression within the SCQF (Scottish Credit and Qualifications
+Framework)
+3.1.4 develop candidates’ ability to apply analysis and synthesis skills to the
+solution of electrical engineering problems
+3.1.5 develop learning and transferable skills (including Core Skills).
+3.2 Specific Aims of the HNC Electrical Engineering
+The specific aims of this award are to:
+3.2.1 provide an award that will allow candidates to work now, or in the
+future, as electrical technicians or incorporated electrical engineers
+3.2.2 provide an award that creates a route towards meeting the academic
+requirements for Incorporated Engineer status
+3.2.3 develop an award that on successful completion will allow candidates
+to progress to HND Electrical Engineering and/or a Degree in
+Electrical Engineering or related subject discipline area
+The development of this new HNC award will also allow candidates to:
+3.2.4 develop a range of Communication knowledge and skills relevant to the
+needs of electrical incorporated engineers
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 8
+3.2.5 develop knowledge, understanding and skills in a range of core electrical
+principles, electrical power systems, electrical machine principles and
+electrical safety at Higher National level (these studies in core electrical
+principles and technologies are underpinned by a mandatory Unit in
+Mathematics)
+3.2.6 develop knowledge and skills in the use of electrical and electronic
+instruments
+3.2.7 achieve a degree of specialisation within the following areas: Electrical
+Principles, Information Technology, Three Phase Induction Motors, Power
+Electronics, Inspection and Testing of Low Voltage Electrical
+Installations, Programmable Logic Controllers, Electrical Systems in
+Hazardous Environments, Control Systems, further Mathematical studies,
+Electrical Installation Skills and Engineering Quality
+3.2.8 on successful completion of the award, achieve the Core Skill
+Communication at Higher level and the component Using Number of the
+Core Skill Numeracy at Higher level. The candidate will also be provided
+with opportunities to develop the following Core Skills: Information
+Technology at Higher level, the component Using Graphical Information
+of the Core Skill Numeracy at Higher level, Problem Solving at Higher
+level and Working with Others at Intermediate 1 level.
+3.3 General Aims of the HND Electrical Engineering
+The same as for the HNC Electrical Engineering award but with the addition of
+the following:
+3.3.1 develop candidates’ knowledge and skills in planning and project
+management
+3.3.2 develop investigation skills
+3.4 Specific Aims of the HND Electrical Engineering
+The same as for the HNC Electrical Engineering but with the addition of the
+following:
+3.4.1 develop an award that on successful completion will allow candidates’ to
+progress to a Degree in Electrical Engineering or related subject discipline
+area.
+The development of this new HND award will also allow candidates to:
+3.4.2 develop knowledge and understanding of the external and internal factors
+that influence the performance of modern companies
+3.4.3 recognise the important role Continuing Professional Development plays
+in career development
+3.4.4 expand on the range of knowledge, understanding and skills in core
+electrical principles, electrical machines and systems and electrical
+installation
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 9
+3.4.5 allow for further specialisation within the following subject areas:
+Inspection and Testing of Low Voltage Installations, Programmable Logic
+Controllers, Electrical Systems in Hazardous Environments, Analogue and
+Digital Electronics, Quality Management, Electrical Installation Skills,
+Industrial Plant Maintenance, Synchronous Machines, Electrical Motor
+Drive Systems, Three Phase Induction Motors, High Level Engineering
+Software, additional Control Systems studies, Power Supply Circuits,
+Switchgear and Protection, Standby Systems, Electrical Installation
+Design: Computer Aided, advanced Mathematical studies and
+Employment Experience
+3.4.6 on successful completion of the award, achieve the Core Skills in
+Communication at Higher level, Information Technology at Higher level,
+Problem Solving at Higher level and the Using Number component of the
+Core Skill Numeracy at Higher level. Candidates will be provided with
+opportunities to develop the Core Skill Using Graphical Information
+component of the Numeracy Core Skill at Higher level and the Working
+with Others Core Skills at Intermediate 1 level.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 10
+3.5 How the General Aims are met in the HNC and HND Award Structures and Content
+Aim No How it is met in HNC and HND
+3.1.1 For many years HNC and HND Electrical Engineering qualifications have equipped candidates to seek employment in a wide
+range of manufacturing, service and public sector organisations. Market research indicates that HNC and HND Electrical
+Engineering awards are still regarded as the minimum qualifications required by many organisations to work at electrical
+technician or incorporated engineer level.
+3.1.2 There has been a long tradition of candidates in employment taking HNC Electrical and Electronic awards on a part-time basis to
+increase their knowledge of Electrical and Electronic Engineering and enhance their career development. In recent years, with
+increased commonality between HNC and HND Electrical Engineering awards and greater flexibility in the way these awards are
+delivered, candidates in employment have increasingly taken HNDs on a part-time basis to expand their knowledge and skills in
+Electrical and Electronic Engineering and improve their career prospects. The two new awards contain a balance of core
+principles and up to date knowledge and skills in Electrical Engineering which lends themselves to the Continuous Professional
+Development and career development of candidates working at electrical technician and incorporated engineer levels.
+Furthermore, the award structures have been designed to allow for easy progression between HNC and HND awards.
+3.1.3 All Units within the new HNC and HND Electrical Engineering awards have been levelled at SCQF levels 6, 7 or 8. The two new
+awards also conform to the SQA levelling requirements for HNC and HND awards. Thus, successful completion of one or both
+awards will allow progression within the SCQF.
+3.1.4 The nature of Electrical Engineering as a discipline lends itself to both the analysis and synthesis of problems. For example, when
+a complex electrical and electronic system is analysed (using, say, a block diagram approach) by breaking it down into separate
+functional parts or alternatively the synthesis of a complex system from simpler electrical and electronic systems. The two new
+awards allow these important skills to be developed further both in the technical subjects and in the core Communication,
+Information Technology ands Business Awareness and Continuing Professional Development Units.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 11
+Aim No How it is met in HNC and HND
+3.1.5 The new HNC and HND Electrical Engineering awards provide centres with an opportunity to enhance learning skills not least by
+creating opportunities for candidates to combine theory and practice to achieve a real understanding of a subject. For example,
+some Units recommend significant use of practical work and/or computer simulation to reinforce learning. It is also anticipated
+that centres will use innovative delivery approaches that may make use of sophisticated electrical and electronic laboratory
+equipment and/or on-line delivery and/or Virtual Learning Environments to enhance candidate learning.
+By their very nature Engineering courses require the transfer of technical knowledge and skills form one area to another. For
+example, a significant level of Electrical Principles and Mathematics has been included in both HNC and HND Electrical
+Engineering awards because these subjects provide underpinning knowledge, understanding and skills which are used elsewhere
+in both awards. Candidates will also have an opportunity to use the Communication and Information Technology knowledge and
+skills developed in the mandatory core Units in other parts of the awards to support such activities as report writing, presentation
+and the application of specialist software packages. Core skills in general, and problem solving in particular, have been regarded
+as very important by the HN Electrical Development Team since it is recognised that a good level of competence in these is
+essential in the work of an incorporated electrical technician.
+3.3.1 The double credit (16 SCQF points) Engineering Project Graded Unit in the HND Electrical Engineering award provides
+opportunities for candidates to develop both their planning and project management knowledge and skills.
+3.3.2 The Business Awareness and Continuing Professional Development Unit provides candidates with the opportunities to develop
+their investigative skills by exploring the external and internal factors that affect the performance of a modern company and the
+different ways that people learn. The Engineering Project also requires candidates to undertake some investigations into the
+background to and a range of solutions for their engineering project.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 12
+3.6 How the Specific Aims are met in the HNC and HND Award Structures and Content
+Aim No How it is met in HNC and HND
+3.2.1 An HNC and HND Electrical Engineering award has been recognised for many years by employers and other stakeholders of
+these awards as appropriate qualifications for persons wishing to work at electrical technician or senior technician levels. Market
+research indicates that there is a growing demand for people with technician level skills in electrical and electronic engineering
+especially as companies automate a lot more of their processes. Thus, it is confidently anticipated that those achieving the HNC
+and HND Electrical Engineering awards will find employment as electrical technicians and incorporated electrical engineers in a
+wide range of small, medium and large companies.
+3.2.2
+&
+3.2.3
+An HNC or HND no longer satisfies fully the academic requirements for Incorporated Engineer status although these
+qualifications continue to completely satisfy Engineering Technician requirements. The minimum qualification for Incorporated
+Engineer is an ordinary Degree.
+Given the clear progression routes that have been established between existing HNC and HND Electrical Engineering awards and
+Degree courses by many FE colleges and universities, it is strongly anticipated that similar progression routes will also be
+developed between the new HNC and HND Electrical Engineering awards and Degree courses. Thus, HNC and HND Electrical
+Engineering awards will continue to form very important ‘stepping stones’ towards candidates achieving Degrees (and, thus,
+satisfy fully the academic requirements for Incorporated Engineer status). Progression arrangements between HNCs, HNDs and
+Degrees can only be strengthened with the full implementation of the SCQF. Seven letters have been received from Scottish
+Universities confirming articulation arrangements between the new HNC and HND Electrical Engineering awards and Degree
+programmes.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 13
+Aim No How it is met in HNC and HND
+3.2.4 The current HNC and HND Engineering awards contain separate Communication and Information Technology Applications
+Units within their mandatory cores. The market research information gathered through various consultations indicates that there
+continues to be solid support for the inclusion of a distinct Communication Unit in the mandatory core of the HNC and a
+Communication and Information Technology Units within the mandatory core of the HND Engineering award. The benefit of
+having separate Communication and Information Technology Units is that it significantly improves the prospect of sufficient
+attention being given to the teaching of these two key subjects. Separate Units also make it possible to ensure that the
+Communication and Information Technology core skills at Higher level are fully embedded within the respective Units within the
+HND. Award designers considered this a more appropriate way to ensure that these core skills are included in HN Engineering
+awards than trying to embed such core skills across, say, a range of engineering Units, except at HNC level where they believe
+there is considerable opportunities to develop Information Technology Core Skills within Electrical Units. A number of
+respondents to various surveys have expressed their concerns about Communication and Information Technology not being seen
+as relevant by candidates because they are not delivered and assessed within an engineering context. The HNC/D Electrical
+Development Team has addressed this concern by supporting the production of Communication and Information Technology
+assessment exemplar materials specifically contextulised to engineering.
+3.2.5 Market research shows that employers place a high priority on employees having the correct technical and practical skills to
+function effectively in their job. Whilst there continues to be a debate about the precise nature of such technical and practical
+skills it is clearly important that electrical technicians and incorporated engineers have a sound knowledge and understanding of
+core electrical principles. Such knowledge and understanding will serve candidates well in employment and provide the platform
+for learning more advanced technical skills. The Mandatory section of the new HNC Electrical Engineering award reflects this
+concentration on core principles by providing studies in the key areas of Electrical Engineering namely: electrical principles,
+electrical power systems, electrical machine principles and electrical safety. The HN Electrical Development Team also took the
+view that a knowledge and understanding of Mathematics is fundamental to the work of electrical technicians and has included a
+Mathematics Unit (containing the Using Number component of the Core Skill Numeracy at Higher level) within the Mandatory
+section of the HNC Electrical Engineering award. The inclusion of Mathematics within the Mandatory section was widely
+supported during various consultation processes.
+3.2.6 The correct use of electrical and electronic instruments is very important to electrical technicians and incorporated engineers. The
+Electrical Development Team regard such skills as so important that it has included a Unit on the use of electrical and electronic
+instruments in the Mandatory section of the HNC.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 14
+Aim No How it is met in HNC and HND
+3.2.7 In the 2-credit optional section candidates will be able to specialise further in the following areas: Electrical Principles,
+Information Technology, Three Phase Induction Motors, Power Electronics, Inspection and Testing of Low Voltage Electrical
+Installations, Programmable Logic Controllers, Electrical Systems in Hazardous Environments, Control Systems, further
+Mathematical studies, Electrical Installation Skills and Quality Management. The HN Electrical Development Team strongly
+recommends that candidates with little or no practical electrical experience take the Electrical Installation Skills Unit as
+part of their optional studies. Analysis of candidate uptake of Units in the optional section of the current HNC Engineering:
+Electrical award revealed that many Units had low entry numbers. The HN Electrical Development Team took the view that
+given the resources available for Unit development purposes, efforts should be concentrated on the development of optional Units
+where there was a reasonable confidence of high candidate uptake. This explains why there are only a limited number of Units in
+the optional section. Consultation with the FE sector and other stakeholders has indicated that the choice of Units in the optional
+section is correct. One advantage of limiting the number of optional Units is that more attention has been given to these Units
+resulting, in the view of the Development Team, in better quality Unit specifications.
+The HN Electrical Development Team does not preclude additional Units being added to the optional section especially where
+demand for such Units can be demonstrated.
+3.2.8 The Communication Core Skill at Higher level has been incorporated into the HNC Electrical Engineering award through the
+mandatory Unit, Communication: Practical Skills. There was strong support for the inclusion of the Numeracy core skill at
+Higher within both HNC and HND Engineering awards. The Electrical Development Team has adopted the Unit Mathematics for
+Engineering 1: Electronics and Electrical (taken from the HNC and HND Electronics awards). The Core Skill component Using
+Number at Higher is embedded in this Unit. Opportunities to develop the Core Skills Information Technology, Problem Solving
+and Working with Others are signposted within individual Unit specifications. Candidates may achieve the Information
+Technology and Working with Others Core Skills at Higher level if they take the optional Units in Information Technology:
+Applications Software 1 in the HNC and Employment Experience 2 within the HND, respectively.
+3.4.1 See comments under 3.2.2 and 3.2.3.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 15
+Aim No How it is met in HNC and HND
+3.4.2
+&
+3.4.3
+It has been traditional to deliver some form of Business Studies Unit in HND Engineering awards looking at issues such as
+costing/pricing of products and services. However, the focus of the new Business Awareness and Continuing Professional
+Development Unit is quite different looking as it does at the changing industrial environment in which incorporated engineers
+have to work nowadays. This environment is characterised by globalisation of the market place leading to world-wide marketing
+opportunities and competitive pressures; greater use of advanced technologies and the predominance of Small and Medium Sized
+Enterprises in the British economy. It is important that HND Engineering candidates are suitably prepared to work in this ever-
+changing employment environment. The Business Awareness and Continuing Professional Development Unit seeks to do this by
+allowing candidates to explore the external factors that affect the performance of modern companies and the ways in which
+companies are responding to these external pressures internally. The Unit also has an Outcome on the important role that
+continuous learning and Continuing Professional Development will increasingly play in helping candidates to obtain sustainable
+and rewarding employment. Consultation with the FE sector and other interested stakeholders of HND Engineering awards has
+shown a strong measure of support for the Business Awareness and Continuing Professional Development Unit.
+3.4.4 The Mandatory section of the HND Electrical Engineering award contains all the Units in the Mandatory section of the HNC
+Electrical Engineering award. In addition, within the Mandatory section of the HND Electrical Engineering awards there are
+Units which allow candidates to expand their knowledge, understanding and skills in the key areas of electrical principles,
+electrical machines and systems and electrical installation. The Electrical Development Team has also considered it important to
+build on the mathematical skills developed in the Mathematics for Engineering 1: Electronics and Electrical Unit by including
+another core Mathematics Unit (entitled Mathematics for Engineering 2) within the Mandatory section of the HND award. The
+main subject area of this Unit is Calculus.
+3.4.6 The Communication and Information Technology Core Skills at Higher level have been incorporated into the HND Electrical
+Engineering award through the mandatory core Units Communication: Practical Skills and Information Technology: Application
+Software respectively.
+The component Using Number of the Core Skill Numeracy at Higher is embedded within the Unit Mathematics for Engineering
+1: Electronics and Electrical. The Core Skill Problem Solving at Higher level is embedded within the 2 credit HND Graded Unit.
+Candidates may achieve the Core Skill Working With Others at Higher level if they take the optional Unit Employment
+Experience 2. Opportunities to develop the Core Skill component Using Graphical Information at Higher level are signposted
+within individual Unit specifications.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 16
+4 Recommended access
+4.1 Access requirements
+Admission to the HNC and HND Electrical Engineering award courses should be
+based on a broad approach to candidate selection but, at the same time, should
+ensure that candidates are chosen who have the potential and ability to complete the
+awards successfully. To this end, the following are simply recommendations and
+should not be seen as a definitive or prescriptive list of entry requirements. Their
+purpose is simply to give guidance to selection of candidates. It is recommended
+that candidates should possess the following:
+• One Higher from Physics, Technological Studies or Higher Mathematics and at
+least three Standard Grades 1-2/ Intermediate 2 passes including Mathematics,
+Physics/Technological Studies and English.
+• National Certificate Group Award in Electrical Engineering or Electronic
+Engineering
+• Qualification comparable to the above, gained through other awarding bodies
+such as GSCE, City & Guilds, Edexcel etc.
+• At the discretion of the Principal of the presenting centre for applicants with a
+different experiential background who could benefit from taking the award(s)
+or Units within the award(s), eg adult returners, overseas students with relevant
+work and/or work experience.
+4.2 Alternative Access Arrangements
+The presenting centre may operate alternative access arrangements in cases where
+the candidate is convinced that she/he already has the required competences in a
+given area. These arrangements are as follows:
+• assessment on demand
+• credit transfer
+• accreditation of prior learning
+• relevant work experience
+Individual presenting centres will require to outline their systems for each of these
+as a part of any approval procedure.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 17
+5 Structure of the qualifications
+5.1 HNC Electrical Engineering Structure: G7TA 15 12 Unit credits
+Mandatory Units (9.0 credits required)
+Unit No Unit title Credit
+value
+SCQF
+level
+H7MB 34* Communication: Practical Skills 1 7
+H7K0 33* Engineering Mathematics 1 1 6
+DN47 34 Three Phase Systems 1 7
+DN3W 34 Electricity Power Systems 1 7
+DN4J 34
+(finishes
+31/07/2013)
+H01T 34
+Electrical Machine Principles
+OR
+Electrical Machine Principles
+2
+2
+7
+7
+DN4L 34
+(finishes
+31/07/2013)
+H01V 34
+Electrical Safety
+OR
+Electrical Safety
+1
+1
+7
+7
+DG54 34
+(finishes
+31/07/2013)
+FY9E 34
+Single Phase A.C. Circuits
+OR
+DC and AC Principles
+1
+1
+7
+7
+DN48 33
+(finishes
+31/07/2013)
+H03B 33
+Application of Electrical and Electronic
+Instruments
+OR
+Application of Electrical and Electronic
+Instruments
+1
+1
+6
+6
+Optional Units (2.0 credits required)
+Unit No Unit title Credit
+value
+SCQF
+level
+DG3G 34 Electrical Networks and Resonance 1 7
+D75X 34 Information Technology: Applications Software 1 1 7
+DN42 34
+(finishes
+31/07/2013)
+FY9R 34
+Power Electronics
+OR
+Power Electronics
+1
+1
+7
+7
+DN41 34 Inspection and Testing of Low Voltage Electrical
+Installations
+1 7
+DG31 34 Applications of Programmable Logic Controllers 1 7
+DN3T 34 Electrical Systems in Potentially Explosive and
+Gas Hazardous Environments
+1 7
+DN3Y 34 Fundamentals of Control Systems and Transducers 1 7
+H7K1 34* Engineering Mathematics 2 1 7
+DN4H 34 Electrical Installation Skills 1 7
+DN45 35 Three Phase Induction Motors 1 8
+DT8Y 34 Quality Management: An Introduction 1 7
+DE3R 34 Personal Development Planning 1 7
+H8T2 33* Workplace Communication in English 1 6
+D96A 34 Promoting Energy Efficiency in the Workplace 1 7
+DV9J 34 Electrical Design Systems: An Introduction 1 7
+DV9K 34 Electrical Installation Design (Computer Aided):
+An Introduction
+1 7
+H4J5 34* Energy Overview 1 7
+J0HA 34* Computer Programming 1 7
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 18
+J0H9 34* Data Security 1 7
+FY7L 35* Electrical Installation Design 1 8
+*Refer to History of Changes for revision changes.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 19
+Graded Unit (1.0 credit)
+Unit No Unit title Credit
+value
+SCQF
+level
+DN3V 34 Electrical Engineering: Graded Unit 1
+(Examination)
+1 7
+5.2 HND Electrical Engineering Structure: G7TC 16 30 Unit credits
+Mandatory Units (20.0 credits required)
+Unit No Unit title Credit
+value
+SCQF
+level
+H7MB 34* Communication: Practical Skills 1 7
+D75X 34 Information Technology: Applications Software 1 1 7
+DG3D 35 Business Awareness and Continuing Professional
+Development
+1 8
+H7K0 33* Engineering Mathematics 1 1 6
+DG54 34
+(finishes
+31/07/2013)
+FY9E 34
+Single Phase AC Circuits
+OR
+DC and AC Principles
+1
+1
+7
+7
+DN47 34 Three Phase Systems 1 7
+DN3W 34 Electricity Power Systems 1 7
+DN4J 34
+(finishes
+31/07/2013)
+H01T 34
+Electrical Machine Principles
+OR
+Electrical Machine Principles
+2
+2
+7
+7
+DN4L 34
+(finishes
+31/07/2013)
+H01V 34
+Electrical Safety
+OR
+Electrical Safety
+1
+1
+7
+7
+DN48 33
+(finishes
+31/07/2013)
+H03B 33
+Application of Electrical and Electronic
+Instruments
+OR
+Application of Electrical and Electronic
+Instruments
+1
+1
+6
+6
+DG3G 34 Electrical Networks and Resonance 1 7
+DN42 34
+(finishes
+31/07/2013)
+FY9R 34
+Power Electronics
+OR
+Power Electronics
+1
+1
+7
+7
+DN3Y 34 Fundamentals of Control Systems and Transducers 1 7
+H7K1 34* Engineering Mathematics 2 1 7
+DG57 35 Transmission Lines and Complex Waves 1 8
+DN4F 35
+(finishes
+31/07/2013)
+FY7L 35
+Electrical Installation Design
+OR
+Electrical Installation Design
+1
+1
+8
+8
+DN4K 35 Electrical Motor Drive Systems 1 8
+DN49 35 Transformers 1 8
+DN4A 35 Utilisation of Electrical Energy in Buildings 1 8
+*Refer to History of Changes for revision changes.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 20
+Optional Units (7.0 credits required)
+Unit No Unit title Credit
+value
+SCQF
+level
+DN41 34 Inspection and Testing of Low Voltage Electrical
+Installations
+1 7
+DG31 34 Applications of Programmable Logic Controllers 1 7
+DN3T 34 Electrical Systems in Potentially Explosive and
+Gas Hazardous Environments
+1 7
+DN46 33 Analogue Electronics: An Introduction 1 6
+DN4E 34 Digital Electronics 1 7
+DT8Y 34 Quality Management: An Introduction 1 7
+DN4H 34 Electrical Installation Skills 1 7
+DN40 34 Industrial Plant Maintenance 1 7
+DG58 34 High Level Engineering Software 1 7
+DN4D 35 Control Systems Behaviour 1 8
+DG4P 35 Mathematics for Engineering 3 2 8
+DG50 35 Power Supply Circuits 1 8
+DN43 35 Switchgear and Protection of High Voltage
+Systems
+1 8
+DN4C 35 Applications of Power Electronics in Electrical
+Motor Drive Systems
+1 8
+DN45 35 Three Phase Induction Motors 1 8
+DN44 35 Synchronous Machines 1 8
+DN4M 35 Electrical Standby Systems 1 8
+DN4G 35 Electrical Installation Design: Computer Aided 1 8
+DE3R 34 Personal Development Planning 1 8
+H8T2 33* Workplace Communication in English 1 6
+D96A 34 Promoting Energy Efficiency in the Workplace 1 7
+DV9J 34 Electrical Design Systems – An Introduction 1 7
+DV9K 34 Electrical Installation Design (Computer Aided):
+An Introduction
+1 7
+A6AX 34* Project Management: An Introduction 1 7
+H7K2 34* Engineering Mathematics 3 1 7
+H7K3 35* Engineering Mathematics 4 1 8
+H7K4 35* Engineering Mathematics 5 1 8
+DG6E 34 Work Role Effectiveness
+OR
+3 7
+DG6G 35 Work Role Effectiveness 3 8
+DG2X 34
+(finishes
+31/07/2013)
+FY9T 34
+Analogue Electronic Principles
+OR
+Analogue Electronic Principles
+2
+2
+7
+7
+DG3C 34 Combinational Logic 1 7
+DG53 34 Sequential Logic 1 7
+DG59 34 MCU/MPU Assembly Language Programming 1 7
+H4J5 34* Energy Overview 1 7
+H4J6 35* Energy Technologies 1 8
+J0HA 34* Computer Programming 1 7
+J0H9 34* Data Security 1 7
+*Refer to History of Changes for revision changes.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 21
+Graded Unit (3.0 credits required)
+Unit No Unit title Credit
+value
+SCQF
+level
+DN3V 34 Electrical Engineering: Graded Unit 1
+(Examination)
+1 7
+DN3X 35 Electrical Engineering: Graded Unit 2 (Project) 2 8
+5.3 Graded Units
+The purpose of the Graded Unit for both the HNC and HND awards is to assess the
+candidate’s ability to apply and integrate knowledge and/or skills gained within
+individual Units. By this means candidates will demonstrate that they have achieved
+the specific aims of the awards as detailed in Sections 3.2 and 3.4. The Graded Units
+also provide the means by which a candidate’s achievement can be graded.
+HNC Electrical Engineering candidates will undertake a one Credit Graded Unit at
+level 7. This will be in the form of a 3-hour written examination.
+HND Electrical Engineering candidates will also do the HNC Graded Unit but, in
+addition, will undertake a two Credit Graded Unit at level 8. This will take the form
+of a practical assignment/project.
+5.3.1 Types of Graded Units
+HNC Electrical Engineering: Graded Unit 1 — Examination
+It will be noted that the Graded Unit draws on Outcomes in the mandatory section of
+the award which are studied by all HNC Electrical Engineering candidates.
+The assessment for the Electrical Engineering: Graded Unit 1 consists of an
+examination paper which should last three hours.
+It is recommended that candidates do not sit the Graded Unit Examination until the
+end of the HNC (1st Year of the HND), given the range of Units that it draws from.
+HND Electrical Engineering: Graded Unit 2 — Project
+The nature of the project activity is such that it is likely that centres will wish their
+candidates to embark on it from the start of the second year of the HND Electrical
+Engineering programme. As it is anticipated that centres will deliver the HNC
+Electrical Engineering as part of the first year of the HND, it is recommended that
+candidates have completed all HNC Electrical Engineering Units, including the
+HNC Graded Unit, before commencing the project.
+In principle, the project can draw on any Units in the HND Electrical Engineering
+framework although the majority of Units should be at SCQF level 8. The project
+can be taken from one Electrical Engineering area (eg Electrical Machines) or it can
+span more than one technical area. However, its principal purpose is not to integrate
+technical content (this is covered in Electrical Engineering: Graded Unit 1) but
+rather to combine such knowledge and skills as planning, construction, testing,
+evaluating and reporting.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 22
+5.3.2 Rationale for the Graded Units Assessment
+The assessment methods ie an examination for Graded Unit 1 and a project for
+Graded Unit 2 were decided through consultation with industry and delivering
+centres during initial consultation on the overarching HN Engineering framework
+(see HNC and HND Electronics Validation Document for more details).
+The consultation indicated that an ‘examination’ provided a more accurate way of
+assessing candidates’ abilities to apply and integrate knowledge and understanding
+from various technical and related areas, such as Communication. Furthermore, it
+was considered that during their HNC studies candidates will not normally develop
+fully the necessary knowledge and skills to complete a project.
+A project was preferred at the HND level because a project-based assignment
+provides candidates with opportunities to demonstrate not only their knowledge and
+skills in a technical area(s) but also in areas such as planning, construction, testing,
+evaluating and reporting which are important aims within the HND Electrical
+Engineering award
+5.4 Core Skills
+The HNC and HND Electrical Engineering awards have been designed using the
+new HN Design Principles and therefore the importance of core skills has been
+recognised and been incorporated, where appropriate, throughout the awards.
+HNC Electrical Engineering
+Core Skills Exit Profile
+A candidate who successfully achieves an HNC Electrical Engineering will
+automatically obtain the following Core Skills exit profile:
+• Communication Higher (fully embedded in the Unit Communication:
+Practical Skills)
+• Numeracy Using Number component of Numeracy Core Skill at
+Higher
+(embedded in the Unit Mathematics for Engineering 1:
+Electronics and Electrical)
+Core Skills Entry Profile
+Given the information on Core Skills provided in the previous section the following
+candidate Core Skills entry profile is recommended:
+• Communication Intermediate 2
+• Information Technology Intermediate 2
+• Numeracy Intermediate 2
+• Problem Solving Intermediate 2
+• Working with Others Intermediate 1
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 23
+HND Electrical Engineering
+Core Skills Exit Profile
+A candidate who successfully achieves an HND Electrical Engineering will
+automatically obtain the following Core Skills exit profile:
+• Communication Higher (fully embedded in the Unit
+Communication: Practical Skills)
+• Information Technology Higher (fully embedded in the Unit Information
+Technology: Applications Software 1)
+• Numeracy Using Number component of Numeracy Core
+Skill at Higher (embedded in the Unit
+Mathematics for Engineering 1: Electronics and
+Electrical)
+• Problem Solving Higher (fully embedded in the Unit Electrical
+Engineering: Graded Unit 2)
+Core Skills Entry Profile
+The recommended Core Skills entry profile is as follows (it should be noted that it
+is the same as for the HNC Electrical Engineering):
+• Communication Intermediate 2
+• Information Technology Intermediate 2
+• Numeracy Intermediate 2
+• Problem Solving Intermediate 2
+• Working with Others Intermediate 1
+Unit writers have also identified in individual Units opportunities to develop core
+skills. These development opportunities are summarised in Figure 5.4.1.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 24
+Figure 5.4.1 HN Electrical Units — Core Skills Development Opportunities
+Note 1: Units that were originally developed as part of the new HNC/D Electronics awards are not shown in this table. Refer to the new HNC/D
+Electronics Arrangements Document and the individual Unit specifications for the core skills development opportunities.
+Note 2: CT = Critical Thinking: P &O = Planning & Organisation and R and E = Reviewing & Evaluating
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with Others
+Three Phase Systems
+(DN47 34)
+Higher Higher Higher
+Electricity Power
+Systems (DN3W 34)
+Higher Higher Higher Higher Higher Higher
+Electrical Machine
+Principles (DN4J 34)
+(finishes 31/07/2013)
+OR
+Electrical Machine
+Principles (H01T 34)
+Higher Higher Higher Intermediate 1
+Working co-
+operatively with others
+in a group when
+analysing
+constructional features
+of machines and when
+undertaking laboratory
+work
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 25
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with Others
+Electrical Safety
+(DN4L 34)
+(finishes
+31/07/2013)
+OR
+Electrical Safety
+(H01V 34)
+Higher
+Reading
+complex
+Health &
+Safety
+docum-
+entation
+Int 1
+Com-
+pleting
+work
+permit
+Higher Intermediate 2
+Work with others in a
+role play scenario: eg
+issuing a Permit to
+Work, identifying risk
+factors
+Application of
+Electrical and
+Electronic
+Instruments
+(DN48 33)
+(finishes
+31/07/2013)
+OR
+Application of
+Electrical and
+Electronic
+Instruments
+(H03B 33)
+Higher Int 2 Int 2
+Searching for
+manufacturers’ data on
+instruments on the
+Internet
+Int 2 Int 2
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 26
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Power Electronics
+(DN42 34)
+(finishes
+31/07/2013)
+OR
+Power Electronics
+(FY9R 34)
+Higher Higher Higher Higher Int 2
+Simulation of circuits
+plus search of
+manufacturers’ data on
+power electronic
+devices
+Higher Int 2
+Fundamentals of
+Control Systems
+and Transducers
+(DN3Y 34)
+Higher Higher Higher Higher Int 1
+Opportunities to
+work in groups for
+laboratory
+investigations
+Electrical
+Installation
+Design
+(DN4F 35)
+(finishes
+31/07/2013)
+OR
+Electrical
+Installation
+Design
+(FY7L 35)
+Higher Higher Higher Int 2 Higher Higher Int 2
+Scope for Working
+with Others within
+Installation Learning
+Design Exercises (eg
+planning and
+organising role)
+Electrical Motor
+Drive Systems
+(DN4K 35)
+Higher Higher Higher Higher Higher
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 27
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Transformers
+(DN49 35)
+Higher Higher Higher Higher
+Utilisation of
+Electrical Energy
+in Buildings
+(DN4A 35)
+Higher Higher Higher Higher Higher Higher Higher
+Inspection and
+Testing of Low
+Voltage Electrical
+Installations
+(DN41 34)
+Higher Int 2 Higher Int 2 Int 2
+Electrical
+Systems in
+Potentially
+Explosive and
+Gas Hazardous
+Environments
+(DN3T 34)
+Higher Int 2
+Searching on the
+Internet for
+manufacturers’ data on
+apparatus to provide
+explosion protection
+or intrinsically safe
+equipment
+Higher
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 28
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Analogue
+Electronics: An
+Introduction
+(DN46 33)
+Int 2 Int 2 Int 2 Int 2
+Simulation of circuits
+plus search of
+manufacturers’ data on
+electronic devices
+Int 2 Int 1
+Opportunities to
+work in groups for
+laboratory
+investigations
+Digital
+Electronics
+(DN4E 34)
+Int 2 Int 1 Int 2 Int 2
+Simulation of circuits
+plus search of
+manufacturers’ data on
+electronic devices
+Int 2 Int 1
+Opportunities to
+work in groups for
+laboratory
+investigations
+Quality
+Management: An
+Introduction
+(DT8Y 34)
+Int 2 Int 2 Higher
+Control Systems
+Behaviour
+(DN4D 35)
+Higher Higher Higher Higher Higher Higher Higher
+Switchgear and
+Protection of
+High Voltage
+Systems
+(DN43 35)
+Higher Higher Higher Higher Higher
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 29
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Applications of
+Power Electronics
+in Electrical
+Motor Drive
+Systems
+(DN4C 35)
+Higher Higher Higher Higher Int 2
+Opportunities to
+search on the Internet
+for manufacturers’
+information
+Higher Higher Higher
+Three Phase
+Induction Motors
+(DN45 35)
+Higher Higher Higher Higher Higher Higher Higher
+Synchronous
+Machines
+(DN44 35)
+Higher Higher Higher Int 2
+Use of software
+packages to simulate
+synchronous machine
+operation
+Higher Higher
+Industrial Plant
+Maintenance
+(DN40 34)
+Higher Higher Int 2 Int 2
+Use of CMSS
+software
+Higher Higher Higher Int 1
+Opportunities to
+work in groups to
+develop maintenance
+strategies for
+different scenarios
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 30
+Unit title Communication Numeracy Information
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P&O R&E Working with
+Others
+Electrical Standby
+Systems
+(DN4M 35)
+Higher Higher Int 2 Higher Int 2
+Opportunities to
+search on the Internet
+for manufacturers’
+information
+Higher Higher
+Electrical
+Installation Skills
+(DN4H 34)
+Int 1 Int 2
+Electrical
+Installation
+Design: Computer
+Aided (DN4G 35)
+Higher Higher Higher Higher Higher Higher Int 1
+Working in small
+groups for learning
+how to use the
+software
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 31
+5.5 Conditions of the Award
+The conditions of award for HNC and HND Electrical Engineering qualifications
+are as follows:
+5.5.1 HNC Electrical Engineering
+A candidate will be awarded HNC Electrical Engineering on successful completion
+of 11 Unit credits plus 1 Graded Unit based on the HNC Electrical Engineering
+award structure shown in Section 5.1. More specifically this award structure
+requires that a candidate achieves the following:
+• the 1 Unit credit Communication: Practical Skills within the mandatory section
+• the remaining eight Unit credits from the mandatory section
+• two Unit credits from the optional section
+• Electrical Engineering: Graded Unit 1 Examination
+5.5.2 HND Electrical Engineering
+A candidate will be awarded HND Electrical Engineering on successful completion
+of 27 Unit credits plus 3 Graded Unit Assessment credits based on the HND
+Electrical Engineering award structure shown in Section 5.2. More specifically this
+award structure requires that candidates achieve the following:
+• the 3 Unit credits Communication: Practical Skills, Information Technology:
+Applications Software 1 and Business Awareness and Continuing Professional
+Development within the mandatory section
+• remaining seventeen Unit credits from the mandatory section
+• seven Unit credits from the optional section
+• Electrical Engineering: Graded Unit 1 and Electrical Engineering: Graded Unit
+2
+5.6 SCQF levels
+Figures 5.6.1 and 5.6.2 show the distribution of SCQF levels in the HNC and HND
+Electrical Engineering awards respectively in the mandatory sections. It can be seen
+from Figure 5.6.1 that all Units in the HNC Electrical Engineering mandatory
+section are at level 7 except for two, the Mathematics for Engineering 1: Electronic
+and Electrical Unit and the Application of Electrical and Electronic Instruments
+Unit, which are both at level 6. The Table shows that the number of SCQF level 7
+Units substantially exceeds the minimum of 48 SCQF credit points required to be in
+an HNC to satisfy the new HN Design Principles.
+From the outset of developments, the HN Electrical Development Team recognised
+that the level of Mathematics achieved by the average candidate entering the current
+HNC Engineering: Electrical award was around Intermediate 2 (Standard Grade
+Credit level) and there was a need to include a SCQF level 6 Mathematics Unit in
+the HNC (and the first year of the HND Electrical Engineering) which consolidated
+candidates’ existing knowledge and understanding of Mathematics particularly in
+the areas of transposing and solving equations and trigonometry, skills that are so
+important in the field of Electrical Engineering.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 32
+The Application of Electrical and Electronic Instruments Unit was originally
+levelled at SCQF level 7, but was relevelled at SCQF level 6 as a result of the
+validation process.
+As noted above, the HN Electrical Development Team has levelled the remaining
+Units in the mandatory section of the HNC Electrical Engineering at SCQF level 7.
+The HN Electrical Development Team used as their benchmarks for levelling, the
+Highers in Electrical and Electronic Engineering and various NQ Electronic and
+Electrical Engineering Units and their knowledge of the content of existing Degree
+courses in Electronic and Electrical Engineering.
+It can be seen from Figure 5.6.2 that the minimum number of SCQF level 8 Units a
+candidate has to take in the HND Electrical Engineering is 64 SCQF credit points
+which meets the minimum requirement of 64 SCQF credit points as stated in the HN
+Design Principles. However, it is anticipated that most candidates will undertake
+some optional Units at level 8 which will mean that they will comfortably exceed
+this minimum requirement. The case for the two level 6 Units in the HND Electrical
+Engineering has already been presented above. A number of the SCQF Level 8
+Units in the HND follow on from corresponding level 7 Units and are, therefore,
+appropriately levelled at SCQF level 8. The HN Electrical Development Team also
+used their knowledge of existing second year Degree courses to level Units in the
+HND Electrical Engineering award.
+Figure 5.6.1
+Distribution of SCQF levels in the HNC Electrical Engineering
+Level 6 Level 7 Level 8 Totals
+SQA Minimum
+Requirements
+for level 7
+Units
+16 SCQF c.p. 64 SCQF c.p. 0 SCQF c.p. 80 48 SCQF c.p.
+c.p. = credit points
+Figure 5.6.2
+Distribution of SCQF levels in the HND Electrical Engineering
+Level 6 Level 7 Level 8 Totals
+SQA Minimum
+Requirements
+for level 7
+Units
+16 SCQF c.p. 104 SCQF c.p. 64 SCQF c.p. 184 64 SCQF c.p.
+c.p. = credit points
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 33
+6 Approaches to delivery and assessment
+6.1 Content and context
+Throughout the design and development of the HNC and HND Electrical
+Engineering awards the HN Electrical Development Team has placed a high priority
+on producing awards that allow candidates to develop appropriate technical and
+practical skills. As indicated earlier, it is not possible to quantify such technical and
+practice skills in exact detail. However, the Development Team has taken the view
+that the best way to prepare candidates to meet the changing technical and practical
+requirements of the modern Electrical industry is to ensure candidates have a solid
+foundation of theory and practice upon which they can build new knowledge,
+understanding and skills. Thus, the mandatory section of the HNC Electrical
+Engineering contains fundamental studies in Electrical Principles, Electrical
+Machines, Power Systems, Electrical Safety and Application of Instruments. The
+HND Electrical mandatory section builds on and extends these studies. The studies
+in Electrical Engineering are underpinned by the inclusion of a core Mathematics
+Unit in the HNC and two core Mathematics Units in the HND. The HN Electrical
+Development Team believes that a good grasp of mathematics is essential to the
+understanding of Electrical Engineering.
+The optional sections of both the HNC and HND Electrical Engineering provide
+candidates with the opportunity to specialise in technical and/or non-technical
+subjects. In line with normal good practice centres are encouraged to advise
+candidates to choose those options that best meet their future career and educational
+aspirations.
+The HN Electrical Development Team has also ensured that the two new awards
+contain opportunities for candidates to develop a range of related skills which would
+make the holder of the awards better prepared for employment and/or Degree
+studies. For example, the Communication: Practical Skills Unit has been included
+within the mandatory sections of both HNC and HND awards to provide candidates
+with the opportunity to develop their written and group discussion skills about
+complex vocational issues.
+Whilst a discrete Information Technology Unit is no longer included within the
+HNC mandatory section centres will still have the opportunity to access such a Unit
+via the optional section of the HNC (Information Technology: Applications
+Software 1). Even where centres choose not to select this Unit from the optional
+section there are a number of opportunities to develop Information Technology
+knowledge and skills within individual Units. The Information Technology:
+Applications Software 1 Unit has been included within the core of the HND to allow
+centres to concentrate on business applications, such as word processing,
+spreadsheets, databases, or engineering specific applications or a combination of the
+two.
+A new type of Business Studies Unit, entitled Business Awareness and Continuing
+Professional Development, has been included within the mandatory section of the
+HND Electrical Engineering. This Unit focuses on two areas which the HN
+Electrical Development Team considered important to working in the modern
+electrical industry: namely the external and internal factors that affect business
+performance and the need for continuing learning and development if candidates are
+to have sustainable and rewarding employment in the future.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 34
+6.2 Delivery
+The new HNC and HND Electrical Engineering awards can be delivered on a full-
+time, block-release, part-time day or part-time evening basis.
+In timetabling the two new awards, centre staff should take account of information
+contained in the recommended prior knowledge and skills statement in Unit
+specifications in sequencing the delivery of Units. For example, the Single Phase
+A.C. Circuits Unit would normally be delivered before the Electrical Networks and
+Resonance. Examples of a full-time HNC Electrical Engineering and 2nd Year
+HND Electrical Engineering timetables are shown in Appendix 1.
+One of the key reasons the HN Electrical Development Team has sought to reduce
+the time candidates have to spend on summative Unit assessment is to provide
+lecturers with more time to deliver Units. Lecturers are encouraged, in particular, to
+use this additional time to reinforce learning in core electrical principles and
+technologies and enhance the development of candidates’ practical electrical skills.
+Lecturers may use a variety of teaching and learning approaches in delivering the
+Units in the HNC and HND Electrical Engineering awards. These may include
+lecturing, group work, laboratory and practical work, computer simulation (using
+appropriate software packages), project work and case studies. The use of open and
+distance learning and on-line materials may help to supplement and support the
+learning that takes place in the classroom, laboratory or workshop.
+Industrial visits are encouraged wherever possible to provide ‘real life’ industrial
+examples of the application of the theory and practice learnt in the classroom,
+laboratory or workshop.
+The HN Electrical Development Team recognises the very important role computer
+simulation, such as electrical installation software, plays in the modern electrical
+industry. The Team would actively encourage the use of computer simulation
+wherever appropriate but not at the expense of candidates doing practical work. The
+Team believe it is very important that candidates get as much exposure as possible
+to practical electrical hand skills, the use of electrical and electronic test equipment
+and other practical electrical activities if they are to be suitably prepared to work in
+industry.
+Lecturers should also seek opportunities to integrate Core Skills within their
+teaching and learning programmes. Such opportunities may include the following:
+Communication
+• Providing candidates opportunities to develop their oral skills by allowing them
+to give full answers to questions asked by the lecturer and by giving an oral
+presentation in the HND Electrical Engineering Graded Unit project
+• Develop complex, vocationally specific reading skills (eg Electrical Safety,
+Industrial Plant Maintenance etc)
+• Develop report writing skills in a number of Units (eg Electrical Power
+Systems, Three Phase Induction Motors etc)
+• Allowing candidates to develop their Communication skills in group work
+activities (eg Communication: Practical Skills, Electrical Safety)
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 35
+Numeracy
+• Reinforcing Numeracy and Mathematical skills when teaching electrical
+engineering topics (eg Electrical Machine Principles, Electrical Networks and
+Resonance, Synchronous Machines etc)
+• Reinforcing Using Graphical information skills by use of a range of graphical
+representations (eg Power Electronics, Fundamentals of Control Systems and
+Transducers etc)
+Information Technology
+• Develop Information Technology skills through the application of IT within an
+Electrical Engineering context (eg Control Systems Behaviour, Electrical
+Installation Design: Computer Aided etc)
+Problem Solving Skills
+• Develop Critical Thinking Skills through the application of electrical
+engineering principles and technologies to solve electrical engineering
+problems
+• Develop Planning and Organisational skills (eg Utilisation of Electrical Energy
+in Buildings, Industrial Plant Maintenance etc)
+• Develop reviewing and evaluation skills through, for example, the review and
+evaluation of the Outcomes of assignments and project work (eg Applications
+of Power Electronics in Electrical Motor Drive Systems, Electrical Standby
+Systems etc)
+Working with Others
+• Develop Working with Others skills through group discussion on the solution
+to electrical engineering problems (eg Electrical Safety — role play scenario:
+eg issuing a Permit to Work, identifying risk factors) and laboratory and project
+work (eg Analogue Electronics: An Introduction, Digital Electronics etc)
+6.3 Assessment
+From the outset of developments the HN Electrical Development Team recognised
+the need to have an appropriate assessment strategy in place for the HNC and HND
+Electrical Engineering awards. Such a strategy was developed and is shown below:
+Aims
+To ensure that:
+(1) consistent, rigorous and efficient approaches are adopted to the development
+and administration of HN Electrical Engineering assessment instruments at
+both Unit and Graded Unit levels, which satisfy nationally agreed standards.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 36
+(2) the assessment load on candidates and staff is sensible and that assessment
+does not unduly detract from teaching and learning.
+(3) as far as possible reliable and rigorous moderation processes are put in place
+in order to ensure that consistent national standards are achieved for all HN
+Electrical Engineering assessments.
+Objectives
+Listed below are the measures that have been put in place to meet the aims:
+(1) Develop nationally at least one assessment exemplar pack for each mandatory
+Unit, which clearly sets out the standards of assessment expected in the Unit.
+(2) Adopt a holistic approach to Unit assessment. The implications of this are as
+follows:
+(i) Assessment instruments will normally be designed only to sample
+knowledge and skills in a Unit (this is consistent with the new HN Unit
+format)
+(ii) A Unit assessment strategy will be adopted, where possible, to produce a
+single assessment instrument for the whole Unit. Where this is not
+possible the assessment strategy will seek to ensure that the minimum
+number of assessment instruments required are consistent with
+maintaining agreed national standards.
+(3) Whilst not seeking to be entirely prescriptive with regard to the time spent on
+assessment in each HN Unit, over assessment should be avoided. Assessment
+times are clearly stated in the individual Unit Specifications.
+(4) Produce assessment exemplar packs for the two Graded Units. For the Graded
+Unit examination produce at least one sample exam paper to show the
+standards expected in such a paper. Likewise, for the 2 credit Graded Unit
+Electrical Engineering Project produce a set of materials which clearly set out
+the standards of candidate response required to achieve a Grade A and a
+Grade C.
+(5) Actively encourage centres to work in partnership in producing Graded Unit
+assessment materials, which meet nationally agreed standards reducing, in
+turn, the workload on staff in individual colleges.
+(6) Ensure that consistent and rigorous internal and external moderation
+procedures operate through both HN Unit level and Integrative Assessment
+processes. This places a clear responsibility on both centres and the SQA.
+As far as has been practical the above objectives have been adhered to when
+developing assessment exemplar and Graded Unit materials.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 37
+Assessment Loading Grid
+An Assessment Loading Grid showing the type and duration of assessment in each
+Unit is shown in Appendix 2. It is hoped that course planners will find this grid
+helpful in timetabling the two awards.
+Assessment Exemplar Materials
+Assessment exemplar packs are in the process of being produced for all mandatory
+Units, and the Graded Units in the HNC and HND Electrical Engineering awards.
+Graded Unit Assessment Exemplars
+It is recommended that candidates do not sit the Graded Unit Examination until the
+end of the HNC (1st Year of the HND) given the range of Units that it draws from.
+It is recommended that, given the size and complexity of the project, that the Graded
+Unit Project is started at the beginning of the second year of the HND.
+Formative Assessment
+Formative assessment should be used throughout the delivery of Units to reinforce
+learning, build candidates’ confidence and prepare candidates for summative
+assessment.
+6.4 Re-assessment
+The way in which centres reassess candidates is integral to the way they manage the
+award assessment process as a whole. Re-assessment should be subject to rigorous
+internal moderation in exactly the same way as assessment is.
+Candidates may require to be reassessed on only a part of an assessment where their
+evidence has been generated over a period of time and/or a discrete part of the Unit,
+such as an Outcome, has been assessed originally. On other occasions in may not be
+possible to reassess candidates on parts of their performance which are
+unsatisfactory. Situations where candidates may have to re-do a whole assessment
+include:
+• assessments which test knowledge and understanding and where it may not be
+possible to extract some of the items for reassessment purposes
+• where parts of several Outcomes are involved
+• where a project has been designed as an integral assessment and where there is
+requirement to complete the project as a single complex task
+Re-assessment Opportunities
+Reassessment should operate in accordance with a centre’s assessment policy and
+the professional judgement of the assessor. SQA advises that there should normally
+be one, or in exceptional circumstances two, reassessment opportunities. Please
+refer to SQA’s Guide to Assessment and Quality Assurance for Colleges of Further
+Education, August 2003 revisions.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 38
+Developing Alternative Assessments
+The design of original assessments should inform the reassessment process to a
+large extent, as the original determines the type of assessment instruments used and
+the purpose of the assessment. It is normal practice for centres to build up a bank of
+assessments which can be used in whole or in part for reassessment purposes.
+Assessment writers should always refer to the Unit specification when developing
+an alternative assessment to ensure that it is of equal demand to the original
+assessment and that it covers all the necessary criteria. Where candidates have not
+provided satisfactory evidence for knowledge and/or skills items which have been
+sampled, they should be reassessed on a different sample.
+Re-assessing HN Graded Units
+Reassessment of the Electrical Engineering: Graded Unit 1 should be based on an
+alternative examination paper. Re-assessment of Electrical Engineering: Graded
+Unit 2 should normally entail a candidate undertaking a completely new project.
+Where a candidate marginally fails the Electrical Engineering: Graded Unit 2 the
+centre may wish to reassess her/him on that part(s) of the performance which was
+unsatisfactory. Such reassessment would be at the discretion of the centre and
+should be subject to rigorous internal moderation.
+7 Guidance for centres
+7.1 Disabled candidates and/or those with additional support needs
+The additional support needs of individual candidates should be taken into account
+when planning learning experiences, selecting assessment instruments, or
+considering whether any reasonable adjustments may be required. Further advice
+can be found on our website www.sqa.org.uk/assessmentarrangements.
+7.2 Internal and external verification
+All instruments of assessment used within this/these Group Award(s) should be
+internally verified, using the appropriate policy within the centre and the guidelines
+set by SQA.
+External verification will be carried out by SQA to ensure that internal assessment is
+within the national guidelines for these qualifications.
+Further information on internal and external verification can be found in SQA’s
+Guide to Assessment (www.sqa.org.uk)
+7.3 Assessment moderation
+All assessment instruments used within the HNC and HND Electrical Engineering
+awards should be internally moderated, including assessment exemplar materials,
+using appropriate policies within the centre and guidelines provided by SQA. This
+will ensure the validity and reliability of the instruments of assessment used within
+the centre.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 39
+External moderation will be carried out by SQA to ensure that internal assessment is
+within the national guidelines for these qualifications.
+For further information on internal and external moderation refer to the SQA Guide
+to Assessment and Quality Assurance for Colleges of Further Education, August
+2003 revision.
+7.4 Open and Distance Learning
+Advice on the use of open and distance learning is given in individual Unit
+specifications. However, where it is used with regard to assessment, planning would
+be required by the centre concerned to ensure the sufficiency and authenticity of
+candidate evidence. Arrangement would be required to be put in place to ensure that
+the assessment or assessments were conducted under the conditions specified in the
+Unit specification. For example, in the case of a Unit which involved a Unit end test
+a centre would have to make arrangements for the test to be conducted under
+controlled, supervised conditions. Likewise, where a Unit involves a practical based
+assessment, a centre would have to make arrangements for candidates to come into
+the centre to undertake the assessment under the conditions specified in the Unit
+specification.
+It should be noted that the same requirements as specified in the previous paragraph
+apply where part or all of a Unit is delivered on-line.
+7.5 Special needs
+The two awards have been designed to ensure that there are no artificial barriers to
+learning or assessment. Centres will need to take account of the special needs of
+individual candidates when planning learning experiences, selecting assessment
+instruments or considering special alternative Outcomes for Units. SQA is currently
+reviewing a guidance document on special assessment arrangements.
+7.6 Credit transfer Arrangements
+A document entitled Credit Transfer Grids has been developed which contains
+information on credit transfer arrangements between old HN Electrical Units (those
+developed as part of the 1996 HN Engineering developments) and the new HN
+Electrical Units (the Units written as part of this development). A copy of this
+document can be found in Appendix 3. This document has been designed to make it
+as straightforward as possible for course admission tutors to work out the level of
+credit transfer a candidate with ‘old’ HN Units or an ‘old’ HNC Engineering:
+Electrical award can count towards the new HNC and HND Electrical Engineering
+awards. As a number of Units in the HNC and HND Electrical Engineering awards
+are common to the HNC and HND Electronics awards course admission tutors may
+also have to use the Credit Transfer Document developed for the HNC and HND
+Electronics awards to determine a candidates full credit transfer score. This
+information is contained within the HNC/D Electronics Arrangements Document
+which can be downloaded from the SQA website. The use of these documents is
+illustrated as follows.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 40
+An Example of the use of the Guide to Credit Transfer Document
+A candidate has an HNC Engineering: Electrical having successfully achieved the
+list of Units shown below. She now wishes to study for a new HND Electrical
+Engineering award. A course admission tutor has been given the task of determining
+the level of credit transfer the candidate has towards the HND Electrical
+Engineering award.
+List of Units successfully achieved as part of the HNC Engineering:
+Electrical
+Unit number Unit title
+A6AN 04 Information Technology Applications 2
+D5P3 04 Communication: Presenting Complex Communication for
+Vocational Purposes
+BA24 04 Fundamentals of Quality Assurance
+D4H7 04 Engineering Project
+D4JH 04 Mathematics for Engineering
+D4L9 04 Single Phase AC Networks
+D4LK 04 Three Phase Systems
+D4LJ 04 Three Phase Induction Motors
+D4LE 04 Supply Systems, Composite Loads and Tariffs
+D4GM 04 Electrical Safety and Work Permits
+D4LS 04 Utilisation of Electrical Energy
+New Unit Title New Unit
+Code
+Old Unit Title Old Unit
+Code
+Credit Transfer Conditions
+Engineering
+Mathematics 1
+H7K0 33 Mathematics for
+Engineering
+1:Electronics and
+Electrical
+DG4H 33 To gain credit transfer to the
+new unit candidates will
+have to provide additional
+evidence relating to
+functions as specified in the
+Evidence requirements in
+respect of the first three
+knowledge/skills in Outcome
+1 and relating to vectors as
+specified in the first three
+knowledge/skills in outcome
+3.
+Engineering
+Mathematics 1
+H7K0 33 Mathematics for
+Engineering
+1:Mechanical and
+Manufacturing
+DT5X 33 To gain credit transfer to the
+new unit candidates will
+have to provide additional
+evidence relating to
+functions as specified in the
+Evidence requirements in
+respect of the first three
+knowledge/skills in Outcome
+1 and relating to 3D vectors
+and complex numbers as
+specified in the
+knowledge/skills in outcome
+3.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 41
+New Unit Title New Unit
+Code
+Old Unit Title Old Unit
+Code
+Credit Transfer Conditions
+Engineering
+Mathematics 2
+H7K1 34 Mathematics for
+Engineering 2
+DG4L 34 To gain credit transfer to the
+new unit candidates will
+have to provide additional
+evidence relating to
+trigonometric and hyperbolic
+functions as specified in the
+Evidence requirements in
+respect of Outcome 1.
+Credit Transfer Available to Candidate (using Credit Transfer Documents)
+Old Unit title New Unit title Credit
+value
+Status
+(Full, Partial or
+No Credit
+Transfer)
+Information Technology
+Applications 2
+Information Technology:
+Applications Software 1
+1 Full
+Communication:
+Presenting Complex
+Communication for
+Vocational Purposes
+Communication:
+Practical Skills
+1 Partial
+Outcomes 2
+and 3
+Fundamentals of Quality
+Assurance
+Quality Management:
+An Introduction
+20%
+Engineering Project None*
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 42
+It can be seen from the previous table that thThe candidate can obtain seven full
+credits plus a number of partial credits towards the HND Electrical Engineering
+using the credit transfer documents.
+Old Unit title New Unit title Credit
+value
+Status
+(Full, Partial or
+No Credit
+Transfer)
+Mathematics for
+Engineering
+Mathematics for
+Engineering 1:
+Electronics and
+Electrical
+Partial
+Outcomes 1 and
+2 of
+Mathematics for
+Engineering
+Unit only
+(although
+candidate could
+get full credit if
+they have
+analysed
+trignometrical
+functions and
+their graphs
+elsewhere)
+Single Phase A.C.
+Networks
+Single Phase A.C.
+Circuits
+1 Full
+Particularly
+where a
+candidate has
+successfully
+achieved a
+number of NQ
+Electrical
+Principles Units
+Three Phase Systems Three Phase Systems 1 Full
+Three Phase Induction
+Motors
+Three Phase Induction
+Motors
+1 Full
+Supply Systems,
+Composite Loads and
+Tariffs
+Electricity Power
+Systems
+60%
+Electrical Safety and
+Work Permits
+Electrical Safety 1 Full
+Utilisation of Electrical
+Energy
+Utilisation of Electrical
+Energy in Buildings.
+Not in HNC Electrical
+Engineering but would
+count one credit towards
+HND Electrical
+Engineering
+1 Full
+Total 7
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 43
+*With reference to the new two credit, Electrical Engineering: Graded Unit 2
+(Electrical Project) the HN Electrical Development Team has taken the view that the
+old Engineering Project cannot be counted for credit transfer purposes towards the
+new Graded Unit 2 because it contains no mechanism for grading candidates on the
+A, B or C scale.
+7.7 General information for candidates
+The new HNC and HND Electrical Engineering awards have been designed by an
+expert team of educators and industrialists with a view to allowing you to meet the
+educational requirements to work as an electrical incorporated engineer. The two
+new qualifications contain up-to-date and relevant electrical subject content and
+skills and have also been designed to satisfy the new SQA Higher National Design
+Principles.
+The HN Electrical Development Team has designed the two new awards so that you
+will have opportunities to learn and understand the core principles and technologies
+that underpin Electrical Engineering. Learning these will be essential in providing
+you with a platform for tackling many electrical tasks and in allowing you to
+develop a more in-depth knowledge of Electrical Engineering. At the same time
+studying the new HNC and HND Electrical Engineering awards will provide you
+with opportunities to develop sound practical electrical investigation, construction,
+testing and project skills which are critical to being a good electrical technician
+and/or incorporated engineer.
+As well as studying Electrical subjects you will also take Communication with an
+option to do Information Technology as part of the HNC. Good Communication
+skills are essential to understanding technical material, and when communicating
+with others whether on an individual basis or when working as part of a team.
+Information Technology underpins much of the work in Electrical Engineering
+whether this is through computer simulation of electrical and electronic circuits or
+systems or in preparing a written report on the work you have been involved in.
+Opportunities to develop Information Technology knowledge and skills are
+available in a number of Units in the HNC, but an optional Unit on Information
+Technology Applications is also available if you wish to consolidate your skills in
+this area.
+The Communication and Information Technology Units are mandatory within the
+HND Electrical Engineering award although you will not need to study these Units
+if you have already done so as part of the HNC. There is an additional mandatory
+core Unit in the HND Electrical Engineering award entitled Business Awareness
+and Continuing Professional Development. This Unit will provide you with an
+awareness of the business pressures on modern electrical companies and what
+strategies they are adopting to meet these pressures. The Unit will also provide you
+with the opportunity to develop your own career and education action plan for the
+next five years or so.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 44
+As already mentioned Electrical Engineering is very much about learning and
+understanding core principles and technologies whilst also doing practical work
+such as constructing and testing circuits and project work. Thus, while taking the
+HNC and HND Electrical Engineering awards you can anticipate that the teaching
+and learning approaches adopted by your lecturers will include the following:
+lecturing, group work, practical electrical and electronics work, inspection and
+testing, computer simulation of circuits and installations and project work.
+The Electrical Development Team has ensured that assessments in the two awards
+meet national standards. The two awards have been designed to optimise assessment
+so that sufficient time is available for you to learn the electrical principles and
+technologies and the practical skills that are essential to being a good electrical
+technician and incorporated engineer.
+You can expect to do assessment at individual Unit level and at qualification level.
+At Unit level assessment will consist of some form of written end test, or a
+combination of short written test and practical exercise or a purely practical
+exercise. Your lecturer should tell you at the start of the Unit what form the Unit
+assessment will take. In additional, to Unit tests there will also be a 3-hour
+examination at HNC level and a 2-credit project at HND level. Both these
+assessments have been designed to allow you to demonstrate your ability to
+integrate knowledge, understanding and skills learnt in the two awards as a whole.
+The HN Electrical Development Team does not wish to place any artificial barriers
+in the way of potential candidates wanting to study the two awards. However, it
+would be unfair to enrol a candidate into the HNC and HND who did not have a
+realistic chance of successfully achieving either or both awards. The HN Electrical
+Development Team would therefore recommend that a candidate had one of the
+following qualifications before entering the HNC and HND Electrical Engineering:
+(1) One Higher from Physics, Technological Studies or Higher Mathematics and at
+least three Standard Grades 1-2/ Intermediate 2 passes including Mathematics,
+Physics/Technological Studies and English.
+(2) A National Certificate in Electrical Engineering or Electronic Engineering.
+(3) Equivalent qualifications or experience to those shown in (1) and (2).
+An HNC or HND Electrical Engineering award no longer satisfies the full academic
+requirements to become an incorporated engineer (a Degree is now required).
+However, the new HNC and HND Electrical Engineering awards provide a very
+solid platform for candidates to proceed to the advanced stages of a Degree
+programme in Electrical Engineering. Ask your lecturer about progression
+arrangements your college has with any Universities.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 45
+7.8 Relationship to other awards
+An HNC and HND Electronics were validated in 2004. Since a number of Units are
+common between HNC and HND Electrical Engineering and Electronics awards
+candidates will have opportunities to transfer a significant number of Units between
+the various awards. More limited opportunities will exist for candidates to transfer
+Units between the HNC and HND Electrical Engineering awards and awards in
+Mechanical Engineering, Manufacturing Systems, Mechatronics, General
+Engineering and Fabrication and Welding and vice versa.
+7.9 Articulation Arrangements
+All the universities in Scotland were contacted regarding possible articulation routes
+between the HNC and HND Electrical Engineering awards and Degree courses
+offered by the universities. In general terms, universities indicated that they will
+allow candidates with an HNC to enter the first year of their electrical engineering
+(or related engineering) Degrees programmes. Candidates with an HND will
+normally be allowed to enter the second year of a Degree programme provided they
+have the Unit, Mathematics for Engineering 3.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 46
+Appendix 1: HNC and HND Timetables
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 47
+HNC: Guidelines for Delivery of Mandatory Units
+(Also Year 1 of the HND Award)
+Centre Year Block 1 Block 2 Block 3 Block 4
+Unit title
+Communication: Practical Skills
+Single Phase A.C. Circuits
+OR
+DC and AC Principles
+Three Phase Systems
+Electricity Power Systems
+Electrical Machine Principles
+Electrical Safety
+Mathematics for Engineering 1:
+Electronics and Electrical
+Application of Electrical and
+Electronic Instruments
+Electronic Instruments
+Electrical Engineering: Graded Unit 1
+Option 1
+Option 2
+It is recognised that timetabling in a four block system is not done by every centre. The above grid is therefore only a guide indicating the order of delivery of
+Units.
+The HNC Units will normally make up the first year of the HND timetable.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 48
+HND: Guidelines for Delivery of Mandatory Units
+(Year 2 of the HND Award)
+Centre Year Block 1 Block 2 Block 3 Block 4
+Unit title
+IT: Applications Software
+Business Awareness and CPD
+Electrical Networks and Resonance
+Power Electronics
+Fundamentals of Control Systems and
+Transducers
+Mathematics for Engineering 2
+Transmission Lines and Complex
+Waves
+Electrical Installation Design
+Electrical Motor Drive Systems
+Transformers
+Utilisation of Electrical Energy in
+Buildings
+As with the previous HNC grid, it is recognised that timetabling in a four block system is not done by every centre. The above grid is therefore only a guide
+indicating the order of delivery of Units.
+Centres may wish to spread the delivery of Units over more than one block which would allow more Units to be delivered in parallel.
+Whichever delivery arrangement is used, it is important to complete the delivery of ALL the HND Units over the two years of a full-time programme.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 49
+Appendix 2: Assessment Loading Grid
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 50
+HNC/HND Electrical Engineering Group Award
+Summary Assessment Loading
+HNC Electrical Engineering Mandatory Units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+D77G 34 Communication: Practical Skills Summary/Evaluation
+Assignment
+--- Business
+Document
+Assignment
+--- Spoken
+Communication
+Assignment
+---
+DG4H 33 Mathematics for Engineering 1:
+Electronics and Electrical
+Written Question
+Paper
+1 hour 40 mins
+DG54 34
+(finishes
+31/07/2013)
+FY9E 34
+Single Phase A.C. Circuits
+OR
+DC and AC Principles
+Written Question
+Paper
+1 hour 30 mins
+DN47 34 Three Phase Systems Written Question
+Paper
+2 hours
+DN3W 34 Electricity Power Systems Industrial
+Assignment
+--- Written
+Question Paper
+1 hour 30 mins
+DN4J 34
+(finishes
+31/07/2012)
+H01T 34
+Electrical Machine Principles
+OR
+Electrical Machine Principles
+Written Question
+Paper
+2 hours Written
+Question Paper
+2 hours
+DN4L 34
+(finishes
+31/07/2013)
+H01V 34
+Electrical Safety
+OR
+Electrical Safety
+Written Question
+Paper
+1 hour 30 mins Permit-to-work
+Assignment
+---
+DN48 33
+(finishes
+31/07/2012)
+H03B 33
+Application of Electrical and
+Electronic Instruments
+OR
+Application of Electrical and
+Electronic Instruments
+Written Question
+Paper
+1 hour Practical
+Assignment &
+Report
+6 hours
+DN3V 34 Electrical Engineering:
+Graded Unit 1
+Examination
+(1 credit)
+3 hours
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 51
+Mandatory Section Assessment Summary:
+Eight Written Question Papers (Total assessment time = 13 hours 10 mins) + Graded Unit 1 (Total assessment time = 3 hours) + six Assignments.
+HNC Electrical Engineering Optional Units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+DG3G 34 Electrical Networks and
+Resonance
+Written Question
+Paper
+1 hour 30 mins
+D75X 34 Information Technology:
+Applications Software 1
+Project/Case Study
+Assignment
+DN42 34
+(finishes
+31/07/2013)
+FY9R 34
+Power Electronics
+OR
+Power Electronics
+Written Question
+Paper
+1 hour 30 mins Laboratory
+exercise
+1 hour 30 mins
+DN41 34 Inspection and Testing of Low
+Voltage Electrical Installations
+Written Question
+Paper
+1 hour 30 mins Practical Testing
+and Certification
+Assignment
+---
+DG31 34 Application of Programmable
+Logic Controllers
+Written Question
+Paper
+1 hour 30 mins PLC Simulated
+Assignment
+---
+DN3T 34 Electrical Systems in Potentially
+Explosive and Gas Hazardous
+Environments
+Written Question
+Paper
+1 hour Written
+Question Paper
+1 hour
+DN3Y 34 Fundamentals of Control Systems
+and Transducers
+Written Question
+Paper
+2 hours Laboratory
+exercise
+2 hours
+DG4L 34 Mathematics for Engineering 2 Written Question
+Paper
+1 hour 30 mins
+DN4H 34 Electrical Installation Skills Identification/
+Application
+Assignment
+--- Practical
+Assignment
+--- Practical
+Assignment
+---
+DT8Y 34 Quality Management: An
+Introduction
+Written Question
+Paper
+1 hour Case Study
+Assignment
+--- Case Study
+Assignment
+1 hour
+DN45 35 Three Phase Induction Motors Written Question
+Paper
+2 hours Assignment
+Report
+---
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 52
+HND Electrical Engineering Mandatory Units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+D77G 34 Communication: Practical Skills Summary/Evaluation
+Assignment
+--- Business
+Document
+Assignment
+--- Spoken
+Communication
+Assignment
+---
+D75X 34 Information Technology:
+Applications Software 1
+Project/Case Study
+Assignment
+---
+DG3D 35 Business Awareness and
+Continuing Professional
+Development
+Case Study
+Assignment
+--- CPD Action
+Plan Assignment
+---
+DG4H 33 Mathematics for Engineering 1:
+Electronics and Electrical
+Written Question
+Paper
+1 hour 40 mins
+DG54 34
+(finishes
+31/07/2013)
+FY9E 34
+Single Phase A.C. Circuits
+OR
+DC and AC Principles
+Written Question
+Paper
+1 hour 30 mins
+DN47 34 Three Phase Systems Written Question
+Paper
+2 hours
+DN 3W 34 Electricity Power Systems Industrial
+Assignment
+--- Written
+Question Paper
+1 hour 30 mins
+DN4J 34
+(finishes
+31/07/2013)
+H01T 34
+Electrical Machine Principles
+OR
+Electrical Machine Principles
+Written Question
+Paper
+2 hours Written
+Question Paper
+2 hours
+DN4L 34
+(finishes
+31/07/2013)
+H01V 34
+Electrical Safety
+OR
+Electrical Safety
+Written Question
+Paper
+1 hour 30mins Permit-to-work
+Assignment
+---
+DN48 33
+(finishes
+31/07/2013)
+H03B 33
+Application of Electrical and
+Electronic Instruments
+OR
+Application of Electrical and
+Electronic Instruments
+Written Question
+Paper
+1 hour Practical
+Assignment and
+Report
+6 hours
+DG3G 34 Electrical Networks and
+Resonance
+Written Question
+Paper
+1 hour 30 mins
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 53
+HND Electrical Engineering Mandatory Units (cont)
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+DN42 34
+(finishes
+31/07/2013)
+FY9R 34
+Power Electronics
+OR
+Power Electronics
+Written Question
+Paper
+1 hour 30 mins Laboratory
+exercise
+1 hour 30 mins
+DN3Y 34 Fundamentals of Control Systems
+and Transducers
+Written Question
+Paper
+2 hours Laboratory
+Exercise
+2 hours
+DG4L 34 Mathematics for Engineering 2 Written Question
+Paper
+1 hour 30 mins
+DG57 35 Transmission Lines and Complex
+Waves
+Written Question
+Paper
+2 hours
+DN4F 35
+(finishes
+31/07/2013)
+FY7L 35
+Electrical Installation Design
+OR
+Electrical Installation Design
+Written Question
+Paper
+2 hours Project-based
+Assignment
+---
+DN4K 35 Electrical Motor Drive Systems Written Question
+Paper
+2 hours Investigation
+Assignment
+---
+DN49 35 Transformers Written Question
+Paper
+2 hours Laboratory/Case
+Study
+Investigation
+Assignment
+1 hour
+DN4A 35 Utilisation of Electrical Energy in
+Buildings
+Design Scheme
+Assignment
+--- Design Scheme
+Assignment
+--- Design Scheme
+Assignment
+---
+DN3V 34 Electrical Engineering:
+Graded Unit 1
+Examination
+(1 credit)
+3 hours
+DN3X 35 Electrical Engineering:
+Graded Unit 2
+Project (2 credits) --- --- --- --- ---
+Mandatory Section Assessment Summary:
+16 Written Question Papers (Total assessment time = 27 hours 40 mins)
++ Graded Unit 1 (Total assessment time 3 hours)
++ 17 Assignments
++ Graded Unit 2 (2 credit project)
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 54
+HND Electrical Engineering Optional Units
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+DN41 34 Inspection and Testing of Low
+Voltage Electrical Installations
+Written Question
+Paper
+1 hour 30 mins Practical Testing
+and Certification
+Assignment
+---
+DG31 34 Application of Programmable
+Logic Controllers
+Written Question
+Paper
+1 hour 30mins PLC Simulated
+Assignment
+---
+DN3T 34 Electrical Systems in Potentially
+Explosive and Gas Hazardous
+Environments
+Written Question
+Paper
+1 hour Written
+Question Paper
+1 hour
+DN46 33 Analogue Electronics: An
+Introduction
+Written Question
+Paper
+1 hour 30 mins Practical
+Assignment
+2 hours 30 mins
+DN4E 34 Digital Electronics Written Question
+Paper
+2 hours Practical
+Assignment
+2 hours
+DT8Y 34 Quality Management: An
+Introduction
+Written Question
+Paper
+1 hour Case Study
+Assignment
+--- Case Study
+Assignment
+1 hour
+DN4H 34 Electrical Installation Skills Identification/
+Application
+Assignment
+--- Practical
+Assignment
+--- Practical
+Assignment
+---
+DN40 34 Industrial Plant Maintenance Written Question
+Paper
+1 hour 30 mins Maintenance
+Plan Assignment
+---
+DG58 34 High Level Engineering Software Log/Portfolio
+Assignments
+---
+D77H 34 Employment Experience 2 Portfolio
+Assignments
+---
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 55
+HND Electrical Engineering Optional Units (cont)
+Product
+Code Product title Assessment 1 Assessment 2 Assessment 3
+Type Time Type Time Type Time
+DN4D 35 Control Systems Behaviour Written Question
+Paper
+1 hour Simulated
+Control
+Assignment
+6 hours
+DG4P 35 Mathematics for Engineering 3 Written Question
+Paper
+2 hours 30 mins
+DG50 35 Power Supply Circuits Written Question
+Paper
+1 hour 30 mins Practical
+Assignment
+---
+DN43 35 Switchgear and Protection of High
+Voltage Systems
+Written Question
+Paper
+2 hours Assignment
+Report
+---
+DN4C 35 Applications of Power Electronics
+in Electrical Motor Drive Systems
+Written Question
+Paper
+1 hour 30 mins Assignment
+Report
+---
+DN45 35 Three Phase Induction Motors Written Question
+Paper
+2 hours Assignment
+Report
+---
+DN44 35 Synchronous Machines Written Question
+Paper
+2 hours
+DN4M 35 Electrical Standby Systems Written Question
+Paper
+2 hours
+DN4G 35 Electrical Installation Design:
+Computer Aided
+Design Assignment ---
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 56
+Appendix 3: Credit Transfer Document
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 57
+HN Unit Credit Transfer Grid
+HN Unit: Analogue Electronics: An Introduction
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN46 33
+Analogue
+Electronics: An
+Introduction
+1 Explain the
+characteristics and
+operation of a range of
+analogue electronic
+devices
+D4FF 04
+Analogue
+Electronic
+Devices
+1 Analyse the operating
+characteristics and
+applications of
+semiconductor diodes
+Outcomes 1,2 and 3 if the OLD
+Unit consider the properties and
+operation of a range of analogue
+devices. i.e Diodes (1) Bipolar
+transistors (2) and FETs (3).
+33%
+credit transfer
+from OLD to NEW
+Unit
+2 Describe the applications
+of a range of analogue
+electronic devices
+2 Analyse the properties
+and operation of npn and
+pnp bipolar transistors
+Outcome 1 of the OLD Unit also
+considers applications of
+DIODES but NO applications
+are provided for Bipolar
+Transistors and FETs.
+3 Demonstrate the
+applications of a range of
+analogue electronic
+devices
+3 Analyse the properties
+and operation of field
+effect transistors
+The OLD Unit does NOT
+require any practical work to be
+carried out.
+Credit Transfer Recommendations
+A candidate in possession of the OLD Unit, Analogue Electronic Devices, should be awarded 33% (Outcome 1) credit transfer to the NEW Unit, Analogue
+Electronics: An Introduction. This relates the Outcomes of the OLD Unit to Outcome 1 of the NEW Unit dealing with the operation and characteristics of
+diodes, bipolar transistors and FETs.
+Outcomes 2 (describe applications) and 3 (demonstrate applications) of the NEW Unit are not covered in the OLD Unit and must therefore be taught and
+assessed.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 58
+HN Unit Credit Transfer Grid
+HN Unit: Application of Electrical and Electronic Instruments
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN48 33
+Application of
+Electrical and
+Electronic
+Instruments
+1 Function and effects
+of instruments on
+their circuits
+D4H1 04
+Electronic Test
+Instruments
+1 Use analogue and
+digital multimeters
+on electronic circuits
+Outcome 2 of the new Unit is
+similar to Outcome 1 of the old
+Unit however the new Unit
+relates to ELECTRICAL values
+rather than Electronic quantities.
+Outcome 3 of the new Unit
+considers both analogue and
+digital oscilloscopes on
+ELECTRICAL circuits whereas
+Outcome 2 of the old Unit deals
+only with CROs on Electronic
+circuits.
+There are NO further areas of
+overlap between the two Units.
+No credit
+transfer.
+Candidates are
+recommended to
+undertake the
+new Unit.
+2 Use of analogue and
+digital multimeters
+on electrical circuits
+2 Use of the CRO in
+electronic circuits
+3 Use of oscilloscopes
+on electrical circuits
+3 Funct. Gens. and
+freq. counters in
+electronic circuits
+4 Use electrical
+Installation test
+instruments
+4 Digital test
+instruments in
+logic circuits
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 59
+HN Unit Credit Transfer Grid
+HN Unit: Control Systems Behaviour
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4D 35
+Control
+Systems
+Behaviour
+1 Demonstrate the
+modelling of closed-loop
+systems
+A4RP 04
+Control System
+Theory
+1 Demonstrate the
+modelling of closed-loop
+systems
+All Outcomes of the new Unit are
+similar to the old Unit.
+100%
+credit
+transfer from
+OLD to NEW
+Unit.
+2 Predict the transient and
+steady-state behaviour of
+closed-loop systems
+2 Predict the transient and
+steady-state behaviour of
+closed-loop systems
+3 Apply frequency response
+methods to the analysis of
+control systems
+3 Apply frequency
+response methods to the
+analysis of control
+systems
+4 Apply three term
+controllers to closed-loop
+control systems
+4 Apply three term
+controllers to closed-
+loop control systems
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 60
+HN Unit Credit Transfer Grid
+HN Unit: Digital Electronics
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4E 34
+Digital
+Electronics
+1 Produce truth tables and
+Boolean expressions for
+logic gates
+D4FR 04
+Combinational
+Logic
+1 Describe the
+characteristics of comb.
+digital logic functions
+The NEW Unit is based on
+two OLD Units namely
+‘Combinational Logic’ and
+‘Sequential Logic.’
+Outcome 2 of the NEW Unit is
+fully covered by criteria from
+Outcomes
+1 and 3 of the OLD
+‘Combinational Logic’ Unit.
+Criteria from Outcome 4
+of the OLD ‘Combinational
+Logic’ Unit relate to Outcome
+4 of the NEW Unit however
+this is not considered to be
+sufficient to give credit transfer
+for this Outcome.
+See Notes on
+following page.
+2 Design Combinational
+Logic circuits using
+minimisation techniques
+2 Explain features of logic
+families
+3 Design and simulate a
+comb. logic circuit using
+Karnaugh maps
+4 Build and test a
+combinational logic
+circuit
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 61
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4E 34
+Digital
+Electronics
+(cont’d)
+3 Describe the operation of
+sequential logic circuits
+D4L7 04
+Sequential
+Logic
+1 Explain the
+principles of
+operation of
+sequential circuits
+Outcome 3 of the NEW Unit is
+fully covered by criteria from
+Outcomes 1, 2 and 3 of the
+OLD ‘Sequential Logic’ Unit.
+See Notes Below
+2 Analyse simple
+sequential logic
+devices
+3 Design and
+implement
+synchronous
+sequential circuits
+using bistables
+4 Construct logic circuits 4 Design and
+implement
+synchronous
+sequential circuits
+using MSI chips
+Credit Transfer Recommendations
+A candidate in possession of BOTH OLD Units ’Combinational Logic’ and ‘Sequential Logic’ should be awarded 50% Credit Transfer to the NEW Unit
+‘Digital Electronics. This credit transfer relates to Outcomes 2 and 3 of the NEW Unit. Outcomes 1 (Truth Tables and Boolean Expressions) and 4 (Construct
+Logic Circuits) of the NEW Unit will still require to be taught and assessed.
+A candidate in possession of the OLD Unit ’Combinational Logic’’ should be awarded 25 % Credit Transfer to the NEW Unit ‘Digital Electronics. This
+credit transfer relates to Outcome 2 of the NEW Unit. Outcomes 1 (Truth Tables and Boolean Expressions), 3 (Operation of Sequential Circuits) and 4
+(Construct Logic Circuits) of the NEW Unit will still require to be taught and assessed.
+A candidate in possession of the OLD Unit ‘Sequential Logic’ should be awarded 25% Credit Transfer to the NEW Unit ‘Digital Electronics. This credit
+transfer relates to Outcomes 3 of the NEW Unit. Outcomes 1 (Truth Tables and Boolean Expressions), 2 (Design Minimised Combinational Logic Circuits)
+and 4 (Construct Logic Circuits) of the NEW Unit will still require to be taught and assessed.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 62
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4F 35
+Electrical
+Installation
+Design
+1 Analyse the overcurrent
+protection arrangements
+of circuits in an electrical
+installation
+D4GW 04
+Electrical
+Installation
+Design
+1 Make an assessment of
+general characteristics
+for electrical installations
+in
+commercial and
+industrial premises in
+accordance with current
+standards
+100%
+credit transfer
+from OLD to NEW
+Unit.
+2 Analyse the earthing
+requirements of electrical
+installations in
+compliance with BS 7671
+2 Carry out design
+calculations for electrical
+installations in
+accordance with current
+standards
+3 Analyse cable sizing for
+given circuit conditions in
+an electrical installation
+in compliance with BS
+7671
+3 Plan and design an
+electrical installation for
+industrial premises in
+accordance with current
+standards
+4 Execute a design exercise
+for an electrical
+installation in compliance
+with BS 7671
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 63
+HN Unit Credit Transfer Grid
+HN Unit: Electrical Installation Design: Computer Aided
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4G 35
+Electrical
+Installation
+Design:
+Computer
+Aided
+1 Develop electrical
+schematic diagrams
+D4GV 04
+Electrical
+Installation
+Design:
+Computer
+Aided
+1 Develop electrical
+schematic diagrams
+100%
+credit transfer
+from OLD to NEW
+Unit.
+2 Perform electrical
+installation design
+calculations using
+computer software
+2 Perform electrical
+installation design
+calculations using
+computer software
+3 Produce electrical
+installation design reports
+3 Produce electrical
+installation design
+reports
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 64
+HN Unit Credit Transfer Grid
+HN Unit: Electrical Installation Skills
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4H 34
+Electrical
+Installation
+Skills
+1 Identifies domestic and
+industrial components
+and their application
+D4GR 04
+Electrical
+Installation and
+Commissioning
+Skills
+1 Recognises components
+used in electrical
+installations
+The only real difference
+between the two unit is the
+introduction of the application
+of the components in Outcome
+1.
+100%
+credit transfer
+2 Install and Test Domestic
+Electrical Installation
+Circuits
+2 Interpret different types
+of electrical wiring
+arrangements
+3 Install and Test an
+Industrial Electrical
+Installation Circuit
+3 Installs an electrical
+installation
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 65
+HN Unit Credit Transfer Grid
+HN Unit: Electrical Safety
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4L 34
+Electrical
+Safety
+1 Explain features of an
+operational plan for safe
+working
+D4GM 04
+Electrical Safety
+and Work
+Permits
+1 Create an operational
+plan for safe working
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcomes 2 and 3 of the new Unit
+are identical to those of the old Unit.
+Outcome 4 of the new Unit is very
+similar to Outcome 4 of the old Unit
+and full credit transfer from old to
+new is recommended.
+100%
+credit transfer
+from OLD to NEW
+Unit.
+2 Explain features of elect.
+dist and need for
+protection and isolation
+2 Explain features of elect.
+dist and need for
+protection and isolation
+3 Explain features of work
+permit system for safe
+working on isolated
+networks
+3 Explain features of work
+permit system for safe
+working on isolated
+networks
+4 Produce PTW
+documentation to current
+standards
+4 Demonstrate PTW
+procedures to current
+standards
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 66
+HN Unit Credit Transfer Grid
+HN Unit: Electricity Power Systems
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN3W 34
+Electricity
+Power
+Systems
+1 Demonstrate knowledge
+of Electricity Supply
+Systems
+D4LE 04
+Supply Systems,
+Composite
+Loads and
+Tariffs
+1 Explain supply systems. Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit.
+Full credit transfer from old to new
+is recommended.
+Outcome 2 of the new Unit is not
+covered in the old Unit.
+Outcome 3 of the new Unit is not
+covered in the old Unit.
+Outcome 4 of the new Unit is
+covered by material in Outcomes 3
+and 4 of the old Unit. Full credit
+transfer from old to new is
+recommended.
+50%
+credit transfer
+from OLD to NEW
+Unit.
+2 Explain power quality 2 Evaluate cable and
+transformer loading.
+3 Analyse power system
+faults
+3 Explain supply tariffs for
+industrial consumers.
+4 Solve power factor
+improvement problems.
+4 Evaluate power, heat and
+light costs for various
+tariffs to industrial
+premises.
+Credit Transfer Recommendations
+A candidate in possession of old Unit ‘Supply Systems, Composite Loads and Tariffs’ could be awarded 50% credit transfer to new Unit ‘Electricity Power
+Systems’. Outcomes 2 and 3 of the new Unit would be required to be taught and assessed.
+Note: Outcome 3 of this new Unit is covered by material in Outcome 3 of an additional old Unit ‘Protection and Metering’. A candidate in possession of this
+additional old Unit could be awarded full credit transfer for Outcome 3.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 67
+HN Unit Credit Transfer Grid
+HN Unit: Fundamentals of Control Systems and Transducers
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN3Y 34
+Fundamentals
+of Control
+Systems and
+Transducers
+1 Explain control system
+elements and signals
+D4G5 04
+Control
+Fundamentals
+D4LM 04
+Transducers
+1 Explain system
+components and signals
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+Control Fundamentals and full credit
+transfer from old to new is
+recommended.
+Outcome 2 of the new Unit is very
+similar to the combined two
+Outcomes of the old Unit
+Transducers and full credit transfer
+from old to new is recommended.
+Outcome 3 of the new Unit is very
+similar to Outcome 2 of the old Unit
+Control Fundamentals and full credit
+transfer from old to new is
+recommended.
+See notes below
+table.
+2 Explain the operation and
+application of a range of
+transducers used in
+control systems
+2 Describe the structure
+and behaviour of control
+systems
+3 Describe the structure and
+behaviour of control
+systems
+1 Explain the basic
+principles of operation of
+transducers
+4 2 Describe the use and
+operation of transducers
+in measurement systems
+Credit Transfer Recommendations
+A candidate in possession of both old Units Control fundamentals and Transducers should be awarded 100% credit transfer to new Unit Fundamentals of
+Control Systems and Transducers.
+A candidate in possession of old Unit Control Fundamentals should be awarded 67% credit transfer to new Unit Fundamentals of Control Systems and
+Transducers. Outcome 2 of the new Unit would be required to be taught and assessed.
+A candidate in possession of old Unit Transducers should be awarded 33% credit transfer to new Unit Fundamentals of Control Systems and Transducers.
+Outcomes 1 and 3 of the new Unit would be required to be taught and assessed.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 68
+HN Unit Credit Transfer Grid
+HN Unit: Electrical Systems in Potentially Explosive and Gas Hazardous Environments
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN3T 34
+Electrical
+Systems in
+Potentially
+Explosive and
+Gas Hazardous
+Environments
+1 Properties of materials
+and hazards
+D4GS 04
+Electrical
+Installation:
+Equipment in
+Potentially
+Explosive and
+Hazardous
+Atmospheres
+1 Properties of materials
+and hazards
+There is complete matching of
+the NEW Unit with the first four
+Outcomes of the OLD Unit.
+Any candidate who has achieved
+the OLD Unit may claim full
+credit transfer to the NEW Unit. 100%
+credit transfer from
+OLD to NEW Units.
+2 Structure and codes of
+practice.
+Certification and testing.
+2 Structure and codes of
+practice.
+Certification and testing.
+3 Constructional features
+for Power equipment
+3 Constructional features
+for Power equipment
+4 Operation of Intrinsically
+safe equipment
+4 Operation of Intrinsically
+safe equipment
+5 Prepare inspection
+schedules
+6 Implement inspection
+practices
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 69
+HN Unit Credit Transfer Grid
+HN Unit: Industrial Plant Maintenance
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN40 34
+Industrial
+Plant
+Maintenance
+1 Explain standard
+techniques involved in
+plant maintenance
+D4HX 04
+Industrial Plant
+Maintenance
+1 Analyse maintenance
+planning in relation to
+industrial plant and
+services
+Outcome 1 in new Unit covers some
+material not common to old Unit;
+therefore approx 50% of Outcome 1
+would be covered in the old.
+Outcome 2 of the new Unit has no
+real equivalent in the old and would
+have to be completed in full.
+Outcome 3 in the new Unit involves
+completing a maintenance plan and
+an introduction to CMMS software;
+Approx 50% of Outcome 3 would
+be covered by Outcomes 2 and 3 in
+the old Unit.
+30%
+credit transfer from
+OLD to NEW Units.
+It is recommended
+that candidates
+complete the new
+Unit.
+2 Describe typical health
+and safety regulations
+pertaining to plant
+maintenance systems
+2 Analyse the organisation
+of maintenance for
+industrial plant and
+services
+3 Devise a maintenance
+strategy for a given
+industrial scenario
+3 Use planning techniques
+for the control and
+programming of
+maintenance work
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 70
+HN Unit Credit Transfer Grid
+HN Unit: Inspection and Testing of Low Voltage Electrical Installations
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN41 34
+Inspection and
+Testing of Low
+Voltage
+Electrical
+Installations
+1 Explain the general
+requirements for the
+inspection and testing of
+an electrical installation
+during its normal life-
+cycle
+D4J2 04
+Inspection and
+Testing of Low
+Voltage
+Electrical
+Installations
+1 Explain the general
+requirements for the
+inspection and testing of
+an electrical installation
+during its normal life-
+cycle
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 2 of the new Unit is very
+similar to Outcome 2 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 3 of the new Unit is very
+similar to Outcome 3 of the old and
+full credit transfer from old to new is
+recommended.
+Outcome 4 of the new Unit is very
+similar to Outcome 4 of the old Unit
+and full credit transfer from old to
+new is recommended.
+A candidate in
+possession of the old
+Unit Inspection and
+Testing of Low
+Voltage Electrical
+Installations should
+be awarded 100%
+credit transfer to the
+new Unit Inspection
+and Testing of Low
+Voltage Electrical
+Installations
+2 Explain the recommended
+tests to verify the
+integrity of an electrical
+installation
+2 Explain the
+recommended tests to
+verify the integrity of an
+electrical installation
+3 Explain the requirements
+and precautions for
+testing electrical
+installations
+3 Explain the requirements
+and precautions for
+testing electrical
+installations
+4 Carry out appropriate
+testing procedures which
+conform to British
+Standard requirements
+4 Carry out appropriate
+testing procedures which
+conform to British
+Standard requirements
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 71
+HN Unit Credit Transfer Grid
+HN Unit: Power Electronics
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN42 34
+Power
+Electronics
+1 Analyse the construction
+characteristics and
+applications of power
+electronic devices
+D4JA 04
+Introduction to
+Power
+Electronics
+1 Explain the operation of
+thyristors
+Outcome 1 and Outcome 2 in the old
+Unit partially covers Outcome 1 in
+the new Unit (areas covered:
+thyristor, gate turn-off thyristor,
+triacs and power MOSFET).
+Outcome 3 in the old Unit partially
+covers Outcome 2 in the new Unit.
+Outcome 3 in the new Unit is
+partially covered in Outcome 1 of
+the old Unit.
+50%
+credit transfer from
+OLD to NEW Units.
+This recommended
+credit transfer is at
+the discretion of the
+centre.
+2 Outline arrangements for
+the protection of and the
+dissipation of heat from
+power electronic devices
+2 Explain the operation of
+power transistors
+3 Analyse the operation and
+applications of single
+phase convertors
+3 Describe techniques for
+the safe operation of
+power electronic systems
+4 Analyse the operation and
+applications of dc to dc
+choppers
+4 Test and diagnose faults
+in a power electronic
+system
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 72
+HN Unit Credit Transfer Grid
+HN Unit: Switchgear and Protection of High Voltage Systems
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN43 35
+Switchgear and
+Protection of
+High Voltage
+Systems
+1 Explain the need for
+protection devices in high
+voltage systems D4L0 04
+Protection and
+Metering
+D4LD 04
+Sub-Station
+Layout and
+Equipment
+1
+2
+3
+Explain the operation of
+protection schemes
+Explain metering
+systems
+Explain the effects of
+faults on a three phase
+system
+Outcome 1 of the new Unit is
+covered in various Outcomes if the
+old Unit Protection and Metering.
+Full credit transfer is recommended.
+Outcome 2 of the new Unit is not
+fully covered in either of the old
+Units.
+Outcome 3 of the new Unit is
+similar to the combined Outcomes 4
+and 5 of the old Unit Sub-station
+Layout and Equipment. Full credit
+transfer is recommended.
+Outcome 4 of the new Unit is not
+fully covered in either of the old
+Units.
+See notes below
+table
+2 Explain distribution
+substation feeder
+protection schemes
+1
+2
+3
+4
+5
+Outline the function of
+sub-station equipment
+Explain sub-station
+layouts
+Draw up sub-station
+layouts from given
+specifications
+Explain the selection and
+construction of
+switchgear for
+substations with a
+voltage up to and
+including 11 kV
+Explain the operation of
+switchgear used within
+sub-stations up to and
+including 11 kV
+3 Explain construction,
+operation and application
+of switchgear
+4 Explain operation and
+application of protection
+schemes
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 73
+Credit Transfer Recommendations
+HN Unit: Switchgear and Protection of High voltage Systems
+A candidate in possession of both old Units ‘Protection and Metering’ and ‘Sub-station Layout and Equipment’ could be awarded 50% credit transfer to new
+Unit ‘Switchgear and Protection of High Voltage Systems’. Outcomes 2 and 4 of the new Unit would be required to be delivered and assessed.
+A candidate in possession of old Unit ‘Protection and Metering’ could be awarded 25% credit transfer to new Unit ‘Switchgear and Protection of High
+Voltage Systems’. Outcomes 2, 3 and 4 of the new Unit would be required to be delivered and assessed.
+A candidate in possession of old Unit ‘Sub-station Layout and Equipment’ could be awarded 25% credit transfer to new Unit ‘Switchgear and Protection of
+High Voltage Systems’. Outcomes 1, 2 and 4 of the new Unit would be required to be delivered and assessed.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 74
+HN Unit Credit Transfer Grid
+HN Unit: Synchronous Machines
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN44 35
+Synchronous
+Machines
+1 Explain the construction
+and principle of operation
+of synchronous Machines
+D4LF 04
+Synchronous
+Machines
+1 Explain the construction
+and operation of
+synchronous machines
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 2 of the new Unit is very
+similar to Outcome 2 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 3 of the new Unit is very
+similar to Outcome 3 of the old Unit
+and full credit transfer from old to
+new is recommended.
+100%
+credit transfer from
+OLD to NEW Units.
+2 Explain and evaluate the
+operating characteristics
+of a synchronous
+generator
+2 Explain the operating
+characteristics of a
+synchronous generator
+3 Explain and evaluate the
+operating characteristics
+of a synchronous motor
+3 Explain the operating
+characteristics of a
+synchronous motor
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 75
+HN Unit Credit Transfer Grid
+HN Unit: Three Phase Induction Motors
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN45 35
+Three Phase
+Induction
+Motors
+1 Analyse the performance
+characteristics of three
+phase induction motors
+D4LJ 04
+Three Phase
+Induction
+Motors
+1 Explain the essential
+characteristics of three
+phase induction motors
+100%
+credit transfer
+from OLD to NEW
+Units.
+2 Analyse three phase
+induction motor starting
+methods
+2 Describe speed control
+methods of three phase
+induction motors
+3 Analyse three phase
+induction motor braking
+methods
+3 Describe starting and
+braking methods of three
+phase induction motors
+4 Select a three phase
+squirrel cage induction
+motor and ancillary
+equipment to match a
+given industrial load
+4 Select a motor/drive
+system to match a given
+industrial load
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 76
+HN Unit Credit Transfer Grid
+HN Unit: Three Phase Systems
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN47 34
+Three Phase
+Systems
+1 Explain the production
+and characteristics of a
+three phase supply
+D4LK 04
+Three Phase
+Systems
+1 Explain the production
+of a three phase supply
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 2 of the new Unit is very
+similar to Outcome 2 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 3 of the new Unit is very
+similar to Outcome 3 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 4 of the new Unit is very
+similar to Outcome 4 of the old Unit
+and full credit transfer from old to
+new is recommended.
+100%
+credit transfer from
+OLD to NEW Units.
+2 Evaluate the response of
+balanced star and delta
+connected loads supplied
+by symmetrical three
+phase supplies
+2 Evaluate the response of
+star and delta balanced
+loads to the application
+of a symmetrical three
+phase supply
+3 Evaluate the response of
+unbalanced star and delta
+connected loads supplied
+by three and four wire
+symmetrical three phase
+supplies
+3 Evaluate the response of
+unbalanced loads to the
+application of
+symmetrical three and
+four wire three phase
+supplies
+4 Calculate power and
+describe the measurement
+of active power in three
+phase loads
+4 Describe the
+measurement of active
+power in three phase
+systems
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 77
+HN Unit Credit Transfer Grid
+HN Unit: Transformers
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN49 35
+Transformers
+1 Explain the construction
+characteristics of
+transformers
+D4KH 04
+Power
+Transformers
+1 Explain the construction
+of transformers
+Outcome 1 of the new Unit is
+similar to Outcome 1 of the old
+Unit. Full credit transfer from old to
+new is recommended.
+Outcome 2 of the new Unit is
+covered by material in Outcomes 3
+and 4 of the old Unit. Full credit
+transfer from old to new is
+recommended.
+Outcome 3 of the new Unit is
+covered (with the exception of tap
+changing) by material in Outcomes
+1, 2 and 4 of the old Unit. Full credit
+transfer from old to new is
+recommended.
+Outcome 4 of the new Unit is
+not covered in the old Unit.
+75%
+credit transfer
+from OLD to NEW
+Units.
+2 Analyse the operation of
+single-phase transformers
+on load
+2 Explain the groupings of
+three phase transformers
+3 Analyse the operation of
+three-phase transformers
+3 Evaluate the
+performance of
+transformers on load
+4 Explain transformer
+protection
+4 Evaluate the operation of
+transformers in parallel
+Credit Transfer Recommendations
+A candidate in possession of old Unit ‘Power Transformers’ could be awarded 75% credit transfer to new Unit ‘Transformers’. Outcome 4 of the new Unit
+would be required to be delivered and assessed.
+Arrangements Document: HNC Electrical Engineering (G7TA 15) and HND Electrical Engineering (G7TC 16) 78
+HN Unit Credit Transfer Grid
+HN Unit: Utilisation of Electrical Energy in Buildings
+New/revised
+Unit title
+New Revised
+Outcomes
+Old Unit
+Title
+Old Unit Outcomes Matching Comments Credit
+Transfer
+Rec/mend
+DN4A 35
+Utilisation of
+Electrical
+Energy
+Buildings
+1 Specify the requirements
+and characteristics of
+elect. space heating
+systems
+D4LS 04
+Utilisation of
+Electrical
+Energy
+1 Specify Electric Heating
+Systems
+Outcome 1 of the new Unit is very
+similar to Outcome 1 of the old Unit
+and full credit transfer from old to
+new is recommended.
+Outcome 2 of the new Unit is very
+similar to Outcome 2 of the old Unit
+and full credit transfer from old to
+new is recommended.
+There is no equivalent for the old
+Unit Outcome 3 in the New Unit.
+Outcome 4 of the new Unit is very
+similar to Outcome 4 of the old Unit
+and full credit transfer from old to
+new is recommended.
+100%
+credit transfer
+from OLD to NEW
+Units.
+2 Specify the requirements
+and characteristics of
+lighting systems
+2 Select Luminaires for
+interior industrial and
+commercial lighting
+3 Specify the requirements
+and characteristics of
+vent. & air cond. systems
+3 Explain operation and
+application of standby,
+emergency and UPS
+4 4 Explain operation of
+vent & air cond. systems
+
+On Wed, Jul 3, 2024 at 1:46 PM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+SQA Advanced Unit Specification
+General information for centres
+Unit title: High Level Engineering Software
+Unit code: HP41 47
+Unit purpose: This Unit is designed to give candidates knowledge and understanding and apply
+basic software engineering concepts to solving electrical and electronic engineering problems that
+require a software solution. The emphasis in this Unit is on writing and testing and documenting I/O
+programs using the basic structures available in most high level languages.
+This Unit provides the candidates with the opportunity to develop skills in system design (top-down
+design), detailed design (using flow charts or program design language), implementation in the design
+in a high level language and verification of the design. This Unit also allows the candidates to develop
+their communication skills by generating the documentation for the designed solution.
+On completion of the Unit the candidate should be able to:
+1 Write, test and document linear programs using I/O statements.
+2 Write, test and document I/O programs using conditional statements.
+3 Write, test and document I/O programs using iterative loop statements.
+4 Write, test and document an I/O program, incorporating subroutines.
+Credit value: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should have a basic knowledge
+of electronics, logic operations and number systems. This may be evidenced by possession of a
+Higher in Electronics or the following National Qualification Units D134 11 Combinational Logic or
+E9LG 11 Computing in Engineering 1 or D980 11 Programmable Systems.
+Core Skills: There may be opportunities to gather evidence towards Core Skills in this Unit,
+although there is no automatic certification of Core Skills or Core Skills components.
+Context for delivery: This Unit was developed for the SQA Advanced Certificate/Diploma in
+Electronics award. If the Unit is used in another Group Award(s) it is recommended that it should be
+taught and assessed within the context of the particular Group Award(s) to which it contributes. The
+platform for this Unit may be a micro-controller system or a standard personal computer with access
+to I/O ports.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 2
+Assessment: It is recommended that this Unit be assessed via a logbook or portfolio and
+programming projects or assignments that cover the knowledge and skill presented in each Outcome.
+Centres should take every reasonable effort to ensure that reports are the candidates’ own work. It
+may be possible to issue each candidate with a slightly different specification of equal complexity, or
+alternatively where there is a suspicion of copying or plagiarism, an appropriate response may be to
+interview candidates. A checklist should be used to record oral evidence of the candidates’
+understanding.
+Centres are recommended to develop appropriate checklists to support the assessment requirements
+for each of the knowledge and skills items. Centres are also recommended to produce a marking
+schedule based on the Evidence Requirements listed indicating clearly the required content of the
+report. Candidates who do not meet the standard should be obliged to correct and resubmit their work.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 3
+Unit specification: statement of standards
+Unit title: High Level Engineering Software
+Unit code: HP41 47
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and Evidence Requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+Knowledge and/or Skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+each assessment occasion.
+Outcome 1
+Write, test and document linear programs using I/O statements
+Knowledge and/or Skills
+• Software engineering process
+• Creating and editing files (word processing)
+• Constants and variables
+• Data types: integer, real, character, string, Boolean and array
+• Operators: +, -, *, and /
+• Statements: input, output
+• Documentation
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+Write, test and document ONE linear program involving:
+• input and output statements
+• different types of variables
+• arithmetic operators
+Outcome 2
+Write, test and document I/O programs using conditional statements
+Knowledge and/or Skills
+• Relational operators: ==, !=, >=, <=, <, >
+• Logical operators
+• Boolean expressions
+• Branch statements: IF…THEN, IF…THEN…ELSE, CASE…OF
+• Ports: configuring, reading and writing
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 4
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+Write, test and document ONE non-linear I/O program involving:
+• conditional statements with logic operators
+• multi-way selection statement
+Outcome 3
+Write, test and document I/O programs using iterative loop statements
+Knowledge and/or Skills
+• Flowcharts/pseudo code: FOR...DO, REPEAT…UNTIL, WHILE… loops
+• Statements: FOR...DO, REPEAT…UNTIL, WHILE…
+• Loops to manipulate data arrays:
+— output array data to a port
+— read port data into an array
+• Testing of iterative loops
+• Test plan and actual results
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+Write, test and document ONE non-linear program involving an iterative loop
+• the program must include a conditional statement inside the iterative loop OR and iterative loop
+must be a part of the conditional statement
+Outcome 4
+Write, test and document an I/O program, incorporating subroutines
+Knowledge and/or Skills
+• Procedures/functions
+• Bit-wise logical operations: AND, OR and EOR
+• Identifying port signals and their functions
+• Test plan and actual results
+• Documentation
+Evidence Requirements
+Evidence for the Knowledge and/or Skills in this Outcome will be provided on a sample basis in the
+form of a portfolio. The candidate’s response will be judged to be satisfactory where evidence
+provided is sufficient to show that the candidate is able to:
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 5
+Write, test and document a basic input/output ports program, which includes:
+• procedures/functions
+• bit-wise logical operation.
+• a conditional statement
+• an iterative loop
+the documentation to include:
+• statement of the problem
+• flowchart/algorithm
+• program coding with comments
+• testing and actual results
+• conclusion
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 6
+Administrative information
+Unit code: HP41 47
+Unit title: High Level Engineering Software
+Superclass category: CB
+Original date of publication: August 2017
+Version: 01
+History of changes:
+Version Description of change Date
+Source: SQA
+© Scottish Qualifications Authority 2004, 2009, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500
+5030 or 0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 7
+Unit specification: support notes
+Unit title: High Level Engineering Software
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop the knowledge, understanding and
+skills in the area of Software Engineering by writing and testing I/O programs. The following
+processes illustrate Software Engineering:
+• user requirements
+• problem specification
+• system design (partitioning into manageable tasks)
+• detailed design (design of individual modules)
+• implementation (coding into chosen programming language)
+• program verification (software testing)
+• program maintenance (extending the program for the future)
+With validation and documentation taking place at all the stages.
+This Unit was designed to permit the candidates to apply the software engineering techniques to
+formulate the solutions to engineering tasks involving input and output ports. Software may be
+developed for a PC or single board computer or a micro-controller in conjunction with an applications
+board. Candidates may be provided with subprograms to configure and read/write input/output ports.
+This Unit was developed as one of four SQA Advanced Certificate/Diploma in Engineering
+Programming options and is at SCQF level 7. This Unit should be completed before tackling the level
+8 Unit, High Level Language: External I/O Transfer.
+The Unit has identified the topics that are expected to be covered by lecturers. The Unit also gives
+recommendations as to how much time should be spent on each Outcome. This has been done to help
+lecturers to decide what depth of treatment should be given to the topics attached to each of the
+Outcomes. Whilst it is not mandatory for a centre to use this list of topics it is strongly recommended
+that they do so to ensure continuity of teaching and learning across the Engineering Computing Units
+and because the assessment exemplar pack for this Unit is based on the Knowledge and/or Skills and
+list of topics in each of the Outcomes.
+A list of topics is given below. Lecturers are advised to study this list in conjunction with the
+assessment exemplar pack for this Unit so they can get a clear indication of the standard of
+achievement expected of candidates taking the Unit.
+1 Write, test and document linear programs using I/O statements (10 hours)
+User Requirements and analysis
+Problem Specification
+Top-down design
+Hardware
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 8
+Inputs (ports, switches, analogue to digital converter)
+Outputs (ports, motors, LEDS, digital to analogue converters)
+Platform (personal computer, development system, micro-controller)
+Software
+System Design (partitioning into manageable tasks)
+Structure Chart
+Input, process, output
+Modular programming and step-wise refinement
+Detailed design using pseudo code or flow charts
+Linear programming using ports
+Creating and saving source file
+Compiling, and debugging source code syntax errors
+Executing the compiled code (run)
+2 Write, test and document I/O programs using conditional statements (8 hours)
+Selection
+IF condition THEN
+actions if condition holds
+IF condition THEN
+actions if condition holds
+ELSE
+actions if the condition does not hold
+END_IF
+CASE condition OF
+case 1: action(s) for case 1
+case 2: action(s) for case 2
+.
+.
+case n: action(s) for case n
+END_CASE
+Conditions based on input PORT values.
+Use of built in procedures such as delay, sound, clrscr
+Compilation to DOS platform
+3 Write, test and document I/O programs using iterative loop statements.
+(10 Hours)
+Repetition
+FOR variable {FROM start} TO finish {IN STEPS OF value}
+DO
+actions to be repeatedly performed
+END_FOR
+REPEAT
+actions to be performed
+UNTIL a condition holds
+WHILE condition to be tested DO
+actions to be performed
+END_WHILE
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 9
+Preparation of test data to determine the principal software function
+Preparation of test data to test all decision paths
+Preparation of (unusual) data to determine the robustness of the program
+Testing of program (single step, symbolic debugger and output statements)
+Recording of test results
+Analysis of the results and corrective action
+Candidates should be encouraged to fully test and document the test results of selected
+tutorial exercise of Outcome 3 in a tabular format.
+4 Write, test and document an I/O program, incorporating subroutines (12 hours)
+Programs with input/output ports
+Ports and control register addresses
+Configuring ports
+Reading input port
+Writing output port
+Masking
+Program with procedures/functions
+Global variables (no parameter passing)
+Execution of procedures/functions
+This Outcome should be delivered through the use of sample programs. The execution of
+these should be demonstrated to the candidates; in particular the input/output ports programs.
+The practical tutorials should allow students to modify existing programs rather than starting
+from scratch. The tutorial exercises should be developed in the context of the Outcome 4
+assignment.
+The need and importance of documentation
+Use of unusual/special instructions or procedures
+Changes in personnel
+Program maintenance
+Operator instructions
+Hardware requirements
+Documentation, a continuous process in the software development life-cycle
+Standard format for documentation
+Guidance on the delivery and assessment of this Unit
+This is the first engineering programming Unit on the SQA Advanced Certificate/Diploma Electronics
+and for many candidates this may be their first encounter with programming. In this respect it may be
+advisable to deliver this Unit on a free-standing basis.
+Each candidate should have access to a computer loaded with appropriate OS and High Level
+Language software. Additionally workstations should be available on which candidates are able to test
+I/O based programs.
+Delivery of all the Outcomes may be carried out using an LCD projector so that the candidates can
+view the actual code of the sample programs and see their execution with prepared test data in real
+terms.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 10
+This introductory Unit should be used to develop the candidate’s confidence in the basic
+programming concepts and as such should be taken before considering assembly language
+programming.
+It is suggested that the Unit assessment take the form of a logbook or portfolio covering the four
+Outcomes.
+For example, assuming a two-hour class per week, then over a 20-week period the assessment
+schedule may be:
+Weeks 1 to 5 Linear programming
+Outcome 1 assignments completed (2hours)
+Weeks 6 to 10 Non-linear programming for I/O ports using selection statements
+Outcome 2 assignments completed (2hours)
+Weeks 11 to 15 Non-linear I/O programming using iterative loops
+Outcome 3 assignments completed (2hours)
+Weeks 16 to 20 I/O programming using bit-wise operations
+Outcome 4 assignments completed (4hours)
+Open learning
+This Unit is more suitable for laboratory delivery however it could be delivered by distance learning
+provided the candidate has the appropriate hardware. This may require some degree of on-line
+support. However, with regard to assessment, planning would be required by the centre concerned to
+ensure the sufficiency and authenticity of candidate evidence. Arrangements would be required to be
+put in place to ensure that assessment whether done at a single or at multiple events was conducted
+under controlled, supervised conditions.
+To keep administrative arrangements to a minimum, it is recommended that a single assessment paper
+(taken by candidates at a single assessment event) be used for distance learning candidates.
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit HP41 47: High Level Engineering Software 11
+General information for candidates
+Unit title: High Level Engineering Software
+This is the first of four Engineering Programming Units in the SQA Advanced Certificate/Diploma
+Electronics. This Unit introduces you to I/O programming in the context of the Software Engineering
+Process. This process allows you to break down the overall programming task into manageable sub
+tasks.
+These smaller modules are then developed, debugged and tested using a High Level Language. The
+overall program is then constructed by integrating the modules one by one and testing as the program
+builds up. The final program is tested for functionality and each branch is exercised using appropriate
+test data.
+This Unit teaches you:
+• system design (partitioning of a software task)
+• detailed design (stepwise refinement using pseudo code or flowcharts)
+• coding in a High Level Language
+• compiling and debugging
+• preparing test data and verifying program function
+• documentation
+In addition you will learn and practise the following programming constructs:
+• linear programming
+• IF…THEN, IF…THEN…ELSE, CASE…
+• FOR…NEXT…DO
+• REPEAT…UNTIL
+• WHILE…DO
+• procedure/functions
+• logical bit-wise operations
+You will be presented with a variety of programs, but the emphasis will be on driving or controlling
+hardware interface circuitry. Hence you will also cover INPUT/OUTPUT ports, configuring them,
+writing to them and reading from them.
+The time allocated for this Unit is 40 hours. If you are new to programming then you will probably
+require to spend double this amount as the practical activities can be time consuming. It is in your
+interest not just to pass the Unit for qualification needs but to master it, as most electronics related
+jobs and higher study demand the skills and knowledge embedded in this Unit.
+Your assessment for this Unit will be assignments covering each of the four Outcomes, to be carried
+out in the context of the Software Engineering Process. Class time allocated for this will be about 14
+hours, however you will be expected to devote the same number of hours in private study for the
+assignments. The written assignments must conform to the standard set out by the lecturer. Outcome 4
+must be submitted within 14 days of completion of the Unit.
+Unit (HV2K 47): Industrial Plant Maintenance 1
+SQA Advanced Unit Specification
+General information for centres
+Unit title: Industrial Plant Maintenance
+Unit code: HV2K 47
+Unit purpose: This Unit is designed to introduce candidates to the planning and organisation of
+maintenance programmes for industrial plant. The Unit allows candidates to develop the knowledge
+and skills necessary to select an appropriate style of maintenance program suitable for a particular
+industrial setting, whilst implementing the necessary health and safety procedures.
+On completion of the Unit the candidate should be able to:
+1. Explain standard techniques involved in plant maintenance.
+2. Explain typical health and safety regulations pertaining to plant maintenance systems.
+3. Develop a maintenance strategy for a given simple industrial scenario.
+Credit points and level: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level
+7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should have a basic knowledge
+of either mechanical or electrical principles and technology. However, entry requirements are at the
+discretion of the centre.
+Core Skills: There may be opportunities to gather evidence towards the following Core Skills or
+Core Skills components in this Unit, although there is no automatic certification of Core Skills or
+Core Skills components:
+• Written Communication (reading) at SCQF level 6
+• Written Communication (writing) at SCQF level 6
+• Using Graphical Information at SCQF level 5
+• Using Information Technology at SCQF level 5
+• Problem Solving at SCQF level 6
+• Working with Others at SCQF level 4
+Context for delivery: This Unit was developed for the SQA Advanced Diploma in Electrical
+Engineering award. If the Unit is to be used in another group award it is recommended that it should
+be taught and assessed within the subject area of the group award to which it contributes.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 2
+Assessment: The assessment for this Unit will consist of two parts. An assessment paper is used
+to cover Outcomes 1 and 2 and an assignment/report to assess Outcome 3. Candidates will sit the
+assessment paper at one single assessment event lasting one and a half hours. The assessment paper
+should be composed of a suitable balance of short answer, restricted response and structured
+questions. This assessment should be conducted under controlled, supervised conditions. For
+Outcome 3, candidates will devise a maintenance plan for a given industrial scenario, and write a
+short report justifying the plan. The assessment paper should be carried out after the delivery of
+Outcome 2 and the assignment should be submitted after the completion of the Unit.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Industrial Plant Maintenance
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and evidence requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+knowledge and/or skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+Outcome 1
+Explain standard techniques involved in plant maintenance.
+Knowledge and/or skills
+• Reactive Maintenance (RM)
+• Planned Preventative Maintenance (PPM)
+• Total Productive Maintenance (TPM)
+• Reliability Centred Maintenance (RCM)
+• Condition Monitoring (CM)
+Outcome 2
+Explain typical health and safety regulations pertaining to plant maintenance systems.
+Knowledge and/or skills
+• Basic understanding of the typical health and safety issues arising as a result of plant
+maintenance procedures.
+• Awareness of the need to comply with all statutory health and safety requirements.
+• Basic understanding of Risk Assessment
+• Basic understanding of COSHH, noise related health and safety regulations, PPE
+• Understanding of Permit to Work procedures.
+Evidence Requirements
+Evidence for the knowledge and/or skills in Outcomes 1 and 2 will be provided on a sample basis.
+The evidence may be presented in response to specific questions. Each candidate will need to
+demonstrate that she/he can answer correctly, questions based on a sample of the items shown under
+the knowledge and skills shown above. In any assessment of this Outcome three out of five
+knowledge and/or skills items should be sampled for Outcome 1 and three out of five knowledge
+and/or skills items should be sampled for Outcome 2.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 4
+In order to ensure that candidates will not be able to foresee what items they will be questioned on, a
+different sample of three out of five knowledge and/or skills items from Outcome 1 and three out of
+five knowledge and/or skills items from Outcome 2 are required each time the Unit is assessed.
+Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidate's response can be judged to be satisfactory where evidence
+provided is sufficient to meet the requirements for each item by showing that the candidate is able to:
+Outcome 1
+• Describe Reactive Maintenance, discuss the advantages and disadvantages of RM.
+• Explain Planned Preventative Maintenance, giving examples of industrial scenarios where PPM
+is valid.
+• Explain Total Productive Maintenance (TPM)
+• Explain the basic principles of Reliability Centred Maintenance (RCM).
+• Describe the application of Condition Monitoring in industrial plant maintenance.
+Outcome 2
+• Explain the typical health and safety issues arising as a result of plant maintenance procedures.
+• Explain the duties of employees and employers with regard to complying with relevant health and
+safety legislation.
+• Explain the basic procedure involved in Risk Assessment
+• Explain specific legislation relating to health and safety, such as, COSHH, noise, PPE.
+• Explain typical permit to work systems.
+Evidence should be generated through assessment undertaken in controlled, supervised conditions.
+Assessment should be conducted under closed book conditions and as such candidates should not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be permitted to
+use scientific calculators during the assessment.
+Assessment guidelines
+The assessment for Outcomes 1 and 2 should be combined together to form one assessment paper.
+This single assessment paper should be taken at a single assessment event lasting one and a half hours
+and carried out under supervised, controlled conditions. Such a paper should be composed of an
+appropriate balance of short answer, restricted response and structured questions.
+Outcome 3
+Develop a maintenance strategy for a given simple industrial scenario.
+Knowledge and/or skills
+• Requirements of a Maintenance Policy.
+• Role of Plant records and history.
+• Use of bar charts for planning maintenance work.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 5
+• Basic understanding of how CMMS (Computerised Maintenance Management system) software
+can contribute to setting up and running of plant maintenance systems.
+• The various factors affecting cost effectiveness.
+• Appreciate importance of skills and qualifications of workforce.
+• Understand the need to prioritise tasks based on critical path analysis.
+Evidence Requirements
+All knowledge and /or skills items in Outcome 3 should be assessed. Evidence for Outcome 3 will be
+provided by means of an assignment. The candidate will compile a maintenance program suitable for
+a given simple industrial scenario. This should be an electrical/mechanical plant setting appropriate
+to the candidate’s own industrial experience or area of study. The candidate’s response will include
+the necessary documentation such as, maintenance schedules, standard operating procedures and
+relevant health and safety considerations. CMMS software, if available, can be employed in
+completing the assignment. A report of not less than 800 words plus diagrams, appendices etc.
+justifying the chosen strategy should be submitted as part of the assignment. The report should also
+include an explanation of how CMMS software, where used, is employed in the maintenance
+program, or alternatively where the software is not used, how it would be employed if available. The
+industrial scenario will be of sufficient complexity, that the response, along with the report, will
+cover the knowledge and skills items listed for Outcome 3.
+Outcome 3
+• Demonstrate awareness of typical organisational requirements of a Maintenance Policy.
+• Demonstrate awareness of the role of plant records and history.
+• Demonstrate the use of bar charts/graphs etc in the planning of maintenance work.
+• Explain/demonstrate how CMMS software can contribute to the running of plant maintenance
+systems.
+• Explain the various factors affecting cost effectiveness of a maintenance policy.
+• Explain the importance of skills and qualifications of the workforce.
+• Explain the necessity to prioritise tasks based on critical path analysis.
+Assessment Guidelines
+Evidence for this Outcome should be gathered by means of the candidate preparing a maintenance
+program and a report, related to a given industrial scenario. This should cover all the knowledge and
+skills items for this Outcome. Centres may wish to issue candidates with guidance notes relating to
+both the assignment itself and the report.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 6
+Administrative Information
+Unit code: HV2K 47
+Unit title: Industrial Plant Maintenance
+Superclass category: VG
+Date of publication: November 2017
+Version: 01
+Source: SQA
+ Copyright SQA 2005, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500
+5030 or 0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 7
+SQA Advanced Unit Specification: support notes
+Unit title: Industrial Plant Maintenance
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop their knowledge and competence
+in the following areas:
+1. Standard techniques involved in plant maintenance.
+2. Typical health and safety regulations pertaining to plant maintenance systems.
+3. Organisational requirements of successful plant maintenance systems and the role of CMMS
+software.
+Guidance on the delivery and assessment of this Unit
+Delivery of this Unit should relate to Current Codes of Practice and legislation eg
+• Health and Safety at Work Act, 1974 (HSW Act)
+• Electricity at Work Regulations 1989
+• The Management of Health and Safety at Work Regulations 1999
+• IEE Wiring Regulations (current edition) BS7671
+1. Explain standard techniques involved in plant maintenance. (14 hours)
+• RM: advantages/disadvantages, where applicable.
+• PPM: highlight where PPM is applicable. Discuss advantages such as: more even spread of
+maintenance work, better budgetary control, fewer emergency breakdowns, extension of working
+life of plant, scheduling of maintenance at organisationally convenient or economically beneficial
+time.
+• TPM: advantages. Highlight the importance of staff training/cooperation. Discuss overall
+equipment effectiveness (OEE).
+• RCM: explain how this stresses the maintenance of items critical to the continued reliable
+operation of plant. Attempts to maximise reliability. Seeks to eliminate unnecessary preventative
+maintenance.
+• Condition Monitoring: explain CM, Monitoring vibration, temperature, thermal imaging, allows
+recording of trends and comparisons with initial base line measurements. Allows remedial
+measures to be taken before breakdown. Give examples such as monitoring of high voltage
+cables, steam turbines and generators. Explain that conditions are monitored according to the
+most likely failure modes expected. CM Software allows viewing of history in graphs, charts etc
+and publishing of reports.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 8
+2. Explain typical health and safety regulations pertaining to plant maintenance systems. (11
+hours)
+• Highlight the necessity of being informed of, and complying with, all statutory health and safety
+requirements.
+• Responsibilities for personnel under Health and Safety at Work Act 1974, Management of Health
+and Safety at Work Regulations 1999. Explain Hazard and risk and give typical examples.
+Explain the rudiments of sensible risk assessment procedure.
+• Explain provisions of COSHH regulations. The need to protect personnel from potentially
+dangerous substances either through removal of substance or provision of appropriate PPE.
+Explain noise hazards. Noise related health and safety regulations.
+• Explain the purpose of the permit to work procedure and the need to identify all potentially
+hazardous work activities to be carried out and the measures required to minimise any risks.
+Highlight the need for an operational plan involving safe isolation and locking off.
+• Give examples of typical health and safety issues, which arise as a result of plant maintenance
+procedures pertinent to the industry, within which the candidate is involved.
+3. Develop a maintenance strategy for a given simple industrial scenario. (14 hours)
+This Outcome should provide the candidate with an opportunity to apply the principles of plant
+maintenance learned, to a given industrial scenario.
+• Organisational requirements of a maintenance Policy, administrative structures, analysis of
+particular industrial scenarios so that appropriate maintenance strategies, including safe systems
+of work, are employed.
+• Recording of information and updating plant records, spares inventories and standard operating
+procedures for plant.
+• Value of using charts and graphs in analysing the history of particular systems and planning of
+plant maintenance.
+• Importance of employing cost effective strategies for maintenance.
+• Importance of ensuring skills and qualifications of workforce are adequate, diagnostic skills,
+fitting skills, electrical engineers, plant servicing skills, etc. Vocational qualifications and
+experience.
+• Value of critical path network analysis techniques.
+• Contribution of CMMS software in the management of plant maintenance systems.
+Assessment :
+The assessment for this Unit will be composed of two parts. A single assessment paper lasting one
+and a half hours carried out under supervised controlled conditions and an assignment. It is
+recommended that the assignment is presented to the candidates toward the conclusion of Outcome 2
+and should be completed before the end of the delivery of the Unit.
+Open learning
+This Unit could be delivered on an open learning basis. The centre would have to ensure that the
+written assessment was carried out under controlled and supervised conditions.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 9
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to learning
+or assessment. The individual needs of learners should be taken into account when planning learning
+experiences, selecting assessment methods or considering alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit (HV2K 47): Industrial Plant Maintenance 10
+General information for candidates
+Unit title: Industrial Plant Maintenance
+This Unit has been designed to allow you to develop the knowledge and skills involved in setting up a
+plant maintenance policy. The initial part of the course involves an introduction to current standard
+techniques employed in plant maintenance. In the maintenance of industrial plant there are often
+many issues relating to health and safety, therefore Outcome 2 focuses on the typical health and
+safety regulations pertaining to plant maintenance systems. Permit to work, risk assessment and
+responsibilities of employers and employees under the health and safety at work act are all examined.
+During the delivery of the concluding Outcome you will have the opportunity to develop an
+understanding of computerised maintenance management system software. Also you will able to
+apply what you are learning, by way of an assignment and report. In this, you will develop a program
+of maintenance for an industrial scenario and a report justifying your program. The particular
+industrial setting will be drawn as closely as possible from your own industrial experience or area of
+study.
+Formal assessment will be composed of two parts:
+1. A written test lasting one and a half hours based on what you have learned in the first two
+Outcomes in the Unit.
+2. A combined assignment and report.
+SQA Advanced Unit Specification
+General information
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Unit code: HP6L 47
+Superclass: CY
+Publication date: August 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This unit is designed to enable students to use Information Technology (IT) systems and
+applications independently to support a range of information processing activities. The unit is
+designed to develop a broad knowledge of the theoretical concepts, principles, boundaries
+and scope of IT applications. These activities will be centred on using software applications
+packages to meet complex information requirements while paying attention to security and
+the needs of other users.
+Outcomes
+On successful completion of the unit the learner will be able to:
+1 Operate a range of IT equipment independently, giving attention to security and to other
+users.
+2 Use a range of software application packages to meet complex information
+requirements.
+Credit points and level
+1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7)
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 2
+Recommended entry to the Unit
+Access to this unit will be at the discretion of the Centre, however it is recommended that
+learners should have sound keyboard and mouse skills and a thorough familiarity with
+computers and software packages. These skills may be evidenced by the achievement of
+appropriate National Units or Courses but they may also have been acquired in an informal
+or work environment.
+For Core Skills it would be beneficial if learners had some IT skills. This could be
+demonstrated by the achievement of the Core Skill Using Information Technology at SCQF
+level 5 or equivalent.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes for this
+unit specification.
+This unit gives automatic certification of the core skill: Using Information Technology at
+SCQF level 6.
+Context for delivery
+This unit is included in the framework of a number of SQA Advanced Group Awards. It is
+recommended that it should be taught and assessed within the particular Group Award to
+which it contributes.
+The Assessment Support Pack (ASP) for this unit provides assessment and marking
+guidelines that exemplify the national standard for achievement. It is a valid, reliable and
+practicable assessment. Centres wishing to develop their own assessments should refer to
+the ASP to ensure a comparable standard.
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to
+learning or assessment. The individual needs of learners should be taken into account when
+planning learning experiences, selecting assessment methods or considering alternative
+evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 3
+Unit specification: statement of standards
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Acceptable performance in this unit will be the satisfactory achievement of the standards set
+out in this part of the unit specification. All sections of the statement of standards are
+mandatory and cannot be altered without reference to SQA.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed
+in the Knowledge and/or Skills section must be taught and available for assessment.
+Learners should not know in advance the items on which they will be assessed and different
+items should be sampled on each assessment occasion.
+Outcome 1
+Operate a range of IT equipment independently, giving attention to security and to other
+users.
+Knowledge and/or Skills
+• The different components of a computer system and how to use them, (ie mouse or
+other pointing device, keyboard, monitor, disk drive, processor, printer, scanner, etc)
+• The functions of tools such as file managers, print managers, control panels and how to
+use these
+• The ways in which data can be kept secure, (eg encryption, passwords, back ups, virus
+protection) and how security procedures can be used to meet the needs of all users of a
+computer system
+• The causes of some common software and hardware problems, (eg cable connections,
+device settings, software option settings) and what action to take to resolve these
+Outcome 2
+Use a range of software application packages to meet complex information requirements.
+Knowledge and/or Skills
+• Methods for assessing information requirements and designing solutions using IT
+• How to use straightforward and complex features of a range of software application
+packages (these can be word processing, spreadsheet, database, simulation, graphics,
+communications, (ie internet, intranet, email, etc), audio/music, animation, video,
+multimedia, desktop publishing, data logging and retrieval, control or other packages)
+• How to integrate data types within a software application package
+• How to integrate information from more than one software application package
+• The content and search facilities of a range of computer data sources
+• Factors to consider when working out a search strategy when using a computer data
+source
+• How to extract information from a local and a remote computer data source
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 4
+Evidence Requirements for this Unit
+Learners will need to provide evidence to demonstrate their Knowledge and/or Skills across
+all Outcomes by showing that they can:
+Outcome 1
+• Use five hardware devices, (eg mouse, keyboard, printer, monitor, disk drive, scanner)
+• Start up and close down the operating system
+• Open and close software packages
+• Locate data and applications
+• Use a filing system, (eg to organise folders and sub-directories applying naming
+conventions)
+• Use two tools within the operating system, (eg file managers, print managers and control
+panels)
+• Implement security measures responsibly and with consideration for the needs of other
+users, (eg passwords, backups, virus protection)
+• Resolve one hardware and one software problem, (eg printer off-line, sound not working,
+too many open programs, system freeze, software option settings, etc)
+Outcome 2
+• Identify the information requirements of users and how these requirements can be met
+• Select software applications packages which are appropriate to meet the identified
+information requirements
+• Use four or more software applications packages to process the identified information
+requirements and which output two or more different data types, (eg text, number,
+graphics, audio, video) in the form of documents, designs, compositions, models or
+presentations
+• Carry out three searches to extract and present relevant information from suitable local
+and remote computer data sources. A minimum of two searches must be from remote
+computer data sources. To do this the learner will be required to:
+— Plan how to find the information and make decisions about searches taking account
+of efficiency in terms of time, cost, effective filtering and Outcome
+— Extract information, (eg text, number, graphics, audio, video) which matches several
+search criteria, (eg keywords, fields, file names, screen grabber, digital camera or
+scanner). Searches must be different from each other, eg searching two different
+sources, or searching the same source for two different forms of information
+• Integrate two or more different data types, (eg text, number, graphics, audio, video) from
+more than two software applications packages into a single product. The product may be
+in the form of a document, design, composition, model or presentation
+• Format the product so that the final output meets the identified information requirements
+and is clear and helpful to users
+The evidence for this Outcome should be in the form of a document, design, composition,
+model or presentation covering all the Evidence Requirements shown above.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 5
+Unit support notes
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+Unit Support Notes are offered as guidance and are not mandatory.
+While the exact time allocated to this unit is at the discretion of the centre, the notional
+design length is 40 hours.
+Guidance on the content and context for this Unit
+This unit provides a solid basis on which further IT skills can be built. It will enable learners to
+use IT systems with minimal support, paying due regard to security. Electronic data sources
+are to be used, learners are expected to achieve effective results when using IT software in
+an unfamiliar context by using on-line help facilities and suppliers’ handbooks. Basic
+configuration and fault-finding skills are to be taught. Files should be provided for learners as
+appropriate to negate the need for them to enter large amounts of text or data.
+This unit is very much aimed at enabling learners to obtain and use data and software
+applications packages associated with the internet and email, ie electronic communications.
+Therefore, there should be considerable emphasis placed upon providing access to
+appropriate data and software associated with electronic communications. Candidates
+should then be encouraged to learn for themselves the benefits of being able to integrate
+information from diverse sources and produce documents, designs, compositions, models or
+presentations of a complex nature.
+The unit can be approached from the standpoint of using information technology to support a
+range of information processing activities. The learner should be able to plan for, develop
+and produce the relevant information requirements of users.
+Candidates should achieve the level of competence required of a regular user of IT
+applications software in a commercial or professional situation. Candidates will require
+individual access to a personal computer/workstation. It is suggested that, wherever
+possible, commercially available current versions of industry standard software be used. The
+component parts of an integrated software package along with its operating environment can
+be used to achieve all Outcomes. This should not be prohibitive in the case of the centres,
+but may be an issue if being undertaken in the workplace.
+It is generally assumed that the environment for this unit will be, for example, Microsoft
+Windows and Office 97/2000 or Lotus, or other vendor equivalents, however, this is not
+specified and the Outcome requirements are deliberately generic in nature.
+Outcome 1 looks at the components of hardware, the functions of operating system tools and
+how these are used. Data security measures, resolving common hardware and software
+problems are also pre-eminent. All of the elements should be taught in the context of giving
+attention to the needs of other users of a computer system.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 6
+Outcome 2 looks at using a range of software packages to meet complex information
+requirements. Centres can choose four or more packages (a minimum of four different
+packages must be used) from the whole range of applications packages available. The
+software application packages chosen must be relevant to the vocational area of the Group
+Award undertaken by the learner. The emphasis in this Outcome should be on producing
+complex information in a context that is unfamiliar to the learner. Candidates should be able
+to integrate data types, (eg text, number, graphics, audio, video) into a single product and to
+format the product so that the final output is clear and helpful to users. Candidates should
+show that they can plan for the information requirements; select and use software packages
+appropriate to information requirements; select suitable computer data sources for
+information and extract suitable information from these computer data sources to meet
+relevant requirements.
+An indication of the range of activities that learners are expected to be able to carry out when
+using a variety of software applications packages during the course of this unit is given below
+for some of the ‘standard’ applications that centres may use. This should not be taken to be a
+‘prescriptive’, or indeed, an exhaustive list of requirements but should help to serve as a
+guide to the level of skills required.
+1 Selection and use of appropriate software applications packages and electronic data
+sources from both local and remote computers.
+2 Selection and use of document layout, page layout and format facilities, eg: views, use
+of toolbars, rulers, guides, zoom, fonts, bullets and numbering, borders and shading,
+tabs, case, dropped capitals, columns, themes, backgrounds, styles, frames, colours
+and lines, alignment, templates, auto-format.
+3 Use of on-line help and tutorial support facilities.
+4 File Handling, eg properties, naming conventions, saving, saving for use with web and
+other applications, retrieving, retrieving from web and other applications, copying,
+renaming, importing, exporting, emailing, attachments, routing, and faxing.
+5 Editing, eg undo, repeat, cut, copy, paste, paste special, select all, fill, clear, find,
+replace, go to, rename, links, and objects.
+6 Selection and use of insertions, eg headers and footers, page breaks, comments,
+footnotes, captions, numbering, symbols, date and time, index and tables, bookmarks,
+pictures, objects, hyperlinks, graphics, movies, sounds, tables, queries, forms and
+reports, functions, charts, comments, fields, records and files.
+7 Use of ‘tools’, eg spelling and grammar checker; thesaurus; search and replace; auto-
+correction; sort; merge; customisation; options; security; protection; macros (simple); on-
+line facilities; send and receive; address books, synchronisation, message rules,
+messenger services, newsgroups and accounts.
+8 Printing, eg printer selection; printer properties; printer set up, eg paper size, paper type,
+scaling, orientation, etc; print preview; use of print preview facilities, eg zoom, multiple
+pages, ruler, scaling, etc.
+9 Searching should involve several criteria, eg key terms or fields, and requires decisions
+to be made about an effective strategy for their application, eg with due regard for time,
+cost, effective filtering and result.
+10 Extracting and presenting relevant information - relevant data may be records in a
+database, a photographic image, a video or audio clip. Selection/importation may involve
+tools such as screen grabbers, digital or video cameras and scanners.
+This unit is designed to enable students to use IT systems and applications independently to
+support a range of information processing activities. The unit is designed to develop a
+knowledge of the theoretical concepts, principles, boundaries and scope of IT applications.
+These activities will be centred on using several software application packages to meet
+complex information requirements.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 7
+Instrument of assessment
+There are two Outcomes, both largely of a practical nature.
+Outcome 1: Prove Knowledge and/or Skills of: the different components of a computer
+system, the function of tools such as file manager, print manager and control panel, the ways
+in which data can be kept secure and the causes of common software and hardware
+problems and how to resolve them.
+Outcome 2: Uses a range of software application packages, (at least four) to meet complex
+information requirements. The learners will be given a comprehensive checklist of all
+evidence required to successfully complete this Outcome. They will then have to create a
+technical manual and player guide indicating on the checklist exactly where each
+requirement has been met. Given the complexity of the technical manuals and user guides
+shipped with today’s games, this should make for a demanding, but hopefully enjoyable
+experience.
+Guidance on approaches to delivery of this Unit
+This unit is designed to enable learners to use IT systems independently to support a range
+of information processing activities. Early inclusion of this unit in the Group Award is
+preferable as students should then be able to present work for other Units using the skills
+learned in this unit.
+During the course of the unit learners should have several opportunities to develop their
+practical skills and should then be assessed appropriately.
+Assessment should be by one project or case study. Candidates should have access to on-
+line help, tutorial support and/or suppliers’ manuals as required.
+Individual centres will need to plan Outcome 2 to ensure that such resources as the internet
+service provider, compact discs, available telephone lines, modems, software application
+packages and operating systems updates are available prior to commencement of the unit.
+If this unit is being delivered as part of a Professional Development Award which receives
+endorsement from a vendor such as Microsoft, it must be delivered and evidence generated
+as detailed in the document ‘Approval to certification’ which is associated with that particular
+vendor and the Professional Development Award.
+Guidance on approaches to assessment of this Unit
+Evidence can be generated using different types of assessment. The following are
+suggestions only. There may be other methods that would be more suitable to learners.
+Centres are reminded that prior verification of centre-devised assessments would help to
+ensure that the national standard is being met. Where learners experience a range of
+assessment methods, this helps them to develop different skills that should be transferable to
+work or further and higher education.
+Outcome 2
+The emphasis in this Outcome should be on producing complex information in a context
+which is unfamiliar to the learner. Centres may wish to complete an observation checklist to
+keep track of the learner’s development in the use of the four chosen software applications
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 8
+packages. The software application packages chosen must be relevant to the vocational
+area of the Group Award undertaken by the learner.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this unit. By e-assessment we
+mean assessment which is supported by Information and Communication Technology (ICT),
+such as e-testing or the use of e-portfolios or social software. Centres which wish to use
+e-assessment must ensure that the national standard is applied to all learner evidence and
+that conditions of assessment as specified in the Evidence Requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at
+www.sqa.org.uk/e-assessment.
+Opportunities for developing Core and other essential skills
+This unit gives automatic certification of the core skill: Using Information Technology at
+SCQF level 6.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 9
+Administrative information
+History of changes to Unit
+Version Description of change Date
+© Scottish Qualifications Authority 2001, 2007, 2017
+This publication may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+HP6L 47, Information Technology: Applications Software 1 (SCQF level 7) 10
+General information for learners
+Unit title: Information Technology: Applications Software 1
+(SCQF level 7)
+This section will help you decide whether this is the unit for you by explaining what the unit is
+about, what you should know or be able to do before you start, what you will need to do
+during the unit and opportunities for further learning and employment.
+This unit is designed to enable you to use IT systems and applications independently to
+support a range of information processing activities. You should develop a broad knowledge
+of the theoretical concepts, principles, boundaries and scope of IT applications. By the end of
+the unit you should have learned how to plan for, develop and produce the relevant
+information requirements of users.
+To meet the requirements of users you will be required to use and develop a broad range of
+skills in a range of software applications packages, (a minimum of four), such as, word
+processor, spreadsheet, database, simulation, graphics, communications, (ie internet,
+intranet, email, etc), audio/music, animation, video, multimedia, desktop publishing, data
+logging and retrieval, control or other packages.
+On successful completion of the unit you will be able to:
+1 Operate a range of IT equipment independently, giving attention to security and to other
+users.
+2 Use a range of software packages to meet complex information requirements.
+In Outcome 1 you will learn about the components of hardware, the functions of operating
+system tools and how these are used. You will also learn about data security measures and
+resolving common hardware and software problems. You will learn about all of the elements
+above in the context of meeting the needs of all users of a computer system.
+In Outcome 2 you will learn about how to use a range of software packages to meet complex
+information requirements. You will learn about a minimum of four different software packages
+from the whole range of applications packages available. The emphasis in this Outcome will
+be on producing complex information in a context that is unfamiliar to you. You will learn how
+to integrate data types, (eg text, number, graphics, audio, video) into a single product and to
+format the product so that the final output is clear and helpful to users. You will find out how
+to: plan to meet users’ information requirements; select software packages appropriate to
+information requirements; select suitable computer data sources for information and extract
+suitable information from these computer data sources to meet relevant user requirements.
+To complete this unit successfully, you must demonstrate a satisfactory level of performance
+in a number of tasks covering the Outcomes listed above. You must provide evidence of the
+work you carry out for each assessment task in the form of a set of printed documents with a
+front cover: each print having details of your name, the date and the task. You will be
+encouraged to access on-line help facilities, tutorial support and/or suppliers’ manuals as
+required.
+More detailed guidance on the content, amount, style and quality required of your work will
+be made available to you during your progress through the unit. Your assessor will observe
+you carrying out the assessment tasks, and will complete an observation checklist to certify
+that each of your prints is your own work and whether or not it has reached the required
+standard.Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 1
+SQA Advanced Unit Specification
+General information for centres
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Unit code: HV2L 47
+Unit purpose: The purpose of this Unit is to enable candidates to demonstrate knowledge,
+understanding and competence in testing and inspection of electrical installations.
+On completion of the Unit the candidate should be able to:
+1. Explain the general requirements for the inspection and testing of an electrical installation
+during its normal life-cycle.
+2. Explain the recommended tests to verify the integrity of an electrical installation.
+3. Explain the requirements and precautions for testing electrical installations.
+4. Carry out appropriate testing procedures which conform to British Standard requirements.
+Credit points and level: 1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level
+7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from National 1 to Doctorates.
+Recommended prior knowledge and skills: Candidates should possess a general
+knowledge and understanding of electrical principles and electrical installation. This may be
+evidenced by the possession of the SQA Advanced Unit, HP46 47 DC and AC Principles. A
+knowledge of the requirements of the current edition of the IEE Wiring Regulations (BS7671) would
+be beneficial. However, entry requirements are at the discretion of the centre.
+Core skills: There may be opportunities to gather evidence towards the following listed Core
+Skills or Core Skills components in this Unit, although there is no automatic certification of Core
+Skills or Core Skills components:
+• Written Communication (reading) at SCQF level 6
+• Written Communication (writing) at SCQF level 5
+• Critical Thinking at SCQF level 6
+• Planning and Organising at SCQF level 5
+• Reviewing and Evaluating at SCQF level 5
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 2
+Context for delivery:. This Unit was developed for the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards. If this Unit is delivered as part of another
+group award, it is recommended that it should be taught and assessed within the subject area of the
+group awards to which it contributes.
+Assessment: The assessment for Outcomes 1, 2 and 3 of this Unit should be combined together
+into one written assessment paper. This paper should be taken by candidates at one single assessment
+event that should last one and a half hours. The assessment paper should be composed of a suitable
+balance of short answer, restricted response and structured questions. This assessment should be
+conducted under controlled, supervised conditions
+Outcome 4 will be assessed by practical exercises, the evidence being recorded using an observation
+checklist, the production of a short report and the completion of standard test result sheets and an
+inspection report during the testing procedures. The completion of documentation is extremely
+important in this Unit and all assessments should be based on the IEE Certificates for Inspection,
+Testing and Certification of Electrical Systems. These practical exercises should incorporate both a
+visual inspection of an electrical installation, lasting 30 minutes and a series of installation tests along
+with the completion of the required certification. The testing and certification section of the exercise
+should last 60 minutes.
+NOTE: the electrical installation should contain a minimum of two faults which must be found during
+the testing exercise.
+The first assessment (Outcomes 1, 2 and 3) should be carried out after delivery of Outcome 3 and the
+second assessment (Outcome 4) should be carried out at the end of the delivery of this Unit.
+It should be noted that candidates must achieve all the minimum evidence specified for each Outcome
+in order to successfully achieve the Unit.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Unit code: HV2L 47
+The sections of the Unit stating the Outcomes, knowledge and/or skills, and evidence requirements
+are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content listed in the
+knowledge and/or skills section must be taught and available for assessment. Candidates should not
+know in advance the items on which they will be assessed and different items should be sampled on
+each assessment occasion.
+Outcome 1
+Explain the general requirements for the inspection and testing of an electrical installation during its
+normal life-cycle.
+Knowledge and/or skills
+• Methods of initial inspection
+• Recommended sequence of initial tests to be carried out
+• Reason for periodic inspection and testing
+• Procedures to be adopted for alterations and additions to an installation
+Outcome 2
+Explain the recommended tests to verify the integrity of an electrical installation.
+Knowledge and/or skills
+• Procedures for testing electrical installations
+• The need to measure the maximum prospective fault current and external earth fault loop
+impedance at the point of origin of the installation.
+Outcome 3
+Explain the requirements and precautions for testing electrical installations.
+Knowledge and/or skills
+• The reasons for permit-to-work and sanction-for-test documents being required in certain work
+environments.
+• The reasons for intrinsically safe test instruments being required in potentially explosive
+environments.
+• The use of test instruments and precautions.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 4
+Evidence requirements
+Evidence for the knowledge and /or skills in Outcomes 1 to 3 will be provided on a sample basis. The
+evidence may be presented in responses to specific questions. Each candidate will need to
+demonstrate that she/he can answer correctly questions based on a sample of the items shown under
+the knowledge and skills items in all three Outcomes. In any assessment of the Outcomes three out
+of four knowledge and/or skills items should be sampled from Outcome 1, two out of two
+knowledge and skills items from Outcome 2 and two out of three knowledge and skills items for
+Outcome 3.
+In order to ensure that candidates will not be able to foresee what items they will be questioned on, a
+different sample of three out of four knowledge and/or skills items from Outcome 1, and two out of
+three knowledge and skills items from Outcome 3 are required each time the Unit is assessed.
+Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidate's response can be judged to be satisfactory where evidence
+provided is sufficient to meet the requirements for each item by showing that the candidate is able to:
+Outcome 1
+• Explain the methods of initial inspection
+• List the recommended sequence of initial tests to be carried out
+• Describe the reason for periodic inspection and testing
+• Explain the procedures to be adopted for alterations and additions to an installation
+Outcome 2
+• Describe the procedures for testing electrical installations
+• Explain the need to measure the maximum prospective fault current and external earth fault loop
+impedance at the point of origin of the installation.
+Outcome 3
+• Explain why in certain work environments permit-to-work and sanction-for-test documents are
+required.
+• Explain why in potentially explosive environments intrinsically safe test instruments are required.
+• Explain the use of test instruments and precautions.
+Evidence should be generated through assessment undertaken in controlled, supervised conditions.
+Assessment should be conducted under closed book conditions and as such candidates should not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be provided
+with current codes of practice, BS7671 or other relevant legislative documentation for use during the
+assessment.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 5
+Assessment guidelines
+The assessment for Outcomes 1 to 3 should be combined together to form one assessment paper. This
+single assessment paper should be taken at a single assessment event lasting one and a half hours and
+carried out under supervised, controlled conditions. Such a paper should be composed of an
+appropriate balance of short answer, restricted response and structured questions. This assessment
+should be taken after delivery of Outcome 3.
+Outcome 4
+Carry out appropriate testing procedures which conform to British Standard.
+Knowledge and/or skills
+• Technical data requirements to enable testing and inspection to take place correctly.
+• Safe isolation procedure on a simulated electrical installation
+• Visual inspection of an electrical installation
+• Testing of an electrical installation
+• Schedules of testing results and a periodic inspection report
+Evidence requirements
+Evidence for the knowledge and/or skills in Outcome 4 will be provided by the candidate carrying out
+a visual inspection and a series of tests on a simulated electrical installation and completing the
+required documentation.
+This exercise is intended to be undertaken on a simulated installation operating at a safe level of
+working voltage.
+The simulated installation rig(s) should be supplied from a three-phase isolator and feed a single-
+phase distribution board from which lighting circuits and power circuits are supplied. A three phase
+motor circuit should be provided for. A residual current device or devices should be included in the
+design. The design of the rig(s) is not critical but must be such that all the tests can be performed
+effectively. Different rigs can be used to cover the complete range of tests.
+Candidates will be required to carryout the following tests in the sequence prescribed in BS 7671
+Part 7:
+• Continuity of protective conductors including main and supplementary equipotential bonding
+• Continuity of ring final circuit conductors
+• Insulation resistance
+• Polarity
+• Earth electrode resistance
+• Earth fault loop impedance
+• Prospective fault current
+• Residual Current Device (RCD) testing
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 6
+A total of TWO fault conditions will be built into the test circuits to verify the candidate’s ability to
+interpret the test results obtained. The candidate will be expected to identify the fault results and
+highlight these in his/her inspection report.
+Observation checklists should be used to record the candidate’s performance for the inspection and
+each of the testing procedures.
+The candidate should be given the necessary work instructions to carry out the inspection and testing.
+A selection of the necessary hand tools and a range of test instruments should be provided.
+During the tests, the candidate will be expected to record all relevant information and tests results for
+all circuits on a standard test results sheet and to complete a periodic inspection report.
+Safe working practice must be observed throughout the inspection and testing procedure.
+Written evidence should be produced to show the candidate’s ability to explain the technical data
+requirements to enable testing and inspection to take place and to outline the safe isolation procedure
+which will be implemented prior to the testing procedures taking place.
+A candidate’s response can be judged to be satisfactory where evidence provided is sufficient to meet
+the requirements for each item by showing that the candidate is able to:
+• Explain the technical data requirements to enable testing and inspection to take place correctly.
+• Demonstrate a safe isolation procedure on a simulated electrical installation.
+• Perform an inspection of the simulated electrical installation
+• Perform the listed tests on a simulated electrical installation
+• Complete the schedules of testing results and a periodic inspection report
+Evidence should be generated through assessment under controlled, supervised conditions.
+Assessment should be conducted under closed-book conditions and, as such, candidates must not be
+allowed to bring any textbooks, handouts or notes to the assessment. Candidates will be provided
+with current codes of practice, BS7671 or other relevant legislative documentation for use during the
+assessment.
+Assessment guidelines
+Outcome 4 should be assessed by practical testing exercises on a simulated electrical installation
+rig(s).
+Evidence of the candidate’s ability to carry out the inspection and testing procedures should be
+recorded using observation checklists.
+The candidate will also be required to complete the standard test result sheet and an inspection report
+which should include identification of the two fault condition results.
+A report, of approximately 400 words plus diagrams, charts etc, along with completion of a ‘Periodic
+Inspection Report for and Electrical Installation’
+(Appendix 6, BS7671), should be produced by the candidate to show his/her ability to explain the
+technical data requirements to enable testing and inspection to take place and to outline the safe
+isolation procedure which will be implemented prior to the testing procedures taking place.
+The assessment of the Outcome 4 should be undertaken at the end of the Unit.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 7
+Administrative Information
+Unit code: HV2L 47
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+Superclass category: TH
+Date of publication: November 2017
+Version: 01
+Source: SQA
+ Copyright SQA 2005, 2017
+This publication may be reproduced in whole or in part for educational purposes provided that no
+profit is derived from reproduction and that, if reproduced in part, the source is acknowledged.
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the development
+of SQA Advanced Qualifications.
+FURTHER INFORMATION: Call SQA’s Customer Contact Centre on 44 (0) 141 500 5030 or
+0345 279 1000. Alternatively, complete our Centre Feedback Form.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 8
+SQA Advanced Unit Specification: support notes
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+This part of the Unit specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+Guidance on the content and context for this Unit
+This Unit has been written in order to allow candidates to develop their knowledge and competence
+in the following areas:
+1. General requirements for the inspection and testing of an electrical installation
+during its normal life-cycle.
+2. Recommended tests to verify the integrity of an electrical installation.
+3. Requirements and precautions for testing electrical installations
+4. Testing procedures which conform to British Standard requirements
+In designing this Unit, the unit writer has identified the range of topics expected to be covered by
+lecturers. The writer has also given recommendations as to how much time should be spent on each
+Outcome. This has been done to help lecturers decide what depth of treatment should be given to the
+topics attached to each of the Outcomes. Whilst it is not mandatory for centres to use this list of
+topics, it is recommended that they do so since the assessment exemplar pack for this Unit is based on
+the knowledge and/or skills and list of topics in each of the Outcomes.
+A list of topics for each Outcome is given below. Lecturers are advised to study this list in
+conjunction with the assessment exemplar pack so that they can get a clear indication of the standard
+of achievement expected of candidates in this Unit
+1 Explain the general requirements for the inspection and testing of an electrical
+installation during its normal life-cycle. (10 hrs)
+This Outcome should provide candidate with an understanding of the general requirements for
+inspection and testing of an electrical installation when it is newly installed, the periodicity of re-
+inspecting and testing and the action that should be taken if alterations or additions are made. The
+requirements of part seven of BS7671 provided the technical foundation for developing the subject
+and the IEE guidance notes on Inspection and Testing (ISBN 0-85296-991-0) develop the regulations.
+• Safety
+• Required competence
+• The Client
+• Record keeping
+• Purpose of initial verification
+• Frequency of subsequent installations
+• Initial inspection
+Consideration should also be given to the following:
+Electrical installation: TN-S; TN-C-S; TT. Nominal voltage 230V and 400V; rating of over current
+protective devices at the origin of the installation not to exceed 100A; work environment is domestic;
+commercial and light industrial.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 9
+Initial Inspection: connection and identification of conductors; cable routing; current carrying
+capacity; voltage drop; connection of control devices; connection of accessories; equipment; fire
+barriers; methods of protection against electric shock; labelling, presence of notices; erection
+methods; presence of under-voltage protection; adequate access to switchgear and equipment;
+protection methods for direct and indirect contact; adequate earthing arrangements; selection of
+equipment and protective measures appropriate to external influences; position of devices for
+isolation and switching location.
+Reasons for periodic testing and inspection; legislative requirements; verification of continued
+compliance with BS7671; change of ownership or tenancy of premises; alterations or additions to
+existing installation to change electrical loading.
+2 Explain the recommended tests to verify the integrity of an electrical installation (10 hrs)
+This Outcome should provide the candidate with an understanding of why the tests are being carried
+out; the requirements that have to be met to satisfy part seven of BS7671 and the methods of tests that
+are to be performed.
+The Outcome should provide candidates with an understanding of why it is necessary to know the
+value of the prospective short circuit current and the external earth loop impedance and also provide
+an explanation of how to approach the measurement of these.
+• Purpose of periodic inspection and testing
+• Necessity for periodic inspection and testing
+• Initial testing
+Electrical installation: TN-S; TN-C-S; T.T. Systems
+Tests: Continuity of protective conductors main and supplementary bonding, continuity of ring final
+circuit conductors; insulation resistance; polarity tests; earth electrode resistance; earth fault loop
+impedance; operation of residual current devices; measurement of characteristics of supply at the
+origin of the circuit.
+3 Explain the requirements and precautions for testing electrical installations (10 hrs)
+This Outcome should provide the candidate with an understanding of why safety documentation is
+essential before work is carried out in organisations that specify permits-to-work and sanction-to-test
+documents as part of their safety policy. The responsibility of the electrical contractor to comply
+with safety procedures and the delegation of authorised signatories by the company to the contractor,
+for safety documents, should be discussed. The need to recognise that intrinsically safe instruments
+are required in installations designated as hazardous should be emphasised. Reference only is
+required to the zoning of areas and the types of environment where more specialist testing
+consideration is necessary.
+Relevant requirements of the Health and Safety at Work Act and the Electricity at Work Regulations
+in an industrial environment, where additional hazards may be present, permits-to-work and
+sanctions-for-test.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 10
+Requirements: instrument accuracy; field and instrument errors; routine calibration and checking of
+low resistance ohmmeter; insulation resistance ohmmeter; applied voltage tester; earth fault loop
+impedance testers; earth electrode, test sets; RCD Testers.
+4 Carry out appropriate testing procedures which conform to British Standard
+requirements (10 hrs)
+This Outcome should provide the candidate with the opportunity to prepare for inspection and testing
+and carry out inspection and testing.
+The centre will require a simulated test rig(s) to enable the tests specified in the range statement to be
+carried out effectively. It is recommended that the rig(s) should be supplied from a three-phase
+isolator and feed a single-phase distribution board from which lighting circuits and power circuits are
+supplied. A three phase motor circuit should be provided for. A residual current device or devices
+should be included in the design. The design of the rig or rigs is not critical providing all the tests
+can be performed effectively. Different rigs can be used to cover the complete range of tests.
+Observation checklists are required for each of the tests. The candidate should be given the
+necessary work instructions to carry out the testing. A selection of the necessary hand tools and a
+range of test instruments should be provided. During the test the candidate will be expected to record
+all relevant information and tests results for all circuits on an appropriate results sheets; safe working
+practice must be observed throughout the inspection and testing procedure.
+Technical data: available diagrams; charts; previous test results for inspection; test
+certificates; general characteristics of installation; access to design data (new installation).
+Isolation procedure: isolate; lock off; issue permit-to-work; complete permit documentation; test for
+dead.
+Test of external earth loop impedance and prospective short circuit current (PSCC); protective
+conductors continuity: continuity of ring final circuit conductors; insulation resistance; polarity;
+Earth fault loop impedance; earth electrode resistance; operation of residual current devices
+A candidate-centred learning approach is recommended. Underpinning theory should be reinforced
+by use of short testing exercises where a hands-on-approach should be encouraged. Throughout the
+Unit the importance of accurate documentation should be stressed. Safety procedures and practices
+should be observed at every stage of the unit.
+Guidance on the delivery and assessment of this Unit
+The purpose of this Unit is to enable candidates to demonstrate knowledge, understanding and
+competence in the testing and inspection of electrical installations.
+The Unit is aimed at those with previous electrical installation knowledge and some knowledge of
+BS7671.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 11
+This Unit was developed within the Options section of the SQA Advanced Certificate and SQA
+Advanced Diploma in Electrical Engineering awards. It should be seen as being complementary to
+the SQA Advanced Units Electricity Power Systems, Electrical Safety, Electrical Installation Skills
+and Electrical Installation Design.
+Details on approaches to assessment are given under Evidence requirements and Assessment
+guidelines under each Outcome in the SQA Advanced Unit Specification: statement of standards
+section. It is recommended that these sections be read carefully before proceeding with assessment of
+candidates.
+Open learning
+This Unit may be delivered by distance learning however, due to the practical nature of Outcome 4, a
+considerable degree of centre support will be required. With regard to assessment, planning would be
+required by the centre to ensure the sufficiency and authenticity of candidate evidence. Arrangements
+would be required to be put in place to ensure that the assessments were conducted under controlled,
+supervised conditions.
+For information on normal open learning arrangements, please refer to the SQA guide
+Assessment and Quality Assurance of Open and Distance Learning (SQA 2000)
+Equality and inclusion
+This unit specification has been designed to ensure that there are no unnecessary barriers to learning
+or assessment. The individual needs of learners should be taken into account when planning learning
+experiences, selecting assessment methods or considering alternative evidence.
+Further advice can be found on our website www.sqa.org.uk/assessmentarrangements.
+SQA Advanced Unit Specification
+Unit (HV2L 47): Inspection and Testing of Low Voltage Electrical Installations 12
+General information for candidates
+Unit title: Inspection and Testing of Low Voltage Electrical Installations
+This Unit has been designed to allow you to gain knowledge of the requirements of the16th Edition
+Wiring regulations (BS7671) inspection and testing techniques and of the test instruments required to
+carry out these tests. You will gain the opportunity to practice using these instruments and evaluating
+the test readings taken. In addition, you will be instructed on the mandatory and general requirements
+for inspection and testing of electrical installations.
+You will be supported in developing an understanding of the following topics:
+• General requirements for inspection and testing of an electrical installation.
+• Periodicity of re-inspection and testing
+• Actions to be taken when alterations or additions are made to an electrical installation
+• Reason for testing
+• How to perform tests as detailed in BS7671
+• Test to be performed
+• Continuity of protective conductors
+• Continuity of ring circuit conductors
+• Polarity
+• Insulation resistance
+• Earth loop impedance
+• Prospective fault current
+• RCD Test
+• Safety documentation (permits-to-work)
+• Why use calibrated instruments
+• Use of standard test certificates as per Appendix 6 of BS 7671
+This Unit is predominantly practical with a strong emphasis on understanding why and how to
+inspect and test low voltage electrical installations.HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 1
+SQA Advanced Unit Specification: general information
+Unit title: Electrical Design Systems: An Introduction
+Unit code: HV2W 47
+Superclass: XJ
+Publication date: November 2017
+Source: Scottish Qualifications Authority
+Version: 01
+Unit purpose
+This Unit has been designed to allow candidates to develop their knowledge, understanding
+and skills of a range of services provided by the distribution of power and network
+communication cabling throughout an electrical installation. More specifically candidates will
+study earthing systems and how protection from touch voltages is achieved. This Unit also
+introduces candidates to the design procedures involved in selecting conductors to supply
+single and three-phase equipment located in small modern electrical distribution systems.
+On completion of the Unit the candidate should be able to:
+1 Examine the principles of protective earthing systems.
+2 Apply electrical design procedures when selecting current carrying conductors.
+3 Investigate structured distribution data cable systems for communication networks.
+Recommended prior knowledge and skills
+Entry to this Unit is at the discretion of the centre, however candidates should have a basic
+knowledge and understanding of electrical systems, equipment and protective devices, or
+have technical experience of electrical systems within building services. This may be
+evidenced by possession of Electrical Installation Units from the National Certificate(s) in
+Electrical Engineering.
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 2
+Credit points and level
+1 SQA Credit at SCQF level 7: (8 SCQF credit points at SCQF level 7*)
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and
+Qualifications Framework (SCQF). Each qualification in the Framework is allocated a number of
+SCQF credit points at an SCQF level. There are 12 SCQF levels, ranging from National 1 to
+Doctorates.
+Core Skills
+Opportunities to develop aspects of Core Skills are highlighted in the Support Notes of this
+Unit specification.
+There is no automatic certification of Core Skills or Core Skill components in this Unit.
+Context for delivery
+If this Unit is delivered as part of a Group Award, it is recommended that it should be taught
+and assessed within the subject area of the Group Award to which it contributes.
+Assessment
+The assessment for this Unit is in two parts.
+An assessment lasting one and a half hours, which should be conducted under controlled
+supervised conditions and should follow after the delivery of Outcomes 1 and 2.
+An investigation should be completed for the design specification of standard network
+cabling for voice and data communication systems for a small modern building. Candidates
+will be expected to produce a report of between 1,000–1,200 words or equivalent that
+includes diagrams and appendices on the specification for the network system.
+Teaching and learning and assessments do not have to be presented to the candidates in
+any specific order.
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 3
+SQA Advanced Unit Specification: statement of standards
+Unit title: Electrical Design Systems: An Introduction
+Unit code: HV2W 47
+The sections of the Unit stating the Outcomes, Knowledge and/or Skills, and Evidence
+Requirements are mandatory.
+Where evidence for Outcomes is assessed on a sample basis, the whole of the content
+listed in the Knowledge and/or Skills section must be taught and available for assessment.
+Candidates should not know in advance the items on which they will be assessed and
+different items should be sampled on each assessment occasion.
+Outcome 1
+Examine the principles of protective earthing systems.
+Knowledge and/or Skills
+• System earthing of low voltage transformer secondary windings
+• Earth electrode types and application
+• Equipment earthing protective systems
+• Touch and step voltage protective measures
+Outcome 2
+Apply electrical design procedures when selecting current carrying conductors
+Knowledge and/or Skills
+• Design current for load centres incorporating single and three-phase equipment
+• Protective devices for power and semiconductor applications
+• External factors that affect cable effectiveness
+• Select cable conductor sizes to comply with design procedures
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 4
+Evidence Requirements for Outcomes 1 and 2
+Evidence for the Knowledge and/or Skills items in Outcomes 1 and 2 should be provided on
+a sample basis. The evidence may be presented in response to specific questions. Each
+candidate will need to demonstrate that they can answer questions correctly based on a
+sample under the knowledge and skills items shown in both Outcomes.
+The assessment should incorporate two Knowledge and/or Skills items from each Outcome.
+In any assessment of the Outcomes, Knowledge and/or Skills item four from both Outcomes
+must always be selected along with any one of the other three knowledge/skills statements
+in each Outcome.
+In order to ensure that candidates will not be able to foresee what items they will be
+questioned on, a different Knowledge and/or Skills item from each Outcome, as well
+Knowledge and/or Skills item four in both Outcomes, should be sampled each time the
+Outcomes are assessed. Candidates must provide a satisfactory response to all items.
+Where sampling takes place, a candidates response can be judged to be satisfactory where
+evidence provided is sufficient to meet the requirements for each item by showing that the
+candidate is able to:
+Outcome 1
+• Explain that the purpose of earthing transformer windings is to minimise disturbances to
+the power system from overvoltages that can damage conductor and motor insulation
+connected to the system.
+• Describe the types of earth electrodes for power systems and methods of reducing
+surface voltage gradients and risks from step voltages.
+• Describe how equipment earthing can achieve protection against electric shock.
+• Evaluate Touch Voltage Curves and determine if protection against electric shock can
+be achieved from calculations of earth fault loop impedance values and disconnection
+times of protective devices.
+Outcome 2
+• Determine the design current for TP&N electrical installations and the reasons for
+balancing the current across three phases.
+• Explain the operation and function of protective devices for electric motors and fuses for
+semi conductor applications.
+• Describe how PVC, XLPE (low smoke zero halogen) and magnesium oxide conductor
+insulations are selected to overcome external influences.
+• Calculate the design current and select conductor sizes for three-phase and single-
+phase loads and confirm that the circuits comply with the voltage drop constraint.
+The assessment for Outcomes 1 and 2 must be combined together to form one assessment
+paper. This assessment should be taken at a single assessment event lasting one and a half
+hours and carried out under supervised, controlled conditions. Assessment should be
+conducted under closed-book conditions and as such candidates should not be allowed to
+bring any additional material to the assessment. Candidates should be permitted to use
+scientific calculators during the assessment. Centres must provide candidates with all the
+relevant reference design material to satisfactorily complete the assessment.
+HV2W 47, Electrical Design Systems: An Introduction (SCQF level 7) 5
+Assessment Guidelines for Outcomes 1 and 2
+The assessment paper should be composed of an appropriate balance of short answer and
+structured questions that may incorporate sketches/diagrams to demonstrate enhanced
+understanding. Centres should devise only the charts, reference tables and diagrams or
+drawings necessary for candidates to satisfactorily complete the assessment.
+Outcome 3
+Investigate structured distribution data cable systems for communication networks.
+Knowledge and/or Skills
+• Local Area Networks (LAN)
+• Structured cabling for data and communication networks
+• Extended star topology installation systems
+• Configuration of patch panel arrangements
+• Attenuation to crosstalk ratio (ACR)
+Evidence Requirements for Outcome 3
+All Knowledge and/or Skills items in Outcome 3 should be assessed. The evidence should
+be presented in response to an assignment in which candidates are set the task of
+investigating the requirements and outlining the basic design of a communication network for
+a small modern operation.
+The candidate assignment can be judged to be satisfactory where the evidence provided is
+valid, relevant and sufficient to meet the requirements for each item by showing that he/she
+can:
+• identify the economic function of a LAN and describe the type of information that can be
+transmitted.
+• describe the different types and specific design applications of structured data cables.
+• describe the operation of the network.
+• describe the process for Patch Panel wiring for data applications.
+• explain ways of ensuring the Attenuation to Crosstalk ratio (ACR) complies with the
+required parameters of BS EN standards.
+Candidates should produce a report of between 1,000–1,200 words or equivalent that
+includes diagrams and appendices on the specification for the network system. Candidates
+should have access to course notes, relevant textbooks, instruction manuals, supplier’s and
+manufacturers’ catalogues and the use of the Inte
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		1:09 PM (20 minutes ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+Mail Delivery Subsystem		1:09 PM (20 minutes ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	1:20 PM (9 minutes ago)
+
+	
+	
+to noreply, enquiries.policejobs, careerhelp, questionpapper 
+ 
+
+Arrangements for
+Professional Development Award in Engineering
+Practice: Fabrication and Welding at SCQF level 7;
+(Group Award Code — G9MT 47)
+Professional Development Award in Engineering
+Practice: Engineering Manufacture at SCQF level 7;
+(Group Award Code — G9MP 47)
+Professional Development Award in Engineering
+Practice: Engineering Maintenance at SCQF level 7;
+(Group Award Code — G9MV 47)
+Professional Development Award in Engineering
+Practice: Electrical Engineering at SCQF level 7;
+(Group Award Code — G9MR 47)
+and
+HNC Engineering Practice
+(Group Award Code — G86L 15)
+Date of Validation Meeting: February 2010
+Date of original publication:
+Version: 05 (March 2019)
+Acknowledgement
+SQA acknowledges the valuable contribution that Scotland’s colleges have made to the
+development of Professional Development Awards.
+History of Changes
+It is anticipated that changes will take place during the life of the qualification and this section
+will record these changes. This document is the latest version and incorporates the changes
+summarised below. Centres are advised to check SQA’s APS Navigator to confirm they are
+using the up to date qualification structure.
+NOTE: Where a Unit is revised by another Unit:
+• No new centres may be approved to offer the Unit which has been revised.
+• Centres should only enter candidates for the Unit which has been revised where they are
+expected to complete the Unit before its finish date.
+Version
+number Description Date
+05 Addition of Units: J0HA 34 Computer Programming and J0H9 34
+Data Security has been added to the PDA Engineering Practice:
+Fabrication and Welding, PDA Engineering Practice: Engineering
+Manufacture, PDA Engineering Practice: Engineering Maintenance,
+PDA Engineering Practice: Electrical Engineering and HNC
+Engineering Practice.
+22/03/19
+04 Production Planning and Control from DT63 35 (lapse date
+31/07/2012, finish date 31/07/2014) to H1KS 35 for the following
+group awards: G86L 15
+Revision of Unit: DE1K 33 Workplace Communication in English
+has been revised by H8T2 33 and finishes on 31/07/2016.
+07/05/15
+03 Addition of Credit Transfer Table see Page 29. 15/01/15
+02 Revision of Units: D77G 34 Communication: Practical Skills
+revised by H7MB 34. DG4H 33 Mathematics for Engineering 1:
+Electronics and Electrical revised by H7K0 33 Engineering
+Mathematics 1. DT5X 33 Mathematics for Engineering 1:
+Mechanical and Manufacturing revised by H7K0 33 Engineering
+Mathematics 1 on HNC Engineering Practice framework finishing
+31/07/2016.
+22/10/14
+Contents Page
+1 Introduction ........................................................................................................................1
+2 Rationale for the revision of the awards .............................................................................1
+2.1 Group Award Titles ........................................................................................................1
+2.2 History and Market Research to support the PDA/HNC Engineering Practice .............3
+2.2.1 History ........................................................................................................................3
+2.2.2 Market Research .........................................................................................................3
+2.3 The Target Client Groups ...............................................................................................5
+2.4 Links to National Occupational Standards .....................................................................5
+2.5 Employment Opportunities/Progression/Professional Recognition ...............................6
+3 Aims of the awards .............................................................................................................6
+3.1 General Aims of the PDA/HNC Engineering Practice ...................................................6
+3.1.1 Enhance candidates’ employment prospects ..............................................................6
+3.2 Specific Aims of the PDA/HNC Engineering Practice ..................................................6
+3.3 How the General Aims are met in the PDA/HNC Engineering Practice Structures and
+Content .......................................................................................................................................8
+3.4 How the Specific Aims are met in the PDA/HNC Engineering Practice Structure and
+Content .....................................................................................................................................10
+4 Access to the awards ........................................................................................................13
+4.1 Access requirements .....................................................................................................13
+4.2 Recommended Core Skills Entry Level .......................................................................13
+4.3 Alternative Access Arrangements ................................................................................14
+4.4 Candidates who have English as an additional language .............................................14
+5 Awards structure ...............................................................................................................16
+5.1 Framework....................................................................................................................18
+5.1.1 PDA in Engineering Practice: Fabrication and Welding 6 Unit credits ...................18
+5.1.2 PDA in Engineering Practice: Engineering Manufacture 6 Unit credits ..................19
+5.1.3 PDA in Engineering Practice: Engineering Maintenance 6 Unit credits ..................20
+5.1.4 PDA in Engineering Practice: Electrical Engineering 6 Unit credits ......................21
+5.1.5 HNC Engineering Practice (6 credits) .................................................................22
+5.2 Conditions of the Award ..............................................................................................24
+5.3 Core Skills Exit Profile .................................................................................................24
+5.4 SCQF levels ..................................................................................................................25
+5.5 Mapping information ....................................................................................................26
+5.6 Articulation, professional recognition and credit transfer ............................................26
+5.6.1 Articulation ...............................................................................................................26
+5.6.2 Professional Body Recognition ................................................................................26
+5.6.3 Credit Transfer..........................................................................................................26
+6 Approaches to delivery and assessment ...........................................................................30
+6.1 Delivery ........................................................................................................................30
+6.2 Assessment ...................................................................................................................37
+6.2.1 Introduction ..............................................................................................................37
+6.2.2 Graded Units .............................................................................................................38
+6.2.3 Assessment Exemplar Materials ...............................................................................39
+6.2.4 Formative Assessment ..............................................................................................39
+6.3 Resources......................................................................................................................40
+6.4 Open and Distance Learning ........................................................................................41
+7 General information for centres ........................................................................................41
+8 General information for candidates ..................................................................................41
+9 Glossary of terms ..............................................................................................................44
+10 Appendix ......................................................................................................................44
+Appendix 1: Sample Teaching Timetables ...............................................................................45
+Important Note
+Where the term Advanced Certificate/HNC Engineering Practice is used throughout this
+document it should generally be understood to mean Advanced Certificate in Fabrication and
+Welding/Advanced Certificate in Engineering Manufacture/Advanced Certificate in
+Engineering Maintenance/Advanced Certificate in Electrical Engineering/HNC Engineering
+Practice.
+Where the term PDA/HNC Engineering Practice is used throughout this document it should
+generally be understood to mean PDA in Engineering Practice: Fabrication and Welding at
+SCQF level 7/PDA in Engineering Practice: Engineering Manufacture at SCQF level 7/PDA
+in Engineering Practice: Engineering Maintenance at SCQF level 7/PDA in Engineering
+Practice: Electrical Engineering at SCQF level 7/HNC Engineering Practice.
+Arrangements Document: PDA/HNC Engineering Practice 1
+1 Introduction
+This is the Arrangements Document for the following awards:
+PDA* in Engineering Practice: Fabrication and Welding at SCQF level 7;
+PDA in Engineering Practice: Engineering Manufacture at SCQF level 7;
+PDA in Engineering Practice: Engineering Maintenance at SCQF level 7;
+PDA in Engineering Practice: Electrical Engineering at SCQF level 7;
+HNC Engineering Practice.
+*PDA stands for Professional Development Award.
+The four PDAs were validated in February 2010 while the HNC Engineering
+Practice was validated in February 2006
+This document includes: background information on the development of the Group
+Award, its aims, guidance on access, details of the Group Award structure and
+guidance on delivery and assessment.
+The four Advanced Certificates in Fabrication and Welding, Engineering
+Manufacture, Engineering Maintenance and Electrical Engineering together with an
+HNC Engineering Practice were successfully validated in February 2006. Since that
+date SQA has revised its Design Principles for Professional Development Awards
+which span the range SCQF levels 6 to 12. As SQA is phasing out the Advanced
+Certificate qualification and as the Advanced Certificates mentioned earlier in this
+paragraph fit neatly into the PDA Design Principles it was considered appropriate to
+convert the Advanced Certificates into PDAs. In undertaking this task no change has
+been made to the structure and content of the original four Advanced Certificates or
+the HNC Engineering Practice. The only significant change in this document from
+the original Advanced Certificate/HNC Engineering Practice Arrangements
+Document is a change in name from Advanced Certificate to Professional
+Development Award together with recognition of the level of the four PDAs as
+SCQF level 7. Thus, much of this current Arrangements Document remains the
+same as that produced for the previous Advanced Certificates/HNC Engineering
+Practice Arrangements Document in 2006. However, justification is included in this
+updated Arrangements Document on the ways in which converting the four
+Advanced Certificates into PDAs meets the Design Principles for PDAs at SCQF
+levels 7–12. Furthermore, since 2006 SQA has also introduced a range of new
+National Certificates in Engineering and reference to these in terms of the way they
+provide access to the four PDA/HNC Engineering Practice awards is made in the
+Access to the Awards section of this document.
+2 Rationale for the revision of the awards
+2.1 Group Award Titles
+The PDA/HNC Engineering Practice awards will form part of the SQA suite of HN
+Engineering awards which were redeveloped as part of the implementation of the
+new SQA HN Design Principles. The PDA/HNC Engineering Practice awards are
+designed for those candidates who are employed, or who wish to gain employment,
+as advanced engineering craft persons and supervisors within an engineering
+environment. They, thus, occupy a unique position in the current suite of HN
+Engineering qualifications in that all other Engineering awards are geared more to
+the education and training of engineering technicians and incorporated engineers.
+Arrangements Document: PDA/HNC Engineering Practice 2
+In undertaking the review of the Advanced Certificates/HNC Engineering Practice
+awards (now re-titled PDA/HNC Engineering Practice) in 2005-06 the QDT
+(Qualification Design Team) considered carefully the structure and titles of the
+previous awards. The QDT essentially retained the structure of the previous awards
+(ie 6-credits for an Advanced Certificate and a further 6-credits for an HNC
+Engineering Practice). However, the QDT made certain modifications to the titles of
+some of the previous awards to clarify the purpose and content of the awards.
+Details of changes to the awards with an explanation for the reasons for the change
+are shown in the table below.
+Existing Title of Award New Title of Award Comments
+Advanced Certificate in
+Engineering Practice:
+Fabrication and Welding
+Advanced Certificate
+in Fabrication and
+Welding (now re-titled
+PDA in Engineering
+Practice: Fabrication
+and Welding at SCQF
+level 7)
+Advanced Certificate in
+Engineering Practice:
+Manufacture and
+Engineering Support
+Advanced Certificate
+in Engineering
+Manufacture (re-titled
+PDA in Engineering
+Practice: Engineering
+Manufacture at SCQF
+level 7)
+and
+Advanced Certificate
+in Engineering
+Maintenance (re-titled
+PDA in Engineering
+Practice: Engineering
+Maintenance at SCQF
+level 7)
+Manufacture and
+Engineering Support
+separated into two distinct
+awards as candidates tend
+to study one or other of
+these subject areas.
+Title Engineering Support
+replaced by Engineering
+Maintenance as this title
+more accurately reflects
+what the award is about
+and is more clearly
+understood by stakeholders
+of the award.
+Arrangements Document: PDA/HNC Engineering Practice 3
+Existing Title of Award New Title of Award Comments
+Advanced Certificate in
+Engineering Practice:
+Electromechanical
+Advanced Certificate
+in Electrical
+Engineering
+(re-titled PDA in
+Engineering Practice:
+Electrical Engineering
+at SCQF level 7)
+Title changed to reflect that
+the new award’s primary
+focus is on Electrical
+Engineering subjects.
+Stakeholders had difficulty
+understanding the
+Electromechanical title
+which may explain this
+award’s low uptake in
+terms of candidate entries.
+The new award title is
+easier to understand and
+generally more recognised
+by stakeholders of craft
+awards.
+HNC Engineering Practice HNC Engineering
+Practice (No title
+change)
+No change to title. Title
+generally understood and
+respected by stakeholders.
+2.2 History and Market Research to support the PDA/HNC
+Engineering Practice
+2.2.1 History
+SCOTVEC first introduced an Advanced Certificate/HNC Engineering Practice
+award structure in 1996 as part of a major national development of HN Engineering
+awards which saw the introduction of an overarching HN Engineering Framework.
+In 2006 the SQA introduced a revised Advanced Certificate/HNC Engineering
+Practice award structure which took account of the new SQA, HN Design Principles
+and the latest developments in technology, working and supervisory practices and
+education. The latest development in 2010 has simply resulted in a change of title of
+the four Advanced Certificates to PDAs and a recognition that the four PDAs are at
+SCQF level 7.
+2.2.2 Market Research
+Most of the market research for the PDA/HNC Engineering Practice awards was
+undertaken in 2005-06 when the revised Advanced Certificate/HNC Engineering
+Practice awards were developed. However, opportunities were taken when
+producing the PDA/HNC Engineering Practice Validation Document to update
+some of the desk based market research with a view to lending further support to the
+development of the four PDAs and the HNC Engineering Practice awards. A brief
+outline of the market research methods used in 2005–2006 and 2009 to support
+award developments are summarised in Table 2.2.
+Arrangements Document: PDA/HNC Engineering Practice 4
+Table 2.2: Brief outline of market research methods conducted to support the
+PDA/HNC Engineering Practice
+Stakeholder Method
+All Major desk based research gathering and
+analysing data from various sources (eg
+SEMTA, FutureSkills Scotland etc)
+Centres It was decided from the outset of the
+redevelopment of the awards to include on
+the QDT representatives from all centres
+who delivered the Advanced Certificate
+(now re-titled PDA)/HNC Engineering
+Practice awards. This decision was made
+to ensure that the interests of these centres
+in the redevelopment process were
+represented and so that their experience in
+delivering and assessing the previous
+awards could be used to inform
+redevelopments.
+Employers Consultation took place through a
+questionnaire survey and members of the
+QDT consulting industrial contacts on the
+framework structure and Unit content.
+Higher Education Consultation with university staff revealed
+that the Advanced Certificate (now re-
+titled PDA)/HNC Engineering Practice
+awards have no advanced standing with
+degree courses. In fact, candidates may
+require too supplement the level of
+Mathematics they have studied on the
+Advanced Certificate (now re-titled
+PDA)/HNC Engineering Practice with
+additional Mathematics Unit before they
+are able to enter a degree course.
+Arrangements Document: PDA/HNC Engineering Practice 5
+Stakeholder Method
+Professional Bodies Representatives of the Institution of
+Engineering and Technology (IET)/The
+Institution of Mechanical Engineers
+(IMechE) have advised the QDT on the
+status of the awards in relation to
+membership of their bodies.
+Candidates While not consulted directly details of
+candidates’ experiences of the previous
+Advanced Certificate/HNC Engineering
+Practice awards were provided by QDT
+members. These experiences were taken
+fully into account in the design of the new
+awards.
+2.3 The Target Client Groups
+The PDA/HNC Engineering Practice suite of awards have been developed
+principally for candidates in employment pursuing careers, at advanced craft and
+engineering supervisory level, in fabrication and welding, engineering manufacture,
+engineering maintenance or electrical engineering. Each of the four PDAs has been
+designed to provide candidates with the opportunities to develop core and specialist
+knowledge, understanding and skills in an advanced engineering craft area. The
+HNC Engineering Practice award allows candidates to develop important
+knowledge and skills needs to become an engineering supervisor or team leader.
+The PDA/HNC Engineering Practice would normally be studied by candidates who
+attend a centre on a day-release or other part-time basis. The PDA/HNC
+Engineering Practice award structures are sufficiently flexible enough to allow
+centres to deliver the awards by various modes of delivery: for example, two-year
+day-release, evening attendance, block-release etc.
+Where centres decide to offer a PDA/HNC Engineering Practice on a full-time basis
+it is strongly recommended that candidates are provided with opportunities to take a
+number of practical engineering Units in conjunction with the Units in the relevant
+PDA so that they acquire some useful practical skills and gain some experience of
+what it would be like to work in a practical engineering environment (s). Centres
+should also arrange appropriate industrial visits for candidates so that they can see
+the applications of subjects learnt on their course in practical engineering situations.
+2.4 Links to National Occupational Standards
+While none of the four PDAs/HNC Engineering Practice awards have been designed
+to match into specific occupational standards in engineering or management, each
+PDA/HNC Engineering Practice award may provide important underpinning
+knowledge and understanding for SVQs in Engineering or Management at level 3.
+Arrangements Document: PDA/HNC Engineering Practice 6
+2.5 Employment Opportunities/Progression/Professional
+Recognition
+For details on employment opportunities see Aim 3.1.1 in Section 3.3 and Aim 3.2.1
+in Section 3.4. For details of progression routes and professional recognition from
+PDA/HNC Engineering Practice awards see Aim 3.2.2 and 3.2.3 in Section 3.4 and
+Section 5.6.
+3 Aims of the awards
+The aims of the PDA/HNC Engineering Practice awards are exactly the same as
+those for the Advanced Certificate/HNC Engineering Practice awards. The general
+and specific aims are shown below.
+3.1 General Aims of the PDA/HNC Engineering Practice
+The general aims of the awards are to:
+3.1.1 Enhance candidates’ employment prospects
+3.1.2 support candidates’ Continuing Professional Development and career
+development
+3.1.3 enable progression within the SCQF (Scottish Credit and Qualifications
+Framework)
+3.1.4 develop candidates’ abilities to apply analysis skills to the solution of
+engineering and supervisory problems
+3.1.5 develop learning and transferable skills (including Core Skills).
+3.2 Specific Aims of the PDA/HNC Engineering Practice
+The specific aims of the awards are to:
+3.2.1 provide awards that will allow candidates to work now, or in the future, at
+advanced engineering craft and supervisory level in an engineering
+environment.
+3.2.2 provide awards that create a route towards meeting the academic
+requirements for Engineering Technician and Incorporated Engineer status.
+3.2.3 develop awards that on successful completion will allow candidates to
+progress to a relevant HNC/HND Engineering or further qualifications in a
+supervisory or management area.
+3.2.4 develop a range of Communication knowledge and skills relevant to the
+needs of advanced engineering craft persons and engineering supervisors.
+Arrangements Document: PDA/HNC Engineering Practice 7
+3.2.5 on successful completion of the HNC Engineering Practice award, achieve
+the Core Skill of Communication at Higher level. Candidates will also be
+provided with opportunities to develop the following Core Skills:
+Information and Communication Technology, Numeracy, Problem Solving
+and Working with Others.
+3.2.6 develop knowledge, understanding and skills in advanced engineering craft
+principles and technologies in fabrication and welding or engineering
+manufacture or engineering maintenance or electrical engineering.
+3.2.7 provide for a degree of specialisation at advanced craft level in fabrication
+and welding or engineering manufacture or engineering maintenance or
+electrical engineering.
+3.2.8 develop knowledge, understanding and skills to undertake the role of an
+engineering supervisor in an engineering business environment.
+Arrangements Document: PDA/HNC Engineering Practice 8
+3.3 How the General Aims are met in the PDA/HNC Engineering Practice Structures and Content
+Aim No. How it is met in the PDA/HNC Engineering Practice
+3.1.1 Advanced Certificate/HNC Engineering Practice (re-titled PDA/HNC Engineering Practice) awards have for a
+number of years equipped candidates to seek employment as advanced craft persons and/or supervisors in a wide
+range of industrial, service and public sector organisations. There are a large number of people (approx 23, 000)
+working as skilled tradespersons in the engineering industry. The PDA/HNC Engineering Practice awards have been
+designed to meet many of the education and training needs of such individuals.
+3.1.2 There has been a long tradition of candidates in employment taking HNC Engineering awards on a part-time basis
+to increase their knowledge, understanding and skills in a branch of Engineering and, thus, enhance their technical
+education and career development. The PDA/HNC Engineering Practice awards provide a very important route for
+those candidates who wish to enhance their knowledge, understanding and skills in advanced engineering crafts and
+engineering supervisory skills. More specifically the Unit Engineering Supervision: Teamworking and Continuing
+Professional Development within the HNC Engineering Practice award allows some of the key issues associated
+with being an engineering supervisor to be explored and on the basis of their understanding of these issues allows
+candidates to develop a Continuous Professional Development Action Plan with a view to developing their
+supervisory and other knowledge and skills over the following three to five years of their career. CPD action
+planning has been introduced in this Unit to encourage candidates to engage in the CPD process throughout the
+whole of their careers.
+Arrangements Document: PDA/HNC Engineering Practice 9
+Aim No. How it is met in the PDA/HNC Engineering Practice
+3.1.3 All Units within the PDA/HNC Engineering Practice awards have been levelled at SCQF levels 6, 7 or 8. The new
+awards also conform to the SQA levelling requirements for PDA/HNC awards.
+3.1.4 The nature of the Engineering discipline lends itself to the development of analysis skills. For example, such skills
+are required by candidates when solving electrical circuit problems or a lighting design, or when solving mechanical
+engineering problems or when working on a fabrication design. Analysis skills are also required at HNC
+Engineering Practice level when, for example, analysing quality costs or reviewing the role of an engineering
+supervisor in different scenarios.
+3.1.5 The new PDA/HNC Engineering Practice awards provide centres with an opportunity to enhance learning skills not
+least by creating opportunities for candidates to combine theory and practice to achieve a real understanding of a
+subject. For example, the core engineering Units recommend significant use of practical work and/or computer
+simulation to reinforce learning. It is also anticipated that centres will use innovative delivery approaches that may
+make use of engineering laboratory/workshop equipment and/or on-line delivery and/or Virtual Learning
+Environments to enhance candidate learning. Industrial visits are also highly recommended to consolidate learning
+in the centre.
+By their very nature Engineering courses require the transfer of technical knowledge and skills from one area to
+another. This is particularly the case with the PDA/HNC Engineering Practice awards where candidates are often
+required to transfer their knowledge of craft engineering principles and technologies from one area to the solution of
+problems in another area of engineering. Candidates will also have an opportunity to use the Communication
+knowledge and skills developed in the mandatory core HN Unit in other parts of the awards to support such
+activities as report writing and working in groups. Core Skills in general, and problem solving in particular, were
+regarded as very important by the QDT since it is recognised that a good level of competence in these is essential in
+the work of advanced craft persons and engineering supervisors.
+Arrangements Document: PDA/HNC Engineering Practice 10
+3.4 How the Specific Aims are met in the PDA/HNC Engineering Practice Structure and Content
+Aim No. How it is met in the PDA/HNC Engineering Practice
+3.2.1 Advanced Certificate/HNC Engineering Practice awards have been recognised for a number of years by employers
+and other stakeholders of these awards as appropriate qualifications for persons wishing to work at advanced craft
+and engineering supervisory levels in an engineering business environment. Market research indicates that there is
+still a solid demand for people with advanced engineering craft and supervisory skills in Scottish companies. Thus,
+it is confidently anticipated that those achieving the PDA/HNC Engineering Practice awards will find employment
+as skilled tradespersons or supervisors in a wide range of small, medium and large companies.
+3.2.2
+and
+3.2.3
+The QDT has been advised by the Institution of Engineering and Technology (IET)/The Institution of Mechanical
+Engineers (IMechE) that a PDA/HNC Engineering Practice award partially meets their academic requirements for
+registration as an Incorporated Engineer and may meet fully their academic underpinning requirements for
+registration as an Engineering Technician.
+The QDT was informed by university staff that an Advanced Certificate/HNC Engineering Practice is unlikely to
+give any advanced standing with engineering degree course although studying at 1st year degree level may be a
+possibility. Candidates may have to do additional Mathematics along with their PDA/HNC Engineering Practice to
+gain entry to the first year of a degree course. Alternatively candidates may wish to pursue further studies by
+undertaking an appropriate HNC/HND Engineering qualification. A PDA/HNC Engineering Practice will provide
+some credit transfer opportunities towards such awards, the precise nature of which will depend on the HN
+Engineering award the candidate wishes to study. Following on from the HNC Engineering Practice award
+candidates may wish to pursue supervisory or management qualifications to further their careers as supervisors or
+managers. Individual centres will be able to provide information on what supervisory or management
+qualifications are available at the centre.
+Arrangements Document: PDA/HNC Engineering Practice 11
+Aim No. How it is met in the PDA/HNC Engineering Practice
+3.2.4 Market research information gathered through various consultations indicates that there continues to be solid
+support for the inclusion of a distinct Communication Unit in the mandatory core of HNC Engineering Practice
+award. The benefit of having a separate Communication Unit is that it significantly improves the prospect of
+sufficient attention being given to the teaching of this key skills area. A separate Unit also makes it possible to
+ensure that the Communication Core Skill at Higher level is fully embedded within the HNC Engineering Practice
+award. Award designers considered this a more appropriate way to ensure that this Core Skill is included in the
+HNC than trying to embed such a Core Skill across, say, a range of engineering Units. It should also be noted that
+opportunities to develop the Communication Core Skill are signposted in a number of the Units in the PDA/HNC
+Engineering Practice awards.
+3.2.5 As noted above, the Communication Core Skill at Higher level has been incorporated into the HNC Engineering
+Practice award through the mandatory core Unit, Communication: Practical Skills.
+Opportunities to develop the Core Skills Numeracy, Information and Communication Technology, Problem
+Solving and Working with Others are signposted within individual Unit specifications. Candidates may achieve the
+Information and Communication Technology Core Skills at Higher level if they take the Unit Information
+Technology: Applications Software 1 in the optional sections of the PDA awards. The Core Skill component
+Using Number can be obtained if a candidate successfully achieves either the Mathematics for Engineering 1:
+Electronic and Electrical or Mathematics for Engineering 1: Mechanical and Manufacturing within the optional
+section of the HNC Engineering Practice.
+Arrangements Document: PDA/HNC Engineering Practice 12
+Aim No. How it is met in the PDA/HNC Engineering Practice
+3.2.6 Candidates will be provided with opportunities to develop knowledge, understanding and skills in a range of
+engineering craft principles and technologies by undertaking the mandatory Units in a PDA relevant to their area
+of employment or interest. For example, by undertaking the PDA in Engineering Practice: Fabrication and
+Welding at SCQF level 7 candidates will be able to develop knowledge, understanding and skills about welding
+principles and applications, container design and manufacture, inspection systems and steelwork preparation,
+joining and assembly. Candidates undertaking a PDA in Engineering Practice: Engineering Manufacture at SCQF
+level 7 will have the opportunity to develop knowledge, understanding and skills in mechanical engineering
+principles, CAD, CNC and engineering measurement. Candidates studying a PDA in Engineering Practice:
+Engineering Maintenance at SCQF level 7 will have the opportunity to develop knowledge, understanding and
+skills in plant systems services and utilities, mechanical engineering principles and industrial plant maintenance.
+Candidates taking a PDA in Engineering Practice: Electrical Engineering at SCQF level 7 will be able to develop
+knowledge, understanding and skills in electrical engineering principles, use of electrical instruments and
+electrical motors and motor starting.
+3.2.7 Each of the four new PDAs also has an optional section where candidates can choose Units relevant to their area
+of employment, and/or future career or educational development.
+3.2.8 The HNC Engineering Practice has been designed to allow candidates to develop much of the knowledge,
+understanding and skills they require to be an engineering supervisor. Candidates will be able to study such
+subjects as the role of an engineering supervisor in an organisation, effective team working and team leadership,
+constructing a CPD action plan, identifying the differences between Quality Control and Quality Assurance,
+explaining the stages in obtaining ISO 9000, selecting and applying quality improvement tools, applying quality
+cost models and applying Value Engineering techniques to engineering products or processes or services.
+Candidates will also be able to choose one Unit credit from the optional section of the HNC Engineering Practice
+from the following range of subjects: Production Planning and Control, Engineering Supervision: Staff and Budget
+Issues, Mathematics, Workplace Communication in English or Personal Development Planning.
+Arrangements Document: PDA/HNC Engineering Practice 13
+4 Access to the awards
+4.1 Access requirements
+The same admission requirements apply to the PDA/HNC Engineering Practice
+awards as applied to the Advanced Certificate/HNC Engineering Practice awards.
+Admission to a PDA/HNC Engineering Practice award should be based on a broad
+approach to candidate selection but, at the same time, should ensure that candidates
+are chosen who have the potential and ability to complete the awards successfully.
+To this end, the following are simply recommendations and should not be seen as a
+definitive or prescriptive list of entry requirements. Their purpose is simply to give
+guidance on the selection of candidates. It is recommended that candidates should
+possess the qualifications in one of the following categories:
+• One Higher from Physics, Technological Studies or Mathematics and at least
+three Standard Grades 1–2/Intermediate 2 passes including Mathematics,
+Physics/Technological Studies and English.
+• An appropriate National Certificate Group Award in Engineering Practice or
+Engineering* (eg for candidates wishing to study a PDA in Engineering
+Practice: Engineering Manufacture it is recommended that they possess a
+National Certificate in Engineering Practice or Engineering. Likewise it is
+recommended that for candidates wanting to study a PDA in Engineering
+Practice: Electrical Engineering that they have achieved a National Certificate
+in Electrical Engineering Practice or Electrical Engineering).
+• Qualifications comparable to the above, gained through other awarding bodies
+such as City and Guilds, Edexcel etc.
+• At the discretion of the Principal of the presenting centre for applicants with a
+different experiential background who could benefit from taking the course or
+Units within the course, eg adult returners, overseas students with relevant
+work experience.
+4.2 Recommended Core Skills Entry Level
+The recommended Core Skills Entry levels for both the PDA/HNC Engineering
+Practice awards are as follows:
+• Communication Intermediate 2
+• Information and Communication Technology Intermediate 2
+• Numeracy Intermediate 2
+• Problem Solving Intermediate 2
+• Working with Others Intermediate 1
+Arrangements Document: PDA/HNC Engineering Practice 14
+4.3 Alternative Access Arrangements
+The presenting centre may operate alternative access arrangements in cases where
+the candidate is convinced that he/she already has the required competences in a
+given area. These arrangements are as follows:
+• Assessment on demand
+• Credit transfer
+• Accreditation of prior learning
+• Relevant work experience
+Individual presenting centres will require to outline their systems for each of these
+as a part of any approval procedure.
+4.4 Candidates who have English as an additional language
+A Unit entitled Workplace Communication in English has been included in the
+optional section of the HNC Engineering Practice for those candidates for whom
+English is an additional language.
+*Since developing the revised Advanced Certificate/HNC Engineering Practice
+awards in 2005-06 SQA has developed the following new National Qualification
+Group Awards (NQGA) in Engineering:
+National Certificate in Electrical Engineering at SCQF level 5
+National Certificate in Electronic Engineering at SCQF level 5
+National Certificate in Fabrication and Welding Engineering at SCQF level 5
+National Certificate in Mechanical Maintenance Engineering at SCQF level 5
+National Certificate in Manufacturing Engineering at SQCF level 5
+National Certificate in Aeronautical Engineering at SCQF level 6
+National Certificate in Electrical Engineering at SCQF level 6
+National Certificate in Electronic Engineering at SCQF level 6
+National Certificate in Fabrication and Welding Engineering at SCQF level 6
+National Certificate in Manufacturing Engineering at SCQF level 6
+National Certificate in Measurement and Control Engineering at SCQF level 6
+National Certificate in Mechanical Engineering at SCQF level 6
+These new National Certificate awards have been designed to replace the existing
+National Certificates in Engineering Practice and Engineering. Centres have begun
+offering the new awards as from session 2009/10. All centres must offer the new
+National Certificate awards from session 2010/11. Table 4.1 shows articulation
+routes between the new National Certificates and PDA/HNC Engineering awards.
+Arrangements Document: PDA/HNC Engineering Practice 15
+Table 4.1: Articulation routes between the new National Certificates in Engineering and PDA/HNC Engineering Practice awards
+New NC in Engineering PDA/HNC Awards
+National Certificate in Electrical Engineering at SCQF level 5 PDA in Engineering Practice: Electrical Engineering at SCQF level 7 and
+HNC Engineering Practice
+National Certificate in Electronic Engineering at SCQF level 5 PDA in Engineering Practice: Electrical Engineering at SCQF level 7and
+HNC Engineering Practice
+National Certificate in Fabrication and Welding Engineering at SCQF level 5 PDA in Engineering Practice: Fabrication and Welding at SCQF level 7
+and HNC Engineering Practice
+National Certificate in Manufacturing Engineering at SCQF level 5 PDA in Engineering Practice: Engineering Manufacture at SCQF level 7
+and HNC Engineering Practice
+National Certificate in Mechanical Maintenance Engineering at SCQF level 5 PDA in Engineering Practice: Engineering Maintenance at SCQF level 7
+and HNC Engineering Practice
+Arrangements Document: PDA/HNC Engineering Practice 16
+5 Awards structure
+No changes have been made to the structure or Unit contents when converting the
+Advanced Certificate/HNC Engineering Practice awards into the PDA/HNC
+Engineering Practice awards.
+The overarching PDA/HNC Engineering Practice award structure is illustrated in
+block diagram form in Figure 5.1.
+Each of the four PDA comprise of the following:
+• four mandatory Unit credits plus two optional Unit credits
+The HNC Engineering Practice consists of the Units making up the appropriate
+PDA plus:
+• five mandatory Unit credits plus one optional Unit credit
+Arrangements Document: PDA/HNC Engineering Practice 17
+Fig 5.1 — PDA/HNC Engineering Practice Structure
+HNC Engineering Practice
+(Year 2)
+PDA in Engineering
+Practice: Engineering
+Manufacture (Year 1)
+PDA in Engineering
+Practice: Engineering
+Maintenance (Year1)
+PDA in Engineering
+Practice: Fabrication
+and Welding (Year 1)
+Arrangements Document: PDA/HNC Engineering Practice 18
+5.1 Framework
+5.1.1 PDA in Engineering Practice: Fabrication and Welding 6 Unit credits
+Group Award Code — G9MT 47
+Mandatory Units (4 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Welding Principles and
+Applications: 1
+DR2G 34 8 7 1
+Containers: Design and
+Manufacture
+DR23 34 8 7 1
+Inspection Systems DR26 34 8 7 1
+Fabrication: Preparation, Joining
+and Assembly
+DR2C 34 8 7 1
+Optional Units (2 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Mechanical Engineering Principles DV9G 34 8 7 1
+Computer Aided Draughting for
+Engineers
+DR1X 34 8 7 1
+Safety Engineering and the
+Environment
+DR2D 34 8 7 1
+Advanced Pattern Development:
+An Introduction
+DV9H 33 8 6 1
+Welding Procedures:
+Specification, Qualification and
+Testing
+DR24 34 8 7 1
+Materials Selection DT46 34 8 7 1
+Electrical Engineering Principles 1 DW6W 33 8 6 1
+Information Technology:
+Applications Software 1
+D75X 34 8 7 1
+Computer Programming J0HA 34* 8 7 1
+Data Security J0H9 34* 8 7 1
+Arrangements Document: PDA/HNC Engineering Practice 19
+5.1.2 PDA in Engineering Practice: Engineering Manufacture 6 Unit credits
+Group Award Code — G9MP 47
+Mandatory Units (4 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Mechanical Engineering Principles DV9G 34 8 7 1
+Computer Aided Draughting for
+Engineers
+DR1X 34 8 7 1
+CNC DT5P 34 8 7 1
+Engineering Measurement DT9R 34 8 7 1
+Optional Units (2 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Computer Integrated Manufacture DW8G 34 8 7 1
+Safety Engineering and the
+Environment
+DR2D 34 8 7 1
+Alternative Machining Operations DW6V 34 8 7 1
+Materials Selection DT46 34 8 7 1
+Pneumatics and Hydraulics DT9X 34 8 7 1
+Electrical Engineering Principles 1 DW6W 33 8 6 1
+Information Technology:
+Applications Software 1
+D75X 34 8 7 1
+Computer Programming J0HA 34* 8 7 1
+Data Security J0H9 34* 8 7 1
+Arrangements Document: PDA/HNC Engineering Practice 20
+5.1.3 PDA in Engineering Practice: Engineering Maintenance 6 Unit credits
+Group Award Code — G9MV 47
+Mandatory Units (4 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Plant Systems: Services DW7M 34 8 7 1
+Plant Systems: Utilities DW7N 34 8 7 1
+Mechanical Engineering Principles DV9G 34 8 7 1
+Industrial Plant Maintenance DN40 34 8 7 1
+Optional Units (2 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Pneumatics and Hydraulics DT9X 34 8 7 1
+Engineering Systems Interfaced
+with Programmable Logic
+Controllers
+DW8N 34 8 7 1
+Engineering Measurement DT9R 34 8 7 1
+Computer Aided Draughting for
+Engineers
+DR1X 34 8 7 1
+Safety Engineering and the
+Environment
+DR2D 34 8 7 1
+Electrical Engineering Principles 1 DW6W 33 8 6 1
+Information Technology:
+Applications Software 1
+D75X 34 8 7 1
+Applications of Programmable
+Logic Controllers
+DG31 34 8 7 1
+Computer Programming J0HA 34* 8 7 1
+Data Security J0H9 34* 8 7 1
+Arrangements Document: PDA/HNC Engineering Practice 21
+5.1.4 PDA in Engineering Practice: Electrical Engineering 6 Unit credits
+Group Award Code — G9MR 47
+Mandatory Units (4 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Electrical Engineering Principles 1 DW6W 33 8 6 1
+Electrical Engineering Principles 2 DW6X 34 8 7 1
+Application of Electrical and
+Electronic Instruments
+DN48 33 8 6 1
+Electrical Motors and Motor
+Starting
+DV9M 34 8 7 1
+Optional Units (2 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Electrical Safety DN4L 34 8 7 1
+Inspection and Testing of Low
+Voltage Electrical Installations
+DN41 34 8 7 1
+Electrical Design Systems: An
+Introduction
+DV9J 34 8 7 1
+Electrical Installation Design
+(Computer Aided): An
+Introduction
+DV9K 34 8 7 1
+Lighting Design in Buildings DV9L 34 8 7 1
+Applications of Programmable
+Logic Controller
+DG31 34 8 7 1
+Mechanical Engineering Principles DV9G 34 8 7 1
+Fundamental Electronic
+Components, Devices and
+Applications
+DW8F 33 8 6 1
+Industrial Plant Maintenance DN40 34 8 7 1
+Arrangements Document: PDA/HNC Engineering Practice 22
+PDA in Engineering Practice: Electrical Engineering (continued)
+Unit Title Code SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Plant Systems: Utilities DW7N 34 8 7 1
+Information Technology:
+Applications Software 1
+D75X 34 8 7 1
+Engineering Systems Interfaced
+with Programmable Logic
+Controllers
+DW8N 34 8 7 1
+Computer Programming J0HA 34* 8 7 1
+Data Security J0H9 34* 8 7 1
+5.1.5 HNC Engineering Practice (6 credits)
+Group Award Code — G86L 15
+Mandatory Units (5 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Communication: Practical Skills H7MB 34* 8 7 1
+Engineering Supervision:
+Teamworking and Continuing
+Professional Development
+DW71 34 8 7 1
+Quality Management: An
+Introduction
+DT8Y 34 8 7 1
+Value Engineering DW7K 34 8 7 1
+Engineering Practice: Graded
+Unit 1
+DW92 34 8 7 1
+*Refer to History of Changes for revision changes.
+Arrangements Document: PDA/HNC Engineering Practice 23
+Optional Units (1 credits)
+Unit Title Code
+SCQF
+credit
+points
+SCQF
+level
+SQA
+credit
+value
+Engineering for Mathematics 1 H7K0 33* 8 6 1
+Engineering Supervision: Staff and
+Budget Issues
+DW7R 34 8 7 1
+Production Planning and Control H1KS 35* 8 8 1
+Workplace Communication in
+English
+H8T2 33* 8 6 1
+Personal Development Planning DE3R 34 8 7 1
+Computer Programming J0HA 34* 8 7 1
+Data Security J0H9 34* 8 7 1
+*Refer to History of Changes for revision changes.
+Arrangements Document: PDA/HNC Engineering Practice 24
+5.2 Conditions of the Award
+The conditions for the award of a PDA/HNC Engineering Practice are as follows:
+PDA in Engineering Practice: Fabrication and Welding at SCQF level 7
+A candidate will be awarded a PDA in Engineering Practice: Fabrication and
+Welding at SCQF level 7 on successful completion of the four Unit credits in the
+mandatory Section of 5.1.1 together with any two Unit credits from the optional
+Section of 5.1.1.
+PDA in Engineering Practice: Engineering Manufacture at SCQF level 7
+A candidate will be awarded a PDA in Engineering Practice: Engineering
+Manufacture at SCQF level 7 on successful completion of the four Unit credits in
+the mandatory Section of 5.1.2 together with any two Unit credits from the optional
+Section of 5.1.2.
+PDA in Engineering Practice: Engineering Maintenance at SCQF level 7
+A candidate will be awarded a PDA in Engineering Practice: Engineering
+Maintenance at SCQF level 7 on successful completion of the four Unit credits in
+the mandatory Section of 5.1.3 together with any two Unit credits from the optional
+Section of 5.1.3.
+PDA in Engineering Practice: Electrical Engineering at SCQF level 7
+A candidate will be awarded a PDA in Engineering Practice: Electrical Engineering
+at SCQF level 7 on successful completion of the four Unit credits in the mandatory
+Section of 5.1.4 together with any two Unit credits from the optional Section of
+5.1.4.
+HNC Engineering Practice
+A candidate will be awarded an HNC Engineering Practice on successful
+completion of a PDA in Engineering Practice: Fabrication and Welding at SCQF
+level 7 or a PDA in Engineering Practice: Engineering Manufacture at SCQF level 7
+or a PDA in Engineering Practice: Engineering Maintenance at SCQF level 7 or a
+PDA in Engineering Practice: Electrical Engineering at SCQF level 7 and the
+successful achievement of the five mandatory Unit credits plus one Unit credit from
+the optional section of the HNC Engineering Practice award structure shown in
+Section 5.1.5.
+5.3 Core Skills Exit Profile
+PDAs in Engineering Practice
+None of the four PDAs have Core Skills, or Core Skill components, embedded in
+the mandatory core Units of the awards. However, there are opportunities for
+candidates to develop some of the Core Skills components as part of the delivery of
+the mandatory Units as identified in Table 6.1(a). Candidates who achieve the
+optional Information Technology: Applications Software 1 Unit will be awarded
+with the Using Information and Communication Technology Core Skills at Higher.
+Arrangements Document: PDA/HNC Engineering Practice 25
+Centre staff are asked to refer to individual optional Unit specifications for details of
+other Advanced Certificate Core Skill component development opportunities.
+HNC Engineering Practice
+A candidate who successfully achieves an HNC Engineering Practice will
+automatically obtain the following Core Skill:
+• Communication Higher (fully embedded in the Unit Communication: Practical
+Skills)
+Candidates who achieve either the Mathematics for Engineering 1: Electronic and
+Electrical or Mathematics for Engineering 1: Mechanical and Manufacturing Units
+will automatically be awarded the Core Skills component Using Number at Higher.
+Opportunities for candidates to develop Core Skills components as a part of the
+delivery of the HNC Engineering Practice are shown in Table 6.1(b).
+5.4 SCQF levels
+The four PDAs satisfy the PDA Design Principles as follows:
+All four awards are made up of more than 2 Unit credits (16 SCQF credit points)
+which, therefore, exceed the minimum requirement for PDA at SCQF levels 7–12 to
+be made up of a minimum of 16 SCQF credit points.
+All four PDAs have a mandatory and optional section which reflect the title of each
+award.
+The mandatory cores of the PDA in Engineering Practice: Fabrication and Welding;
+the PDA in Engineering Practice: Engineering Manufacture and the PDA in
+Engineering Practice: Engineering Maintenance are made up of four Unit credits at
+SCQF level 7. Since these mandatory cores represent more than half of the awards
+in terms of SCQF credit points (ie 32 credit points out of 48 credit points) these
+three awards automatically satisfy the PDA design principle that at least half of the
+SCQF credit points will be at the level of the Group Award.
+With regard to the PDA in Engineering Practice: Electrical Engineering two of the
+four Unit credits in the mandatory core are at SCQF level 7 while the other two Unit
+credits are at SCQF level 6. However, all Units in the optional section are at SCQF
+level 7 apart from one which is at SCQF level 6 so that even if a centre includes the
+level 6 Unit in its programme of study, the programme will still have three Unit
+credits (24 SCQF credit points) at SCQF level 7 which satisfies the PDA design rule
+that at least half of the SCQF credit points will be at the level of the Group Award.
+The five mandatory Unit credits within the HNC Engineering Practice (see Section
+5.1.5) are levelled at SCQF level 7, giving 40 SCQF level 7 points. All four PDA
+have as a minimum 2 Unit credits at SCQF level 7 within their mandatory sections
+corresponding to 16 SCQF level 7 points. Thus, any of the four PDA and the HNC
+Engineering Practice combined has at least 56 SCQF level 7 points which satisfies
+the HN Design Principle that an HNC should have a minimum of 48 credits at
+SCQF level 7.
+Arrangements Document: PDA/HNC Engineering Practice 26
+5.5 Mapping information
+Information on the way in which individual Units map into the aims of the awards
+can be found in the Tables in Sections 3.3 and 3.4.
+5.6 Articulation, professional recognition and credit transfer
+5.6.1 Articulation
+University staff indicated that the previous Advanced Certificate/HNC Engineering
+Practice awards carried no advanced standing with regard to university degree
+courses. In fact, it was commented that candidates may have to supplement the level
+of Mathematics they studied on an Advanced Certificate/HNC Engineering Practice
+award with an additional Mathematics Unit (s) before they would be able to enter a
+degree course. As the PDA/HNC Engineering Practice awards simply represent a
+change of title there is no reason to believe that universities will have changed their
+position regarding the entry status of the PDA/HNC Engineering Practice with
+respect to their degree programmes.
+Candidates successfully completing a PDA/HNC Engineering Practice award may
+alternatively pursue further studies through an appropriate HN Engineering
+qualification (eg HNC/D Electrical Engineering or HNC/HND Mechanical
+Engineering). A PDA/HNC Engineering Practice will provide some credit transfer
+opportunities towards such awards, the precise nature of which will depend on the
+HN Engineering award the candidate is pursuing. Following on from the HNC
+Engineering Practice award candidates may wish to pursue supervisory or
+management qualifications to further their careers as supervisors or managers.
+Individual centres will be able to provide information on what supervisory or
+management qualifications are available to candidates.
+5.6.2 Professional Body Recognition
+The Institution of Engineering and Technology (IET)/The Institution of Mechanical
+Engineers (IMechE) have advised that a PDA/HNC Engineering Practice award
+partially meets the underpinning knowledge and understanding requirements for
+registration as an Incorporated Engineer and may meet fully the underpinning
+knowledge and understanding requirements for registration as an Engineering
+Technician.
+5.6.3 Credit Transfer
+Credit transfer arrangements for Units in the PDA/HNC Engineering Practice award
+framework that have already been validated as part of previous HNC/HND Group
+Award validations are shown in the appropriate arrangements documents. Credit
+transfer arrangements between Units in the previous Advanced Certificate/HNC
+Engineering Practice and Units unique to the PDA/HNC Engineering Practice
+awards are shown in Table 5.6 on the following pages.
+Arrangements Document: PDA/HNC Engineering Practice 27
+Table 5.6: Credit Transfer Opportunities
+Existing
+Unit No.
+Existing Unit Title New Unit
+No.
+New Unit Title Level of Credit
+Transfer
+Comments
+D5R1 04 Alternative
+Machining Methods
+DW6V 34 Alternative
+Machining
+Operations
+70% High pressure water cutting and Rapid Manufacture
+missing in old Unit
+D5R9 05 Electromechanical
+Applications
+0% No equivalent Unit in new Practice Framework
+D5R0 04 Engineering
+Practice Science
+Applications
+DV9G 34 Mechanical
+Engineering
+Principles
+100%
+D5R7 04 Fault Finding in
+Electromechanical
+Systems
+0% No equivalent Unit in new Practice Framework
+D4HS 04 Fundamental
+Electrical and
+Electronic
+Principles
+DW6W 33 Electrical
+Engineering
+Principles 1
+50% O.1 in existing Unit on solution to dc circuit
+problems is equivalent to O.1 in the new Unit apart
+from the fact that Thevinin’s Theorem is not done to
+Electrical Engineering Principles 2.
+O.2 in the existing Unit on the solution of ac circuit
+problems is equivalent to O.4 in the new Unit apart
+from the fact that parallel ac circuits are not done
+until Electrical Engineering Principles 2.
+Arrangements Document: PDA/HNC Engineering Practice 28
+Table 5.6: Credit Transfer Opportunities (continued)
+Existing
+Unit No.
+Existing Unit Title New Unit
+No.
+New Unit Title Level of Credit
+Transfer
+Comments
+D5R4 04 Introduction to
+Advanced Pattern
+Development
+DV9H 33 Advanced Pattern
+Development: An
+Introduction
+100%
+D4KD 04 Plant Systems:
+Services
+DW7M 34 Plant Systems:
+Utilities
+40% O.1 to O.3 in existing Unit — no equivalent
+O.4 in existing Unit equivalent to O.3 on boilers in
+new Unit.
+O.5 in existing Unit equivalent to O.4 on
+commissioning in new Unit
+D4KC 04 Plant Systems:
+Utilities
+DW7N 34 Plant Systems:
+Utilities
+Plant Services:
+Services
+50%
+25%
+Pumps and fans and refrigeration systems common
+O.2 Outcome on compressed air systems equivalent
+to O.1 and O.2 on compressed air systems in
+new Unit
+O.4 on air-conditioning in old Unit — no equivalent
+Arrangements Document: PDA/HNC Engineering Practice 29
+Table 5.6: Credit Transfer Opportunities (continued)
+New Unit Title New Unit
+Code
+Old Unit Title Old Unit
+Code
+Credit Transfer Conditions
+Engineering Mathematics 1 H7K0 33 Mathematics for Engineering
+1:Electronics and Electrical
+DG4H 33 To gain credit transfer to the new unit candidates will
+have to provide additional evidence relating to functions
+as specified in the Evidence requirements in respect of
+the first three knowledge/skills in Outcome 1 and
+relating to vectors as specified in the first three
+knowledge/skills in outcome 3.
+Engineering Mathematics 1 H7K0 33 Mathematics for Engineering
+1:Mechanical and Manufacturing
+DT5X 33 To gain credit transfer to the new unit candidates will
+have to provide additional evidence relating to functions
+as specified in the Evidence requirements in respect of
+the first three knowledge/skills in Outcome 1 and relating
+to 3D vectors and complex numbers as specified in the
+knowledge/skills in outcome 3.
+Engineering Mathematics 2 H7K1 34 Mathematics for Engineering 2 DG4L 34 To gain credit transfer to the new unit candidates will
+have to provide additional evidence relating to
+trigonometric and hyperbolic functions as specified in
+the Evidence requirements in respect of Outcome 1.
+Arrangements Document: PDA/HNC Engineering Practice 30
+6 Approaches to delivery and assessment
+6.1 Delivery
+As mentioned in Section 2.3 the QDT were firmly of the view that the PDA/HNC
+Engineering Practice suite of awards are principally for candidates in employment
+and would, therefore, normally be studied by candidates who attend a centre on a
+day-release or other part-time basis. The PDA/HNC Engineering Practice award
+structures are sufficiently flexible enough to allow centres to deliver the awards by
+various modes of delivery for example, two-year day-release, evening attendance,
+block-release etc.
+Where centres decide to offer a PDA/HNC Engineering Practice on a full-time basis
+it is strongly recommended that candidates are provided with opportunities to take a
+number of practical engineering Units in conjunction with Units in the relevant
+award structure so that they can acquire some useful practical skills and gain some
+exposure to what it may be like working in a practical engineering environment (s).
+Centres are also encouraged to arrange a number of industrial visits for their
+candidates so that they can see some applications of subjects learnt on their course
+in practical engineering environments.
+With regard to timetabling centres may timetable a PDA and the HNC Engineering
+Practice in sequence (ie the six PDA Units first followed by the six HNC
+Engineering Practice Units) as illustrated in the first timetable for a PDA in
+Engineering Practice: Engineering Manufacture at SCQF level 7/HNC Engineering
+Practice in Appendix 1. Alternatively, centres may mix the timetabling of a PDA
+and HNC Engineering Practice Units to meet different candidate and employer
+needs as illustrated in the second timetable for the PDA in Engineering Practice:
+Electrical Engineering at SCQF level 7/HNC Engineering Practice in Appendix 1.
+Centres should take account of information contained in the Recommended Prior
+Knowledge and Skills statements in Unit specifications in sequencing the delivery
+of Units (eg it would be normal to deliver the Electrical Engineering Principles 1
+Unit before the Electrical Engineering Principles 2 Unit).
+Centres, working on their own or in partnership, might also wish to consider the
+following approaches to delivering the PDA/HNC Engineering Practice awards:
+• Identification and sharing of good candidate learning support materials on the
+internet
+• Use of the Internet by candidates to undertake more in-depth investigations in
+given subject areas
+• Development or purchase of paper based and/or electronic candidate learning
+support and assessment materials for individual Units (eg for certain optional
+Units)
+• Development of on-line Unit and Graded Unit assessment materials
+• Use of e-mentoring arrangements to support candidates who study at a distance
+One of the key reasons the QDT has sought to reduce the time candidates have to
+spend on summative Unit assessment is to provide lecturers with more time to
+deliver Units. Lecturers are encouraged, in particular, to use this additional time to
+reinforce learning in core engineering and supervisory concepts and principles and
+in the transfer of knowledge, understanding and skills across subject boundaries.
+Arrangements Document: PDA/HNC Engineering Practice 31
+Lecturers may use a variety of teaching and learning approaches in delivering the
+Units in the PDA/HNC Engineering Practice awards. These may include lecturing,
+group work, laboratory and practical work, computer simulation (using appropriate
+software packages), project work and case studies. The use of open and distance
+learning and on-line materials may help to supplement and support the learning that
+takes place in the classroom, laboratory or workshop.
+Lecturers should also seek opportunities to integrate Core Skills within their
+teaching and learning programmes. Such opportunities may include the following: -
+Communication
+• Providing candidates opportunities to develop their oral skills by allowing them
+to give full answers to questions asked by the lecturer
+• Developing complex, vocationally specific reading skills (eg Communication:
+Practical Skills.)
+• Developing report writing skills in a number of Units (eg Computer Aided
+Manufacture, Value Engineering)
+• Allowing candidates to develop their Communication skills in group work
+activities (eg Communication: Practical Skills, Engineering Supervision:
+Teamworking and Continuing Professional Development)
+Numeracy
+• Reinforcing Numeracy and Mathematical skills when teaching engineering
+principles (eg Mechanical Engineering Principles, Electrical Engineering
+Principles 1, Electrical Engineering Principles 2)
+• Reinforcing Using Graphical Information skills by use of a range of graphical
+representations (eg Electrical Installation Design (Computer Aided): An
+Introduction, Containers: Design and Manufacture)
+Information and Communication Technology
+• Develop Information and Communication Technology skills through the
+application of IT within engineering systems (eg Computer Aided Draughting
+for Engineers, Quality Management: An Introduction)
+Problem Solving Skills
+• Develop Critical Thinking Skills through the application of engineering
+concepts and principles to solve engineering systems (eg Lighting Design in
+Buildings, Value Engineering)
+• Develop Planning and Organisational Skills within an engineering and
+supervisory context (eg Industrial Plant Maintenance, Engineering Supervision:
+Teamworking and Continuing Professional Development)
+• Develop review and evaluation skills within an engineering and supervisory
+context (eg Inspection Systems, Value Engineering)
+Arrangements Document: PDA/HNC Engineering Practice 32
+Working with Others
+• Develop Working with Others skills through identifying approaches to
+developing high performance team and group discussions on the solution to
+engineering problems (eg Engineering Supervision: Teamworking and
+Continuing Professional Development, Containers: Design and Manufacture)
+Opportunities for candidates to develop some Core Skills components as part of the
+delivery of PDA mandatory Units are identified in Table 6.1(a). Likewise Core Skill
+component development opportunities within the HNC Engineering Practice are
+shown in Table 6.1(b). Centre staff are asked to refer to individual optional Unit
+specifications for details of other PDA/HNC Engineering Practice Core Skill
+component development opportunities.
+Arrangements Document: PDA/HNC Engineering Practice 33
+Table 6.1(a) PDA — Core Skills development opportunities in mandatory Units
+Note: CT = Critical Thinking: P and O = Planning and Organisation and R and E = Reviewing and Evaluating
+Unit Title Communication Numeracy Information and
+Communication
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using
+Information
+Technology
+CT P and O R and E Working with
+Others
+PDA in Engineering
+Practice: Fabrication
+and Welding
+Welding Principles and
+Applications 1
+Higher Higher Higher Higher
+Containers: Design and
+Manufacture
+Higher Higher Higher Higher Higher Higher Higher Higher Higher Intermediate 2
+Inspection Systems Higher Higher Higher Higher Higher Higher
+Fabrication: Steelwork
+Preparation, Joining and
+Assembly
+Higher Higher Higher Higher
+Arrangements Document: PDA/HNC Engineering Practice 34
+Table 6.1(a) PDA — Core Skills development opportunities in mandatory Units (continued)
+Unit Title Communication Numeracy Information and
+Communication
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P and O R and E Working with
+Others
+PDA in Engineering
+Practice: Engineering
+Manufacture
+Mechanical Engineering
+Principles
+Int. 2 Int. 2 Int. 2
+Computer Aided
+Draughting for
+Engineers
+Higher
+CNC Int. 2 Higher Higher
+Engineering
+Measurement
+Higher
+PDA in Engineering
+Practice: Engineering
+Maintenance
+Plant Systems: Service Higher Higher Higher
+Plant Systems: Utilities Higher Higher
+Arrangements Document: PDA/HNC Engineering Practice 35
+Table 6.1(a) PDA — Core Skills development opportunities in mandatory Units (continued)
+Unit Title Communication Numeracy Information and
+Communication
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using Information
+Technology
+CT P and O R and E Working with
+Others
+PDA in Engineering
+Practice: Engineering
+Maintenance
+(continued)
+Mechanical Engineering
+Principles
+Int. 2 Int. 2 Int. 2
+Industrial Plant
+Maintenance
+Higher Higher Int.2 Int. 2 Higher Higher Higher Int. 1
+PDA in Engineering
+Practice: Electrical
+Engineering
+Electrical Engineering
+Principles 1
+Int.2 Int.2
+Electrical Engineering
+Principles 2
+Higher Higher
+Applications of
+Electrical and Electronic
+Instruments
+Higher Int.2 Int.2 Int.2 Int.2
+Electrical motors and
+motor starting
+Int. 2 Higher
+Arrangements Document: PDA/HNC Engineering Practice 36
+Table 6.1(b) HNC Engineering Practice — Core Skills development opportunities in mandatory Units
+Note: CT = Critical Thinking: P and O = Planning and Organisation and R and E = Reviewing and Evaluating
+Unit Title Communication Numeracy Information and
+Communication
+Technology
+Problem Solving Working with
+Others
+Read Write Oral Using
+Number
+Using
+Graphical
+Inform.
+Using
+Information
+Technology
+CT P and O R and E Working with
+Others
+Communication: Practical
+Skills
+Higher
+Embed
+-ded
+Higher
+Embed
+-ded
+Higher
+Embed
+-ded
+Engineering Supervision:
+Team working and
+Continuing Professional
+Development
+Higher Higher Higher Higher Higher Higher Higher
+Quality Management: An
+Introduction
+Higher Higher Higher Higher
+Value Engineering Higher Higher Higher Higher Higher Higher
+Engineering Practice:
+Graded Unit 1
+Higher Higher Higher Higher
+Arrangements Document: PDA/HNC Engineering Practice 37
+6.2 Assessment
+6.2.1 Introduction
+From the outset of developments the QDT recognised the need to have an
+appropriate assessment strategy in place for the Advanced Certificate/HNC
+Engineering Practice (now re-titled PDA/HNC Engineering Practice) awards. Such
+a strategy was developed and is shown below:
+Aims
+The aims of the strategy are to ensure that:
+1 consistent, rigorous and efficient approaches are adopted to the development
+and administration of PDA/HN Engineering Practice assessment instruments at
+both Unit and Graded Unit levels, which satisfy nationally agreed standards;
+2 the assessment load on candidates and staff is sensible and that assessment does
+not unduly detract from teaching and learning;
+3 as far as possible reliable and rigorous moderation processes are put in place in
+order to ensure that consistent national standards are achieved for all
+PDA/HNC Engineering Practice assessments.
+Objectives
+Listed below are the measures that have been put in place to meet the aims:
+1 Develop nationally one assessment exemplar pack for the mandatory Units in
+each of the PDA and the HNC Engineering Practice that clearly sets out the
+standards of assessment expected in Units.
+2 Adopt a holistic approach to Unit assessment. The implications of this are as
+follows:
+i Assessment instruments will normally be designed only to sample
+knowledge and skills in a Unit (this is consistent with the new HN Unit
+format)
+ii A Unit assessment strategy will be adopted, where possible, to produce a
+single assessment instrument for the whole Unit. Where this is not possible
+the assessment strategy will seek to ensure that the minimum number of
+assessment instruments is required consistent with maintaining agreed
+national standards.
+3 Whilst not seeking to be entirely prescriptive with regard to the time spent on
+assessment in each HN Unit, over assessment should be avoided if the
+following guideline is adopted for the maximum time spent on HN Unit
+assessment:
+One and a half hours per Unit credit for HN Units at SCQF levels 6 and 7 and
+two hours per Unit credit for HN Units at SCQF level 8.
+Arrangements Document: PDA/HNC Engineering Practice 38
+4 Produce assessment exemplar packs for the Graded Unit. In addition, for the
+Graded Unit examination produce at least one sample exam paper to show the
+standards expected in such a paper
+5 Actively encourage centres to work in partnership in producing Graded Unit
+assessment materials, which meet nationally agreed standards reducing, in turn,
+the workload on staff in individual colleges.
+6 Ensure that consistent and rigorous internal and external moderation procedures
+operate through both HN Unit level and Graded Unit assessment processes.
+This places a clear responsibility on both centres and the SQA.
+As far as has been practical the above objectives have been adhered to when
+developing assessment exemplar and Graded Unit materials.
+6.2.2 Graded Units
+The purpose of the Graded Unit within the PDA/HNC Engineering Practice award
+structure is to assess the candidate’s ability to apply and integrate knowledge and/or
+skills gained within individual Units. By this means candidates will demonstrate that
+they have achieved the aims of the awards as detailed in Section 3. The Graded Unit
+also provides the means by which candidate achievement can be graded.
+PDA/HNC Engineering Practice candidates will undertake a one credit Graded Unit
+at SCQF level 7. This will be in the form of a 3-hour written examination.
+Engineering Practice: Graded Unit 1 — Examination
+The specifications for the Engineering Practice: Graded Unit 1 can be found on the
+SQA website (www.sqa.org.uk). The Graded Unit draws on the Outcomes in the
+mandatory sections of the relevant PDA and the HNC Engineering Practice award.
+The examination paper consists of the following two sections:
+Section A;
+Section B.
+Section A should be subdivided into up to four individual sub-sections to reflect the
+four different engineering disciplines candidates may have studied at PDA level:
+namely Fabrication and Welding, Engineering Manufacture, Engineering
+Maintenance and Electrical Engineering. Each sub-section should comprise of a
+suitable balance of between 8 to 12 short answer, restricted response and structured
+questions. Candidates should answer all questions in the relevant sub-section of
+Section A. Candidates should be able to score up to a maximum of 50% from the
+sub-section they have answered questions from.
+Section B should comprise of a Case Study based around the HNC Engineering
+Practice mandatory Units in which candidates have to answer questions on
+appropriate engineering supervisory issues and problems. All candidates,
+irrespective of which engineering discipline they have studied at PDA level, should
+answer all questions in Section B. The question paper associated with the Case
+Study should comprise of between 6 and 10 restricted response questions.
+Candidates should be able to score a maximum of 50% from Section B. Candidates
+Arrangements Document: PDA/HNC Engineering Practice 39
+should be given a copy of the Case Study only, a minimum of 14-days before they
+sit the examination.
+The examination should be conducted under closed-book, supervised conditions
+with candidates only being allowed to bring into the examination up to 3 sides of A4
+hand written notes they have prepared on the Case Study. These notes should be
+handed to the invigilator at the end of the examination. Candidates should be
+allowed to bring a scientific calculator into the examination.
+It is recommended that candidates do not sit the Graded Unit examination until the
+end of the PDA/HNC Engineering Practice programme of study given the range of
+Units that the Graded Unit draws on.
+6.2.3 Assessment Exemplar Materials
+Assessment exemplar packs have been produced for the following mandatory Units
+in the four PDAs and HNC Engineering Practice award.
+DR2G 34 Welding Principles and Applications: 1
+DR23 34 Containers: Design and Manufacture
+DR26 34 Inspection Systems
+DR26 34 Fabrication: Preparation, Joining and Assembly
+DV9G 34 Mechanical Engineering Principles
+DR1X 34 Computer Aided Draughting for Engineers
+DT5P 34 CNC
+DT9R 34 Engineering Measurement
+DW7M 34 Plant Systems: Services
+DW7N 34 Plant Systems: Utilities
+DN40 34 Industrial Plant Maintenance
+DW6W 33 Electrical Engineering Principles 1
+DW6X 34 Electrical Engineering Principles 2
+DN48 33 Application of Electrical and Electronic Instruments
+DV9M 34 Electrical Motors and Motor Starting
+D77G 34 Communication: Practical Skills
+DW71 34 Engineering Supervision: Teamworking and Continuing Professional
+Development
+DT8Y 34 Quality Management: An Introduction
+DW7K 34 Value Engineering
+An assessment exemplar pack and an additional sample examination paper have
+been produced for DW92 34 Engineering Practice: Graded Unit 1.
+6.2.4 Formative Assessment
+Formative assessment should be used throughout the delivery of Units to reinforce
+learning, build candidates’ confidence and prepare candidates for summative
+assessment.
+Arrangements Document: PDA/HNC Engineering Practice 40
+6.3 Resources
+Practical Resources
+Centre staff are advised to read individual Unit specifications carefully to identify
+the consumables, equipment and/or software requirements to deliver Units. Some
+Units have specific requirements. For example, the Computer Aided Draughting in
+Engineering and Electrical Installation Design (Computer Aided): An Introduction
+require candidates to use industrially specific software. The Computer Integrated
+Manufacture Unit requires candidates to be able to access CNC equipment.
+While not all Units require practical resources, centres are strongly recommended to
+provide candidates with access to practical workshop facilities appropriate to the
+particular PDA. For example, candidates undertaking the PDA in Engineering
+Practice: Fabrication and Welding at SCQF level 7 should have access to practical
+fabrication and welding facilities. Such access will allow candidates to relate the
+theory they are being taught to practice.
+When teaching subjects such as pumps, fans, electrical motors etc centres should
+allow candidates to view disassembled equipment so that they can gain a greater
+appreciation of the construction of these items of plant. A good chart or other visual
+aid showing the various parts of an item of plant can also be a very good teaching
+aid.
+The QDT strongly recommend the use of simulation software to support teaching
+and learning. However, the Team do not believe that such software should be used
+at the expense of practical workshop and laboratory activities. The Team strongly
+considers that such practical activities represent the best way for candidates to relate
+the theory they learn in the classroom to practical engineering.
+The QDT believe that there is a very rich and varied range of teaching and learning
+resources available to deliver individual PDA and HNC Engineering Practice Units.
+Such learning resources include textbooks, reports, papers, standards, CDs, DVDs
+and numerous sites on the Internets. Some centres may already have good learning
+resources in their learning libraries/Virtual Learning Environments. It is anticipated
+that the Qualification Support Team (QST) for the PDA/HNC Engineering Practice
+will provide a useful forum for the identification and sharing of learning resources.
+Continuing Professional Development
+The QDT are firmly of the view that active staff CPD is essential if the delivery and
+assessment of individual PDAs and HNC Engineering Practice Units are to be kept
+up to date, relevant and interesting. Staff CPD activities could be in subject areas
+such as the following (the list is not intended to be exhaustive):
+• Learning to use specialist engineering software
+• Modern manufacturing methods
+• New or revised standards and regulations
+• Issues relating to health and safety
+• Quality Control and Quality Assurance
+• Value Engineering
+• New teaching and assessment methodologies
+• E-learning
+Arrangements Document: PDA/HNC Engineering Practice 41
+6.4 Open and Distance Learning
+Advice on the use of open and distance learning is given in individual Unit
+specifications. However, where it is used with regard to assessment, planning would
+be required by the centre concerned to ensure the sufficiency and authenticity of
+candidate evidence. Arrangement would be required to be put in place to ensure that
+the assessment or assessments were conducted under the conditions specified in the
+Unit specification. For example, in the case of a Unit which involved a Unit end test
+a centre would have to make arrangements for the test to be conducted under
+controlled, supervised conditions. Likewise, where a Unit involves a practical based
+assessment, a centre would have to make arrangements for candidates to come into
+the centre, or another appropriate venue, to undertake the assessment under the
+conditions specified in the Unit specification.
+It should be noted that the same requirements as specified in the previous paragraph
+apply where part or all of a Unit is delivered on-line.
+7 General information for centres
+Candidates with disabilities and/or additional support needs
+The additional support needs of individual candidates should be taken into account
+when planning learning experiences, selecting assessment instruments, or
+considering alternative Outcomes for Units. Further advice can be found in the SQA
+document Guidance on Assessment Arrangements for Candidates with Disabilities
+and/or Additional Support Needs (www.sqa.org.uk).
+Internal and external moderation
+All instruments of assessment used within this/these Group Award(s) should be
+internally moderated, using the appropriate policy within the centre and the
+guidelines set by SQA.
+External moderation will be carried out by SQA to ensure that internal assessment is
+within the national guidelines for these qualifications.
+Further information on internal and external moderation can be found in SQA’s
+Guide to Assessment (www.sqa.org.uk).
+8 General information for candidates
+The new Professional Development Award (PDA)/HNC Engineering Practice
+awards have been designed by an expert team of educators and industrialists with a
+view to allowing you to meet the educational and training requirements to work as
+an advanced craftsperson and engineering supervisor. The new qualifications
+contain up-to-date and relevant engineering and supervisory subject content and
+skills and have also been designed to satisfy the new SQA PDA/Higher National
+Design Principles.
+The PDA/HNC Engineering Practice award structure consists of four, 6-credit PDAs
+in Fabrication and Welding or Engineering Manufacture or Engineering
+Maintenance or Electrical Engineering. Each of these four PDAs is at SCQF level 7.
+You should choose to study the PDA which best meets your employment and
+Arrangements Document: PDA/HNC Engineering Practice 42
+educational requirements. Regardless of which PDA you study, you will, along with
+other candidates, study the single 6-credit HNC Engineering Practice. To obtain a
+PDA you must successfully achieve the 6-credits in the relevant PDA award
+framework. To achieve an HNC Engineering Practice you must achieve a PDA and
+the 6-Unit credits in the HNC Engineering Practice.
+Studying a PDA will allow you to develop your knowledge, understanding and
+skills in your chosen advanced engineering craft discipline. Each PDA consists of a
+4-credit mandatory section and an optional section where you can choose two Unit
+credits from a range of Units to suit your employment and education needs. The
+mandatory sections of the four PDAs contain the subjects shown in the table below:
+PDA Subjects in Mandatory section
+PDA in Engineering Practice:
+Fabrication and Welding at SCQF
+level 7
+Welding principles and applications,
+container design and manufacture,
+inspection systems and fabrication
+steelwork preparation, joining and
+assembly
+PDA in Engineering Practice:
+Engineering Manufacture at SCQF level
+7
+Mechanical engineering principles, CAD,
+CNC and engineering measurement
+PDA in Engineering Practice:
+Engineering Maintenance at SCQF
+level 7
+Plant Systems: services and utilities,
+mechanical engineering principles and
+industrial plant maintenance.
+PDA in Engineering Practice:
+Electrical Engineering at SCQF level 7
+Electrical principles, applications of
+electrical and electronic instruments and
+electric motors and motor starting
+In the HNC Engineering Practice you will be provided with opportunities to develop
+much of the knowledge, understanding and skills to become an engineering
+supervisor. Five Unit credits in the HNC Engineering Practice are mandatory. These
+Units are Communication: Practical Skills, Engineering Supervision: Teamworking
+and Continuing Professional Development, Quality Management: An introduction,
+Value Engineering and the Engineering Practice examination. You will be able to
+choose one Unit in the HNC Engineering Practice from the following options:
+Mathematics (with either an electrical or mechanical bias), further supervisory
+studies in staffing and budget control, Production Planning and Control, Workplace
+Communication in English or Personal Development Planning.
+The teaching and learning processes that your lecturers are likely to use on a
+PDA/HNC Engineering Practice are as follows: lecturing, group work, practical
+engineering work, measurement and testing, computer simulation and project work.
+Industrial visits may also be included in your programme of study to allow you to
+see ‘real life’ engineering in action.
+Arrangements Document: PDA/HNC Engineering Practice 43
+The Qualifications Design Team has ensured that assessment in the awards meet
+national standards. The awards have been designed to optimise assessment so that
+sufficient time is available for you to learn the advanced engineering craft and
+supervisory knowledge and skills that are essential to being a good craft/trades
+person and engineer supervisor.
+You can expect to do assessment at individual Unit level and at qualification level.
+At Unit level assessments will normally consist of written tests and/or practical
+exercises which will include the preparation of reports. Your lecturer should tell you
+at the start of the Unit what form Unit assessment(s) will take. In addition to Unit
+assessment there will also be a 3-hour examination. This examination will be
+designed to assess you on your knowledge, understanding and skills in your chosen
+advanced craft area and in the HNC Engineering Practice award. You should ask
+your lecturer for more details about the composition of the examination paper and
+when you will sit it.
+The Qualification Design Team does not wish to place any artificial barriers in the
+way of potential candidates wanting to study a PDA/HNC Engineering Practice
+award. However, it would be unfair to enrol a candidate into a PDA/HNC who did
+not have a realistic chance of successfully achieving the awards. The Qualification
+Design Team would therefore recommend that a candidate had one of the following
+qualifications before entering a PDA/HNC Engineering:
+1 One Higher from Physics, Technological Studies or Mathematics and at least
+three Standard Grades 1–2/Intermediate 2 passes including Mathematics,
+Physics/Technological Studies and English.
+2 An appropriate National Certificate in Engineering Practice or Engineering or
+an appropriate National Certificate in Engineering at SCQF level 5.
+3 Equivalent qualifications or experience to those shown in (1) and (2).
+On completion of your PDA/HNC Engineering Practice award there may be
+opportunities for you to progress to a ‘Higher National technician qualification’ in,
+say, Mechanical or Electrical Engineering if that is what you prefer to do. Your
+PDA/HNC Engineering Practice qualification should provide you with some credit
+transfer opportunities towards the ‘technician HNC/HND.’ The precise nature of
+credit transfer will depend on the HNC/HND you decide to study.
+Alternatively, on completion of your PDA/HNC Engineering Practice award, you
+may decide to study a supervisory or management qualification. Many centres offer
+such qualifications and you are advised to obtain further information from centres
+on the range of supervisory or management qualifications they offer.
+Arrangements Document: PDA/HNC Engineering Practice 44
+9 Glossary of terms
+SCQF: This stands for the Scottish Credit and Qualification Framework, which is a
+new way of speaking about qualifications and how they inter-relate. We use SCQF
+terminology throughout this guide to refer to credits and levels. For further
+information on the SCQF visit the SCQF website at www.scqf.org.uk
+SCQF credits: One HN credit is equivalent to 8 SCQF credit points. This applies to
+all HN Units, irrespective of their level.
+SCQF levels: The SCQF covers 12 levels of learning. HN Units will normally be at
+levels 6–9. Graded Units will be at level 7 and 8.
+Subject Unit: Subject Units contain vocational/subject content and are designed to
+test a specific set of knowledge and skills.
+Graded Unit: Graded Units assess candidates’ ability to integrate what they have
+learned while working towards the Units of the Group Award. Their purpose is to
+add value to the Group Award, making it more than the sum of its parts, and to
+encourage candidates to retain and adapt their skills and knowledge.
+Dedicated Core Skill Unit: This is a Unit that is written to cover one or more
+particular Core Skills, eg HN Units in Information Technology or Communications.
+Embedded Core Skills: This is where the development of a Core Skill is
+incorporated into the Unit and where the Unit assessment also covers the
+requirements of Core Skill assessment at a particular level.
+Signposted Core Skills: This refers to the opportunities to develop a particular
+Core Skill at a specified level that lie outwith automatic certification.
+Qualification Design Team: The QDT works in conjunction with a Qualification
+Manager/Development Manager to steer the development of the HNC/D from its
+inception/revision through to validation. The group is made up of key stakeholders
+representing the interests of centres, employers, universities and other relevant
+organisations.
+Consortium-devised HNCs and HNDs are those developments or revisions
+undertaken by a group of centres in partnership with SQA.
+Specialist single centre and specialist collaborative devised HNCs and HNDs
+are those developments or revisions led by a single centre or small group of centres
+who provide knowledge and skills in a specialist area. Like consortium-devised
+HNCs and HNDs, these developments or revisions will also be supported by SQA.
+10 Appendix
+Appendix 1: Sample Teaching Timetables
+See following pages for Appendix 1.
+Arrangements Document: PDA/HNC Engineering Practice 45
+Appendix 1: Sample Teaching Timetables
+1 Two year part-time PDA in Engineering: Engineering Manufacture at SCQF level
+7/HNC Engineering Practice
+2 Two year part-time PDA in Engineering: Electrical Engineering at SCQF level
+7/HNC Engineering Practice
+Arrangements Document: PDA/HNC Engineering Practice 46
+Two Year, Part-Time PDA in Engineering Practice: Engineering Manufacture/HNC Engineering
+Practice
+First Year, First Semester
+Mechanical Engineering
+Principles
+Computer Aided Draughting
+for Engineers
+Options 1 (from the PDA in
+Engineering: Engineering
+Manufacture options)
+First Year, Second Semester
+Engineering Measurement CNC Options 2 (from the PDA in
+Engineering: Engineering
+Manufacture options)
+Arrangements Document: PDA/HNC Engineering Practice 47
+Two Year, Part-Time PDA in Engineering Practice: Engineering Manufacture/HNC Engineering
+Practice (cont.)
+Second Year, First Semester
+Communication: Practical Skills Engineering Supervision:
+Teamworking and Continuing
+Professional Development
+Quality Management:
+An Introduction
+Second Year, Second Semester
+Value Engineering Optional Unit (from the HNC
+Engineering Practice options)
+Engineering Practice:
+Graded Unit 1
+Arrangements Document: PDA/HNC Engineering Practice 48
+Two Year, Part-Time PDA in Engineering Practice: Electrical Engineering/HNC Engineering Practice
+First Year, First Semester
+Communication: Practical Skills Mathematics for Engineering 1:
+Electronic and Electrical (HNC
+Engineering Practice options)
+Electrical Engineering
+Principles 1
+First Year, Second Semester
+Application of Electrical and
+Electronic Instruments
+Electrical Motors and Motor
+Starting
+Electrical Engineering
+Principles 2
+Arrangements Document: PDA/HNC Engineering Practice 49
+Two Year, Part-Time PDA in Engineering Practice: Electrical Engineering/HNC Engineering Practice
+(cont.)
+Second Year, First Semester
+Engineering Supervision:
+Teamworking and Continuing
+Professional Development
+Quality Management:
+An Introduction
+Option 1 (from the PDA in
+Engineering Practice: Electrical
+Engineering options)
+Second Year, Second Semester
+Value Engineering Option 2 (from the PDA in
+Engineering Practice: Electrical
+Engineering options)
+Engineering Practice:
+Graded Unit 1 
+•	Home
+•	SVQ - Scottish Vocational Qualifications > Subjects > Oil & Gas > Process Engineering Maintenance (Electrical) SCQF level 7 lapsing
+SVQ Process Engineering Maintenance (Electrical) SCQF level 7
+SVQ Process Engineering Maintenance (Electrical) at SCQF level 7.
+This group award has been replaced.
+•	It entered its lapsing period on: 31/01/2021
+•	It finishes on 31/01/2025
+The Scottish Vocational Qualification (SVQs) in Process Engineering Maintenance provide skills and knowledge in the maintenance and operation of process engineering plant and equipment for the oil and gas extraction, chemicals manufacturing and petroleum industries. The SVQs have been developed in partnership with Cogent and Opito and identify competences specific to each of the maintenance disciplines: Electrical, Instruments, and Mechanical.
+These SVQs are available through OPITO and sector-specific employers.
+Use the tabs below to open each section individually. Alternatively you can show all the sections.
+Why deliver this qualification
+Who does this qualification suit
+Progression
+Approval
+How to assess
+Where can you take this course?
+Qualification content and delivery tools
+Information about the qualification(s)
+Qualification Structure
+National Occupational Standards
+Modern Apprenticeships
+Information about delivery, assessment, quality assurance and support material 
+Assessment strategy
+Assessor's guidelines
+•	PB5931 - Assessor's Guidelines for SVQ Process Engineering Maintenance: Electrical/Instrument and Control/Mechanical  (944 KB)
+Candidate Guidance and Portfolio
+•	
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem		1:21 PM (8 minutes ago)
+
+Message blocked Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address rejected: Acc
+
+ 
+Mail Delivery Subsystem		1:21 PM (8 minutes ago)
+
+Message blocked Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 550 5.4.1 Recipient address reject
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	1:27 PM (2 minutes ago)
+
+	
+	
+to enquiries.policejobs, careerhelp, questionpapper, permissions, noreply 
+ 
+
+Next Generation Higher National Unit
+Specification
+Electrical Engineering: Utilisation of Electrical
+Power, Transmission Lines and Complex Wav
+(SCQF level 8)
+es
+Unit code: J7BV 48
+SCQF level: 8 (24 SCQF credit points)
+Valid from: session 2023–24
+Prototype unit specification for use in pilot delivery
+only (version 1.0) November 2023
+This unit specification provides detailed information about the unit to ensure consistent and
+transparent assessment year on year.
+This unit specification is for teachers and lecturers and contains all the mandatory
+information required to deliver and assess the unit.
+The information in this unit specification may be reproduced in support of SQA qualifications
+only on a non-commercial basis. If it is reproduced, SQA must be clearly acknowledged as
+the source. If it is to be reproduced for any other purpose, written permission must be
+obtained from permissions@sqa.org.uk.
+This edition: November 2023 (version 1.0)
+© Scottish Qualifications Authority 2023
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+1
+Unit purpose
+This unit provides learners with knowledge and understanding of the application of electrical
+power utilisation systems. It covers:
+ the demands, sources and construction of electrical power generation and distribution
+systems
+ interconnections of power systems and their protection to explain the critical processes
+and the effects of failure and the importance of electrical safety
+ the characteristics of transmission lines
+ the performance of a transmission line with a matched termination
+ the performance of a transmission line with various terminations
+ network response problems when complex waves are applied
+ the effectiveness of forms of engineering activity to promote sustainable development,
+with consideration of the economics of components, power systems and alternative
+energy sources
+ new and emerging methods to optimise energy usage, conversion and storage
+techniques
+Entry to the unit is at your centre’s discretion. However, we recommend that learners have
+one or more of the following:
+ broad knowledge and understanding of electrical power systems at SCQF level 7, for
+example passes in SCQF level 7 units covering electrical principles, Advanced Higher
+Physics or Engineering Science, or a Higher National Certificate (HNC) in a related
+engineering subject
+ relevant, equivalent work experience
+The unit provides learners with suitable knowledge and skills to progress to further study or
+employment in a wide range of engineering industries.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+2
+Unit outcomes
+Learners who complete this unit can:
+1 understand sources and construction of electrical power generation and distribution
+systems
+2 understand interconnections of power systems and their protection
+3 calculate phasor voltages and currents at two points
+4 understand the physical arrangements of an overhead transmission line
+5 understand power systems and alternative energy sources
+6 discuss new and emerging methods to optimise energy usage
+Evidence requirements
+You should assess the unit holistically, using a portfolio of evidence generated by learners.
+They must produce a reflective report for each outcome, evaluating the knowledge and skills
+they have gained.
+Learners must generate evidence under unsupervised, open-book conditions. It must be in
+an appropriate written or oral recorded format.
+To successfully achieve the unit, learners must provide a sample of evidence from the
+‘Knowledge and skills’ section.
+Even though the evidence requirements are assessed on a sample basis, you must teach all
+content in the ‘Knowledge and skills’ section and it must be available for assessment.
+Learners should not know which items they will be assessed on in advance. You must use a
+different sample for each assessment occasion.
+Outcome 1
+For this outcome, you must assess six of the nine items:
+ Describe energy demands of a power generation and transmission system.
+ Describe total power demands of a defined country over a working week.
+ Identify average, minimum and maximum demands, and overall annual energy
+consumption, of domestic, industrial, transport and other systems.
+ Identify and quantify energy losses.
+ Calculate percentage of delivered total energy that is in the form of electrical energy.
+ Compare the demands of a G20 industrial economy with that of a developing economy.
+ Analyse the trends of energy supply-and-demand data to predict future energy
+requirements and budgets.
+ Identify the contribution supplied by each of the significant primary sources of energy of a
+defined country.
+ Investigate the influence of long-term governmental policy on managing the energy
+budget.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+3
+Outcome 2
+For this outcome, you must assess four of the six items:
+ Compare the distribution of power using DC and single-phase and polyphase AC
+transmission systems.
+ Illustrate techniques of AC systems, including identification of a range of loads and their
+respective power factors.
+ Investigate consequences of loads with poor power factor and the advantages of
+applying power factor corrections.
+ Recognise the effects of perturbations and harmonics within AC systems and describe
+methods to measure and reduce harmonics.
+ Demonstrate the need to protect the power distribution network from the effects of
+overload or damage, and identify the requirements of a robust protection system.
+ Evaluate the impedance of an AC transmission line, its power losses and its effect on the
+power delivered, including:
+— calculating inductance and capacitance for two types of transmission line
+— performing calculations to determine each of the following secondary parameters:
+Zo, γ, α, β and ν
+Outcome 3
+For this outcome, you must assess two of the three items:
+ Calculate incident, reflected and transmitted values of:
+— voltage, current and power for one of the following mismatched terminations:
+ZL > ZO, ZL < ZO
+— sketch incident, reflected and transmitted waves for one of the following terminations:
+ZL > ZO, ZL < ZO
+ Construct an accurate scaled drawing for a repetitive, low duty cycle, voltage pulse on a
+line with one of the following terminations: open circuit, short circuit or matched.
+ Calculate rms voltage and current values from given complex wave equations containing
+a fundamental and two harmonics.
+Outcome 4
+For this outcome, you must assess five of the seven items:
+ Explain the different ways in which the series and shunt parameters can be specified,
+directly or indirectly.
+ Calculate the regulation of a transmission line.
+ Calculate the efficiency of power delivery of a transmission line.
+ Demonstrate the short transmission line model and its limitations, and perform short line
+calculations.
+ Explain the need to include the shunt admittance of the line for medium length lines.
+ Perform calculations using three different medium length line models.
+ Explain the causes of the Ferranti effect on unloaded lines and cables.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+4
+Outcome 5
+For this outcome, you must assess three of the five items:
+ Outline efficiency, costs, security and environmental implications of energy production
+using coal, oil and natural gas.
+ Define ‘renewable’ in relation to sources of energy.
+ Evaluate the efficiency, costs, security and environmental implications of energy
+production using renewable sources of mechanical kinetic energy, including wave, tidal,
+large- and small-scale hydro, and wind.
+ Evaluate the efficiency, costs, security and environmental implications of energy
+production using solar heating, solar photovoltaics, biomass, fuel cells and geothermal
+techniques.
+ Investigate the current state of research into nuclear, fusion and fission energy, and other
+novel forms of energy.
+Outcome 6
+For this outcome, you must assess four of the six items:
+ Describe techniques for optimising the generation of electricity in power stations and
+small-scale generators by using varied and distributed generation systems, and
+managing the generation of power techniques for optimising energy usage and
+conversion.
+ Evaluate technologies and techniques for improving the efficiency or reducing the energy
+consumption of equipment in common use, including lighting, heating, transport and
+industrial processes.
+ Describe energy storage techniques.
+ Demonstrate the need for energy storage techniques as part of an energy management
+programme.
+ Compare and contrast characteristics of short-term and long-term energy storage
+techniques and their connection to the power grid, including hydro, battery, super
+capacitor, flywheel and thermal.
+ Compare and contrast emerging battery technologies and battery management
+techniques.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+5
+Knowledge and skills
+The following table shows the knowledge and skills covered by the unit outcomes:
+Knowledge Skills
+Outcome 1
+Learners should understand:
+ the demands, sources and construction
+of electrical power generation and
+distribution systems
+Outcome 1
+Learners can:
+ describe energy demands of a power
+generation and transmission system
+ describe total power demands of a
+defined country over a working week
+ identify average, minimum and
+maximum demands and overall annual
+energy consumption of domestic,
+industrial, transport and other systems
+ identify and quantify energy losses
+ calculate ratio of delivered total energy
+that is in the form of electrical energy
+ compare the demands of a G20
+industrial economy with that of a
+developing economy
+ analyse the trends of energy
+supply-and-demand data to predict
+future energy requirements and budgets
+ identify the contribution supplied by
+each of the significant primary sources
+of energy of a defined country
+ investigate the influence of long-term
+governmental policy on managing the
+energy budget
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+6
+Knowledge Skills
+Outcome 2
+Learners should understand:
+ the interconnections of power systems
+and their protection to explain the critical
+processes and the effects of failure and
+the importance of electrical safety
+Outcome 2
+Learners can:
+ compare the distribution of power using
+DC, and single-phase and polyphase
+AC transmission systems
+ illustrate techniques of AC systems,
+including identification of a range of
+loads and their respective power factors
+ investigate consequences of loads with
+poor power factor and the advantages of
+applying power factor corrections
+ recognise the effects of perturbations
+and harmonics within AC systems and
+describe methods to measure and
+reduce harmonics
+ demonstrate the need to protect the
+power distribution network from the
+effects of overload or damage, and
+identification of the requirements of a
+robust protection system
+ evaluate the impedance of an AC
+transmission line, its power losses and
+its effect on the power delivered,
+including:
+— calculating inductance and
+capacitance for two types of
+transmission line
+— performing calculations to determine
+each of the following secondary
+parameters: Zo, γ, α, β and ν
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+7
+Knowledge Skills
+Outcome 3
+Learners should understand:
+ phasor voltages and currents at two
+points
+Outcome 3
+Learners can:
+ calculate incident, reflected and
+transmitted values of:
+— voltage, current and power for one of
+the following mismatched
+terminations: ZL > ZO, ZL < ZO
+— sketch incident, reflected and
+transmitted waves for one of the
+following terminations: ZL > ZO, ZL
+< ZO
+ construct an accurate scaled drawing for
+a repetitive, low duty cycle, voltage
+pulse on a line with one of the following
+terminations: open circuit, short circuit or
+matched
+ calculate rms voltage and current values
+from given complex wave equations
+containing a fundamental and two
+harmonics
+Outcome 4
+Learners should understand:
+ the physical arrangements of an
+overhead transmission line and how this
+results in the series and shunt elements
+of the line model
+Outcome 4
+Learners can:
+ explain the different ways in which the
+series and shunt parameters can be
+specified, directly or indirectly
+ calculate the regulation of a
+transmission line
+ calculate the efficiency of power delivery
+of a transmission line
+ demonstrate the short transmission line
+model and its limitations, and perform
+short line calculations
+ explain the need to include the shunt
+admittance of the line for medium length
+lines
+ perform calculations using three
+different medium length line models
+ explain the causes of the Ferranti effect
+on unloaded lines and cables
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+8
+Knowledge Skills
+Outcome 5
+Learners should understand:
+ the effectiveness of forms of engineering
+activity to promote sustainable
+development, with consideration of the
+economics of components, power
+systems and alternative energy sources
+Outcome 5
+Learners can:
+ outline efficiency, costs, security and
+environmental implications of energy
+production using coal, oil and natural
+gas
+ define ‘renewable’ in relation to sources
+of energy
+ evaluate the efficiency, costs, security
+and environmental implications of
+energy production using renewable
+sources of mechanical kinetic energy,
+including wave, tidal, large- and
+small-scale hydro, and wind
+ evaluate the efficiency, costs, security
+and environmental implications of
+energy production using solar heating,
+solar photovoltaics, biomass, fuel cells
+and geothermal techniques
+ investigate current research into
+nuclear, fusion and fission energy, and
+other novel forms of energy
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+9
+Knowledge Skills
+Outcome 6
+Learners should understand:
+ new and emerging methods to optimise
+energy usage, conversion and storage
+techniques
+Outcome 6
+Learners can:
+ describe techniques for optimising the
+generation of electricity in power
+stations and small-scale generators by
+using varied and distributed generation
+systems, and managing the generation
+of power techniques for optimising
+energy usage and conversion
+ evaluate technologies and techniques
+for improving the efficiency or reducing
+the energy consumption of equipment in
+common use, including lighting, heating,
+transport and industrial processes
+ describe energy storage techniques
+ demonstrate the need for energy
+storage techniques as part of an energy
+management programme
+ compare and contrast characteristics of
+short-term and long-term energy storage
+techniques and their connection to the
+power grid, including hydro, battery,
+super capacitor, flywheel and thermal
+ compare and contrast emerging battery
+technologies and battery management
+techniques
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+10
+Meta-skills
+Throughout the unit, learners develop meta-skills to enhance their employability in the
+engineering sector.
+Self-management
+This meta-skill includes:
+ integrity (self-awareness, ethics and self-control): learners evidence this through their
+portfolio or investigation reports
+ adapting (critical reflection and self-learning): learners evidence this through their
+portfolio or investigation reports
+ initiative (decision making, self-motivation and responsibility): learners demonstrate this
+during learning activities or projects
+Social intelligence
+This meta-skill includes:
+ communicating (receiving information, listening and giving information): learners
+evidence this when accessing the unit material through a virtual learning environment
+(VLE), keeping an e-portfolio and writing technical reports
+ collaborating (team working): learners demonstrate this when engaging with their
+lecturers and other learners throughout the unit
+Innovation
+This meta-skill includes:
+ curiosity (information sourcing, questioning and observation): learners demonstrate this
+during learning activities or projects
+ sense-making (holistic thinking and analysis): learners demonstrate this during learning
+activities or projects that they complete either individually or in groups
+ critical thinking (deconstruction, logical thinking and judgement): learners demonstrate
+this during learning activities or projects that they complete either individually or in groups
+Literacies
+Numeracy
+Learners develop numeracy skills by performing calculations related to the transmission
+systems.
+Communication
+Learners develop communication skills by studying the course material, completing unit
+assessments and engaging with their lecturers and other learners.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+11
+Digital
+Learners develop digital skills and computer literacy by accessing the course material
+through a VLE.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+12
+Delivery of unit
+This unit is part of the Higher National Diploma (HND) in Engineering. The framework
+includes mandatory and optional units, and you can tailor the selected combination of units to
+specific engineering pathway needs.
+While the exact time allocated to this unit is at your centre’s discretion, the notional design
+length is 120 hours.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+13
+Additional guidance
+The guidance in this section is not mandatory.
+Content and context for this unit
+Outcome 1
+You could cover:
+ sources and construction of electrical power generation and distribution systems
+ demands of a power generation and transmission system
+ total power demands of a defined country over a working week, identifying average,
+minimum and maximum demands
+ overall annual energy consumption of domestic, industrial, transport and other systems,
+identifying and quantifying energy losses
+ the extent of delivered energy that is in the form of electrical energy
+ a comparison between the demands of a G20 industrial economy with that of a
+developing economy
+ analysis of the trends of energy supply-and-demand data to predict future energy
+requirements and budgets
+ identification of the contribution to the energy supplied by each of the significant primary
+sources of energy of a defined country
+ the influence of long-term governmental policy on managing the energy budget
+Outcome 2
+You could cover:
+ interconnections of power systems and their protection to explain the critical processes
+and the effects of failure, and the importance of electrical safety
+ construction of power generation and transmission systems
+ comparisons between the distribution of power using DC, and single-phase and
+polyphase AC transmission systems
+ amplitude and phase of voltages and currents in three-phase systems with resistive and
+complex loads
+ power factor and power measurement techniques of AC systems, including identification
+of a range of loads and their respective power factors
+ consequences of loads of poor power factor and the advantages of applying power factor
+corrections
+ calculation of power factor correction components
+ recognition of the effects of perturbations and harmonics within AC systems and
+describing methods to measure and reduce harmonics
+ the need to protect the power distribution network from the effects of overload or
+damage, and the identification of the requirements of a robust protection system
+ evaluation of the impedance of an AC transmission line, its power losses and its effect on
+the power delivered to a load
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+14
+Outcome 3
+You could cover:
+ calculating phasor voltages and currents at two points
+ calculating power associated with complex waves
+ calculating electrical quantities in an R – L – C series circuit or an R – L // C parallel
+circuit subject to a complex waveform with a fundamental and two harmonics
+ selective resonance
+ the effects of harmonics on measurement of voltage and current in single-phase and
+electronic circuits
+Outcome 4
+You could cover:
+ the physical arrangements of an overhead transmission line and how this results in the
+series and shunt elements of the line model
+ the different ways in which the series and shunt parameters can be specified, directly or
+indirectly
+ calculating the regulation of a transmission line
+ calculating the efficiency of power delivery of a transmission line
+ the short transmission line model and its limitations, and how to perform short line
+calculations
+ the need to include the shunt admittance of the line for medium length lines
+ perform calculations using three different medium length line models
+ the causes of the Ferranti effect on unloaded lines and cables
+Outcome 5
+You could cover:
+ power systems and alternative energy sources
+ forms of engineering activity to promote sustainable development, with consideration of
+the economics of components, power systems and alternative energy sources
+ efficiency, costs, security and environmental implications of energy production using coal,
+oil and natural gas
+ the definition of ‘renewable’ in relation to sources of energy
+ the efficiency, costs, security and environmental implications of energy production using
+renewable sources including wave, tidal, large- and small-scale hydro, and wind
+ the efficiency, costs security and environmental implications of energy production using
+solar heating, solar photovoltaics, biomass, fuel cells and geothermal techniques
+ the current state of research into nuclear, fusion and fission energy and other novel forms
+of energy
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+15
+Outcome 6
+You could cover:
+ new and emerging methods to optimise energy usage
+ techniques for optimising the generation of electricity in power stations and small-scale
+generators by using varied and distributed generation systems
+ techniques for optimising energy usage and conversion
+ evaluating technologies and techniques for improving the efficiency or reducing the
+energy consumption of equipment in common use, including lighting, heating, transport
+and industrial processes
+ energy storage techniques
+ the need for energy storage techniques as part of an energy management programme
+ characteristics of short-term and long-term energy storage techniques and their
+connection to the power grid, including hydro, battery, super capacitor, flywheel and
+thermal
+ emerging battery technologies and battery management techniques
+Approaches to delivery
+We recommend you deliver outcomes 1 to 4 in order. You can then deliver outcomes 5 and 6
+in any order.
+You should deliver the unit in a learning space or through a VLE. You should teach primarily
+using problem-based learning (PBL) techniques such as case studies and mini projects,
+supported by other methods.
+Approaches to assessment
+We recommend that you assess the unit holistically by reviewing case study reports and mini
+projects.
+Learners should demonstrate evidence of all knowledge and skills in the context of one or
+more overarching complex electrical engineering scenarios.
+For case studies and mini projects, you can assess knowledge and skills through coursework
+exercises. Learners should produce product evidence (for example, in the form of a
+coursework report) under open-book, unsupervised and untimed conditions.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+16
+Equality and inclusion
+This unit is designed to be as fair and as accessible as possible with no unnecessary barriers
+to learning or assessment.
+You should take into account the needs of individual learners when planning learning
+experiences, selecting assessment methods or considering alternative evidence.
+Guidance on assessment arrangements for disabled learners and/or those with additional
+support needs is available on the assessment arrangements web page:
+www.sqa.org.uk/assessmentarrangements.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+17
+Information for learners
+Electrical Engineering: Utilisation of Electrical Power, Transmission
+Lines and Complex Waves (SCQF level 8)
+This information explains:
+ what the unit is about
+ what you should know or be able to do before you start
+ what you need to do during the unit
+ opportunities for further learning and employment
+Unit information
+This unit provides you with knowledge and skills specific to electrical engineering. It is part of
+the Higher National Diploma (HND) in Engineering, which is aimed at learners who want to
+become engineering technicians. It also provides you with knowledge and skills to prepare
+you for further study.
+Before starting the unit, we recommend that you have knowledge and understanding of
+power systems. For example, you may have passed units covering machines and power
+systems at SCQF level 7.
+On completion of the unit, you can:
+1 understand sources and construction of electrical power generation and distribution
+systems
+2 understand interconnections of power systems and their protection
+3 calculate phasor voltages and currents at two points
+4 understand the physical arrangements of an overhead transmission line
+5 understand power systems and alternative energy sources
+6 discuss new and emerging methods to optimise energy usage
+In outcome 1, you learn about electrical generation and the trends in demands of a defined
+country. You identify and quantify energy losses, and calculate the extent of delivered energy
+that is in the form of electrical energy. You compare the demands of a G20 industrial
+economy with that of a developing economy. You learn about data predicting, future energy
+requirements and budgets, to identify the contribution supplied by each of the significant
+primary sources of energy of a defined country. You also investigate the influence of
+long-term governmental policy on managing the energy budget.
+In outcome 2, you learn about different transmissions with AC and DC voltages, and the
+interconnections used to transmit power over long distances. You look at the pros and cons
+of each system. This outcome also covers the configurations of distribution networks with
+protection systems that are used to ensure quality and safety of supply.
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+18
+In outcome 3, you learn about the effects of inductance capacitance on a network and how a
+wave is distorted by harmonics.
+In outcome 4, you learn how to calculate efficiency of power delivery of a transmission line.
+You learn about the short transmission line model and its limitations, and how to perform
+short line calculations. You understand the need to include the shunt admittance of the line
+for medium length lines to be able to perform calculations using three different medium
+length line models. You also understand the causes of the Ferranti effect on unloaded lines
+and cables.
+In outcome 5, you learn to promote sustainable development, looking at alternative power
+sources and considerations of the economics of renewable energy. This outcome also
+covers the environmental implications of energy production.
+In outcome 6, you use your knowledge of energy systems compatibility, looking at
+technologies for storage of large amount of energy. You evaluate technologies and
+techniques for improving the efficiency or reducing the energy consumption of equipment in
+common use, for example:
+ pumped hydro
+ super capacitor
+ flywheel
+ thermal
+ emerging battery technologies
+You are assessed by completing mini projects, technical reporting and critical self-evaluation.
+You collate assessment evidence in your portfolio.
+Meta-skills
+Throughout the unit, you can develop meta-skills to enhance your employability in the
+engineering sector. Meta-skills include self-management, social intelligence and innovation.
+Self-management
+This meta-skill includes:
+ integrity (self-awareness, ethics and self-control): you evidence this through your portfolio
+or investigation reports
+ adapting (critical reflection and self-learning): you evidence this through your portfolio or
+investigation reports
+ initiative (decision making, self-motivation and responsibility): you demonstrate this
+during learning activities or projects
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+19
+Social intelligence
+This meta-skill includes:
+ communicating (receiving information, listening and giving information): you evidence this
+when accessing the unit material through a virtual learning environment (VLE), keeping
+an e-portfolio and writing technical reports
+ collaborating (team working and collaboration): you demonstrate this when engaging with
+your lecturers and other learners throughout the unit
+Innovation
+This meta-skill includes:
+ curiosity (information sourcing, questioning and observation): you demonstrate this during
+learning activities or projects
+ sense-making (holistic thinking and analysis): you demonstrate this during learning
+activities or projects that you complete either individually or in a group
+ critical thinking (deconstruction, logical thinking and judgement): you demonstrate this
+during learning activities or projects that you complete either individually or in a group
+NextGen: HN published prototype unit specification for use in pilot delivery only (version 1.0)
+November 2023
+20
+Administrative information
+Published: November 2023 (version 1.0)
+Superclass: XJ
+History of changes
+Version Description of change Date
+Note: please check SQA’s website to ensure you are using the most up-to-date version of
+this document.
+© Scottish Qualifications Authority 2023
+...
+
+[Message clipped]  View entire message
+ 
+Mail Delivery Subsystem 
+	1:28 PM (1 minute ago)
+
+	
+	
+to me 
+ 
+
+
+Message blocked 
+Your message to noreply@sqa.org.uk has been blocked. See technical details below for more information. 
+
+
+The response from the remote server was:
+550 5.4.1 Recipient address rejected: Access denied. [AM3PEPF0000A798.eurprd04.prod.outlook.com 2024-07-04T10:28:10.218Z 08DC98DDD8A79DE3] 
+ 
+ 
+Mail Delivery Subsystem 
+	1:28 PM (1 minute ago)
+
+	
+	
+to me 
+ 
+
+
+Message blocked 
+Your message to questionpapper@sqa.org.uk has been blocked. See technical details below for more information. 
+
+
+The response from the remote server was:
+550 5.4.1 Recipient address rejected: Access denied. [AM3PEPF0000A798.eurprd04.prod.outlook.com 2024-07-04T10:28:10.249Z 08DC98DDD8A79DE3] 
+ 
+ 	
+
+
+National Unit Specification: general information
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+CODE F5D3 12
+SUMMARY
+This Unit is intended for candidates with little or no prior knowledge of electric or electromagnetic
+field theory but who wish to develop knowledge and skills in this important area of electrical
+engineering. The Unit is particularly suitable for those candidates training to be electrical or electronic
+technicians.
+The aim of this Unit is to provide candidates with the opportunity to develop knowledge and
+understanding of the concepts and principles involved with electrostatic and electromagnetic fields.
+Candidate will also learn how to solve problems involving parallel plate capacitors, capacitors in
+series and parallel, series magnetic circuits, self and mutual inductance and coupling of coils.
+This Unit may form part of an National Qualifications Group Award or may be offered on a free-
+standing basis.
+OUTCOMES
+1 Solve problems involving electrostatic fields and parallel plate capacitors.
+2 Solve problems involving capacitor networks.
+3 Solve problems involving series magnetic circuits.
+4 Solve problems involving self and mutual inductance.
+Administrative Information
+Superclass: XK
+Publication date: December 2008
+Source: Scottish Qualifications Authority
+Version: 01
+© Scottish Qualifications Authority 2008
+This publication may be reproduced in whole or in part for educational purposes provided that no profit is derived from
+reproduction and that, if reproduced in part, the source is acknowledged.
+Additional copies of this Unit Specification can be purchased from the Scottish Qualifications Authority. Please contact the
+Customer Contact Centre, telephone 0845 279 1000.
+National Unit Specification: general information (cont)
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+RECOMMENDED ENTRY
+While entry is at the discretion of the centre, candidates would normally be expected to have attained
+one of the following, or equivalent:
+♦ NQ Unit Electrical Principles at SCQF level 6
+♦ Standard Grade Physic at credit level
+♦ Standard Grade Technological Studies at credit level
+♦ Standard Grade Mathematics at credit level
+CREDIT VALUE
+1 credit at SCQF level 6 (6 SCQF credit points at SCQF level 6).
+*SCQF credit points are used to allocate credit to qualifications in the Scottish Credit and Qualifications
+Framework (SCQF). Each qualification in the Framework is allocated a number of SCQF credit points at an
+SCQF level. There are 12 SCQF levels, ranging from Access 1 to Doctorates.
+CORE SKILLS
+There is no automatic certification of Core Skills in this Unit.
+This Unit provides opportunities for candidates to develop aspects of the following Core Skill:
+♦ Numeracy (SCQF level 6)
+These opportunities are highlighted in the Support Notes of this Unit Specification.
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 2
+National Unit Specification: statement of standards
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+Acceptable performance in this Unit will be the satisfactory achievement of the standards set out in
+this part of the Unit Specification. All sections of the statement of standards are mandatory and cannot
+be altered without reference to SQA.
+OUTCOME 1
+Solve problems involving electrostatic fields and parallel plate capacitors.
+Performance Criteria
+(a) Sketch correctly the electric field associated with a parallel plate capacitor, include fringing flux.
+(b) Describe correctly the quantities commonly used in electrostatic field theory.
+(c) State correctly the units associated with quantities commonly used in electrostatic field theory.
+(d) State correctly the relationships used when solving problems involving parallel plate capacitors.
+(e) Calculate accurately the capacitance of a parallel plate capacitor without and with a dielectric.
+(f) Calculate accurately the energy stored in a parallel plate capacitor.
+(g) State correctly the different types of capacitor available for use.
+OUTCOME 2
+Solve problems involving capacitor networks.
+Performance Criteria
+(a) Calculate accurately the total capacitance of a series-parallel network of capacitors.
+(b) Determine accurately the voltage distribution in a series-parallel capacitance network supplied
+from a dc voltage source.
+(c) Determine the charge distribution in a series-parallel capacitance network supplied from a dc
+voltage source.
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 3
+National Unit Specification: statement of standards (cont)
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+OUTCOME 3
+Solve problems involving series magnetic circuits.
+Performance Criteria
+(a) Sketch correctly magnetic fields associated with magnets and current carrying conductors.
+(b) Describe correctly quantities used in electromagnetic field theory.
+(c) State correctly the units associated with quantities used in electromagnetic field theory.
+(d) State correctly the relationships used when solving magnetic circuit problems.
+(e) Solve accurately a series magnetic circuit problem.
+(f) Calculate accurately the energy stored by an inductor.
+OUTCOME 4
+Solve problems involving self and mutual inductance.
+Performance Criteria
+(a) State correctly what is meant by the term self-inductance
+(b) Solve accurately a problem involving e = - Ldi
+dt
+(c) State correctly what is meant by the term mutual inductance
+(d) Solve accurately a problem involving e = - Mdi
+dt
+(e) State correctly what is meant by perfect coupling
+(f) Solve accurately a problem involving M = k√L1L2
+EVIDENCE REQUIREMENTS FOR THIS UNIT
+Evidence is required to demonstrate the candidates have achieved all Outcomes and Performance
+Criteria.
+Written and/or recorded oral evidence should be produced to demonstrate that the candidate has
+achieved all the Outcomes and Performance Criteria.
+Outcomes may be assessed on an individual basis, as combinations of Outcomes (eg Outcomes 1 and
+2 together and Outcomes 3 and 4 together) or as a single assessment covering all four Outcomes.
+Regardless of which approach is taken total assessment time should not exceed 2 hours and 30
+minutes. Assessment(s) should be conducted under controlled, supervised, closed-book conditions in
+which candidates should not be allowed to bring any notes, handouts, textbooks or any other relevant
+materials into the assessment. Candidates may use a scientific calculator during assessment(s).
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 4
+National Unit Specification: statement of standards (cont)
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+With regard to Outcome 1:
+♦ the meaning of three quantities should be correctly described from the following: charge, voltage,
+electromotive force, electric field strength, electric flux density and capacitance
+♦ two electrostatic units should be correctly stated
+♦ two relationships should be correctly stated from the following (or transposed versions of these
+equations):
+Q = It
+E = V
+d
+D = Φ
+A
+C = Q
+V
+♦ three capacitor types should be correctly stated from the following list: paper, electrolytic, mica,
+polyester, ceramic, tantalum and variable
+With regard to Outcome 2:
+♦ the same series-parallel capacitor network can be used to assess all three Performance Criteria.
+Regardless of whether the same network is used or not, the capacitor network(s) used for
+assessment purposes must contain five capacitors
+With regard to Outcome 3:
+♦ the meaning of three quantities should be stated correctly from the following: magnetic flux,
+magnetic field strength, magnetic flux density, magnetomotive force, reluctance
+♦ two magnetic field units should be correctly stated
+♦ two relationships should be stated from the following (or transposed versions of these equations):
+F = NI
+H = F = NI
+l l
+B = Φ = μH
+A
+S = F = l
+Φ μoμrA
+♦ the series magnetic circuit must contain two metallic parts of different dimensions and one air
+gap
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 5
+National Unit Specification: support notes
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+This part of the Unit Specification is offered as guidance. The support notes are not mandatory.
+While the exact time allocated to this Unit is at the discretion of the centre, the notional design length
+is 40 hours.
+GUIDANCE ON THE CONTENT AND CONTEXT FOR THIS UNIT
+This Unit has been developed as optional Unit in the National Certificate Group Award in Electrical
+Engineering. The Unit is one of a series of units in the area of Electrical Principles. Other units in this
+series include:
+Electrical Principles at SCQF level 5
+Electrical Principles at SCQF level 6
+Single Phase and Three Phase at SCQF level 6
+Circuit Element Principles at SCQF level 6
+Network Analysis at SCQF level 6
+The aim of the Unit is to allow candidates to develop their knowledge and understanding of the
+concepts and principles associated with electrostatic and electromagnetic fields. Candidate will also
+learn how to solve problems involving parallel plate capacitors, capacitors in series and parallel, series
+magnetic circuits, self and mutual inductance and coupling of coils.
+In delivering the Unit centres should encourage candidates to develop a sound knowledge and
+understanding of the basic concepts, principles and formulae associated with electric and magnetic
+fields since these are relevant to many areas of electrical and electronic engineering. Such
+understanding can be enhanced if lecturers relate these concepts and ideas to practical examples
+involving electric and magnetic fields taken from domestic and industrial applications.
+To reinforce learning lecturers may wish to compare electrostatic and electromagnetic quantities
+although such comparisons should not be assessed in the Unit. Similarly lecturers may wish to
+compare quantities in magnetic circuit calculations with those in electric circuit calculations although
+once again this should not be assessed.
+There may be opportunities to integrate the delivery of this Unit with some of the other Electrical
+Principles units in the NCGA Electrical Engineering. For example, it may be possible to link some of
+the subject matter in this Unit to that taught in the Circuit Element Principles (SCQF level 6) Unit.
+GUIDANCE ON LEARNING AND TEACHING APPROACHES FOR THIS UNIT
+This Unit may be delivered by a combination of lectures, worked examples, tutorial exercises and
+laboratory exercises. The Unit could be delivered in a classroom and/or electrical laboratory. Practical
+experimental work can play a particularly important role in reinforcing candidate learning. Candidates
+should be allowed to examine the construction of different types of capacitors and inductors. Good
+diagrams, wall charts and other forms of visual aids will help candidates to learn about electric and
+magnetic fields and the construction of capacitors and inductors. The Internet also provides a rich
+source of information on electric and electromagnetic fields, capacitors and inductors.
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 6
+National Unit Specification: support notes (cont)
+UNIT Electrostatics and Electromagnetics (SCQF level 6)
+OPPORTUNITIES FOR CORE SKILL DEVELOPMENT
+Numeracy skills will be naturally enhanced in this Unit, with the focus on electric and
+electromagnetic field theory and the practical interpretation and application of number and graphics.
+Candidates have to work confidently with complex numerical and graphical concepts, carrying out a
+number of sustained calculations to determine solutions to a range of problems. Formative activities
+should be designed to develop accuracy and confidence in electrical engineering contexts.
+GUIDANCE ON APPROACHES TO ASSESSMENT FOR THIS UNIT
+Opportunities for the use of e-assessment
+E-assessment may be appropriate for some assessments in this Unit. By e-assessment we mean
+assessment which is supported by information and communications technology (ICT), such as
+e-testing or the use of e-portfolios or e-checklists. Centres which wish to use e-assessment must
+ensure that the national standard is applied to all candidate evidence and that conditions of assessment
+as specified in the Evidence Requirements are met, regardless of the mode of gathering evidence.
+Further advice is available in SQA Guidelines on Online Assessment for Further Education (AA1641,
+March 2003), SQA Guidelines on e-assessment for Schools (BD2625, June 2005).
+Formative assessment exercises involving candidates in solving problems associated with parallel
+plate capacitors, series parallel capacitor networks, series magnetic circuits, self and mutual
+inductance and magnetic coupling will play a particularly important role in building candidate
+knowledge, understanding and confidence of Unit content.
+The suggested approach to summative assessment in this Unit is as follows:
+Outcomes 1 and 2 — an assessment paper comprising a balance of short answer, restricted response,
+and structured questions lasting 1 hour and 15 minutes. The assessment should
+be conducted at a single assessment event.
+Outcomes 3 and 4 — an assessment paper comprising a balance of short answer, restricted response,
+and structured questions lasting 1 hour and 15 minutes. The assessment should
+be conducted at a single assessment event.
+CANDIDATES WITH DISABILITIES AND/OR ADDITIONAL SUPPORT NEEDS
+The additional support needs of individual candidates should be taken into account when planning
+learning experiences, selecting assessment instruments, or considering alternative Outcomes for Units.
+Further advice can be found in the SQA document Guidance on Assessment Arrangements for
+Candidates with Disabilities and/or Additional Support Needs (www.sqa.org.uk).
+Unit Specification — Electrostatics and Electromagnetics (SCQF level 6) 7
